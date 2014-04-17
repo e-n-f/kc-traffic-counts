@@ -1,0 +1,10 @@
+#!/usr/bin/perl
+
+open(IN, "Traffic_Counts_at_Signals.csv");
+while (<IN>) {
+	if (/https?:\/\/data.kcmo.org\/Traffic\/([^\/]*)\/([^,]*),/) {
+		$url = "https://data.kcmo.org/download/$2/application/pdf";
+
+		system "curl -L -o 'kc/$1.pdf' '$url'";
+	}
+}
