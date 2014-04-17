@@ -9,16 +9,53 @@ my $group = "";
 my $street = "";
 my @directions = ();
 my @cols = ();
+my %val = ();
+
+sub out {
+	my $fname;
+	for $fname (keys(%val)) {
+		my $street;
+		for $street (keys(%{$val{$fname}})) {
+			my $date;
+			for $date (sort(keys(%{$val{$fname}{$street}}))) {
+				my $time;
+				for $time (sort(keys(%{$val{$fname}{$street}{$date}}))) {
+					print "$fname,$street,x,$date,$time,";
+
+					my $dir;
+					for $dir ("Southbound", "Westbound", "Northbound", "Eastbound") {
+						my $turn;
+						for $turn ("Right", "Thru", "Left") {
+							print "$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
+						}
+					}
+
+					for $dir ("Southbound", "Westbound", "Northbound", "Eastbound") {
+						my $turn;
+						for $turn ("Peds") {
+							print "$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
+						}
+					}
+
+					print "\n";
+				}
+			}
+		}
+	}
+}
 
 while (<>) {
 	chomp;
 
 	if (/\014/) {
+		out();
+
 		$date = "";
 		$group = "";
 		$street = "";
 		@directions = ();
 		@cols = ();
+		%val = ();
 	}
 
 	if (/Start Date\s*:\s*(.*)/) {
@@ -46,16 +83,48 @@ while (<>) {
 
 		$_ = <>;
 		chomp;
+		s/^\s*//;
 		@directions = split(/   +/, $_);
 
 		$_ = <>;
 		if (s/^\s*Start Time\s*//) {
+			chomp;
 			s/\.\s*Total/\.Total/g;
-			@cols = split(/ /, $_);
+			@cols = split(/ +/, $_);
 		} else {
 			print STDERR "$fname: Expected columns, not $_\n";
 		}
+	}
 
-		print "$fname $date $group $street @cols\n";
+	if ($#cols >= 0) {
+		if (s/^\s*(\d+):(\d+)\s*(.M)?\s*//) {
+			my $hour = $1;
+			my $min = $2;
+			my $m = 3;
+
+			if ($m eq "PM" && $hour != 12) {
+				$hour += 12;
+			}
+
+			my $time = sprintf("%02d:%02d", $hour, $min);
+
+			chomp;
+			my @row = split(/ +/, $_);
+
+			my $direction = 0;
+			my $i;
+			for ($i = 0; $i <= $#row; $i++) {
+				if (1 || $row[$i] != 0) {
+					$val{$fname}{$street}{$date}{$time}{$directions[$direction]}{$cols[$i]} = $row[$i];
+					# print "{$fname}{$street}{$date}{$time}{$directions[$direction]}{$cols[$i]} -> $row[$i]\n";
+				}
+
+				if ($cols[$i] =~ /Total/) {
+					$direction++;
+				}
+			}
+		}
 	}
 }
+
+out();
