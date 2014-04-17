@@ -90,6 +90,9 @@ while (<>) {
 		if (s/^\s*Start Time\s*//) {
 			chomp;
 			s/\.\s*Total/\.Total/g;
+			s/\bRT\b/Right/g;
+			s/\bLT\b/Left/g;
+			s/\bTH\b/Thru/g;
 			@cols = split(/ +/, $_);
 		} else {
 			print STDERR "$fname: Expected columns, not $_\n";
