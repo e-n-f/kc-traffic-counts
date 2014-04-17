@@ -18,6 +18,7 @@ my $fname = "";
 my $date = "";
 my $group = "";
 my $street = "";
+my $streethdr = "";
 my @directions = ();
 my @cols = ();
 my %val = ();
@@ -92,6 +93,38 @@ sub out {
 	}
 }
 
+sub parse_cols {
+	$_ = <>;
+	chomp;
+	s/^\s*//;
+	s/\bFrom East\b/Westbound/g;
+	s/\bFrom West\b/Eastbound/g;
+	s/\bFrom North\b/Southbound/g;
+	s/\bFrom South\b/Northbound/g;
+	@directions = split(/   +/, $_);
+
+	$_ = <>;
+	if (s/^\s*Start Time\s*//) {
+		chomp;
+		s/\.\s*Total/\.Total/g;
+		s/\bRT\b/Right/g;
+		s/\bLT\b/Left/g;
+		s/\bTH\b/Thru/g;
+		@cols = split(/ +/, $_);
+
+		if ($group =~ /Bicycle/i || ($group =~ /Bike/i && !($group =~ /Motor bike/i))) {
+			my $i;
+			for ($i = 0; $i <= $#cols; $i++) {
+				if ($cols[$i] ne "Peds") {
+					$cols[$i] .= " Bikes";
+				}
+			}
+		}
+	} else {
+		print STDERR "$fname: Expected columns, not $_\n";
+	}
+}
+
 while (<>) {
 	chomp;
 
@@ -101,6 +134,7 @@ while (<>) {
 		$date = "";
 		$group = "";
 		$street = "";
+		$streethdr = "";
 		@directions = ();
 		@cols = ();
 		%val = ();
@@ -134,36 +168,25 @@ while (<>) {
 			}
 		}
 		$street =~ s/,/ /g;
+		$streethdr = $_;
+		$streethdr =~ s/\s*//g;
 
-		$_ = <>;
-		chomp;
-		s/^\s*//;
-		s/\bFrom East\b/Westbound/g;
-		s/\bFrom West\b/Eastbound/g;
-		s/\bFrom North\b/Southbound/g;
-		s/\bFrom South\b/Northbound/g;
-		@directions = split(/   +/, $_);
+		parse_cols();
+	}
 
-		$_ = <>;
-		if (s/^\s*Start Time\s*//) {
-			chomp;
-			s/\.\s*Total/\.Total/g;
-			s/\bRT\b/Right/g;
-			s/\bLT\b/Left/g;
-			s/\bTH\b/Thru/g;
-			@cols = split(/ +/, $_);
+	if ($streethdr ne "") {
+		my $tmp = $_;
+		chomp $tmp;
+		$tmp =~ s/\s*//g;
 
-			if ($group =~ /Bicycle/i || ($group =~ /Bike/i && !($group =~ /Motor bike/i))) {
-				my $i;
-				for ($i = 0; $i <= $#cols; $i++) {
-					if ($cols[$i] ne "Peds") {
-						$cols[$i] .= " Bikes";
-					}
-				}
-			}
-		} else {
-			print STDERR "$fname: Expected columns, not $_\n";
+		if ($tmp eq $streethdr) {
+			parse_cols();
 		}
+	}
+
+	if (/Start Time/) {
+		print STDERR "$fname: unexpected header $_\n";
+		%val = ();
 	}
 
 	if ($#cols >= 0) {
