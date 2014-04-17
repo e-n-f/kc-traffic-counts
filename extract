@@ -84,6 +84,10 @@ while (<>) {
 		$_ = <>;
 		chomp;
 		s/^\s*//;
+		s/\bFrom East\b/Westbound/g;
+		s/\bFrom West\b/Eastbound/g;
+		s/\bFrom North\b/Southbound/g;
+		s/\bFrom South\b/Northbound/g;
 		@directions = split(/   +/, $_);
 
 		$_ = <>;
