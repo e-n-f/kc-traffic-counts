@@ -2,6 +2,17 @@
 
 use strict;
 
+my %lat;
+my %lon;
+open(IN, "Traffic_Counts_at_Signals.csv");
+while (<IN>) {
+	if (/"\(([0-9.-]+), ([0-9.-]+)\)",https?:\/\/data.kcmo.org\/Traffic\/([^\/]*)/) {
+		$lat{$3} = $1;
+		$lon{$3} = $2;
+	}
+}
+close(IN);
+
 my $fname = "";
 
 my $date = "";
@@ -43,6 +54,12 @@ sub out {
 						for $turn ("Thru Bikes") {
 							print "$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
 						}
+					}
+
+					if ($fname =~ /kc\/(.*)\.txt/) {
+						print "$lat{$1},$lon{$1}";
+					} else {
+						print ",";
 					}
 
 					print "\n";
