@@ -20,7 +20,7 @@ sub out {
 			for $date (sort(keys(%{$val{$fname}{$street}}))) {
 				my $time;
 				for $time (sort(keys(%{$val{$fname}{$street}{$date}}))) {
-					print "$fname,$street,x,$date,$time,";
+					print "$fname,$street,$group,$date,$time,";
 
 					my $dir;
 					for $dir ("Southbound", "Westbound", "Northbound", "Eastbound") {
@@ -33,6 +33,13 @@ sub out {
 					for $dir ("Southbound", "Westbound", "Northbound", "Eastbound") {
 						my $turn;
 						for $turn ("Peds") {
+							print "$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
+						}
+					}
+
+					for $dir ("Westbound", "Northbound", "Eastbound", "Southbound") {
+						my $turn;
+						for $turn ("Thru Bikes") {
 							print "$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
 						}
 					}
@@ -98,6 +105,15 @@ while (<>) {
 			s/\bLT\b/Left/g;
 			s/\bTH\b/Thru/g;
 			@cols = split(/ +/, $_);
+
+			if ($group =~ /Bicycle/i || $group =~ /Bike/i) {
+				my $i;
+				for ($i = 0; $i <= $#cols; $i++) {
+					if ($cols[$i] ne "Peds") {
+						$cols[$i] .= " Bikes";
+					}
+				}
+			}
 		} else {
 			print STDERR "$fname: Expected columns, not $_\n";
 		}
