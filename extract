@@ -186,7 +186,7 @@ while (<>) {
 
 	if (/Start Time/) {
 		print STDERR "$fname: unexpected header $_\n";
-		%val = ();
+		@cols = ();
 	}
 
 	if ($#cols >= 0) {
