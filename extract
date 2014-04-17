@@ -107,9 +107,17 @@ sub parse_cols {
 	if (s/^\s*Start Time\s*//) {
 		chomp;
 		s/\.\s*Total/\.Total/g;
-		s/\bRT\b/Right/g;
-		s/\bLT\b/Left/g;
-		s/\bTH\b/Thru/g;
+		s/\bRT\b/Right/gi;
+		s/\bLT\b/Left/gi;
+		s/\bTH\b/Thru/gi;
+		s/\bRght\b/Right/gi;
+		s/\bUTurn\b/U-turn/gi;
+		s/\bU-TR\b/U-turn/gi;
+		s/\bU-Turns\b/U-turn/gi;
+		s/\bBear /Bear/gi;
+		s/\bHard /Hard/gi;
+		s/\bHd /Hard/gi;
+		s/\bBr /Bear/gi;
 		@cols = split(/ +/, $_);
 
 		if ($group =~ /Bicycle/i || ($group =~ /Bike/i && !($group =~ /Motor bike/i))) {
