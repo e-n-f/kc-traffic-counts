@@ -158,7 +158,16 @@ while (<>) {
 				if ($cols[$i] =~ /Total/) {
 					$direction++;
 					%used = ();
+				} elsif ($direction > $#directions) {
+					print STDERR "$fname: indexed $direction past $#directions\n";
+					%val = ();
+					last;
 				}
+			}
+
+			if ($direction < $#directions) {
+				print STDERR "$fname: not all directions used: $_\n";
+				%val = ();
 			}
 		}
 	}
