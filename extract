@@ -109,11 +109,15 @@ while (<>) {
 
 	if (/Start Date\s*:\s*(.*)/) {
 		$date = $1;
+		$date =~ s/,/ /g;
 	}
 
 	if (/Groups Printed\s*-?\s*(.*)/) {
 		$fname = $ARGV;
 		$group = $1;
+
+		$fname =~ s/,/ /g;
+		$group =~ s/,/ /g;
 
 		$_ = <>;
 		chomp;
@@ -129,6 +133,7 @@ while (<>) {
 				$streets{$_} = 1;
 			}
 		}
+		$street =~ s/,/ /g;
 
 		$_ = <>;
 		chomp;
