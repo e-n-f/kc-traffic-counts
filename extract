@@ -1,0 +1,61 @@
+#!/usr/bin/perl
+
+use strict;
+
+my $fname = "";
+
+my $date = "";
+my $group = "";
+my $street = "";
+my @directions = ();
+my @cols = ();
+
+while (<>) {
+	chomp;
+
+	if (/\014/) {
+		$date = "";
+		$group = "";
+		$street = "";
+		@directions = ();
+		@cols = ();
+	}
+
+	if (/Start Date\s*:\s*(.*)/) {
+		$date = $1;
+	}
+
+	if (/Groups Printed\s*-?\s*(.*)/) {
+		$fname = $ARGV;
+		$group = $1;
+
+		$_ = <>;
+		chomp;
+		my @streets = split(/   +/, $_);
+		my %streets = ();
+		$street = "";
+		for (@streets) {
+			unless ($streets{$_}) {
+				if ($street ne "") {
+					$street .= " / ";
+				}
+				$street .= "$_";
+				$streets{$_} = 1;
+			}
+		}
+
+		$_ = <>;
+		chomp;
+		@directions = split(/   +/, $_);
+
+		$_ = <>;
+		if (s/^\s*Start Time\s*//) {
+			s/\.\s*Total/\.Total/g;
+			@cols = split(/ /, $_);
+		} else {
+			print STDERR "$fname: Expected columns, not $_\n";
+		}
+
+		print "$fname $date $group $street @cols\n";
+	}
+}
