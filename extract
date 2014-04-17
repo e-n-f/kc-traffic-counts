@@ -21,6 +21,7 @@ my $street = "";
 my @directions = ();
 my @cols = ();
 my %val = ();
+my @times = ();
 
 sub out {
 	my $fname;
@@ -30,8 +31,17 @@ sub out {
 			my $date;
 			for $date (sort(keys(%{$val{$fname}{$street}}))) {
 				my $time;
-				for $time (sort(keys(%{$val{$fname}{$street}{$date}}))) {
-					print "$fname,$street,$group,$date,$time,";
+				for $time (sort { $a <=> $b } (keys(%{$val{$fname}{$street}{$date}}))) {
+					print "$fname,$street,$group,$date,";
+
+					my $gap;
+					if ($time - 1 >= 0 && ($time + 1 > $#times || $times[$time] + ($times[$time] - $times[$time - 1]) < $times[$time + 1])) {
+						$gap = $times[$time] - $times[$time - 1];
+					} else {
+						$gap = $times[$time + 1] - $times[$time];
+					}
+
+					printf("%02d:%02d-%02d:%02d,", $times[$time] / 60, $times[$time] % 60, ($times[$time] + $gap) / 60, ($times[$time] + $gap) % 60);
 
 					my $dir;
 					for $dir ("Southbound", "Westbound", "Northbound", "Eastbound") {
@@ -81,6 +91,7 @@ while (<>) {
 		@directions = ();
 		@cols = ();
 		%val = ();
+		@times = ();
 	}
 
 	if (/Start Date\s*:\s*(.*)/) {
@@ -147,7 +158,9 @@ while (<>) {
 				$hour += 12;
 			}
 
-			my $time = sprintf("%02d:%02d", $hour, $min);
+			my $when = $hour * 60 + $min;
+			push @times, $when;
+			my $time = $#times;
 
 			chomp;
 			my @row = split(/ +/, $_);
