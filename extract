@@ -107,7 +107,7 @@ while (<>) {
 			s/\bTH\b/Thru/g;
 			@cols = split(/ +/, $_);
 
-			if ($group =~ /Bicycle/i || $group =~ /Bike/i) {
+			if ($group =~ /Bicycle/i || ($group =~ /Bike/i && !($group =~ /Motor bike/i))) {
 				my $i;
 				for ($i = 0; $i <= $#cols; $i++) {
 					if ($cols[$i] ne "Peds") {
