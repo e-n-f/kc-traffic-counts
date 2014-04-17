@@ -103,7 +103,7 @@ while (<>) {
 		if (s/^\s*(\d+):(\d+)\s*(.M)?\s*//) {
 			my $hour = $1;
 			my $min = $2;
-			my $m = 3;
+			my $m = $3;
 
 			if ($m eq "PM" && $hour != 12) {
 				$hour += 12;
