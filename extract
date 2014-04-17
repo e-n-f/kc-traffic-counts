@@ -26,6 +26,7 @@ sub out {
 					for $dir ("Southbound", "Westbound", "Northbound", "Eastbound") {
 						my $turn;
 						for $turn ("Right", "Thru", "Left") {
+							# print "$dir $turn ";
 							print "$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
 						}
 					}
@@ -134,9 +135,21 @@ while (<>) {
 			chomp;
 			my @row = split(/ +/, $_);
 
+			if ($#row != $#cols) {
+				print STDERR "$fname: mismatched columns $#cols, $#row @cols in $_\n";
+				next;
+			}
+
 			my $direction = 0;
 			my $i;
+			my %used = ();
 			for ($i = 0; $i <= $#row; $i++) {
+				if ($used{$cols[$i]}) {
+					$direction++;
+					%used = ();
+				}
+				$used{$cols[$i]} = 1;
+
 				if (1 || $row[$i] != 0) {
 					$val{$fname}{$street}{$date}{$time}{$directions[$direction]}{$cols[$i]} = $row[$i];
 					# print "{$fname}{$street}{$date}{$time}{$directions[$direction]}{$cols[$i]} -> $row[$i]\n";
@@ -144,6 +157,7 @@ while (<>) {
 
 				if ($cols[$i] =~ /Total/) {
 					$direction++;
+					%used = ();
 				}
 			}
 		}
