@@ -113,10 +113,15 @@ sub parse_cols {
 	$_ = <>;
 	chomp;
 	s/^\s*//;
+	s/ \([NSEW]B\)//g;
 	s/\bFrom East\b/Westbound/g;
 	s/\bFrom West\b/Eastbound/g;
 	s/\bFrom North\b/Southbound/g;
 	s/\bFrom South\b/Northbound/g;
+	s/\bEast Leg\b/Westbound/g;
+	s/\bWest Leg\b/Eastbound/g;
+	s/\bNorth Leg\b/Southbound/g;
+	s/\bSouth Leg\b/Northbound/g;
 	@directions = split(/   +/, $_);
 	@cols = ();
 
@@ -177,7 +182,7 @@ sub parse_cols {
 		s/\bBr /Bear/gi;
 		@cols = split(/ +/, $_);
 
-		if ($group =~ /Bicycle/i || ($group =~ /Bike/i && !($group =~ /Motor bike/i))) {
+		if (($group =~ /Bicycle/i || $group =~ /Bike/i) && !($group =~ /Motor bike/i) && !($group =~ /Cars/i)) {
 			my $i;
 			for ($i = 0; $i <= $#cols; $i++) {
 				if ($cols[$i] ne "Peds") {
