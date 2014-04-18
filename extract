@@ -102,6 +102,7 @@ sub parse_cols {
 	s/\bFrom North\b/Southbound/g;
 	s/\bFrom South\b/Northbound/g;
 	@directions = split(/   +/, $_);
+	@cols = ();
 
 	$_ = <>;
 	if (s/^\s*Start Time\s*//) {
