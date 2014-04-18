@@ -122,6 +122,7 @@ sub parse_cols {
 	s/\bWest Leg\b/Eastbound/g;
 	s/\bNorth Leg\b/Southbound/g;
 	s/\bSouth Leg\b/Northbound/g;
+	s/bound Approach\b/bound/g;
 	@directions = split(/   +/, $_);
 	@cols = ();
 
