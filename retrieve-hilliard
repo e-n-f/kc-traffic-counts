@@ -1,0 +1,13 @@
+#!/usr/bin/perl
+
+mkdir "hilliard";
+
+system "curl -o hilliard/index.html 'http://hilliardohio.gov/government/departments/public-service/engineering-division/traffic-count-database'";
+
+open(IN, "hilliard/index.html");
+while (<IN>) {
+	if (/(http:\/\/[^"]*\/)([^"\/]*\.pdf)([^"]*)/) {
+		print "$1  $2  $3\n";
+		system "curl -o 'hilliard/$2' '$1$2$3'";
+	}
+}
