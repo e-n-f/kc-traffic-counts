@@ -1,0 +1,26 @@
+#!/usr/bin/perl
+
+mkdir "mcallen";
+
+for ($year = 1999; $year <= 2012; $year++) {
+	mkdir "mcallen/$year";
+
+	system "curl -o mcallen/$year/index.html 'http://old.mcallen.net/departments/traffic/counts.aspx?year=$year'";
+
+	open(IN, "mcallen/$year/index.html");
+	while (<IN>) {
+		if (/([^"]*traffic[^"]*\.pdf)/) {
+			$file = $1;
+			next if ($file =~ /http:/);
+
+			$url = "http://old.mcallen.net$file";
+
+			$out = $file;
+			$out =~ s/^.*\///;
+
+			print "curl -o 'mcallen/$year/$out' '$url'\n";
+			system "curl -o 'mcallen/$year/$out' '$url'";
+		}
+	}
+
+}
