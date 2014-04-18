@@ -5,3 +5,4 @@
 ./extract hilliard/*.txt > counts-hilliard.csv
 
 find cary -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 -L1 ./extract > counts-cary.csv
+find hp -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 -L1 ./extract > counts-hp.csv
