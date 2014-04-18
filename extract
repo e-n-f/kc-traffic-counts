@@ -93,6 +93,22 @@ sub out {
 	}
 }
 
+sub space {
+	my ($i, @rows) = @_;
+
+	my $j;
+	for ($j = 0; $j <= $#rows; $j++) {
+		# print "looking at $i in $rows[$j]\n";
+		if (substr($rows[$j], $i, 1) =~ /[^ ]/) {
+			# print "not a space\n";
+			return 0;
+		}
+	}
+
+	# print "all spaces\n";
+	return 1;
+}
+
 sub parse_cols {
 	$_ = <>;
 	chomp;
@@ -104,7 +120,46 @@ sub parse_cols {
 	@directions = split(/   +/, $_);
 	@cols = ();
 
-	$_ = <>;
+	my @hdr = ();
+	my $max = 0;
+	while (1) {
+		$_ = <>;
+		last if $_ eq "" || $_ =~ /[0-9]/;
+		chomp;
+		push @hdr, $_;
+
+		if (length($_) > $max) {
+			$max = length($_);
+		}
+	}
+
+	my $line = "";
+	my $i;
+	for ($i = 0; $i < $max; $i++) {
+		if (!space($i, @hdr)) {
+			my $j;
+			for ($j = $i + 1; $j < $max; $j++) {
+				last if space($j, @hdr);
+			}
+
+			# print "so it's $i to $j\n";
+
+			my $f = "";
+			my $n;
+			for ($n = 0; $n <= $#hdr; $n++) {
+				# print substr($hdr[$n], $i, $j - $i) . "\n";
+				$f .= substr($hdr[$n], $i, $j - $i);
+			}
+			$f =~ s/\s//g;
+
+			$line .= "$f ";
+			$i = $j - 1;
+		}
+	}
+
+	# print "header: $line\n";
+
+	$_ = $line;
 	if (s/^\s*Start Time\s*//) {
 		chomp;
 		s/\.\s*Total/\.Total/g;
