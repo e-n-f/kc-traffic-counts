@@ -124,7 +124,7 @@ sub parse_cols {
 	my $max = 0;
 	while (1) {
 		$_ = <>;
-		last if $_ eq "" || $_ =~ /[0-9]/;
+		last if $_ eq "" || $_ =~ /[0-9\*]/;
 		chomp;
 		push @hdr, $_;
 
