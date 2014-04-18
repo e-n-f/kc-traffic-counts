@@ -133,6 +133,7 @@ sub parse_cols {
 		}
 	}
 
+	my $broke = $_;
 	my $line = "";
 	my $i;
 	for ($i = 0; $i < $max; $i++) {
@@ -184,6 +185,8 @@ sub parse_cols {
 				}
 			}
 		}
+
+		$_ = $broke;
 	} else {
 		print STDERR "$fname: Expected columns, not $_\n";
 	}
