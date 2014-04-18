@@ -1,0 +1,496 @@
+<script language="javascript" type="text/javascript" src="_includes/js.js">
+<!-- This location allows File->Send page by e-mail to function in IE; DO NOT DELETE -->
+</script>
+
+
+<!--Detect PDF plugin files, needed to alert user to Chrome or Firefox PDF readers being used ins-->
+<div id="detectPDFjs_output"></div>
+<!--# include file="pdf.asp"-->
+
+
+<!-- General includes -->
+<style type="text/css">
+.nobr {white-space: nowrap}
+</style>
+
+
+<!-- newWindowCode -->
+<!-- newWindowVars1 (general)
+This file is seperated out so that is is easy to edit this information in a file with minimal data;
+it could be placed directly in this file, and perhaps should be for the sake of conciseness. -->
+
+
+<!-- The following is included because it is still required in smtcmpo.org -->
+<!-- This file contains JavaScript  -->
+
+<SCRIPT LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
+<!-- Hide script from old browsers
+
+// All these scripts open a toolbarless window.
+
+// ===================================
+// ===================================
+// This opens a resizable window of default size.
+function newWindow2()
+{
+window.open(urlFile, "", "status=yes,scrollbars=yes,resizable=yes,width=,height=");
+}
+
+// ===================================
+// ===================================
+// This opens a narrow resizable window appropriate for a narrow table of contents 
+// from which other links are called.
+function newWindow3()
+{
+window.open(urlFile, winName, "status=yes,scrollbars=yes,resizable=yes,width=350,height=450");
+}
+
+// ===================================
+// ===================================
+// This allows setting of status elements from the link.
+function newWindow4()
+{
+window.open(urlFile, winName, strStatus);
+}
+/* Copy the line below into the link (including the quotes) and adjust as necessary.
+
+"status=yes,scrollbars=yes,resizable=yes,width=350,height=450"
+
+*/
+
+// End hiding script from old browsers -->
+</SCRIPT>
+
+
+<SCRIPT LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
+<!-- Hide script from old browsers
+
+// Get screen resolution and set new size for use in opening a new window with JavaScript
+var SmallScrW = 600;
+var SmallScrH = 480;
+//document.write(" Small Width: " + SmallScrW);
+//document.write(" Small Height: " + SmallScrH);
+
+//NOTE: Set screen width to screen height (better for PDF viewing)
+var ThisScrW = screen.height;
+var ThisScrH = screen.height;
+//document.write(" This Width: " + ThisScrW);
+//document.write(" This Height: " + ThisScrH);
+
+var ScrW = parseInt(((ThisScrW-SmallScrW)/ThisScrW/2+SmallScrW/ThisScrW)*ThisScrW);
+var ScrH = parseInt(((ThisScrH-SmallScrH)/ThisScrH/2+SmallScrH/ThisScrH)*ThisScrH);
+//document.write("New Width: " + ScrW);
+//document.write("New Height: " + ScrH);
+
+
+function newWindow(){
+strProtocol = "http://";
+urlPath = 'web.smtcmpo.org/extranet/smtc/';
+
+window.open(strProtocol + urlPath + urlFile, "", "location=no,status=no,scrollbars=yes,resizable=yes,width=ScrW,height=ScrH");
+}
+
+function newWindowLoc(){
+strProtocol = "http://";
+
+window.open(urlFile, "", "location=no,status=no,scrollbars=yes,resizable=yes,width=" + ScrW + ",height=" + ScrH);
+}
+
+// End hiding script from old browsers -->
+</SCRIPT>
+
+<!-- Copy link below out of comments for testing
+<a href="javascript:newWindow(urlFile='PressReleasesAndConferences/SouleRd-PubMtg2.pdf')"><b>12/27/01</b></a>
+-->
+
+<!-- Add target="blank" and javascript onclick to link (12/4/02)-->
+
+
+<!-- Modify newWin_vbs to newWin_vbsLoc to open a LOCAL file (1/23/03)-->
+
+
+<!-- Modify newWin_vbs to Link_vbs, opens link into same window (1/23/03)-->
+
+
+<!-- Pop-up notice includes -->
+<!-- pop-upVars1 & pop-upVars2 (general)
+These files are seperated out so that is is easy to edit this information in a file with minimal data;
+they could be placed directly in this file, and perhaps should be for the sake of conciseness. -->
+
+
+<!-- NOTE: Must be separate file for use in displaying meetings by date -->
+
+
+<SCRIPT LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
+<!-- // Hide script from old browsers
+
+function popAlertMeeting() {
+
+	window.name = 'main';
+
+
+
+}
+
+// End hiding script from old browsers -->
+</SCRIPT>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Author" content="Syracuse Metropolitan Transportation Council">
+<meta http-equiv="Description" content="Traffic Counts for the SMTC MPA">
+<meta http-equiv="Keywords" content="Syracuse Metropolitan Transportation Council (SMTC),Traffic Counts for the SMTC MPA">
+<meta http-equiv="Webmaster" content="Bruce Keplinger">
+<title>Traffic Counts for the SMTC MPA</title>
+<link rel="SHORTCUT ICON" href="/smtc2.ico" type="image/x-icon" />
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<style type="text/css">
+				table.tCounts td{
+				text-align:left;
+				}
+				table.tCounts a{
+				padding:.25em;
+				display:block;
+				text-decoration:none;
+				background-color:transparent;
+				}
+				table.tCounts a.noLink:hover{
+				color:#000;
+				}
+				</style>
+<!--mstheme--><link rel="stylesheet" type="text/css" href="../../_themes/smtc/smtc1111.css"><meta name="Microsoft Theme" content="smtc 1111">
+<meta name="Microsoft Border" content="none">
+</head>
+
+<body onLoad="popAlertMeeting();">
+
+<!-- Top and left borders -->
+<table border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td height="15"><img border="0" src="../../images/text-border-graphics/gray_corner_12.gif"></td>
+		<td height="15" background="../../images/text-border-graphics/gray_horiz_top.gif"><img border="0" src="../../images/text-border-graphics/spacer.gif" width="15" height="15"></td>
+		<td height="15"><img border="0" src="../../images/text-border-graphics/gray_corner_03.gif"></td>
+	<tr>
+		<td background="../../images/text-border-graphics/gray_vert_left.gif"><img border="0" src="../../images/text-border-graphics/spacer.gif" width="15" height="15"></td>
+		<!-- END Top and left borders -->
+		<td valign="top" style="background-color: white">
+			<table border="0" width="100%" cellspacing="0" cellpadding="0" class="pad10">
+				<tr>
+					<!-- END Top and left borders -->
+					<td valign="top" style="background-color: white">
+						<p><b><a href="javascript:void();" onclick="javascript:window.close();">Close</a></b></p>
+						<h1>Traffic Counts for the SMTC MPA </h1>
+						<p> If any assistance is required with the ensuing traffic count information or you  would like to make a request for a turning movement count, please contact: </p>
+						<table border="0" width="100%">
+							<tr>
+								<td width="40%" valign="top"><b>Syracuse Metropolitan Transportation Council</b><br>
+									<b>Contact:</b> Kevin Kosakowski<br>
+                                  Phone: 315-422-5716<br>
+                                  E-mail: <a href="mailto:kkosakowski@smtcmpo.org">kkosakowski@smtcmpo.org</a>
+                                  </td>
+								<td width="30%" valign="top"><b>State Department of Transportation</b><br>
+									<b>Contact:</b> Julie Bednar<br>
+								  Phone: 315-428-4408</td>
+								<td width="30%" valign="top"><b>County Department of Transportation</b><br>
+									<b>Contact:</b> Christopher Leak<br>
+									Phone: 315-435-3176</td>
+							</tr>
+						</table>
+					</td> 
+					<!-- Right and bottom borders -->
+				</tr>
+			</table>
+			<a name="list"></a>
+			<h2>Traffic Counts</h2>
+			<p>Click on a town (T), village (V) or city (C) below, or <a href="tcountsMap.asp?type=TrafficCounts">view a clickable map.</a></p>
+            <p><em><a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Get Adobe Reader (free).</a> <a href="mailto:contactus@smtcmpo.org">Contact us</a> to view a hard copy or if you cannot open any of these files.</em></p>
+			<p>
+
+<!-- <a href="?DocLink=yes#"> -->
+
+<img class="DocIcon" src="/images/docs/pdf.gif" border="0" alt="Adobe PDF document" title="Adobe PDF document" width="16" height="16">
+
+<!-- </a> -->
+
+<a href="TrafficCounts.pdf" target="TrafficCounts_pdf" onclick="javascript:newWindowLoc(urlFile='TrafficCounts.pdf',winName='TrafficCounts_pdf');return false;" target="_blank">PDF map (for reference)</a> 
+	<em class="CalcDLoad">This file is 1.05&nbsp;MB.</em>
+	</p>
+			<div>
+				
+							<!-- # include file="tcountsByTown.txt"-->
+							<style type="text/css">
+table.tCounts, table.tCounts tbody tr, table.tCounts tbody tr th, table.tCounts tbody tr td{
+border:none;
+}
+table.tCounts{
+background-color=#999;
+border:1px solid #999;
+}
+</style>
+
+
+
+
+<!-- Display Town links -->
+
+<!-- Database connection code -->
+<!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --><!-- Database connection code --> 
+
+<a name="TubeCounts"></a>
+
+<p class="small85 center" style="border:medium solid #999999; background-color:#eeeeee; line-height:2em;"><a style="padding:.3em;" href="?muni=Baldwinsville (V)&view=current#TubeCounts">Baldwinsville&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Camillus (T)&view=current#TubeCounts">Camillus&nbsp;(T)</a>&nbsp; <strong>Camillus (V)</strong>&nbsp; <a style="padding:.3em;" href="?muni=Central Square (V)&view=current#TubeCounts">Central&nbsp;Square&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Cicero (T)&view=current#TubeCounts">Cicero&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Clay (T)&view=current#TubeCounts">Clay&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=DeWitt (T)&view=current#TubeCounts">DeWitt&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=East Syracuse (V)&view=current#TubeCounts">East&nbsp;Syracuse&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Elbridge (T)&view=current#TubeCounts">Elbridge&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Elbridge (V)&view=current#TubeCounts">Elbridge&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Fabius (T)&view=current#TubeCounts">Fabius&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Fayetteville (V)&view=current#TubeCounts">Fayetteville&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Geddes (T)&view=current#TubeCounts">Geddes&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Hastings (T)&view=current#TubeCounts">Hastings&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Jordan (V)&view=current#TubeCounts">Jordan&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=LaFayette (T)&view=current#TubeCounts">LaFayette&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Liverpool (V)&view=current#TubeCounts">Liverpool&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Lysander (T)&view=current#TubeCounts">Lysander&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Manlius (T)&view=current#TubeCounts">Manlius&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Manlius (V)&view=current#TubeCounts">Manlius&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Marcellus (T)&view=current#TubeCounts">Marcellus&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Marcellus (V)&view=current#TubeCounts">Marcellus&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Minoa (V)&view=current#TubeCounts">Minoa&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=North Syracuse (V)&view=current#TubeCounts">North&nbsp;Syracuse&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Onondaga (T)&view=current#TubeCounts">Onondaga&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Onondaga County&view=current#TubeCounts">Onondaga&nbsp;County</a>&nbsp; <a style="padding:.3em;" href="?muni=Onondaga Nation (R)&view=current#TubeCounts">Onondaga&nbsp;Nation&nbsp;(R)</a>&nbsp; <a style="padding:.3em;" href="?muni=Otisco (T)&view=current#TubeCounts">Otisco&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Phoenix (V)&view=current#TubeCounts">Phoenix&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Pompey (T)&view=current#TubeCounts">Pompey&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Salina (T)&view=current#TubeCounts">Salina&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Schroeppel (T)&view=current#TubeCounts">Schroeppel&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Skaneateles (T)&view=current#TubeCounts">Skaneateles&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Skaneateles (V)&view=current#TubeCounts">Skaneateles&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Solvay (V)&view=current#TubeCounts">Solvay&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Spafford (T)&view=current#TubeCounts">Spafford&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Sullivan (T)&view=current#TubeCounts">Sullivan&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Syracuse (C)&view=current#TubeCounts">Syracuse&nbsp;(C)</a>&nbsp; <a style="padding:.3em;" href="?muni=Tully (T)&view=current#TubeCounts">Tully&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Tully (V)&view=current#TubeCounts">Tully&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Van Buren (T)&view=current#TubeCounts">Van&nbsp;Buren&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=West Monroe (T)&view=current#TubeCounts">West&nbsp;Monroe&nbsp;(T)</a>&nbsp; </p>
+
+
+	<a href="#ManualCounts">Manual Counts</a> &nbsp;
+	<a href="tcountsMap.asp?type=TrafficCounts">Clickable map</a> &nbsp;
+	
+
+<!-- <a href="?DocLink=yes#"> -->
+
+<img class="DocIcon" src="/images/docs/pdf.gif" border="0" alt="Adobe PDF document" title="Adobe PDF document" width="16" height="16">
+
+<!-- </a> -->
+
+<a href="TrafficCounts.pdf" target="TrafficCounts_pdf" onclick="javascript:newWindowLoc(urlFile='TrafficCounts.pdf',winName='TrafficCounts_pdf');return false;" target="_blank">PDF map (for reference)</a> 
+	<em class="CalcDLoad">This file is 1.05&nbsp;MB.</em>
+	
+
+	<h2>Tube Counts for Camillus (V)</h2>
+	<p>
+
+<!-- <a href="?DocLink=yes#"> -->
+
+<img class="DocIcon" src="/images/docs/pdf.gif" border="0" alt="Adobe PDF document" title="Adobe PDF document" width="16" height="16">
+
+<!-- </a> -->
+
+ <em>All referenced documents below are PDFs and open in a new window.</em></p>
+
+	
+	<style type="text/css">
+	p.tcountsNav{
+	font-size:85%;
+	margin-bottom:1px;
+	}
+	p.tcountsNav span, p.tcountsNav a{
+	border-width:1px;
+	border-style:solid;
+	display:inline-block;
+	padding:.125em;
+	text-decoration:none;
+	}
+	p.tcountsNav span{
+	border-color:#CCC;
+	font-weight:bold;
+	}
+	</style>
+	
+	<p class="tcountsNav">View Counts:&nbsp;
+	
+		<span>2010 through current</span>
+	
+		<a href="?muni=Camillus%20(V)&view=archive#TubeCounts">
+			2009 and before
+		</a>
+	
+		<a href="?muni=Camillus%20(V)&view=all#TubeCounts">
+			ALL
+		</a>
+	
+	</p>
+
+	<table class="tCounts" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#999999">
+		
+		<tr>
+			<th>Road</th>
+			<th>From</th>
+			<th>To</th>
+			<th>Year</th>
+			<th>AADT</th>
+			<th>Source</th>
+		</tr>
+
+		
+
+		<tr class="small85"  bgcolor="#ffffff" onmouseover="this.bgColor='#ffffdf'" onmouseout="this.bgColor='#ffffff'">
+			<td
+				style='border-top:1px #999 solid'
+			>
+				
+				<!-- ROADNAME -->
+				<a 
+					href="../../Docs/TubeCounts/2011/2011_330210.pdf" target="______Docs_TubeCounts_2011_2011_330210_pdf" onclick="javascript:newWindowLoc(urlFile='../../Docs/TubeCounts/2011/2011_330210.pdf',winName='______Docs_TubeCounts_2011_2011_330210_pdf');return false;" target="_blank"
+					
+				 onmouseover="this.color='#ffffdf'" onmouseout="this.color='#ffffff'">[no road name]</a>
+
+				<!--()-->
+			</td>
+			<td align="center" style='border-top:1px #999 solid'"
+					
+			>
+				<!-- FROM -->
+				<a 
+					href="../../Docs/TubeCounts/2011/2011_330210.pdf" target="______Docs_TubeCounts_2011_2011_330210_pdf" onclick="javascript:newWindowLoc(urlFile='../../Docs/TubeCounts/2011/2011_330210.pdf',winName='______Docs_TubeCounts_2011_2011_330210_pdf');return false;" target="_blank"
+					
+				onmouseover="this.color='#ffffdf'" onmouseout="this.color='#ffffff'">MAIN ST</a>
+
+				
+			</td>
+
+			
+				<td align="center"
+				style='border-top:1px #999 solid'
+				>
+					<!-- TO -->
+					<a 
+					href="../../Docs/TubeCounts/2011/2011_330210.pdf" target="______Docs_TubeCounts_2011_2011_330210_pdf" onclick="javascript:newWindowLoc(urlFile='../../Docs/TubeCounts/2011/2011_330210.pdf',winName='______Docs_TubeCounts_2011_2011_330210_pdf');return false;" target="_blank"
+					
+					onmouseover="this.color='#ffffdf'" onmouseout="this.color='#ffffff'">RT 5 END 174</a>
+					
+				</td>
+			
+			<td align="center"
+				style='border-top:1px #999 solid'
+			>
+				
+					<a href="../../Docs/TubeCounts/2011/2011_330210.pdf" target="______Docs_TubeCounts_2011_2011_330210_pdf" onclick="javascript:newWindowLoc(urlFile='../../Docs/TubeCounts/2011/2011_330210.pdf',winName='______Docs_TubeCounts_2011_2011_330210_pdf');return false;" target="_blank">2011</a>
+				
+			</td>
+			<td align="center"
+				style='border-top:1px #999 solid'
+			>
+				
+					<a href="../../Docs/TubeCounts/2011/2011_330210.pdf" target="______Docs_TubeCounts_2011_2011_330210_pdf" onclick="javascript:newWindowLoc(urlFile='../../Docs/TubeCounts/2011/2011_330210.pdf',winName='______Docs_TubeCounts_2011_2011_330210_pdf');return false;" target="_blank">3919</a>
+				
+			</td>
+			<td align="center"
+				style='border-top:1px #999 solid'
+			>
+				
+					<a href="../../Docs/TubeCounts/2011/2011_330210.pdf" target="______Docs_TubeCounts_2011_2011_330210_pdf" onclick="javascript:newWindowLoc(urlFile='../../Docs/TubeCounts/2011/2011_330210.pdf',winName='______Docs_TubeCounts_2011_2011_330210_pdf');return false;" target="_blank">NYSDOT</a>
+				
+			</td>
+		</tr>
+		
+			<!-- Database connection code -->
+			 
+		<!--include virtual="_includes/DatabaseClose.txt"-->
+	</table>
+	
+	
+	<p>
+		<a name="ManualCounts"></a>
+		<a href="#TubeCounts">Tube Counts</a> &nbsp;
+		<a href="tcountsMap.asp?type=ManualCounts">Clickable map</a> &nbsp;
+		
+
+<!-- <a href="?DocLink=yes#"> -->
+
+<img class="DocIcon" src="/images/docs/pdf.gif" border="0" alt="Adobe PDF document" title="Adobe PDF document" width="16" height="16">
+
+<!-- </a> -->
+
+<a href="TrafficCounts.pdf" target="TrafficCounts_pdf" onclick="javascript:newWindowLoc(urlFile='TrafficCounts.pdf',winName='TrafficCounts_pdf');return false;" target="_blank">PDF map (for reference)</a> 
+	<em class="CalcDLoad">This file is 1.05&nbsp;MB.</em>
+	
+	</p>
+
+	
+	<p class="small85 center" style="border:medium solid #999999; background-color:#eeeeee; line-height:2em;"><a style="padding:.3em;" href="?muni=Baldwinsville (V)&view=current#ManualCounts">Baldwinsville&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Camillus (T)&view=current#ManualCounts">Camillus&nbsp;(T)</a>&nbsp; <strong>Camillus (V)</strong>&nbsp; <a style="padding:.3em;" href="?muni=Central Square (V)&view=current#ManualCounts">Central&nbsp;Square&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Cicero (T)&view=current#ManualCounts">Cicero&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Clay (T)&view=current#ManualCounts">Clay&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=DeWitt (T)&view=current#ManualCounts">DeWitt&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=East Syracuse (V)&view=current#ManualCounts">East&nbsp;Syracuse&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Elbridge (T)&view=current#ManualCounts">Elbridge&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Elbridge (V)&view=current#ManualCounts">Elbridge&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Fabius (T)&view=current#ManualCounts">Fabius&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Fayetteville (V)&view=current#ManualCounts">Fayetteville&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Geddes (T)&view=current#ManualCounts">Geddes&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Hastings (T)&view=current#ManualCounts">Hastings&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Jordan (V)&view=current#ManualCounts">Jordan&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=LaFayette (T)&view=current#ManualCounts">LaFayette&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Liverpool (V)&view=current#ManualCounts">Liverpool&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Lysander (T)&view=current#ManualCounts">Lysander&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Manlius (T)&view=current#ManualCounts">Manlius&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Manlius (V)&view=current#ManualCounts">Manlius&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Marcellus (T)&view=current#ManualCounts">Marcellus&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Marcellus (V)&view=current#ManualCounts">Marcellus&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Minoa (V)&view=current#ManualCounts">Minoa&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=North Syracuse (V)&view=current#ManualCounts">North&nbsp;Syracuse&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Onondaga (T)&view=current#ManualCounts">Onondaga&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Onondaga County&view=current#ManualCounts">Onondaga&nbsp;County</a>&nbsp; <a style="padding:.3em;" href="?muni=Onondaga Nation (R)&view=current#ManualCounts">Onondaga&nbsp;Nation&nbsp;(R)</a>&nbsp; <a style="padding:.3em;" href="?muni=Otisco (T)&view=current#ManualCounts">Otisco&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Phoenix (V)&view=current#ManualCounts">Phoenix&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Pompey (T)&view=current#ManualCounts">Pompey&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Salina (T)&view=current#ManualCounts">Salina&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Schroeppel (T)&view=current#ManualCounts">Schroeppel&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Skaneateles (T)&view=current#ManualCounts">Skaneateles&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Skaneateles (V)&view=current#ManualCounts">Skaneateles&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Solvay (V)&view=current#ManualCounts">Solvay&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Spafford (T)&view=current#ManualCounts">Spafford&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Sullivan (T)&view=current#ManualCounts">Sullivan&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Syracuse (C)&view=current#ManualCounts">Syracuse&nbsp;(C)</a>&nbsp; <a style="padding:.3em;" href="?muni=Tully (T)&view=current#ManualCounts">Tully&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=Tully (V)&view=current#ManualCounts">Tully&nbsp;(V)</a>&nbsp; <a style="padding:.3em;" href="?muni=Van Buren (T)&view=current#ManualCounts">Van&nbsp;Buren&nbsp;(T)</a>&nbsp; <a style="padding:.3em;" href="?muni=West Monroe (T)&view=current#ManualCounts">West&nbsp;Monroe&nbsp;(T)</a>&nbsp; </p>
+
+	<h2>Manual Counts for Camillus (V)</h2>
+	<p>
+
+<!-- <a href="?DocLink=yes#"> -->
+
+<img class="DocIcon" src="/images/docs/pdf.gif" border="0" alt="Adobe PDF document" title="Adobe PDF document" width="16" height="16">
+
+<!-- </a> -->
+
+ <em>All referenced documents below are PDFs and open in a new window.</em></p>
+
+	
+	<style type="text/css">
+	p.tcountsNav{
+	font-size:85%;
+	margin-bottom:1px;
+	}
+	p.tcountsNav span, p.tcountsNav a{
+	border-width:1px;
+	border-style:solid;
+	display:inline-block;
+	padding:.125em;
+	text-decoration:none;
+	}
+	p.tcountsNav span{
+	border-color:#CCC;
+	font-weight:bold;
+	}
+	</style>
+	
+	<p class="tcountsNav">View Counts:&nbsp;
+	
+		<span>2010 through current</span>
+	
+		<a href="?muni=Camillus%20(V)&view=archive#ManualCounts">
+			2009 and before
+		</a>
+	
+		<a href="?muni=Camillus%20(V)&view=all#ManualCounts">
+			ALL
+		</a>
+	
+	</p>
+
+	<table class="tCounts" border="0" cellpadding="0" cellspacing="0" width="100%">
+		
+		<tr>
+			<th>Location</th>
+			<th>Year</th>
+		</tr>
+			
+
+
+			<tr class="small85" bgcolor="#ffffff" onmouseover="this.bgColor='#ffffdf'" onmouseout="this.bgColor='#ffffff'"
+			
+			>
+			<td>
+				
+				<a 
+					href="../../Docs/ManualCounts/2013/701_010_2013.pdf" target="______Docs_ManualCounts_2013_701_010_2013_pdf" onclick="javascript:newWindowLoc(urlFile='../../Docs/ManualCounts/2013/701_010_2013.pdf',winName='______Docs_ManualCounts_2013_701_010_2013_pdf');return false;" target="_blank"
+					
+					>Newport Rd/Genesee St</a>
+			</td>
+			<td align="center">
+				<a 
+					href="../../Docs/ManualCounts/2013/701_010_2013.pdf" target="______Docs_ManualCounts_2013_701_010_2013_pdf" onclick="javascript:newWindowLoc(urlFile='../../Docs/ManualCounts/2013/701_010_2013.pdf',winName='______Docs_ManualCounts_2013_701_010_2013_pdf');return false;" target="_blank"
+					
+				>2013</a>
+			</td>
+		</tr>
+		
+		
+	</table>
+	
+			</div>
+						<p><b><a href="javascript:void();" onclick="javascript:window.close();">Close</a></b></p>
+		</td>
+		<td background="../../images/text-border-graphics/gray_vert_right.gif">&nbsp;</td>
+	</tr>
+	<tr>
+		<td height="15"><img border="0" src="../../images/text-border-graphics/gray_corner_09.gif"></td>
+		<td height="15" background="../../images/text-border-graphics/gray_horiz_bottom.gif">&nbsp;</td>
+		<td height="15"><img border="0" src="../../images/text-border-graphics/gray_corner_06.gif"></td>
+	</tr>
+</table>
+
+<p>&nbsp;</p>
+</body>
+
+</html>
+

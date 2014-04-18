@@ -13,4 +13,5 @@ From these sources:
   * High Point, NC
   * Hilliard, OH
   * McAllen, TX
+  * Syracuse, NY
   * Miscellaneous reports found through web search

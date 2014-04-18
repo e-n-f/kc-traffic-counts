@@ -1,0 +1,33 @@
+#!/usr/bin/perl
+
+mkdir "syracuse";
+
+system "curl -o syracuse/index.html 'http://www.smtcmpo.org/data/TrafficCounts/tcountsByTown.asp'";
+
+open(IN, "syracuse/index.html");
+while (<IN>) {
+	$line = $_;
+
+	while ($line =~ s/(\?muni=([^&]*)[^"]*)//) {
+		$town = $2;
+		$url = $1;
+
+		$url =~ s/ /%20/g;
+
+		mkdir "syracuse/$town";
+
+		system "curl -o 'syracuse/$town/index.html' 'http://www.smtcmpo.org/data/TrafficCounts/tcountsByTown.asp$url'";
+
+		open(IN2, "syracuse/$town/index.html");
+		while (<IN2>) {
+			if (/href="..\/..\/Docs\/(ManualCounts)\/([^"\/]+)\/([^"\/]+.pdf)"/) {
+			#if (/href="..\/..\/Docs\/([^"\/]+)\/([^"\/]+)\/([^"\/]+.pdf)"/) {
+				mkdir "syracuse/$town/$1";
+				mkdir "syracuse/$town/$1/$2";
+				print "$1 $2 $3\n";
+				system "curl -o 'syracuse/$town/$1/$2/$3' 'http://www.smtcmpo.org/Docs/$1/$2/$3'";
+			}
+		}
+		close(IN2);
+	}
+}
