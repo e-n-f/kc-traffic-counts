@@ -167,7 +167,7 @@ sub parse_cols {
 	# print "header: $line\n";
 
 	$_ = $line;
-	if (s/^\s*Start Time\s*//) {
+	if (s/^\s*Start\s*Time\s*//) {
 		chomp;
 		s/\.\s*Total/\.Total/g;
 		s/\bRT\b/Right/gi;
