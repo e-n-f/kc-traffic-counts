@@ -1,0 +1,16 @@
+#!/usr/bin/perl
+
+for $file (<*.html>) {
+	open(IN, $file);
+	while (<IN>) {
+		while (s/href="([^"]+)"//) {
+			$url = $1;
+			if ($url =~ /pdf$/ || $url =~ /zip$/) {
+				$seq++;
+				print "$seq / 2771   $url\n";
+				system "curl -O '$url'";
+			}
+		}
+	}
+	close(IN);
+}
