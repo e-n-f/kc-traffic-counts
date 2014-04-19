@@ -111,6 +111,14 @@ sub space {
 
 sub parse_cols {
 	$_ = <>;
+	while ($_ ne "") {
+		if (/North/ || /South/ || /East/ || /West/ || /bound/) {
+			last;
+		}
+
+		$_ = <>;
+	}
+
 	chomp;
 	s/^\s*//;
 	s/ \([NSEW]B\)//g;
@@ -260,7 +268,7 @@ while (<>) {
 	}
 
 	if (/Start Time/) {
-		print STDERR "$fname: unexpected header $_\n";
+		# print STDERR "$fname: unexpected header $_\n";
 		@cols = ();
 	}
 
