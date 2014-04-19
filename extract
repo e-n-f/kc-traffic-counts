@@ -174,9 +174,10 @@ sub parse_cols {
 		s/\bLT\b/Left/gi;
 		s/\bTH\b/Thru/gi;
 		s/\bRght\b/Right/gi;
-		s/\bUTurn\b/U-turn/gi;
-		s/\bU-TR\b/U-turn/gi;
-		s/\bU-Turns\b/U-turn/gi;
+		s/\bU Turns/U-turn/gi;
+		s/\bUTurn/U-turn/gi;
+		s/\bU-TR/U-turn/gi;
+		s/\bU-Turns/U-turn/gi;
 		s/\bBear /Bear/gi;
 		s/\bHard /Hard/gi;
 		s/\bHd /Hard/gi;
