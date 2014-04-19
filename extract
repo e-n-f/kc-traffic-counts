@@ -191,6 +191,12 @@ sub parse_cols {
 		s/\bHard /Hard/gi;
 		s/\bHd /Hard/gi;
 		s/\bBr /Bear/gi;
+		s/\bThruLeft\b/Thru Left/gi;
+		s/\bThruRight\b/Thru Right/gi;
+		s/\bRightThru\b/Right Thru/gi;
+		s/\bLeft Thru\b/Left Thru/gi;
+		s/\bLeftRight\b/Left Right/gi;
+		s/\bRightLeft\b/Right Left/gi;
 		@cols = split(/ +/, $_);
 
 		if (($group =~ /Bicycle/i || $group =~ /Bike/i) && !($group =~ /Motor bike/i) && !($group =~ /Cars/i)) {
