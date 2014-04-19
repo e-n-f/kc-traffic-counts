@@ -1,0 +1,13 @@
+#!/usr/bin/perl
+
+mkdir "bmts";
+system "curl -o bmts/index.html http://www.bmtsonline.com/bmts/traffic-counts";
+
+open(IN, "bmts/index.html");
+while (<IN>) {
+	if (/"(\/files\/bmts[^"]*\/)([^\/"]*pdf)/) {
+		print "$1 $2\n";
+
+		system "curl -o 'bmts/$2' 'http://bmtsonline.com$1$2'";
+	}
+}

@@ -14,4 +14,5 @@ From these sources:
   * Hilliard, OH
   * McAllen, TX
   * Syracuse, NY
+  * Binghamton, NY
   * Miscellaneous reports found through web search
