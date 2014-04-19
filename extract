@@ -178,6 +178,7 @@ sub parse_cols {
 		s/\bUTurn/U-turn/gi;
 		s/\bU-TR/U-turn/gi;
 		s/\bU-Turns/U-turn/gi;
+		s/(\d) Axles/\1Axles/gi;
 		s/\bBear /Bear/gi;
 		s/\bHard /Hard/gi;
 		s/\bHd /Hard/gi;
@@ -289,7 +290,7 @@ while (<>) {
 			my $i;
 			my %used = ();
 			for ($i = 0; $i <= $#row; $i++) {
-				if ($used{$cols[$i]}) {
+				if ($cols[$i] ne "X" && $used{$cols[$i]}) {
 					$direction++;
 					%used = ();
 				}
@@ -304,7 +305,7 @@ while (<>) {
 					$direction++;
 					%used = ();
 				} elsif ($direction > $#directions) {
-					print STDERR "$fname: indexed $direction past $#directions\n";
+					print STDERR "$fname: indexed $cols[$i] $direction past $#directions\n";
 					%val = ();
 					last;
 				}
