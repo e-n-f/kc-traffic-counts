@@ -15,5 +15,7 @@ From these sources:
   * McAllen, TX
   * Syracuse, NY
   * Binghamton, NY
+  * Wenatchee, WA
+  * Auburn, ME
   * North Carolina Department of Transportation
   * Miscellaneous reports found through web search

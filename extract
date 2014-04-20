@@ -235,7 +235,7 @@ while (<>) {
 		$date =~ s/,/ /g;
 	}
 
-	if (/Groups Printed\s*-?\s*(.*)/) {
+	if (/Groups Printed\s*-?\s*(.*)/ || /Turning Movement Data/) {
 		$fname = $ARGV;
 		$group = $1;
 
