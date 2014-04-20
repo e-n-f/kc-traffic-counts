@@ -1,0 +1,11 @@
+#!/usr/bin/perl
+
+for $file (<*.html>) {
+	open(IN, "$file");
+	while (<IN>) {
+		if (/href="([^"]*pdf)">([^<]*)<\/a/) {
+			print "$2 $1\n";
+			system "curl -o '$2' '$1'";
+		}
+	}
+}
