@@ -1,0 +1,11 @@
+#!/usr/bin/perl
+
+mkdir "2005";
+mkdir "2007";
+
+for ($i = 1; $i <= 65; $i++) {
+	$ii = sprintf("%02d", $i);
+
+	system "curl -L -o 2005/$ii.pdf 'http://www.ci.bothell.wa.us/Site/Content/Public%20Works/Transportation%20Issues/Traffic_Data/TMC_ToC_files/${ii}AM_PM.pdf'";
+	system "curl -L -o 2007/$ii.pdf 'http://www.ci.bothell.wa.us/Site/Content/Public%20Works/Transportation%20Issues/Traffic_Data/TMC_2007_AM-PM/${ii}_AM_PM.pdf'";
+}
