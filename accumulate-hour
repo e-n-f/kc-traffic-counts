@@ -1,0 +1,59 @@
+#!/usr/bin/perl
+
+while (<>) {
+	chomp;
+	($id, $name, $id2, $date, $time, @fields) = split(/,/);
+
+	$time =~ s/.M Max Hour //;
+	$time =~ s/\d+ Hour Totals //;
+
+	if ($time =~ /^(\d+):(\d+)\s*-+\s*(\d+):(\d+)$/) {
+		($h1, $m1, $h2, $m2) = ($1, $2, $3, $4);
+		$dur = ($h2 * 60 + $m2) - ($h1 * 60 + $m1);
+
+		if ($dur >= 60) {
+			$walk = $fields[12] + $fields[13] + $fields[14] + $fields[15];
+			print "$walk /$dur $_\n";
+			next;
+		}
+
+		$key = "$id,$name,$id2,$date";
+
+		if ($start{$key} == 0) {
+			$start{$key} = $h1 * 60 + $m1;
+		}
+		$dur{$key} += $dur;
+		for ($i = 0; $i <= $#fields; $i++) {
+			$fields{$key}[$i] += $fields[$i];
+		}
+
+		if ($dur{$key} >= 60) {
+			$walk = $fields{$key}[12] + $fields{$key}[13] + $fields{$key}[14] + $fields{$key}[15];
+
+			printf("%d /%s ", $walk, $dur{$key});
+
+			print "$id,$name,$id2,$date,";
+			printf("%02d:%02d-%02d:%02d,", $start{$key} / 60, $start{$key} % 60, ($start{$key} + $dur{$key}) / 60, ($start{$key} + $dur{$key}) % 60);
+
+			for ($i = 0; $i < 20; $i++) {
+				printf("%d,", $fields{$key}[$i]);
+			}
+
+			for ($i = 20; $i <= $#fields; $i++) {
+				print "$fields[$i],";
+			}
+
+			print "\n";
+
+			delete $dur{$key};
+			delete $fields{$key};
+			delete $start{$key};
+		}
+	} else {
+		unless ($seen{$time}) {
+			print STDERR "$ARGV: Don't know what to do with time interval $time\n";
+		}
+
+		$seen{$time} = 1;
+	}
+}
