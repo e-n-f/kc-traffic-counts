@@ -18,3 +18,4 @@ find mndot -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xarg
 find portland -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-portland.csv
 find ccrpcvt -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-ccrpcvt.csv
 find misc -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-misc.csv
+find corvallis -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-corvallis.csv
