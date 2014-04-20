@@ -12,3 +12,5 @@ find bmts -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs
 find ncdot -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-ncdot.csv
 find auburn -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-auburn.csv
 find wenatchee -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-wenatchee.csv
+find perimetercid -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-perimetercid.csv
+find rcrpc -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-rcrpc.csv
