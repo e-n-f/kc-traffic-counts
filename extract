@@ -75,7 +75,7 @@ sub out {
 
 					for $dir ("Westbound", "Northbound", "Eastbound", "Southbound") {
 						my $turn;
-						for $turn ("Thru Bikes") {
+						for $turn ("ThruBikes") {
 							print "$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
 						}
 					}
@@ -203,7 +203,7 @@ sub parse_cols {
 			my $i;
 			for ($i = 0; $i <= $#cols; $i++) {
 				if ($cols[$i] ne "Peds") {
-					$cols[$i] .= " Bikes";
+					$cols[$i] .= "Bikes";
 				}
 			}
 		}
@@ -235,6 +235,11 @@ while (<>) {
 		$date =~ s/,/ /g;
 	}
 
+	if (/(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday), (.*)/) {
+		$date = $2;
+		$date =~ s/,/ /g;
+	}
+
 	if (/Groups Printed\s*-?\s*(.*)/ || /Turning Movement Data/) {
 		$fname = $ARGV;
 		$group = $1;
@@ -261,6 +266,76 @@ while (<>) {
 		$streethdr =~ s/\s*//g;
 
 		parse_cols();
+	}
+
+	if (/Peak 15-Minute Interval Summary/) {
+		$fname = $ARGV;
+		$group = "";
+
+		$fname =~ s/,/ /g;
+		$group =~ s/,/ /g;
+
+		$_ = <>; # time range
+
+		$_ = <>;
+		if (s/^\s*Interval\s*//) {
+			chomp;
+			@directions = split(/   +/, $_);
+		} else {
+			print STDERR "$fname: Expected Interval, not $_\n";
+			next;
+		}
+
+		$_ = <>;
+		s/^\s*Start\s*//;
+		s/\s*Interval\s*$//;
+		chomp;
+		my @streets = split(/   +/, $_);
+		my %streets = ();
+		$street = "";
+		for (@streets) {
+			unless ($streets{$_}) {
+				if ($street ne "") {
+					$street .= " / ";
+				}
+				$street .= "$_";
+				$streets{$_} = 1;
+			}
+		}
+		$street =~ s/,/ /g;
+		$streethdr = $_;
+		$streethdr =~ s/\s*//g;
+
+		$_ = <>;
+		if (s/^\s*Time\s*//) {
+			chomp;
+			s/\s*Interval\s*$//;
+			s/\.\s*Total/\.Total/g;
+			s/\bR\b/Right/gi;
+			s/\bL\b/Left/gi;
+			s/\bT\b/Thru/gi;
+			s/\bBikes\b/ThruBikes/gi;
+			s/\bRT\b/Right/gi;
+			s/\bLT\b/Left/gi;
+			s/\bTH\b/Thru/gi;
+			s/\bRght\b/Right/gi;
+			s/\bU Turns/U-turn/gi;
+			s/\bUTurn/U-turn/gi;
+			s/\bU-TR/U-turn/gi;
+			s/\bU-Turns/U-turn/gi;
+			s/(\d) Axles/\1Axles/gi;
+			s/\bBear /Bear/gi;
+			s/\bHard /Hard/gi;
+			s/\bHd /Hard/gi;
+			s/\bBr /Bear/gi;
+			s/\bThruLeft\b/Thru Left/gi;
+			s/\bThruRight\b/Thru Right/gi;
+			s/\bRightThru\b/Right Thru/gi;
+			s/\bLeft Thru\b/Left Thru/gi;
+			s/\bLeftRight\b/Left Right/gi;
+			s/\bRightLeft\b/Right Left/gi;
+			@cols = split(/ +/, $_);
+		}
 	}
 
 	if ($streethdr ne "") {

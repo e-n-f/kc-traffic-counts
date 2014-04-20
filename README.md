@@ -25,4 +25,5 @@ From these sources:
   * Portland, OR
   * Chittenden County (Burlington), VT
   * Corvallis, OR
+  * Bothwell, WA
   * Miscellaneous reports found through web search

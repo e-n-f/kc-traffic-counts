@@ -3,6 +3,7 @@
 ./extract kc/*.txt > counts-kc.csv
 ./extract richmond/*.txt > counts-richmond.csv
 ./extract hilliard/*.txt > counts-hilliard.csv
+./extract bothell/*/*.txt > counts-bothell.csv
 
 find cary cary2 -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-cary.csv
 find hp -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-hp.csv
