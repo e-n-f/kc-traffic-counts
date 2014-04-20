@@ -11,9 +11,9 @@ while (<>) {
 		($h1, $m1, $h2, $m2) = ($1, $2, $3, $4);
 		$dur = ($h2 * 60 + $m2) - ($h1 * 60 + $m1);
 
-		if ($dur >= 60) {
-			$walk = $fields[12] + $fields[13] + $fields[14] + $fields[15];
-			print "$walk /$dur $_\n";
+		if ($dur > 60) {
+			# $walk = $fields[12] + $fields[13] + $fields[14] + $fields[15];
+			# print "$walk /$dur $_\n";
 			next;
 		}
 
@@ -27,7 +27,7 @@ while (<>) {
 			$fields{$key}[$i] += $fields[$i];
 		}
 
-		if ($dur{$key} >= 60) {
+		if ($dur{$key} == 60) {
 			$walk = $fields{$key}[12] + $fields{$key}[13] + $fields{$key}[14] + $fields{$key}[15];
 
 			printf("%d /%s ", $walk, $dur{$key});
@@ -45,6 +45,10 @@ while (<>) {
 
 			print "\n";
 
+			delete $dur{$key};
+			delete $fields{$key};
+			delete $start{$key};
+		} elsif ($dur{$key} > 60) {
 			delete $dur{$key};
 			delete $fields{$key};
 			delete $start{$key};
