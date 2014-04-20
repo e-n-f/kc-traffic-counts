@@ -1,0 +1,2142 @@
+CCSC Traffic Constraints
+ Technical Appendices
+
+
+
+
+       June 26, 2013
+   Appendix A
+
+Intersection Analysis
+                                                               Traffic Data Service
+                                                                         Campbell, CA
+                                                                        (408) 377-2988
+                                                                       tdsbay@cs.com
+                                                                                                                                              File Name           : 1AM
+                                                                                                                                              Site Code           : 00000001
+                                                                                                                                              Start Date          : 6/6/2013
+                                                                                                                                              Page No             :1
+                                                                Groups Printed- Vehicles
+                   Canada De La Segunda              Carmel Valley Rd                 Valley Greens Dr                                      Carmel Valley Rd
+                        Southbound                      Westbound                        Northbound                                             Eastbound
+ Start Time    Right Thru Left Peds App. Total Right Thru Left Peds App. Total Right Thru Left Peds                    App. Total   Right   Thru Left Peds        App. Total    Int. Total
+  07:00 AM        0     0    0     0       0      1    80    6     0      87      3     0     0     0                        3         0      45     0    0           45           135
+  07:15 AM        1     0    0     0       1      1 134      6     0    141       1     0     0     0                        1         2      55     1    0           58           201
+  07:30 AM        1     0    0     0       1      3 169     14     0    186       1     0     1     0                        2         9      76     1    0           86           275
+  07:45 AM        1     2    1     0       4      1 169     15     0    185       3     1     1     0                        5         5      90     0    0           95           289
+      Total       3     2    1     0       6      6 552     41     0    599       8     1     2     0                       11        16    266      2    0          284           900
+
+  08:00 AM        2     1      0      0       3      2   151     12      0     165      2        0      3          0         5         7    100      2        0      109           282
+  08:15 AM        1     2      0      0       3      1   139     11      0     151      5        0      1          0         6        10     77      0        0       87           247
+  08:30 AM        2     0      2      0       4      4   161      5      0     170      8        0      1          0         9         3    111      0        0      114           297
+  08:45 AM        1     1      1      0       3      3   175      4      0     182      7        0      3          0        10         6    100      1        0      107           302
+      Total       6     4      3      0      13     10   626     32      0     668     22        0      8          0        30        26    388      3        0      417          1128
+
+ Grand Total  9    6    4             0      19     16 1178      73      0    1267   30           1   10           0        41        42 654          5       0      701          2028
+  Apprch % 47.4 31.6 21.1             0            1.3   93     5.8      0         73.2         2.4 24.4           0                   6 93.3       0.7       0
+    Total % 0.4  0.3  0.2             0     0.9    0.8 58.1     3.6      0    62.5  1.5           0  0.5           0          2      2.1 32.2       0.2       0     34.6
+
+
+
+
+                    Canada De La Segunda                   Carmel Valley Rd                 Valley Greens Dr                             Carmel Valley Rd
+                           Southbound                         Westbound                       Northbound                                    Eastbound
+   Start Time Right Thru            Left App. Total Right Thru       Left App. Total   Right Thru     Left App. Total               Right Thru    Left App. Total              Int. Total
+Peak Hour Analysis From 07:00 AM to 08:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 08:00 AM
+    08:00 AM          2       1       0          3       2    151      12      165          2       0         3               5         7     100         2        109              282
+    08:15 AM          1       2       0          3       1    139      11      151          5       0          1              6        10      77         0         87              247
+    08:30 AM          2       0       2          4       4    161       5      170          8       0          1              9         3     111         0        114              297
+    08:45 AM          1       1       1          3       3    175       4      182        7         0          3            10          6     100         1        107              302
+ Total Volume         6       4       3        13       10    626      32      668       22         0          8            30         26     388         3        417            1128
+ % App. Total     46.2     30.8    23.1                1.5   93.7     4.8              73.3         0       26.7                      6.2      93       0.7
+          PHF     .750     .500    .375      .813    .625    .894   .667      .918     .688      .000       .667         .750        .650    .874     .375        .914             .934
+                                        Traffic Data Service
+                                                Campbell, CA
+                                               (408) 377-2988
+                                             tdsbay@cs.com
+                                                                                          File Name                : 1AM
+                                                                                          Site Code                : 00000001
+                                                                                          Start Date               : 6/6/2013
+                                                                                          Page No                  :2
+                                              Canada De La Segunda
+                                              Out      In      Total
+                                                13       13       26
+
+
+                                                    6     4             3
+                                                Right Thru          Left
+
+
+
+
+                                           Peak Hour Data
+                   1057
+                   Total
+
+
+
+
+                                                                                         Out
+                                                                                          413
+                               3
+
+
+
+
+                                                                            Right Thru
+                           Left
+
+
+
+
+                                                                                            Carmel Valley Rd
+  Carmel Valley Rd
+
+
+
+
+                                                            North
+
+
+
+
+                                                                               10
+           417
+
+
+                                  388
+                           Right Thru
+          In
+
+
+
+
+                                            Peak Hour Begins at 08:00 AM
+
+
+
+
+                                                                                                   In
+                                                                                   626
+
+
+                                                                                                    668
+                                            Vehicles
+                              26
+
+
+
+
+                                                                            Left
+ 640
+Out
+
+
+
+
+                                                                                                           Total
+                                                                              32
+
+
+                                                                                                            1081
+                                                 Left       Thru Right
+                                                        8       0   22
+
+
+                                                62         30       92
+                                              Out        In      Total
+                                                  Valley Greens Dr
+                                                               Traffic Data Service
+                                                                         Campbell, CA
+                                                                        (408) 377-2988
+                                                                       tdsbay@cs.com
+                                                                                                                                                 File Name           : 1PM
+                                                                                                                                                 Site Code           : 00000001
+                                                                                                                                                 Start Date          : 6/6/2013
+                                                                                                                                                 Page No             :1
+                                                                Groups Printed- Vehicles
+                   Canada De La Segunda              Carmel Valley Rd                 Valley Greens Dr                                         Carmel Valley Rd
+                        Southbound                      Westbound                        Northbound                                                Eastbound
+ Start Time    Right Thru Left Peds App. Total Right Thru Left Peds App. Total Right Thru Left Peds                       App. Total   Right   Thru Left Peds        App. Total    Int. Total
+  04:00 PM        5     0    2     0       7      0 126      5     0    131      12     0      3    0                          15         6    188      3    0          197           350
+  04:15 PM        0     2    1     0       3      3 120      7     0    130       8     0      5    0                          13         9    182      0    0          191           337
+  04:30 PM        0     0    2     0       2      2 139      2     0    143      22     1     11    0                          34         7    182      3    0          192           371
+  04:45 PM        5     0    2     0       7      2 121      7     0    130      10     1      1    0                          12         6    176      2    0          184           333
+      Total      10     2    7     0     19       7 506     21     0    534      52     2     20    0                          74        28    728      8    0          764          1391
+
+  05:00 PM        1     1      3      0       5      1   126      5      0     132     15         0        3          0        18         6    205      1        0      212           367
+  05:15 PM        0     0      1      0       1      0   104      6      0     110     13         0        4          0        17         4    189      0        0      193           321
+  05:30 PM        1     0      3      0       4      1   104      5      0     110      6         0        3          0         9         4    179      0        0      183           306
+  05:45 PM        3     0      2      0       5      0    98      9      0     107     11         0        2          0        13         4    182      3        0      189           314
+      Total       5     1      9      0      15      2   432     25      0     459     45         0       12          0        57        18    755      4        0      777          1308
+
+ Grand Total 15         3   16        0      34      9 938       46      0     993      97         2   32             0      131         46 1483       12        0    1541           2699
+  Apprch % 44.1       8.8 47.1        0            0.9 94.5     4.6      0              74       1.5 24.4             0                   3 96.2       0.8       0
+    Total % 0.6       0.1  0.6        0     1.3    0.3 34.8     1.7      0    36.8     3.6       0.1  1.2             0       4.9       1.7 54.9       0.4       0     57.1
+
+
+
+
+                    Canada De La Segunda                   Carmel Valley Rd                 Valley Greens Dr                                Carmel Valley Rd
+                           Southbound                         Westbound                       Northbound                                       Eastbound
+   Start Time Right Thru            Left App. Total Right Thru       Left App. Total   Right Thru     Left App. Total                  Right Thru    Left App. Total              Int. Total
+Peak Hour Analysis From 04:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 04:15 PM
+    04:15 PM          0       2       1          3       3    120       7      130           8        0          5             13          9     182         0        191              337
+    04:30 PM          0       0       2          2       2    139       2      143       22           1         11             34          7     182         3        192              371
+    04:45 PM          5       0       2          7       2    121       7      130       10          1            1            12          6     176         2        184             333
+    05:00 PM          1       1       3          5       1    126       5      132       15          0            3            18          6     205         1        212             367
+ Total Volume         6       3       8        17        8    506      21      535       55          2           20            77         28     745         6        779            1408
+ % App. Total     35.3     17.6    47.1                1.5   94.6     3.9              71.4        2.6           26                      3.6    95.6       0.8
+          PHF     .300     .375    .667      .607    .667    .910   .750      .935     .625       .500         .455         .566        .778    .909     .500        .919             .949
+                                        Traffic Data Service
+                                                Campbell, CA
+                                               (408) 377-2988
+                                             tdsbay@cs.com
+                                                                                         File Name                : 1PM
+                                                                                         Site Code                : 00000001
+                                                                                         Start Date               : 6/6/2013
+                                                                                         Page No                  :2
+                                              Canada De La Segunda
+                                              Out      In      Total
+                                                16       17       33
+
+
+                                                    6     3        8
+                                                Right Thru     Left
+
+
+
+
+                                           Peak Hour Data
+                   1311
+                   Total
+
+
+
+
+                                                                                        Out
+                                                                                         808
+                               6
+
+
+
+
+                                                                           Right Thru
+                           Left
+
+
+
+
+                                                                                           Carmel Valley Rd
+  Carmel Valley Rd
+
+
+
+
+                                                       North
+
+
+
+
+                                                                               8
+           779
+
+
+                                  745
+                           Right Thru
+          In
+
+
+
+
+                                            Peak Hour Begins at 04:15 PM
+
+
+
+
+                                                                                                  In
+                                                                                  506
+
+
+                                                                                                   535
+                                            Vehicles
+                              28
+
+
+
+
+                                                                           Left
+ 532
+Out
+
+
+
+
+                                                                                                          Total
+                                                                             21
+
+
+                                                                                                           1343
+                                                 Left Thru Right
+                                                   20     2   55
+
+
+                                                52         77      129
+                                              Out        In      Total
+                                                  Valley Greens Dr
+HCM Unsignalized Intersection Capacity Analysis
+3: Carmel Valley Rd & Canada De La Segunda                                                                                   7/1/2013
+
+
+
+Movement                            EBL    EBT     EBR     WBL     WBT     WBR        NBL    NBT    NBR    SBL       SBT        SBR
+Lane Configurations
+Volume (veh/h)                        3     388      26      32     626       10        8       0    22      3          4          6
+Sign Control                               Free                    Free                      Stop                    Stop
+Grade                                       0%                      0%                        0%                      0%
+Peak Hour Factor                    0.92   0.92    0.92     0.92   0.92     0.92      0.92   0.92   0.92   0.92      0.92       0.92
+Hourly flow rate (vph)                 3    422      28       35    680       11         9      0     24      3         4          7
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                None                    None
+Median storage veh)
+Upstream signal (ft)
+pX, platoon unblocked
+vC, conflicting volume              691                     422                       1187   1189   422    1208     1184         686
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                  691                     422                       1187   1189   422    1208      1184        686
+tC, single (s)                       4.1                     4.1                       7.1    6.5    6.2    7.1       6.5         6.2
+tC, 2 stage (s)
+tF (s)                               2.2                    2.2                        3.5    4.0    3.3    3.5        4.0        3.3
+p0 queue free %                     100                      97                        94    100     96     98         98         99
+cM capacity (veh/h)                 904                    1137                       156    181    632    150        183        448
+Direction, Lane #                   EB 1   EB 2    EB 3    WB 1    WB 2     NB 1      SB 1   SB 2
+Volume Total                           3    422      28       35     691      33         8      7
+Volume Left                            3      0       0       35       0       9         3      0
+Volume Right                           0      0      28        0      11      24         0      7
+cSH                                  904   1700    1700    1137    1700      348       167    448
+Volume to Capacity                  0.00   0.25    0.02     0.03    0.41    0.09      0.05   0.01
+Queue Length 95th (ft)                 0      0       0        2       0       8         4      1
+Control Delay (s)                    9.0    0.0     0.0      8.3     0.0    16.4      27.6   13.2
+Lane LOS                               A                       A               C         D      B
+Approach Delay (s)                   0.1                     0.4            16.4      20.9
+Approach LOS                                                                   C         C
+Intersection Summary
+Average Delay                                        0.9
+Intersection Capacity Utilization                 50.2%        ICU Level of Service                   A
+Analysis Period (min)                                 15
+
+
+
+
+Carmel Canine 6/6/2013 Existing AM                                                                                Synchro 8 Report
+HT                                                                                                                         Page 1
+HCM Unsignalized Intersection Capacity Analysis
+3: Carmel Valley Rd & Canada De La Segunda                                                                                   7/1/2013
+
+
+
+Movement                            EBL    EBT     EBR     WBL     WBT     WBR        NBL    NBT    NBR    SBL       SBT        SBR
+Lane Configurations
+Volume (veh/h)                        6     745      28      21     506        8       20       2    55      8          3          6
+Sign Control                               Free                    Free                      Stop                    Stop
+Grade                                       0%                      0%                        0%                      0%
+Peak Hour Factor                    0.92   0.92    0.92     0.92   0.92     0.92      0.92   0.92   0.92   0.92      0.92       0.92
+Hourly flow rate (vph)                 7    810      30       23    550        9        22      2     60      9         3          7
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                None                    None
+Median storage veh)
+Upstream signal (ft)
+pX, platoon unblocked
+vC, conflicting volume              559                     810                       1427   1427   810    1484     1423         554
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                  559                     810                       1427   1427   810    1484      1423        554
+tC, single (s)                       4.1                     4.1                       7.1    6.5    6.2    7.1       6.5         6.2
+tC, 2 stage (s)
+tF (s)                               2.2                     2.2                       3.5    4.0    3.3    3.5        4.0        3.3
+p0 queue free %                       99                     97                        80     98     84     90         98         99
+cM capacity (veh/h)                 1012                    816                       107    130    380     84        131        532
+Direction, Lane #                   EB 1   EB 2    EB 3    WB 1    WB 2     NB 1      SB 1   SB 2
+Volume Total                           7    810      30       23     559      84        12      7
+Volume Left                            7      0       0       23       0      22         9      0
+Volume Right                           0      0      30        0       9      60         0      7
+cSH                                 1012   1700    1700      816   1700      221        93    532
+Volume to Capacity                  0.01   0.48    0.02     0.03    0.33    0.38      0.13   0.01
+Queue Length 95th (ft)                 0      0       0        2       0      42        11      1
+Control Delay (s)                    8.6    0.0     0.0      9.5     0.0    30.8      49.5   11.9
+Lane LOS                               A                       A               D         E      B
+Approach Delay (s)                   0.1                     0.4            30.8      36.2
+Approach LOS                                                                   D         E
+Intersection Summary
+Average Delay                                        2.3
+Intersection Capacity Utilization                 57.1%        ICU Level of Service                   B
+Analysis Period (min)                                 15
+
+
+
+
+Carmel Canine 6/6/2013 Existing PM                                                                                Synchro 8 Report
+HT                                                                                                                         Page 1
+HCM Unsignalized Intersection Capacity Analysis
+3: Carmel Valley Rd & Canada De La Segunda                                                                                   7/1/2013
+
+
+
+Movement                            EBL    EBT     EBR     WBL     WBT     WBR        NBL    NBT    NBR    SBL       SBT        SBR
+Lane Configurations
+Volume (veh/h)                        3     388      28      33     626       10       10       0    22      3          4          6
+Sign Control                               Free                    Free                      Stop                    Stop
+Grade                                       0%                      0%                        0%                      0%
+Peak Hour Factor                    0.92   0.92    0.92     0.92   0.92     0.92      0.92   0.92   0.92   0.92      0.92       0.92
+Hourly flow rate (vph)                 3    422      30       36    680       11        11      0     24      3         4          7
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                None                    None
+Median storage veh)
+Upstream signal (ft)
+pX, platoon unblocked
+vC, conflicting volume              691                     422                       1189   1191   422    1210      1186        686
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                  691                     422                       1189   1191   422    1210      1186        686
+tC, single (s)                       4.1                     4.1                       7.1    6.5    6.2    7.1       6.5         6.2
+tC, 2 stage (s)
+tF (s)                               2.2                    2.2                        3.5    4.0    3.3    3.5        4.0        3.3
+p0 queue free %                     100                      97                        93    100     96     98         98         99
+cM capacity (veh/h)                 904                    1137                       155    181    632    149        182        448
+Direction, Lane #                   EB 1   EB 2    EB 3    WB 1    WB 2     NB 1      SB 1   SB 2
+Volume Total                           3    422      30       36     691      35         8      7
+Volume Left                            3      0       0       36       0      11         3      0
+Volume Right                           0      0      30        0      11      24         0      7
+cSH                                  904   1700    1700    1137    1700      322       166    448
+Volume to Capacity                  0.00   0.25    0.02     0.03    0.41    0.11      0.05   0.01
+Queue Length 95th (ft)                 0      0       0        2       0       9         4      1
+Control Delay (s)                    9.0    0.0     0.0      8.3     0.0    17.5      27.7   13.2
+Lane LOS                               A                       A               C         D      B
+Approach Delay (s)                   0.1                     0.4            17.5      21.0
+Approach LOS                                                                   C         C
+Intersection Summary
+Average Delay                                        1.0
+Intersection Capacity Utilization                 50.2%        ICU Level of Service                   A
+Analysis Period (min)                                 15
+
+
+
+
+Carmel Canine 5:00 pm 6/6/2013 Existing+Project AM (weekday)                                                      Synchro 8 Report
+HT                                                                                                                         Page 1
+HCM Unsignalized Intersection Capacity Analysis
+3: Carmel Valley Rd & Canada De La Segunda                                                                                   7/1/2013
+
+
+
+Movement                            EBL    EBT     EBR     WBL     WBT     WBR        NBL    NBT    NBR    SBL       SBT        SBR
+Lane Configurations
+Volume (veh/h)                        6     745      34      23     506        8       23       2    56      8          3          6
+Sign Control                               Free                    Free                      Stop                    Stop
+Grade                                       0%                      0%                        0%                      0%
+Peak Hour Factor                    0.92   0.92    0.92     0.92   0.92     0.92      0.92   0.92   0.92   0.92      0.92       0.92
+Hourly flow rate (vph)                 7    810      37       25    550        9        25      2     61      9         3          7
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                None                    None
+Median storage veh)
+Upstream signal (ft)
+pX, platoon unblocked
+vC, conflicting volume              559                     810                       1431   1432   810    1489      1427        554
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                  559                     810                       1431   1432   810    1489      1427        554
+tC, single (s)                       4.1                     4.1                       7.1    6.5    6.2    7.1       6.5         6.2
+tC, 2 stage (s)
+tF (s)                               2.2                     2.2                       3.5    4.0    3.3    3.5        4.0        3.3
+p0 queue free %                       99                     97                        76     98     84     89         97         99
+cM capacity (veh/h)                 1012                    816                       106    129    380     82        130        532
+Direction, Lane #                   EB 1   EB 2    EB 3    WB 1    WB 2     NB 1      SB 1   SB 2
+Volume Total                           7    810      37       25     559      88        12      7
+Volume Left                            7      0       0       25       0      25         9      0
+Volume Right                           0      0      37        0       9      61         0      7
+cSH                                 1012   1700    1700      816   1700      213        91    532
+Volume to Capacity                  0.01   0.48    0.02     0.03    0.33    0.41      0.13   0.01
+Queue Length 95th (ft)                 0      0       0        2       0      47        11      1
+Control Delay (s)                    8.6    0.0     0.0      9.6     0.0    33.4      50.2   11.9
+Lane LOS                               A                       A               D         F      B
+Approach Delay (s)                   0.1                     0.4            33.4      36.7
+Approach LOS                                                                   D         E
+Intersection Summary
+Average Delay                                        2.5
+Intersection Capacity Utilization                 57.4%        ICU Level of Service                   B
+Analysis Period (min)                                 15
+
+
+
+
+Carmel Canine 5:00 pm 6/6/2013 Existing+Project PM (weekday)                                                      Synchro 8 Report
+HT                                                                                                                         Page 1
+HCM Unsignalized Intersection Capacity Analysis
+3: Carmel Valley Rd & Canada De La Segunda                                                                                   7/1/2013
+
+
+
+Movement                            EBL    EBT     EBR     WBL     WBT     WBR        NBL    NBT    NBR    SBL       SBT        SBR
+Lane Configurations
+Volume (veh/h)                        3     388      47      38     626       10        6       0    22      3          4          6
+Sign Control                               Free                    Free                      Stop                    Stop
+Grade                                       0%                      0%                        0%                      0%
+Peak Hour Factor                    0.92   0.92    0.92     0.92   0.92     0.92      0.92   0.92   0.92   0.92      0.92       0.92
+Hourly flow rate (vph)                 3    422      51       41    680       11         7      0     24      3         4          7
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                None                    None
+Median storage veh)
+Upstream signal (ft)
+pX, platoon unblocked
+vC, conflicting volume              691                     422                       1200   1202   422    1221      1197        686
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                  691                     422                       1200   1202   422    1221      1197        686
+tC, single (s)                       4.1                     4.1                       7.1    6.5    6.2    7.1       6.5         6.2
+tC, 2 stage (s)
+tF (s)                               2.2                    2.2                        3.5    4.0    3.3    3.5        4.0        3.3
+p0 queue free %                     100                      96                        96    100     96     98         98         99
+cM capacity (veh/h)                 904                    1137                       152    177    632    146        178        448
+Direction, Lane #                   EB 1   EB 2    EB 3    WB 1    WB 2     NB 1      SB 1   SB 2
+Volume Total                           3    422      51       41     691      30         8      7
+Volume Left                            3      0       0       41       0       7         3      0
+Volume Right                           0      0      51        0      11      24         0      7
+cSH                                  904   1700    1700    1137    1700      377       163    448
+Volume to Capacity                  0.00   0.25    0.03     0.04    0.41    0.08      0.05   0.01
+Queue Length 95th (ft)                 0      0       0        3       0       7         4      1
+Control Delay (s)                    9.0    0.0     0.0      8.3     0.0    15.4      28.2   13.2
+Lane LOS                               A                       A               C         D      B
+Approach Delay (s)                   0.1                     0.5            15.4      21.2
+Approach LOS                                                                   C         C
+Intersection Summary
+Average Delay                                        0.9
+Intersection Capacity Utilization                 50.2%        ICU Level of Service                   A
+Analysis Period (min)                                 15
+
+
+
+
+Carmel Canine 6/6/2013 Existing+Project AM (Friday)                                                               Synchro 8 Report
+HT                                                                                                                         Page 1
+HCM Unsignalized Intersection Capacity Analysis
+3: Carmel Valley Rd & Canada De La Segunda                                                                                   7/1/2013
+
+
+
+Movement                            EBL    EBT     EBR     WBL     WBT     WBR        NBL    NBT    NBR    SBL       SBT        SBR
+Lane Configurations
+Volume (veh/h)                        6     745      26      21     506        8       56       2    65      8          3          6
+Sign Control                               Free                    Free                      Stop                    Stop
+Grade                                       0%                      0%                        0%                      0%
+Peak Hour Factor                    0.92   0.92    0.92     0.92   0.92     0.92      0.92   0.92   0.92   0.92      0.92       0.92
+Hourly flow rate (vph)                 7    810      28       23    550        9        61      2     71      9         3          7
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                                None                    None
+Median storage veh)
+Upstream signal (ft)
+pX, platoon unblocked
+vC, conflicting volume              559                     810                       1427   1427   810    1495      1423        554
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                  559                     810                       1427   1427   810    1495      1423        554
+tC, single (s)                       4.1                     4.1                       7.1    6.5    6.2    7.1       6.5         6.2
+tC, 2 stage (s)
+tF (s)                               2.2                     2.2                       3.5    4.0    3.3    3.5        4.0        3.3
+p0 queue free %                       99                     97                        43     98     81     89         98         99
+cM capacity (veh/h)                 1012                    816                       107    130    380     79        131        532
+Direction, Lane #                   EB 1   EB 2    EB 3    WB 1    WB 2     NB 1      SB 1   SB 2
+Volume Total                           7    810      28       23     559     134        12      7
+Volume Left                            7      0       0       23       0      61         9      0
+Volume Right                           0      0      28        0       9      71         0      7
+cSH                                 1012   1700    1700      816   1700      173        89    532
+Volume to Capacity                  0.01   0.48    0.02     0.03    0.33    0.77      0.13   0.01
+Queue Length 95th (ft)                 0      0       0        2       0     126        11      1
+Control Delay (s)                    8.6    0.0     0.0      9.5     0.0    74.2      51.7   11.9
+Lane LOS                               A                       A               F         F      B
+Approach Delay (s)                   0.1                     0.4            74.2      37.6
+Approach LOS                                                                   F         E
+Intersection Summary
+Average Delay                                        6.9
+Intersection Capacity Utilization                 59.7%        ICU Level of Service                   B
+Analysis Period (min)                                 15
+
+
+
+
+Carmel Canine 5:00 pm 6/6/2013 Existing+Project PM (Friday)                                                       Synchro 8 Report
+HT                                                                                                                         Page 1
+Carmel Canine
+                      1                        . Valley Green Drive and Carmel Valley Road
+
+                                                           MUTCD PEAK-HOUR VOLUME SIGNAL WARRANT - WARRANT 3 (70% Factor)
+                                                            (community less than 10,000 population or above 40 MPH on major street)
+
+                                              600
+MINOR STREET - HIGHER-VOLUME APPROACH (VPH)
+
+
+
+
+                                              500                 2 or morel lanes (major) & 2 or more lanes (minor)
+
+
+                                                                                           2 or more lanes (major) & 1 lane (minor) or
+                                              400                                          1 lane (major) & 2 or more lanes (minor)
+
+
+
+                                              300                                                                   1 lane (major) & 1 lane (minor)
+                                                                                                                                                                                        Existing AM
+
+
+                                                                                                                                                                                        Existing + Project AM
+                                                                                                                                                                                        (weekday)
+                                              200                                                                                                                                       Existing + Project AM
+                                                                                                                                                                                        (Friday)
+
+                                                                                                                                                                                        Existing PM
+
+                                              100                                                                                                                                       Existing + Project PM
+                                                                                                                                                                                        (weekday)
+
+                                                                                                                                                                                        Existing + Project PM
+                                                                                                                                                                                        (Friday)
+                                                0
+                                                                                                                             1000
+
+
+
+                                                                                                                                         1100
+
+
+
+                                                                                                                                                      1200
+
+
+
+                                                                                                                                                                     1300
+                                                    300
+
+
+
+                                                            400
+
+
+
+                                                                      500
+
+
+
+                                                                                600
+
+
+
+                                                                                             700
+
+
+
+                                                                                                        800
+
+
+
+                                                                                                                  900
+
+
+
+
+                                                                            MAJOR STREET - TOTAL OF BOTH APPROACHES (VPH)
+
+
+
+Source: Figure 4C-4 of the Manual on Unifrom Traffic Control and Devices (MUTCD) 2012 Edition from California Department of Transportation (Caltrans).
+        * 100 vph applies as the lower threshold volume for a minor-street approach with two or more lanes
+          and 75 vph applies as the lower threshold volume for a minor-street approach with one lane.
+
+                                                                                                                                                                  AM Peak Hour
+
+
+                                                                                                                                                                            Existing + Project
+
+
+                                                                                                                                                                                                 Existing + Project
+                                                                                                                                                                            AM (weekday)
+                                                                                                                                                Approach
+                                                                                                                                                             Existing AM
+
+
+
+
+                                                                                                                                                                                                 AM (Friday)
+                                                                                                                                                 Lanes
+
+                                                                                                                                                2 or
+                                                                                                                                            One More
+                                                          Major Street - Both Approaches                        Carmel Valley Road          x                1053            1055                 1074
+                                                          Minor Street - Highest Approach                        Valley Green Drive             x             24                 27                   25
+                                                                                                                                          Warrant Met?       No                  No                   No
+
+
+                                                                                                                                                                  PM Peak Hour
+
+
+                                                                                                                                                Approach
+                                                                                                                                                             Existing PM
+
+
+                                                                                                                                                                           Project PM
+
+
+                                                                                                                                                                           Project PM
+                                                                                                                                                                           (weekday)
+                                                                                                                                                                           Existing +
+
+
+                                                                                                                                                                           Existing +
+
+
+
+
+                                                                                                                                                 Lanes
+                                                                                                                                                                           (Friday)
+
+
+
+
+                                                                                                                                                2 or
+                                                                                                                                            One More
+                                                          Major Street - Both Approaches                        Carmel Valley Road          x                1293            1299                 1291
+                                                          Minor Street - Highest Approach                        Valley Green Drive             x             31                 35                   67
+                                                                                                                                          Warrant Met?       No                  No                   No
+     Appendix B
+
+Roadway Segment Analysis
+                                                                                                               VehicleCount-1560 Page 1
+
+                                       Traffic Data Service -- Campbell, CA
+                                                  Vehicle Counts
+VehicleCount-1560 -- English (ENU)
+
+Datasets:
+Site:                   [1] CARMEL VALLEY RD W OF VALLEY GREENS DR
+
+Profile:
+Included classes:       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+Speed range:            0 - 100 mph.
+Direction:              East (bound)
+Scheme:                 Vehicle classification (Scheme F)
+Units:                  Non metric (ft, mi, ft/s, mph, lb, ton)
+
+* Thursday, June 06, 2013 - Total=7910, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+   20    13     9     8     14   55 142 277 418 395 440 522 577 544 623 654 767 756 572 356 295 199 171               83
+    6     5     3     5      6    5   18   43 102       96 106 132 132 129 143 158 202 206 171 104     95   69   53   17    8
+    6     4     1     0      3   18   21   55    95     86 110 126 152 127 162 163 176 180 146 103     86   48   51   29   12
+    5     4     3     1      3   16   49   81 116 129 112 145 152 143 142 162 204 198 147         88   52   53   45   16    4
+    3     0     2     2      2   16   54   98 105       84 112 119 141 145 176 171 185 172 108    61   62   29   22   21    5
+AM Peak 1145 - 1245 (555), AM PHF=0.91 PM Peak 1630 - 1730 (775), PM PHF=0.94
+
+* Friday, June 07, 2013 - Total=8585, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+   29    14    10     7      8   56 128 284 420 424 441 604 600 663 697 821 754 739 600 387 292 286 230               91
+    8     9     2     3      2    5   13   49 111       92 115 131 134 182 160 205 185 196 154 121     74   80   78   26   11
+   12     0     5     0      2   13   29   67    97     99 116 147 145 150 171 225 170 183 153 100     92   96   68   17   13
+    4     1     1     1      1   21   38   65 104 108 106 145 155 158 194 215 200 187 129         89   54   53   47   19   18
+    5     4     2     3      3   17   48 103 108 125 104 181 166 173 172 176 199 173 164          77   72   57   37   29   10
+AM Peak 1145 - 1245 (615), AM PHF=0.85 PM Peak 1500 - 1600 (821), PM PHF=0.91
+
+* Saturday, June 08, 2013 - Total=7578, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+   52    27    17    17     20   37   88 204 320 377 508 684 705 697 695 610 587 490 419 305 224 227 172              96
+   11     6     7     4      5    6    9   25    55     88 108 160 153 187 167 169 139 125 122    91   64   60   58   33   21
+   13     5     6     3      5   10   20   39    76 100 118 159 190 167 189 144 162 116 111       71   55   69   48   21   11
+   18     5     4     3      4   13   23   59 100       84 121 185 178 170 177 142 161 121   87   69   54   48   25   16    9
+   10    11     0     7      6    8   36   81    89 105 161 180 184 173 162 155 125 128      99   74   51   50   41   26   13
+AM Peak 1130 - 1230 (708), AM PHF=0.93 PM Peak 1215 - 1315 (739), PM PHF=0.97
+                                                                                                               VehicleCount-1559 Page 1
+
+                                       Traffic Data Service -- Campbell, CA
+                                                  Vehicle Counts
+VehicleCount-1559 -- English (ENU)
+
+Datasets:
+Site:                   [1] CARMEL VALLEY RD W OF VALLEY GREENS DR
+
+Profile:
+Included classes:       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+Speed range:            0 - 100 mph.
+Direction:              West (bound)
+Scheme:                 Vehicle classification (Scheme F)
+Units:                  Non metric (ft, mi, ft/s, mph, lb, ton)
+
+* Thursday, June 06, 2013 - Total=7512, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+   14     8     8     8     23   66 199 548 631 617 562 552 553 568 603 530 514 438 356 239 208 138              78   51
+    8     3     4     2      2    9   32   80 153 159 130 128 129 152 139 138 135 124        91   68   53   40   14   17    5
+    3     3     1     2      8    9   39 129 147 140 152 161 153 128 141 120 113 111         97   58   53   39   21   18   12
+    2     1     0     2      8   25   55 170 155 158 127 132 146 149 182 132 145 107         87   52   67   34   23   11   11
+    1     1     3     2      5   23   73 169 176 160 153 131 125 139 141 140 121        96   81   61   35   25   20    5    3
+AM Peak 0730 - 0830 (639), AM PHF=0.94 PM Peak 1400 - 1500 (603), PM PHF=0.83
+
+* Friday, June 07, 2013 - Total=8188, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+   31    11     4     3     27   63 207 514 590 614 612 625 619 609 744 581 561 486 421 266 229 166 118               87
+    5     3     0     1      3    8   34   94 143 156 145 135 164 165 196 156 135 134 127         63   57   43   34   28   11
+   12     2     1     0      4    7   43 100 142 174 159 172 152 167 193 141 138 120 102          65   67   36   28   15   13
+   11     3     1     1      9   20   57 147 149 150 143 168 145 150 177 153 158 112 105          62   47   46   31   23    7
+    3     3     2     1     11   28   73 173 156 134 165 150 158 127 178 131 130 120         87   76   58   41   25   21    8
+AM Peak 1115 - 1215 (654), AM PHF=0.95 PM Peak 1400 - 1500 (744), PM PHF=0.95
+
+* Saturday, June 08, 2013 - Total=7427, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+   39     9     7     8     16   34 108 186 346 510 568 579 600 560 654 615 584 579 421 289 239 193 156 127
+   11     4     1     0      1    5   13   35    68 103 144 151 148 125 176 143 146 152 110       86   65   50   41   44   31
+   13     4     2     3      4    7   37   39    76 138 158 142 158 145 150 158 144 157 124       76   58   39   39   26   24
+    7     1     2     2      5   11   33   52    98 128 138 148 166 155 159 158 138 143      97   74   66   42   46   24   12
+    8     0     2     3      6   11   25   60 104 141 128 138 128 135 169 156 156 127        90   53   50   62   30   33    5
+AM Peak 1145 - 1245 (610), AM PHF=0.92 PM Peak 1400 - 1500 (654), PM PHF=0.93
+                                                                                                               VehicleCount-1561 Page 1
+
+                                       Traffic Data Service -- Campbell, CA
+                                                  Vehicle Counts
+VehicleCount-1561 -- English (ENU)
+
+Datasets:
+Site:                   [2] VALLEY GREENS DR S OF CARMEL VALLEY RD
+
+Profile:
+Included classes:       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+Speed range:            0 - 100 mph.
+Direction:              North (bound)
+Scheme:                 Vehicle classification (Scheme F)
+Units:                  Non metric (ft, mi, ft/s, mph, lb, ton)
+
+* Thursday, June 06, 2013 - Total=655, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+    1     0     0     0      0    2    7   11    30     42    39    52   59 57 64 70 57 48   45   28   25   11    2    5
+    1     0     0     0      0    1    0    3     5      7      5   15   14 20 20 20 12 16   13    8    4    5    0    2   0
+    0     0     0     0      0    1    1    1     6     10      9   17   15 12 17 16 11 13   14   12   10    1    2    1   1
+    0     0     0     0      0    0    2    4     9     10    13     9   17 15 19 18 20  8    7    7    7    2    0    0   0
+    0     0     0     0      0    0    4    3    10     15    12    11   13 10  8 16 14 11   11    1    4    3    0    2   0
+AM Peak 1030 - 1130 (57), AM PHF=0.84 PM Peak 1500 - 1600 (70), PM PHF=0.88
+
+* Friday, June 07, 2013 - Total=610, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+    1     0     0     2      0    3    3   21    28     45    32    33   64 54 41 83 49 34   44   32   20    9    6    6
+    0     0     0     1      0    1    0    5     4     14      5    9   12 13  9 15 16 10   15   13    7    2    4    4   1
+    1     0     0     0      0    2    1    3     6     11    12    12   17 18 10 25 10 13    8    6    6    3    1    0   1
+    0     0     0     1      0    0    1    8     7      8    10     6    8  9  6 22 12  5    7    6    5    2    0    1   1
+    0     0     0     0      0    0    1    5    11     12      5    6   27 14 16 21 11  6   14    7    2    2    1    1   0
+AM Peak 0900 - 1000 (45), AM PHF=0.80 PM Peak 1515 - 1615 (84), PM PHF=0.84
+
+* Saturday, June 08, 2013 - Total=487, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+    3     0     1     0      0    2    2   14    12     18    30    30   40 56 41 45 35 45   27   24   12   12   14   24
+    1     0     0     0      0    1    0    2     5      3      6    6   12 22 15 16  3 12    4    6    6    3    6    2   3
+    1     0     0     0      0    0    0    1     3      4      7   10    9 12  4  7 11 10    6    9    4    3    5    9   3
+    1     0     0     0      0    1    2    4     2      3    11     7   12 15  8  8  9 10    8    5    1    4    1    5   1
+    0     0     1     0      0    0    0    7     2      8      6    7    7  7 14 14 12 13    9    4    1    2    2    8   0
+AM Peak 1145 - 1245 (40), AM PHF=0.83 PM Peak 1245 - 1345 (56), PM PHF=0.64
+                                                                                                               VehicleCount-1562 Page 1
+
+                                       Traffic Data Service -- Campbell, CA
+                                                  Vehicle Counts
+VehicleCount-1562 -- English (ENU)
+
+Datasets:
+Site:                   [2] VALLEY GREENS DR S OF CARMEL VALLEY RD
+
+Profile:
+Included classes:       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+Speed range:            0 - 100 mph.
+Direction:              South (bound)
+Scheme:                 Vehicle classification (Scheme F)
+Units:                  Non metric (ft, mi, ft/s, mph, lb, ton)
+
+* Thursday, June 06, 2013 - Total=710, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+    0     1     1     0      2   20   21   57    51     57    59    63   57 54 53 42 46 35   41   23   10   10    2    5
+    0     0     0     0      1    4    3    7    18     16    10    18   19 17 17  8 13  6    7   10    3    4    0    3   0
+    0     1     0     0      0   10    7    8    16     10    15    12   11 16 10 10 12 11   14    3    2    3    0    0   1
+    0     0     0     0      1    2    2   21     9     12    12    13   13 11 15 12 11  4   11    5    5    2    0    1   0
+    0     0     1     0      0    4    9   21     8     19    22    20   14 10 11 12 10 14    9    5    0    1    2    1   0
+AM Peak 0730 - 0830 (76), AM PHF=0.90 PM Peak 1230 - 1330 (60), PM PHF=0.88
+
+* Friday, June 07, 2013 - Total=654, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+    1     0     1     0      3   17   24   25    53     55    52    49   53 67 43 35 42 47   27   22   15   12    7    4
+    0     0     0     0      0    1    4    8    12     11    12     9   17 15  8 11 18 19    8    5    6    4    3    0   2
+    1     0     0     0      1    8    2    4    14     11    11    12   11 25  8 10  7  7    6    4    5    5    1    1   1
+    0     0     1     0      0    2    6    5    11     16    14    12    9 18 12  5 10 10    9    3    3    2    1    3   0
+    0     0     0     0      2    6   12    8    16     17    15    16   16  9 15  9  7 11    4   10    1    1    2    0   0
+AM Peak 1115 - 1215 (57), AM PHF=0.84 PM Peak 1245 - 1345 (74), PM PHF=0.74
+
+* Saturday, June 08, 2013 - Total=576, 15 minute drops
+ 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300
+    3     2     1     0      3    5    7   23    28     31    38    37   60 56 52 60 34 45   30   23   15    6   10    7
+    2     0     1     0      1    2    0    2     5      8    12     5   12 14 15 12  8 12   10   11    7    1    4    0   0
+    1     2     0     0      1    2    0    4     9      5      8   10   12 16 10 10  8  9    8    2    2    3    3    3   2
+    0     0     0     0      0    0    4    6     5      8    11    12   17 12 12 22  9 13    9    4    4    1    2    2   0
+    0     0     0     0      1    1    3   11     9     10      7   10   19 14 15 16  9 11    3    6    2    1    1    2   1
+AM Peak 1145 - 1245 (51), AM PHF=0.75 PM Peak 1230 - 1330 (66), PM PHF=0.87
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                      Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Existing AM & PM
+Highway                Carmel Valley Road
+From/To                Holman Road to CVMP Boundary
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft      Peak-hour factor, PHF      0.92
+Lane width             12.0     ft      % Trucks and buses         2      %
+Segment length         0.0      mi      % Recreational vehicles    0      %
+Terrain type           Level            % No-passing zones         0      %
+Grade: Length                   mi      Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       300      veh/h
+Directional split        60    /   40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                        1.00
+PCE for trucks, ET                                 1.7*
+PCE for RVs, ER                                    1.0
+Heavy-vehicle adjustment factor,                   0.986
+Two-way flow rate,(note-1) vp                      331     pc/h
+Highest directional split proportion (note-2)      199     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                           -      mi/h
+Observed volume, Vf                                 -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                         50.0    mi/h
+Adj. for lane and shoulder width, fLS              2.6*    mi/h
+Adj. for access points, fA                         0.0     mi/h
+
+Free-flow speed, FFS                               47.4    mi/h
+
+Adjustment for no-passing zones, fnp               0.0*    mi/h
+Average travel speed, ATS                          44.8    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                327     pc/h
+Highest directional split proportion (note-2)                196
+Base percent time-spent-following, BPTSF                     25.0    %
+Adj.for directional distribution and no-passing zones, fd/np 0.9
+Percent time-spent-following, PTSF                           25.9    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        A
+Volume to capacity ratio, v/c                                0.10
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                      Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Existing AM & PM
+Highway                Carmel Valley Road
+From/To                Holman Road to Esquiline Road
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft      Peak-hour factor, PHF      0.92
+Lane width             12.0     ft      % Trucks and buses         2      %
+Segment length         0.0      mi      % Recreational vehicles    0      %
+Terrain type           Level            % No-passing zones         0      %
+Grade: Length                   mi      Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       350      veh/h
+Directional split        60    /   40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                        1.00
+PCE for trucks, ET                                 1.7*
+PCE for RVs, ER                                    1.0
+Heavy-vehicle adjustment factor,                   0.986
+Two-way flow rate,(note-1) vp                      386     pc/h
+Highest directional split proportion (note-2)      232     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                           -      mi/h
+Observed volume, Vf                                 -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                         50.0    mi/h
+Adj. for lane and shoulder width, fLS              2.6*    mi/h
+Adj. for access points, fA                         0.0     mi/h
+
+Free-flow speed, FFS                               47.4    mi/h
+
+Adjustment for no-passing zones, fnp               0.0*    mi/h
+Average travel speed, ATS                          44.4    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                381     pc/h
+Highest directional split proportion (note-2)                229
+Base percent time-spent-following, BPTSF                     28.5    %
+Adj.for directional distribution and no-passing zones, fd/np 0.6
+Percent time-spent-following, PTSF                           29.1    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        A
+Volume to capacity ratio, v/c                                0.12
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                      Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Existing AM & PM
+Highway                Carmel Valley Road
+From/To                Esquiline Road to Ford Road
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft      Peak-hour factor, PHF      0.92
+Lane width             12.0     ft      % Trucks and buses         2      %
+Segment length         0.0      mi      % Recreational vehicles    0      %
+Terrain type           Level            % No-passing zones         0      %
+Grade: Length                   mi      Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       780      veh/h
+Directional split        60    /   40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                        1.00
+PCE for trucks, ET                                 1.2*
+PCE for RVs, ER                                    1.0
+Heavy-vehicle adjustment factor,                   0.996
+Two-way flow rate,(note-1) vp                      851     pc/h
+Highest directional split proportion (note-2)      511     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                           -      mi/h
+Observed volume, Vf                                 -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                         50.0    mi/h
+Adj. for lane and shoulder width, fLS              2.6*    mi/h
+Adj. for access points, fA                         0.0     mi/h
+
+Free-flow speed, FFS                               47.4    mi/h
+
+Adjustment for no-passing zones, fnp               0.0*    mi/h
+Average travel speed, ATS                          40.8    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                850     pc/h
+Highest directional split proportion (note-2)                510
+Base percent time-spent-following, BPTSF                     52.6    %
+Adj.for directional distribution and no-passing zones, fd/np 0.0
+Percent time-spent-following, PTSF                           52.6    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        B
+Volume to capacity ratio, v/c                                0.27
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                       Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Existing AM & PM
+Highway                Carmel Valley Road
+From/To                Ford Road to Laureles Grade
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft       Peak-hour factor, PHF      0.92
+Lane width             12.0     ft       % Trucks and buses         2      %
+Segment length         0.0      mi       % Recreational vehicles    0      %
+Terrain type           Level             % No-passing zones         0      %
+Grade: Length                   mi       Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       1020      veh/h
+Directional split        60    /    40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                         1.00
+PCE for trucks, ET                                  1.2*
+PCE for RVs, ER                                     1.0
+Heavy-vehicle adjustment factor,                    0.996
+Two-way flow rate,(note-1) vp                       1113    pc/h
+Highest directional split proportion (note-2)       668     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                            -      mi/h
+Observed volume, Vf                                  -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                          50.0    mi/h
+Adj. for lane and shoulder width, fLS               2.6*    mi/h
+Adj. for access points, fA                          0.0     mi/h
+
+Free-flow speed, FFS                                47.4    mi/h
+
+Adjustment for no-passing zones, fnp                0.0*    mi/h
+Average travel speed, ATS                           38.8    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                1111    pc/h
+Highest directional split proportion (note-2)                667
+Base percent time-spent-following, BPTSF                     62.3    %
+Adj.for directional distribution and no-passing zones, fd/np 0.0
+Percent time-spent-following, PTSF                           62.3    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        C
+Volume to capacity ratio, v/c                                0.35
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                       Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Existing AM & PM
+Highway                Carmel Valley Road
+From/To                Laureles Grade Robinson Canyon
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft       Peak-hour factor, PHF      0.92
+Lane width             12.0     ft       % Trucks and buses         2      %
+Segment length         0.0      mi       % Recreational vehicles    0      %
+Terrain type           Level             % No-passing zones         0      %
+Grade: Length                   mi       Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       1080      veh/h
+Directional split        60    /    40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                         1.00
+PCE for trucks, ET                                  1.2*
+PCE for RVs, ER                                     1.0
+Heavy-vehicle adjustment factor,                    0.996
+Two-way flow rate,(note-1) vp                       1179    pc/h
+Highest directional split proportion (note-2)       707     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                            -      mi/h
+Observed volume, Vf                                  -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                          50.0    mi/h
+Adj. for lane and shoulder width, fLS               2.6*    mi/h
+Adj. for access points, fA                          0.0     mi/h
+
+Free-flow speed, FFS                                47.4    mi/h
+
+Adjustment for no-passing zones, fnp                0.0*    mi/h
+Average travel speed, ATS                           38.3    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                1176    pc/h
+Highest directional split proportion (note-2)                706
+Base percent time-spent-following, BPTSF                     64.4    %
+Adj.for directional distribution and no-passing zones, fd/np 0.0
+Percent time-spent-following, PTSF                           64.4    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        C
+Volume to capacity ratio, v/c                                0.37
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                       Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Existing AM & PM
+Highway                Carmel Valley Road
+From/To                Robinson Canyon to Schulte
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft       Peak-hour factor, PHF      0.92
+Lane width             12.0     ft       % Trucks and buses         2      %
+Segment length         0.0      mi       % Recreational vehicles    0      %
+Terrain type           Level             % No-passing zones         0      %
+Grade: Length                   mi       Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       1330      veh/h
+Directional split        60    /    40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                         1.00
+PCE for trucks, ET                                  1.1*
+PCE for RVs, ER                                     1.0
+Heavy-vehicle adjustment factor,                    0.998
+Two-way flow rate,(note-1) vp                       1449    pc/h
+Highest directional split proportion (note-2)       869     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                            -      mi/h
+Observed volume, Vf                                  -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                          50.0    mi/h
+Adj. for lane and shoulder width, fLS               2.6*    mi/h
+Adj. for access points, fA                          0.0     mi/h
+
+Free-flow speed, FFS                                47.4    mi/h
+
+Adjustment for no-passing zones, fnp                0.0*    mi/h
+Average travel speed, ATS                           36.2    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.0*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         1.000
+Two-way flow rate,(note-1) vp                                1446    pc/h
+Highest directional split proportion (note-2)                868
+Base percent time-spent-following, BPTSF                     71.9    %
+Adj.for directional distribution and no-passing zones, fd/np 0.0
+Percent time-spent-following, PTSF                           71.9    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        D
+Volume to capacity ratio, v/c                                0.45
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                       Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Existing AM & PM
+Highway                Carmel Valley Road
+From/To                Schulte to Rancho San Carlos
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft       Peak-hour factor, PHF      0.92
+Lane width             12.0     ft       % Trucks and buses         2      %
+Segment length         0.0      mi       % Recreational vehicles    0      %
+Terrain type           Level             % No-passing zones         0      %
+Grade: Length                   mi       Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       1510      veh/h
+Directional split        60    /    40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                         1.00
+PCE for trucks, ET                                  1.1*
+PCE for RVs, ER                                     1.0
+Heavy-vehicle adjustment factor,                    0.998
+Two-way flow rate,(note-1) vp                       1645    pc/h
+Highest directional split proportion (note-2)       987     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                            -      mi/h
+Observed volume, Vf                                  -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                          50.0    mi/h
+Adj. for lane and shoulder width, fLS               2.6*    mi/h
+Adj. for access points, fA                          0.0     mi/h
+
+Free-flow speed, FFS                                47.4    mi/h
+
+Adjustment for no-passing zones, fnp                0.0*    mi/h
+Average travel speed, ATS                           34.6    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.0*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         1.000
+Two-way flow rate,(note-1) vp                                1641    pc/h
+Highest directional split proportion (note-2)                985
+Base percent time-spent-following, BPTSF                     76.4    %
+Adj.for directional distribution and no-passing zones, fd/np 0.0
+Percent time-spent-following, PTSF                           76.4    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        D
+Volume to capacity ratio, v/c                                0.51
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                     HCS2000: Multilane Highways Release 4.1f
+
+
+
+
+Phone:                                         Fax:
+E-mail:
+
+___________________________OPERATIONAL ANALYSIS________________________________
+
+Analyst:           HT
+Agency/Co:         Hexagon
+Date:              6/17/13
+Analysis Period:   Existing AM & PM
+Highway:           Carmel Valley Road
+From/To:           Rancho San Carlos Rd to Rio
+Jurisdiction:      Monterey County
+Analysis Year:     2012
+Project ID:        Carmel Canine
+
+_______________________________FREE-FLOW SPEED_________________________________
+
+                   Direction             1                       2
+Lane width                             12.0           ft       12.0      ft
+Lateral clearance:
+     Right edge                        6.0            ft       6.0       ft
+     Left edge                         6.0            ft       6.0       ft
+     Total lateral clearance           12.0           ft       12.0      ft
+Access points per mile                 0                       0
+Median type                            Divided                 Divided
+Free-flow speed:                       Base                    Base
+     FFS or BFFS                       45.0           mph      45.0      mph
+Lane width adjustment, FLW             0.0            mph      0.0       mph
+Lateral clearance adjustment, FLC      0.0            mph      0.0       mph
+Median type adjustment, FM             0.0            mph      0.0       mph
+Access points adjustment, FA           0.0            mph      0.0       mph
+Free-flow speed                        45.0           mph      45.0      mph
+
+____________________________________VOLUME_____________________________________
+
+                   Direction             1                       2
+Volume, V                              752            vph      1128      vph
+Peak-hour factor, PHF                  0.92                    0.92
+Peak 15-minute volume, v15             204                     307
+Trucks and buses                       2              %        2         %
+Recreational vehicles                  0              %        0         %
+Terrain type                           Level                   Level
+    Grade                              0.00           %        0.00      %
+    Segment length                     0.00           mi       0.00      mi
+Number of lanes                        2                       2
+Driver population adjustment, fP       1.00                    1.00
+Trucks and buses PCE, ET               1.5                     1.5
+Recreational vehicles PCE, ER          1.2                     1.2
+Heavy vehicle adjustment, fHV          0.990                   0.990
+Flow rate, vp                          412            pcphpl   619       pcphpl
+
+____________________________________RESULTS____________________________________
+                   Direction           1                  2
+Flow rate, vp                        412       pcphpl   619       pcphpl
+Free-flow speed, FFS                 45.0      mph      45.0      mph
+Avg. passenger-car travel speed, S   45.0      mph      45.0      mph
+Level of service, LOS                A                  B
+Density, D                           9.2       pc/mi/ln 13.8      pc/mi/ln
+
+  Overall results are not computed when free-flow speed is less than 45 mph.
+                     HCS2000: Multilane Highways Release 4.1f
+
+
+
+
+Phone:                                            Fax:
+E-mail:
+
+___________________________OPERATIONAL ANALYSIS________________________________
+
+Analyst:           HT
+Agency/Co:         Hexagon
+Date:              6/17/13
+Analysis Period:   Existing AM & PM
+Highway:           Carmel Valley Road
+From/To:           Rio to Carmcel Ranho
+Jurisdiction:      Monterey County
+Analysis Year:     2012
+Project ID:        Carmel Canine
+
+_______________________________FREE-FLOW SPEED_________________________________
+
+                   Direction                1                       2
+Lane width                                12.0           ft       12.0      ft
+Lateral clearance:
+     Right edge                           6.0            ft       6.0       ft
+     Left edge                            6.0            ft       6.0       ft
+     Total lateral clearance              12.0           ft       12.0      ft
+Access points per mile                    0                       0
+Median type                               Divided                 Divided
+Free-flow speed:                          Base                    Base
+     FFS or BFFS                          45.0           mph      45.0      mph
+Lane width adjustment, FLW                0.0            mph      0.0       mph
+Lateral clearance adjustment, FLC         0.0            mph      0.0       mph
+Median type adjustment, FM                0.0            mph      0.0       mph
+Access points adjustment, FA              0.0            mph      0.0       mph
+Free-flow speed                           45.0           mph      45.0      mph
+
+____________________________________VOLUME_____________________________________
+
+                   Direction                1                       2
+Volume, V                                 928            vph      1392      vph
+Peak-hour factor, PHF                     0.92                    0.92
+Peak 15-minute volume, v15                252                     378
+Trucks and buses                          2              %        2         %
+Recreational vehicles                     0              %        0         %
+Terrain type                              Level                   Level
+    Grade                                 0.00           %        0.00      %
+    Segment length                        0.00           mi       0.00      mi
+Number of lanes                           2                       2
+Driver population adjustment, fP          1.00                    1.00
+Trucks and buses PCE, ET                  1.5                     1.5
+Recreational vehicles PCE, ER             1.2                     1.2
+Heavy vehicle adjustment, fHV             0.990                   0.990
+Flow rate, vp                             509            pcphpl   764       pcphpl
+
+____________________________________RESULTS____________________________________
+                   Direction           1                  2
+Flow rate, vp                        509       pcphpl   764       pcphpl
+Free-flow speed, FFS                 45.0      mph      45.0      mph
+Avg. passenger-car travel speed, S   45.0      mph      45.0      mph
+Level of service, LOS                B                  B
+Density, D                           11.3      pc/mi/ln 17.0      pc/mi/ln
+
+  Overall results are not computed when free-flow speed is less than 45 mph.
+                     HCS2000: Multilane Highways Release 4.1f
+
+
+
+
+Phone:                                         Fax:
+E-mail:
+
+___________________________OPERATIONAL ANALYSIS________________________________
+
+Analyst:           HT
+Agency/Co:         Hexagon
+Date:              6/17/13
+Analysis Period:   Existing AM & PM
+Highway:           Carmel Valley Road
+From/To:           Carmcel Ranho to SR 1
+Jurisdiction:      Monterey County
+Analysis Year:     2012
+Project ID:        Carmel Canine
+
+_______________________________FREE-FLOW SPEED_________________________________
+
+                   Direction             1                       2
+Lane width                             12.0           ft       12.0      ft
+Lateral clearance:
+     Right edge                        6.0            ft       6.0       ft
+     Left edge                         6.0            ft       6.0       ft
+     Total lateral clearance           12.0           ft       12.0      ft
+Access points per mile                 0                       0
+Median type                            Divided                 Divided
+Free-flow speed:                       Base                    Base
+     FFS or BFFS                       45.0           mph      45.0      mph
+Lane width adjustment, FLW             0.0            mph      0.0       mph
+Lateral clearance adjustment, FLC      0.0            mph      0.0       mph
+Median type adjustment, FM             0.0            mph      0.0       mph
+Access points adjustment, FA           0.0            mph      0.0       mph
+Free-flow speed                        45.0           mph      45.0      mph
+
+____________________________________VOLUME_____________________________________
+
+                   Direction             1                       2
+Volume, V                              888            vph      1332      vph
+Peak-hour factor, PHF                  0.92                    0.92
+Peak 15-minute volume, v15             241                     362
+Trucks and buses                       2              %        2         %
+Recreational vehicles                  0              %        0         %
+Terrain type                           Level                   Level
+    Grade                              0.00           %        0.00      %
+    Segment length                     0.00           mi       0.00      mi
+Number of lanes                        2                       2
+Driver population adjustment, fP       1.00                    1.00
+Trucks and buses PCE, ET               1.5                     1.5
+Recreational vehicles PCE, ER          1.2                     1.2
+Heavy vehicle adjustment, fHV          0.990                   0.990
+Flow rate, vp                          487            pcphpl   731       pcphpl
+
+____________________________________RESULTS____________________________________
+                   Direction           1                  2
+Flow rate, vp                        487       pcphpl   731       pcphpl
+Free-flow speed, FFS                 45.0      mph      45.0      mph
+Avg. passenger-car travel speed, S   45.0      mph      45.0      mph
+Level of service, LOS                A                  B
+Density, D                           10.8      pc/mi/ln 16.2      pc/mi/ln
+
+  Overall results are not computed when free-flow speed is less than 45 mph.
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                      Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Project Weekday AM
+Highway                Carmel Valley Road
+From/To                Holman Road to CVMP Boundary
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft      Peak-hour factor, PHF      0.92
+Lane width             12.0     ft      % Trucks and buses         2      %
+Segment length         0.0      mi      % Recreational vehicles    0      %
+Terrain type           Level            % No-passing zones         0      %
+Grade: Length                   mi      Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       301      veh/h
+Directional split        60    /   40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                        1.00
+PCE for trucks, ET                                 1.7*
+PCE for RVs, ER                                    1.0
+Heavy-vehicle adjustment factor,                   0.986
+Two-way flow rate,(note-1) vp                      332     pc/h
+Highest directional split proportion (note-2)      199     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                           -      mi/h
+Observed volume, Vf                                 -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                         50.0    mi/h
+Adj. for lane and shoulder width, fLS              2.6*    mi/h
+Adj. for access points, fA                         0.0     mi/h
+
+Free-flow speed, FFS                               47.4    mi/h
+
+Adjustment for no-passing zones, fnp               0.0*    mi/h
+Average travel speed, ATS                          44.8    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                328     pc/h
+Highest directional split proportion (note-2)                197
+Base percent time-spent-following, BPTSF                     25.0    %
+Adj.for directional distribution and no-passing zones, fd/np 0.9
+Percent time-spent-following, PTSF                           25.9    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        A
+Volume to capacity ratio, v/c                                0.10
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                      Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Project Weekday PM
+Highway                Carmel Valley Road
+From/To                Holman Road to CVMP Boundary
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft      Peak-hour factor, PHF      0.92
+Lane width             12.0     ft      % Trucks and buses         2      %
+Segment length         0.0      mi      % Recreational vehicles    0      %
+Terrain type           Level            % No-passing zones         0      %
+Grade: Length                   mi      Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       303      veh/h
+Directional split        60    /   40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                        1.00
+PCE for trucks, ET                                 1.7*
+PCE for RVs, ER                                    1.0
+Heavy-vehicle adjustment factor,                   0.986
+Two-way flow rate,(note-1) vp                      334     pc/h
+Highest directional split proportion (note-2)      200     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                           -      mi/h
+Observed volume, Vf                                 -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                         50.0    mi/h
+Adj. for lane and shoulder width, fLS              2.6*    mi/h
+Adj. for access points, fA                         0.0     mi/h
+
+Free-flow speed, FFS                               47.4    mi/h
+
+Adjustment for no-passing zones, fnp               0.0*    mi/h
+Average travel speed, ATS                          44.8    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                330     pc/h
+Highest directional split proportion (note-2)                198
+Base percent time-spent-following, BPTSF                     25.2    %
+Adj.for directional distribution and no-passing zones, fd/np 0.9
+Percent time-spent-following, PTSF                           26.1    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        A
+Volume to capacity ratio, v/c                                0.10
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                      Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Project Weekday AM
+Highway                Carmel Valley Road
+From/To                Holman Road to Esquiline Road
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft      Peak-hour factor, PHF      0.92
+Lane width             12.0     ft      % Trucks and buses         2      %
+Segment length         0.0      mi      % Recreational vehicles    0      %
+Terrain type           Level            % No-passing zones         0      %
+Grade: Length                   mi      Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       351      veh/h
+Directional split        60    /   40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                        1.00
+PCE for trucks, ET                                 1.7*
+PCE for RVs, ER                                    1.0
+Heavy-vehicle adjustment factor,                   0.986
+Two-way flow rate,(note-1) vp                      387     pc/h
+Highest directional split proportion (note-2)      232     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                           -      mi/h
+Observed volume, Vf                                 -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                         50.0    mi/h
+Adj. for lane and shoulder width, fLS              2.6*    mi/h
+Adj. for access points, fA                         0.0     mi/h
+
+Free-flow speed, FFS                               47.4    mi/h
+
+Adjustment for no-passing zones, fnp               0.0*    mi/h
+Average travel speed, ATS                          44.4    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                382     pc/h
+Highest directional split proportion (note-2)                229
+Base percent time-spent-following, BPTSF                     28.5    %
+Adj.for directional distribution and no-passing zones, fd/np 0.6
+Percent time-spent-following, PTSF                           29.1    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        A
+Volume to capacity ratio, v/c                                0.12
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                      Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Project Weekday PM
+Highway                Carmel Valley Road
+From/To                Holman Road to Esquiline Road
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft      Peak-hour factor, PHF      0.92
+Lane width             12.0     ft      % Trucks and buses         2      %
+Segment length         0.0      mi      % Recreational vehicles    0      %
+Terrain type           Level            % No-passing zones         0      %
+Grade: Length                   mi      Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       353      veh/h
+Directional split        60    /   40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                        1.00
+PCE for trucks, ET                                 1.7*
+PCE for RVs, ER                                    1.0
+Heavy-vehicle adjustment factor,                   0.986
+Two-way flow rate,(note-1) vp                      389     pc/h
+Highest directional split proportion (note-2)      233     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                           -      mi/h
+Observed volume, Vf                                 -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                         50.0    mi/h
+Adj. for lane and shoulder width, fLS              2.6*    mi/h
+Adj. for access points, fA                         0.0     mi/h
+
+Free-flow speed, FFS                               47.4    mi/h
+
+Adjustment for no-passing zones, fnp               0.0*    mi/h
+Average travel speed, ATS                          44.4    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                384     pc/h
+Highest directional split proportion (note-2)                230
+Base percent time-spent-following, BPTSF                     28.6    %
+Adj.for directional distribution and no-passing zones, fd/np 0.6
+Percent time-spent-following, PTSF                           29.2    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        A
+Volume to capacity ratio, v/c                                0.12
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                      Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Project Weekday AM
+Highway                Carmel Valley Road
+From/To                Esquiline Road to Ford Road
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft      Peak-hour factor, PHF      0.92
+Lane width             12.0     ft      % Trucks and buses         2      %
+Segment length         0.0      mi      % Recreational vehicles    0      %
+Terrain type           Level            % No-passing zones         0      %
+Grade: Length                   mi      Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       781      veh/h
+Directional split        60    /   40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                        1.00
+PCE for trucks, ET                                 1.2*
+PCE for RVs, ER                                    1.0
+Heavy-vehicle adjustment factor,                   0.996
+Two-way flow rate,(note-1) vp                      852     pc/h
+Highest directional split proportion (note-2)      511     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                           -      mi/h
+Observed volume, Vf                                 -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                         50.0    mi/h
+Adj. for lane and shoulder width, fLS              2.6*    mi/h
+Adj. for access points, fA                         0.0     mi/h
+
+Free-flow speed, FFS                               47.4    mi/h
+
+Adjustment for no-passing zones, fnp               0.0*    mi/h
+Average travel speed, ATS                          40.8    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                851     pc/h
+Highest directional split proportion (note-2)                511
+Base percent time-spent-following, BPTSF                     52.7    %
+Adj.for directional distribution and no-passing zones, fd/np 0.0
+Percent time-spent-following, PTSF                           52.7    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        B
+Volume to capacity ratio, v/c                                0.27
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value
+                          HCS+: Two-Lane Highways Release 4.1f
+
+
+
+
+Phone:                                      Fax:
+E-Mail:
+
+___________________Two-Way Two-Lane Highway Segment Analysis__________________
+
+Analyst                HT
+Agency/Co.             Hexagon
+Date Performed         6/17/13
+Analysis Time Period   Project Weekday PM
+Highway                Carmel Valley Road
+From/To                Esquiline Road to Ford Road
+Jurisdiction           Monterey County
+Analysis Year          2012
+Description Carmel Canine
+
+___________________________________Input Data_________________________________
+
+Highway class Class    2
+Shoulder width         6.0      ft      Peak-hour factor, PHF      0.92
+Lane width             12.0     ft      % Trucks and buses         2      %
+Segment length         0.0      mi      % Recreational vehicles    0      %
+Terrain type           Level            % No-passing zones         0      %
+Grade: Length                   mi      Access points/mi           0      /mi
+        Up/down                 %
+
+Two-way hourly volume, V       783      veh/h
+Directional split        60    /   40   %
+
+____________________________Average Travel Speed______________________________
+
+Grade adjustment factor, fG                        1.00
+PCE for trucks, ET                                 1.2*
+PCE for RVs, ER                                    1.0
+Heavy-vehicle adjustment factor,                   0.996
+Two-way flow rate,(note-1) vp                      854     pc/h
+Highest directional split proportion (note-2)      512     pc/h
+
+Free-Flow Speed from Field Measurement:
+Field measured speed, SFM                           -      mi/h
+Observed volume, Vf                                 -      veh/h
+Estimated Free-Flow Speed:
+Base free-flow speed, BFFS                         50.0    mi/h
+Adj. for lane and shoulder width, fLS              2.6*    mi/h
+Adj. for access points, fA                         0.0     mi/h
+
+Free-flow speed, FFS                               47.4    mi/h
+
+Adjustment for no-passing zones, fnp               0.0*    mi/h
+Average travel speed, ATS                          40.8    mi/h
+__________________________Percent Time-Spent-Following________________________
+
+Grade adjustment factor, fG                                  1.00
+PCE for trucks, ET                                           1.1*
+PCE for RVs, ER                                              1.0
+Heavy-vehicle adjustment factor, fHV                         0.998
+Two-way flow rate,(note-1) vp                                853     pc/h
+Highest directional split proportion (note-2)                512
+Base percent time-spent-following, BPTSF                     52.8    %
+Adj.for directional distribution and no-passing zones, fd/np 0.0
+Percent time-spent-following, PTSF                           52.8    %
+
+________________Level of Service and Other Performance Measures_______________
+
+Level of service, LOS                                        B
+Volume to capacity ratio, v/c                                0.27
+Peak 15-min vehicle-miles of travel, VMT15                   0       veh-mi
+Peak-hour vehicle-miles of travel, VMT60                     0       veh-mi
+Peak 15-min total travel time, TT15                          0.0     veh-h
+______________________________________________________________________________
+
+Notes:
+1. If vp >= 3200 pc/h, terminate analysis-the LOS is F.
+2. If highest directional split vp >= 1700 pc/h, terminate
+   analysis-the LOS is F.
+* These items have been entered or edited to override calculated value

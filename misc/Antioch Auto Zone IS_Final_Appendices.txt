@@ -1,0 +1,2309 @@
+APPENDICES
+APPENDIX A ­ AIR QUALITY
+  CalEEMod Version: CalEEMod.2013.2.2                                              Page 1 of 21                                                Date: 10/15/2013 1:47 PM
+
+
+
+                                                                               Lone Tree Autozone
+                                                                          Contra Costa County, Summer
+
+1.0 Project Characteristics
+
+1.1 Land Usage
+
+                 Land Uses                                    Size                            Metric                          Lot Acreage       Floor Surface Area   Population
+
+        Automobile Care Center                                7.93                           1000sqft                            0.18               7,928.00              0
+
+                Parking Lot                                  22.00                            Space                              0.20               8,800.00              0
+
+      Other Non-Asphalt Surfaces                              9.72                           1000sqft                            0.22               9,717.00              0
+
+
+1.2 Other Project Characteristics
+
+Urbanization          Urban                     Wind Speed (m/s)         2.2                      Precipitation Freq (Days)          58
+
+Climate Zone          4                                                                           Operational Year                   2015
+
+
+Utility Company       Pacific Gas & Electric Company
+
+
+CO2 Intensity         641.35                    CH4 Intensity              0.029                  N2O Intensity                 0.006
+(lb/MWhr)                                       (lb/MWhr)                                         (lb/MWhr)
+
+
+1.3 User Entered Comments & Non-Default Data
+
+Project Characteristics -
+Land Use -
+Construction Phase -
+Grading -
+Architectural Coating -
+
+                Table Name                             Column Name                      Default Value                              New Value
+
+       tblProjectCharacteristics                       OperationalYear                      2014                                        2015
+ CalEEMod Version: CalEEMod.2013.2.2                                             Page 2 of 21                                               Date: 10/15/2013 1:47 PM
+
+
+2.0 Emissions Summary
+
+2.1 Overall Construction (Maximum Daily Emission)
+Unmitigated Construction
+
+
+
+
+              ROG        NOx      CO       SO2     Fugitive   Exhaust   PM10      Fugitive   Exhaust   PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O       CO2e
+                                                    PM10       PM10     Total      PM2.5      PM2.5     Total
+
+    Year                                                  lb/day                                                                              lb/day
+
+
+
+    2014     37.8114   15.4138   9.6171   0.0135   0.8471      1.0444   1.7783     0.4388    0.9608    1.3299    0.0000    1,407.676   1,407.676   0.3630    0.0000   1,415.298
+                                                                                                                               4           4                              9
+
+    Total    37.8114   15.4138   9.6171   0.0135   0.8471      1.0444   1.7783     0.4388    0.9608    1.3299    0.0000    1,407.676   1,407.676   0.3630    0.0000   1,415.298
+                                                                                                                               4           4                              9
+
+
+
+
+Mitigated Construction
+
+
+
+
+              ROG        NOx      CO       SO2     Fugitive   Exhaust   PM10      Fugitive   Exhaust   PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O       CO2e
+                                                    PM10       PM10     Total      PM2.5      PM2.5     Total
+
+    Year                                                  lb/day                                                                              lb/day
+
+
+
+    2014     37.8114   15.4138   9.6171   0.0135   0.8471      1.0444   1.7783     0.4388    0.9608    1.3299    0.0000    1,407.676   1,407.676   0.3630    0.0000   1,415.298
+                                                                                                                               4           4                              9
+
+    Total    37.8114   15.4138   9.6171   0.0135   0.8471      1.0444   1.7783     0.4388    0.9608    1.3299    0.0000    1,407.676   1,407.676   0.3630    0.0000   1,415.298
+                                                                                                                               4           4                              9
+CalEEMod Version: CalEEMod.2013.2.2                                   Page 3 of 21                                                Date: 10/15/2013 1:47 PM
+
+            ROG    NOx     CO     SO2    Fugitive   Exhaust   PM10    Fugitive   Exhaust   PM2.5    Bio- CO2   NBio-CO2 Total CO2     CH4     N20     CO2e
+                                          PM10       PM10     Total    PM2.5      PM2.5     Total
+
+ Percent    0.00   0.00    0.00   0.00     0.00      0.00     0.00      0.00      0.00      0.00      0.00       0.00      0.00       0.00    0.00    0.00
+Reduction
+ CalEEMod Version: CalEEMod.2013.2.2                                                      Page 4 of 21                                                  Date: 10/15/2013 1:47 PM
+
+
+
+2.2 Overall Operational
+Unmitigated Operational
+
+
+
+
+              ROG        NOx         CO        SO2       Fugitive   Exhaust     PM10       Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2         CH4     N2O        CO2e
+                                                          PM10       PM10       Total       PM2.5      PM2.5      Total
+
+  Category                                                      lb/day                                                                                    lb/day
+
+
+
+    Area      0.6175    4.0000e-   4.1900e-   0.0000                2.0000e-   2.0000e-               2.0000e-   2.0000e-              8.6800e-    8.6800e-    3.0000e-              9.2000e-
+                           005        003                              005        005                    005        005                   003         003         005                   003
+
+   Energy    6.4200e-   0.0584     0.0490     3.5000e-              4.4400e-   4.4400e-               4.4400e-   4.4400e-               70.0424    70.0424     1.3400e-   1.2800e-   70.4686
+                003                              004                   003        003                    003        003                                           003        003
+
+   Mobile     1.6936    2.0693     11.0322    0.0159     1.0365      0.0247    1.0612       0.2768    0.0227     0.2995                1,421.428   1,421.428   0.0728                1,422.957
+                                                                                                                                           2           2                                 3
+
+    Total     2.3175    2.1277     11.0855    0.0162     1.0365      0.0292    1.0657       0.2768    0.0271     0.3039                1,491.479   1,491.479   0.0742     1.2800e-   1,493.435
+                                                                                                                                           2           2                     003         1
+
+
+
+
+Mitigated Operational
+
+
+
+
+              ROG        NOx         CO        SO2       Fugitive   Exhaust     PM10       Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2         CH4     N2O        CO2e
+                                                          PM10       PM10       Total       PM2.5      PM2.5      Total
+
+  Category                                                      lb/day                                                                                    lb/day
+
+
+
+    Area      0.6175    4.0000e-   4.1900e-   0.0000                2.0000e-   2.0000e-               2.0000e-   2.0000e-              8.6800e-    8.6800e-    3.0000e-              9.2000e-
+                           005        003                              005        005                    005        005                   003         003         005                   003
+
+   Energy    6.4200e-   0.0584     0.0490     3.5000e-              4.4400e-   4.4400e-               4.4400e-   4.4400e-               70.0424    70.0424     1.3400e-   1.2800e-   70.4686
+                003                              004                   003        003                    003        003                                           003        003
+
+   Mobile     1.6936    2.0693     11.0322    0.0159     1.0365      0.0247    1.0612       0.2768    0.0227     0.2995                1,421.428   1,421.428   0.0728                1,422.957
+                                                                                                                                           2           2                                 3
+
+    Total     2.3175    2.1277     11.0855    0.0162     1.0365      0.0292    1.0657       0.2768    0.0271     0.3039                1,491.479   1,491.479   0.0742     1.2800e-   1,493.435
+                                                                                                                                           2           2                     003         1
+    CalEEMod Version: CalEEMod.2013.2.2                                                 Page 5 of 21                                                     Date: 10/15/2013 1:47 PM
+
+                      ROG          NOx     CO        SO2      Fugitive   Exhaust      PM10     Fugitive   Exhaust   PM2.5      Bio- CO2     NBio-CO2 Total CO2      CH4     N20     CO2e
+                                                               PM10       PM10        Total     PM2.5      PM2.5     Total
+
+     Percent          0.00         0.00    0.00       0.00        0.00    0.00        0.00       0.00       0.00     0.00        0.00         0.00        0.00       0.00   0.00    0.00
+    Reduction
+
+
+
+
+3.0 Construction Detail
+
+Construction Phase
+ Phase               Phase Name                     Phase Type               Start Date          End Date      Num Days      Num Days                Phase Description
+ Number                                                                                                          Week
+
+1          Site Preparation               Site Preparation                1/15/2014           1/15/2014                 5               1
+
+2          Grading                        Grading                         1/16/2014           1/17/2014                 5               2
+
+3          Building Construction          Building Construction           1/18/2014           6/6/2014                  5          100
+
+4          Paving                         Paving                          6/7/2014            6/13/2014                 5               5
+
+5          Architectural Coating          Architectural Coating           6/14/2014           6/20/2014                 5               5
+
+
+
+Acres of Grading (Site Preparation Phase): 0.5
+
+Acres of Grading (Grading Phase): 0
+
+Acres of Paving: 0
+
+Residential Indoor: 0; Residential Outdoor: 0; Non-Residential Indoor: 26,864; Non-Residential Outdoor: 8,955 (Architectural Coating ­ sqft)
+
+OffRoad Equipment
+  CalEEMod Version: CalEEMod.2013.2.2                                                     Page 6 of 21                                                    Date: 10/15/2013 1:47 PM
+
+             Phase Name                      Offroad Equipment Type                  Amount              Usage Hours       Horse Power          Load Factor
+
+Architectural Coating                 Air Compressors                                             1               6.00                   78                 0.48
+
+Paving                                Cement and Mortar Mixers                                    4               6.00                    9                 0.56
+
+Grading                               Concrete/Industrial Saws                                    1               8.00                   81                 0.73
+
+Building Construction                 Cranes                                                      1               4.00                  226                 0.29
+
+Building Construction                 Forklifts                                                   2               6.00                   89                 0.20
+
+Site Preparation                      Graders                                                     1               8.00                  174                 0.41
+
+Paving                                Pavers                                                      1               7.00                  125                 0.42
+
+Paving                                Rollers                                                     1               7.00                   80                 0.38
+
+Grading                               Rubber Tired Dozers                                         1               1.00                  255                 0.40
+
+Building Construction                 Tractors/Loaders/Backhoes                                   2               8.00                   97                 0.37
+
+Grading                               Tractors/Loaders/Backhoes                                   2               6.00                   97                 0.37
+
+Paving                                Tractors/Loaders/Backhoes                                   1               7.00                   97                 0.37
+
+Site Preparation                      Tractors/Loaders/Backhoes                                   1               8.00                   97                 0.37
+
+
+
+Trips and VMT
+
+     Phase Name         Offroad Equipment   Worker Trip     Vendor Trip    Hauling Trip   Worker Trip     Vendor Trip    Hauling Trip    Worker Vehicle       Vendor        Hauling
+                              Count          Number           Number         Number        Length           Length         Length            Class          Vehicle Class Vehicle Class
+
+
+Site Preparation                        2           5.00            0.00           0.00          12.40            7.30          20.00 LD_Mix                HDT_Mix       HHDT
+
+Grading                                 4          10.00            0.00           0.00          12.40            7.30          20.00 LD_Mix                HDT_Mix       HHDT
+
+Building Construction                   5          10.00            4.00           0.00          12.40            7.30          20.00 LD_Mix                HDT_Mix       HHDT
+
+Paving                                  7          18.00            0.00           0.00          12.40            7.30          20.00 LD_Mix                HDT_Mix       HHDT
+
+Architectural Coating                   1           2.00            0.00           0.00          12.40            7.30          20.00 LD_Mix                HDT_Mix       HHDT
+
+
+3.1 Mitigation Measures Construction
+  CalEEMod Version: CalEEMod.2013.2.2                                                  Page 7 of 21                                               Date: 10/15/2013 1:47 PM
+
+
+
+3.2 Site Preparation - 2014
+Unmitigated Construction On-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                              lb/day
+
+
+
+ Fugitive Dust                                          0.5303      0.0000    0.5303    0.0573     0.0000     0.0573                          0.0000                      0.0000
+
+
+  Off-Road       1.4341   14.4817   7.3936   9.3700e-               0.8920    0.8920               0.8206     0.8206              995.1971   995.1971   0.2941           1,001.373
+                                                003                                                                                                                          0
+
+    Total        1.4341   14.4817   7.3936   9.3700e-   0.5303      0.8920    1.4223    0.0573     0.8206     0.8779              995.1971   995.1971   0.2941           1,001.373
+                                                003                                                                                                                          0
+
+
+
+
+Unmitigated Construction Off-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                              lb/day
+
+
+
+   Hauling       0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000     0.0000    0.0000            0.0000
+
+
+   Vendor        0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000     0.0000    0.0000            0.0000
+
+
+   Worker        0.0259   0.0308    0.3695   5.9000e-   0.0472     4.3000e-   0.0476    0.0125     3.9000e-   0.0129               52.8222   52.8222    3.0300e-         52.8859
+                                                004                   004                             004                                                  003
+
+    Total        0.0259   0.0308    0.3695   5.9000e-   0.0472     4.3000e-   0.0476    0.0125     3.9000e-   0.0129               52.8222   52.8222    3.0300e-         52.8859
+                                                004                   004                             004                                                  003
+  CalEEMod Version: CalEEMod.2013.2.2                                                  Page 8 of 21                                               Date: 10/15/2013 1:47 PM
+
+
+
+3.2 Site Preparation - 2014
+Mitigated Construction On-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                              lb/day
+
+
+
+ Fugitive Dust                                          0.5303      0.0000    0.5303    0.0573     0.0000     0.0573                          0.0000                      0.0000
+
+
+  Off-Road       1.4341   14.4817   7.3936   9.3700e-               0.8920    0.8920               0.8206     0.8206    0.0000    995.1971   995.1971   0.2941           1,001.373
+                                                003                                                                                                                          0
+
+    Total        1.4341   14.4817   7.3936   9.3700e-   0.5303      0.8920    1.4223    0.0573     0.8206     0.8779    0.0000    995.1971   995.1971   0.2941           1,001.373
+                                                003                                                                                                                          0
+
+
+
+
+Mitigated Construction Off-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                              lb/day
+
+
+
+   Hauling       0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000     0.0000    0.0000            0.0000
+
+
+   Vendor        0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000     0.0000    0.0000            0.0000
+
+
+   Worker        0.0259   0.0308    0.3695   5.9000e-   0.0472     4.3000e-   0.0476    0.0125     3.9000e-   0.0129               52.8222   52.8222    3.0300e-         52.8859
+                                                004                   004                             004                                                  003
+
+    Total        0.0259   0.0308    0.3695   5.9000e-   0.0472     4.3000e-   0.0476    0.0125     3.9000e-   0.0129               52.8222   52.8222    3.0300e-         52.8859
+                                                004                   004                             004                                                  003
+  CalEEMod Version: CalEEMod.2013.2.2                                                  Page 9 of 21                                                Date: 10/15/2013 1:47 PM
+
+
+
+3.3 Grading - 2014
+Unmitigated Construction On-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                                lb/day
+
+
+
+ Fugitive Dust                                          0.7528      0.0000    0.7528    0.4138     0.0000     0.4138                           0.0000                       0.0000
+
+
+  Off-Road       1.4929   12.4922   8.8528   0.0121                 0.9304    0.9304               0.8904     0.8904              1,207.246   1,207.246   0.2515           1,212.528
+                                                                                                                                      9           9                            1
+
+    Total        1.4929   12.4922   8.8528   0.0121     0.7528      0.9304    1.6832    0.4138     0.8904     1.3041              1,207.246   1,207.246   0.2515           1,212.528
+                                                                                                                                      9           9                            1
+
+
+
+
+Unmitigated Construction Off-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                                lb/day
+
+
+
+   Hauling       0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Vendor        0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Worker        0.0518   0.0617    0.7390   1.1800e-   0.0943     8.5000e-   0.0952    0.0250     7.7000e-   0.0258              105.6444    105.6444    6.0700e-         105.7718
+                                                003                   004                             004                                                    003
+
+    Total        0.0518   0.0617    0.7390   1.1800e-   0.0943     8.5000e-   0.0952    0.0250     7.7000e-   0.0258              105.6444    105.6444    6.0700e-         105.7718
+                                                003                   004                             004                                                    003
+  CalEEMod Version: CalEEMod.2013.2.2                                                  Page 10 of 21                                               Date: 10/15/2013 1:47 PM
+
+
+
+3.3 Grading - 2014
+Mitigated Construction On-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                                lb/day
+
+
+
+ Fugitive Dust                                          0.7528      0.0000    0.7528     0.4138    0.0000     0.4138                           0.0000                       0.0000
+
+
+  Off-Road       1.4929   12.4922   8.8528   0.0121                 0.9304    0.9304               0.8904     0.8904    0.0000    1,207.246   1,207.246   0.2515           1,212.528
+                                                                                                                                      9           9                            1
+
+    Total        1.4929   12.4922   8.8528   0.0121     0.7528      0.9304    1.6832     0.4138    0.8904     1.3041    0.0000    1,207.246   1,207.246   0.2515           1,212.528
+                                                                                                                                      9           9                            1
+
+
+
+
+Mitigated Construction Off-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                                lb/day
+
+
+
+   Hauling       0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Vendor        0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Worker        0.0518   0.0617    0.7390   1.1800e-   0.0943     8.5000e-   0.0952     0.0250    7.7000e-   0.0258              105.6444    105.6444    6.0700e-         105.7718
+                                                003                   004                             004                                                    003
+
+    Total        0.0518   0.0617    0.7390   1.1800e-   0.0943     8.5000e-   0.0952     0.0250    7.7000e-   0.0258              105.6444    105.6444    6.0700e-         105.7718
+                                                003                   004                             004                                                    003
+  CalEEMod Version: CalEEMod.2013.2.2                                               Page 11 of 21                                               Date: 10/15/2013 1:47 PM
+
+
+
+3.4 Building Construction - 2014
+Unmitigated Construction On-Site
+
+
+
+
+              ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+  Off-Road    1.4930   14.8331   8.3419   0.0113                 1.0334    1.0334               0.9507     0.9507              1,204.349   1,204.349   0.3559           1,211.823
+                                                                                                                                   7           7                            5
+
+    Total     1.4930   14.8331   8.3419   0.0113                 1.0334    1.0334               0.9507     0.9507              1,204.349   1,204.349   0.3559           1,211.823
+                                                                                                                                   7           7                            5
+
+
+
+
+Unmitigated Construction Off-Site
+
+
+
+
+              ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+   Hauling    0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Vendor     0.0574   0.5190    0.5363   9.6000e-   0.0265      0.0101    0.0367    7.5700e-   9.3100e-   0.0169               97.6824    97.6824     1.0100e-         97.7036
+                                             004                                        003        003                                                    003
+
+   Worker     0.0518   0.0617    0.7390   1.1800e-   0.0943     8.5000e-   0.0952     0.0250    7.7000e-   0.0258              105.6444    105.6444    6.0700e-         105.7718
+                                             003                   004                             004                                                    003
+
+    Total     0.1092   0.5807    1.2752   2.1400e-   0.1208      0.0110    0.1318     0.0326    0.0101     0.0427              203.3268    203.3268    7.0800e-         203.4754
+                                             003                                                                                                          003
+  CalEEMod Version: CalEEMod.2013.2.2                                               Page 12 of 21                                               Date: 10/15/2013 1:47 PM
+
+
+
+3.4 Building Construction - 2014
+Mitigated Construction On-Site
+
+
+
+
+               ROG      NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+  Off-Road    1.4930   14.8331   8.3419   0.0113                 1.0334    1.0334               0.9507     0.9507    0.0000    1,204.349   1,204.349   0.3559           1,211.823
+                                                                                                                                   7           7                            5
+
+    Total     1.4930   14.8331   8.3419   0.0113                 1.0334    1.0334               0.9507     0.9507    0.0000    1,204.349   1,204.349   0.3559           1,211.823
+                                                                                                                                   7           7                            5
+
+
+
+
+Mitigated Construction Off-Site
+
+
+
+
+               ROG      NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+   Hauling    0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Vendor     0.0574   0.5190    0.5363   9.6000e-   0.0265      0.0101    0.0367    7.5700e-   9.3100e-   0.0169               97.6824    97.6824     1.0100e-         97.7036
+                                             004                                        003        003                                                    003
+
+   Worker     0.0518   0.0617    0.7390   1.1800e-   0.0943     8.5000e-   0.0952     0.0250    7.7000e-   0.0258              105.6444    105.6444    6.0700e-         105.7718
+                                             003                   004                             004                                                    003
+
+    Total     0.1092   0.5807    1.2752   2.1400e-   0.1208      0.0110    0.1318     0.0326    0.0101     0.0427              203.3268    203.3268    7.0800e-         203.4754
+                                             003                                                                                                          003
+  CalEEMod Version: CalEEMod.2013.2.2                                               Page 13 of 21                                               Date: 10/15/2013 1:47 PM
+
+
+
+3.5 Paving - 2014
+Unmitigated Construction On-Site
+
+
+
+
+              ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+  Off-Road    1.2331   11.8542   7.3554   0.0111                 0.7457    0.7457               0.6898     0.6898              1,103.282   1,103.282   0.2973          1,109.524
+                                                                                                                                   6           6                           8
+
+   Paving     0.1048                                             0.0000    0.0000               0.0000     0.0000                           0.0000                      0.0000
+
+
+    Total     1.3379   11.8542   7.3554   0.0111                 0.7457    0.7457               0.6898     0.6898              1,103.282   1,103.282   0.2973          1,109.524
+                                                                                                                                   6           6                           8
+
+
+
+
+Unmitigated Construction Off-Site
+
+
+
+
+              ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+   Hauling    0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000           0.0000
+
+
+   Vendor     0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000           0.0000
+
+
+   Worker     0.0933   0.1110    1.3302   2.1200e-   0.1698     1.5300e-   0.1713     0.0450    1.3900e-   0.0464              190.1599    190.1599    0.0109          190.3893
+                                             003                   003                             003
+
+    Total     0.0933   0.1110    1.3302   2.1200e-   0.1698     1.5300e-   0.1713     0.0450    1.3900e-   0.0464              190.1599    190.1599    0.0109          190.3893
+                                             003                   003                             003
+  CalEEMod Version: CalEEMod.2013.2.2                                               Page 14 of 21                                               Date: 10/15/2013 1:47 PM
+
+
+
+3.5 Paving - 2014
+Mitigated Construction On-Site
+
+
+
+
+               ROG      NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+  Off-Road    1.2331   11.8542   7.3554   0.0111                 0.7457    0.7457               0.6898     0.6898    0.0000    1,103.282   1,103.282   0.2973          1,109.524
+                                                                                                                                   6           6                           8
+
+   Paving     0.1048                                             0.0000    0.0000               0.0000     0.0000                           0.0000                      0.0000
+
+
+    Total     1.3379   11.8542   7.3554   0.0111                 0.7457    0.7457               0.6898     0.6898    0.0000    1,103.282   1,103.282   0.2973          1,109.524
+                                                                                                                                   6           6                           8
+
+
+
+
+Mitigated Construction Off-Site
+
+
+
+
+               ROG      NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+   Hauling    0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000           0.0000
+
+
+   Vendor     0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000           0.0000
+
+
+   Worker     0.0933   0.1110    1.3302   2.1200e-   0.1698     1.5300e-   0.1713     0.0450    1.3900e-   0.0464              190.1599    190.1599    0.0109          190.3893
+                                             003                   003                             003
+
+    Total     0.0933   0.1110    1.3302   2.1200e-   0.1698     1.5300e-   0.1713     0.0450    1.3900e-   0.0464              190.1599    190.1599    0.0109          190.3893
+                                             003                   003                             003
+  CalEEMod Version: CalEEMod.2013.2.2                                                    Page 15 of 21                                                Date: 10/15/2013 1:47 PM
+
+
+
+3.6 Architectural Coating - 2014
+Unmitigated Construction On-Site
+
+
+
+
+                    ROG       NOx      CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                           PM10       PM10      Total      PM2.5      PM2.5      Total
+
+   Category                                                      lb/day                                                                                lb/day
+
+
+
+ Archit. Coating   37.3549                                            0.0000    0.0000               0.0000     0.0000                            0.0000                      0.0000
+
+
+   Off-Road        0.4462    2.7773   1.9216   2.9700e-               0.2452    0.2452               0.2452     0.2452                281.4481   281.4481   0.0401           282.2905
+                                                  003
+
+     Total         37.8011   2.7773   1.9216   2.9700e-               0.2452    0.2452               0.2452     0.2452                281.4481   281.4481   0.0401           282.2905
+                                                  003
+
+
+
+
+Unmitigated Construction Off-Site
+
+
+
+
+                    ROG       NOx      CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                           PM10       PM10      Total      PM2.5      PM2.5      Total
+
+   Category                                                      lb/day                                                                                lb/day
+
+
+
+    Hauling        0.0000    0.0000   0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000                 0.0000     0.0000    0.0000            0.0000
+
+
+    Vendor         0.0000    0.0000   0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000                 0.0000     0.0000    0.0000            0.0000
+
+
+    Worker         0.0104    0.0123   0.1478   2.4000e-   0.0189     1.7000e-   0.0190    5.0000e-   1.5000e-   5.1600e-               21.1289   21.1289    1.2100e-         21.1544
+                                                  004                   004                  003        004        003                                         003
+
+     Total         0.0104    0.0123   0.1478   2.4000e-   0.0189     1.7000e-   0.0190    5.0000e-   1.5000e-   5.1600e-               21.1289   21.1289    1.2100e-         21.1544
+                                                  004                   004                  003        004        003                                         003
+  CalEEMod Version: CalEEMod.2013.2.2                                                    Page 16 of 21                                                Date: 10/15/2013 1:47 PM
+
+
+
+3.6 Architectural Coating - 2014
+Mitigated Construction On-Site
+
+
+
+
+                    ROG       NOx      CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                           PM10       PM10      Total      PM2.5      PM2.5      Total
+
+   Category                                                      lb/day                                                                                lb/day
+
+
+
+ Archit. Coating   37.3549                                            0.0000    0.0000               0.0000     0.0000                            0.0000                      0.0000
+
+
+   Off-Road        0.4462    2.7773   1.9216   2.9700e-               0.2452    0.2452               0.2452     0.2452      0.0000    281.4481   281.4481   0.0401           282.2905
+                                                  003
+
+     Total         37.8011   2.7773   1.9216   2.9700e-               0.2452    0.2452               0.2452     0.2452      0.0000    281.4481   281.4481   0.0401           282.2905
+                                                  003
+
+
+
+
+Mitigated Construction Off-Site
+
+
+
+
+                    ROG       NOx      CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                           PM10       PM10      Total      PM2.5      PM2.5      Total
+
+   Category                                                      lb/day                                                                                lb/day
+
+
+
+    Hauling        0.0000    0.0000   0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000                 0.0000     0.0000    0.0000            0.0000
+
+
+    Vendor         0.0000    0.0000   0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000                 0.0000     0.0000    0.0000            0.0000
+
+
+    Worker         0.0104    0.0123   0.1478   2.4000e-   0.0189     1.7000e-   0.0190    5.0000e-   1.5000e-   5.1600e-               21.1289   21.1289    1.2100e-         21.1544
+                                                  004                   004                  003        004        003                                         003
+
+     Total         0.0104    0.0123   0.1478   2.4000e-   0.0189     1.7000e-   0.0190    5.0000e-   1.5000e-   5.1600e-               21.1289   21.1289    1.2100e-         21.1544
+                                                  004                   004                  003        004        003                                         003
+
+
+
+
+4.0 Operational Detail - Mobile
+ CalEEMod Version: CalEEMod.2013.2.2                                                                   Page 17 of 21                                                            Date: 10/15/2013 1:47 PM
+
+
+4.1 Mitigation Measures Mobile
+
+
+
+
+                    ROG         NOx        CO        SO2        Fugitive      Exhaust         PM10       Fugitive     Exhaust          PM2.5    Bio- CO2   NBio- CO2 Total CO2             CH4          N2O    CO2e
+                                                                 PM10          PM10           Total       PM2.5        PM2.5            Total
+
+  Category                                                             lb/day                                                                                                     lb/day
+
+
+
+  Mitigated         1.6936     2.0693    11.0322    0.0159      1.0365            0.0247      1.0612      0.2768      0.0227           0.2995              1,421.428       1,421.428      0.0728              1,422.957
+                                                                                                                                                               2               2                                  3
+
+ Unmitigated        1.6936     2.0693    11.0322    0.0159      1.0365            0.0247      1.0612      0.2768      0.0227           0.2995              1,421.428       1,421.428      0.0728              1,422.957
+                                                                                                                                                               2               2                                  3
+
+
+
+
+4.2 Trip Summary Information
+
+                                                                       Average Daily Trip Rate                                           Unmitigated                                   Mitigated
+                     Land Use                              Weekday                   Saturday          Sunday                            Annual VMT                               Annual VMT
+
+               Automobile Care Center                        491.54                   491.54              491.54                           489,661                                     489,661
+          Other Non-Asphalt Surfaces                          0.00                     0.00                0.00
+                    Parking Lot                               0.00                     0.00                0.00
+                       Total                                 491.54                   491.54              491.54                           489,661                                     489,661
+
+
+4.3 Trip Type Information
+
+                                                     Miles                                                   Trip %                                              Trip Purpose %
+
+          Land Use                 H-W or C-W      H-S or C-C     H-O or C-NW H-W or C-W H-S or C-C                     H-O or C-NW             Primary          Diverted                    Pass-by
+  Automobile Care Center                9.50          7.30                 7.30            33.00           48.00            19.00                    21                51                          28
+ Other Non-Asphalt Surfaces             9.50          7.30                 7.30               0.00          0.00                0.00                 0                 0                           0
+         Parking Lot                    9.50          7.30                 7.30               0.00          0.00                0.00                 0                 0                           0
+ CalEEMod Version: CalEEMod.2013.2.2                                                        Page 18 of 21                                                 Date: 10/15/2013 1:47 PM
+
+  LDA          LDT1        LDT2          MDV          LHD1           LHD2         MHD             HHD         OBUS            UBUS          MCY          SBUS              MH
+  0.527595     0.065111    0.176365     0.146583      0.036541       0.004920     0.009546       0.020124      0.001217       0.001491     0.006333      0.002119          0.002054
+
+
+
+5.0 Energy Detail
+4.4 Fleet Mix
+Historical Energy Use: N
+
+5.1 Mitigation Measures Energy
+
+
+
+
+                  ROG       NOx        CO       SO2       Fugitive    Exhaust     PM10       Fugitive   Exhaust    PM2.5       Bio- CO2   NBio- CO2 Total CO2        CH4    N2O       CO2e
+                                                           PM10        PM10       Total       PM2.5      PM2.5      Total
+
+  Category                                                       lb/day                                                                                     lb/day
+
+
+
+ NaturalGas     6.4200e-   0.0584     0.0490   3.5000e-               4.4400e-   4.4400e-               4.4400e-   4.4400e-                70.0424    70.0424   1.3400e-   1.2800e-   70.4686
+  Mitigated        003                            004                    003        003                    003        003                                          003        003
+
+ NaturalGas     6.4200e-   0.0584     0.0490   3.5000e-               4.4400e-   4.4400e-               4.4400e-   4.4400e-                70.0424    70.0424   1.3400e-   1.2800e-   70.4686
+ Unmitigated       003                            004                    003        003                    003        003                                          003        003
+  CalEEMod Version: CalEEMod.2013.2.2                                                       Page 19 of 21                                                 Date: 10/15/2013 1:47 PM
+
+
+
+5.2 Energy by Land Use - NaturalGas
+Unmitigated
+
+
+
+
+                  NaturalGa    ROG        NOx      CO       SO2       Fugitive   Exhaust      PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4     N2O       CO2e
+                   s Use                                               PM10       PM10        Total      PM2.5      PM2.5      Total
+
+   Land Use       kBTU/yr                                                    lb/day                                                                                  lb/day
+
+
+
+Automobile Care    595.36     6.4200e-   0.0584   0.0490   3.5000e-              4.4400e-    4.4400e-              4.4400e-   4.4400e-               70.0424   70.0424    1.3400e-   1.2800e-   70.4686
+    Center                       003                          004                   003         003                   003        003                                         003        003
+
+   Other             0        0.0000     0.0000   0.0000   0.0000                 0.0000      0.0000               0.0000     0.0000                 0.0000    0.0000     0.0000     0.0000     0.0000
+ Non-Asphalt
+  Surfaces
+ Parking Lot         0        0.0000     0.0000   0.0000   0.0000                 0.0000      0.0000               0.0000     0.0000                 0.0000    0.0000     0.0000     0.0000     0.0000
+
+
+     Total                    6.4200e-   0.0584   0.0490   3.5000e-              4.4400e-    4.4400e-              4.4400e-   4.4400e-               70.0424   70.0424    1.3400e-   1.2800e-   70.4686
+                                 003                          004                   003         003                   003        003                                         003        003
+
+
+
+
+Mitigated
+
+
+
+
+                  NaturalGa    ROG        NOx      CO       SO2       Fugitive   Exhaust      PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4     N2O       CO2e
+                   s Use                                               PM10       PM10        Total      PM2.5      PM2.5      Total
+
+   Land Use       kBTU/yr                                                    lb/day                                                                                  lb/day
+
+
+
+   Other             0        0.0000     0.0000   0.0000   0.0000                 0.0000      0.0000               0.0000     0.0000                 0.0000    0.0000     0.0000     0.0000     0.0000
+ Non-Asphalt
+  Surfaces
+ Parking Lot         0        0.0000     0.0000   0.0000   0.0000                 0.0000      0.0000               0.0000     0.0000                 0.0000    0.0000     0.0000     0.0000     0.0000
+
+
+Automobile Care   0.59536     6.4200e-   0.0584   0.0490   3.5000e-              4.4400e-    4.4400e-              4.4400e-   4.4400e-               70.0424   70.0424    1.3400e-   1.2800e-   70.4686
+    Center                       003                          004                   003         003                   003        003                                         003        003
+
+     Total                    6.4200e-   0.0584   0.0490   3.5000e-              4.4400e-    4.4400e-              4.4400e-   4.4400e-               70.0424   70.0424    1.3400e-   1.2800e-   70.4686
+                                 003                          004                   003         003                   003        003                                         003        003
+
+
+
+6.0 Area Detail
+ CalEEMod Version: CalEEMod.2013.2.2                                                        Page 20 of 21                                                 Date: 10/15/2013 1:47 PM
+
+
+6.1 Mitigation Measures Area
+
+
+
+
+                  ROG        NOx         CO        SO2     Fugitive   Exhaust     PM10        Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                            PM10       PM10       Total        PM2.5      PM2.5      Total
+
+   Category                                                       lb/day                                                                                   lb/day
+
+
+
+   Mitigated     0.6175     4.0000e-   4.1900e-   0.0000              2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-         9.2000e-
+                               005        003                            005        005                     005        005                   003        003        005              003
+
+ Unmitigated     0.6175     4.0000e-   4.1900e-   0.0000              2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-         9.2000e-
+                               005        003                            005        005                     005        005                   003        003        005              003
+
+
+
+
+6.2 Area by SubCategory
+Unmitigated
+
+
+
+
+                  ROG        NOx         CO        SO2     Fugitive   Exhaust     PM10        Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                            PM10       PM10       Total        PM2.5      PM2.5      Total
+
+ SubCategory                                                      lb/day                                                                                   lb/day
+
+
+
+ Architectural   0.0512                                                0.0000    0.0000                  0.0000     0.0000                           0.0000                      0.0000
+   Coating
+
+  Consumer       0.5659                                                0.0000    0.0000                  0.0000     0.0000                           0.0000                      0.0000
+   Products
+
+ Landscaping     4.1000e-   4.0000e-   4.1900e-   0.0000              2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-         9.2000e-
+                    004        005        003                            005        005                     005        005                   003        003        005              003
+
+     Total       0.6175     4.0000e-   4.1900e-   0.0000              2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-         9.2000e-
+                               005        003                            005        005                     005        005                   003        003        005              003
+ CalEEMod Version: CalEEMod.2013.2.2                                                              Page 21 of 21                                                 Date: 10/15/2013 1:47 PM
+
+
+
+6.2 Area by SubCategory
+Mitigated
+
+
+
+
+                    ROG         NOx         CO          SO2     Fugitive    Exhaust     PM10        Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4        N2O     CO2e
+                                                                 PM10        PM10       Total        PM2.5      PM2.5      Total
+
+ SubCategory                                                           lb/day                                                                                    lb/day
+
+
+
+ Architectural      0.0512                                                  0.0000     0.0000                  0.0000     0.0000                           0.0000                           0.0000
+   Coating
+
+  Consumer          0.5659                                                  0.0000     0.0000                  0.0000     0.0000                           0.0000                           0.0000
+   Products
+
+ Landscaping       4.1000e-    4.0000e-   4.1900e-     0.0000               2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-              9.2000e-
+                      004         005        003                               005        005                     005        005                   003        003        005                   003
+
+     Total          0.6175     4.0000e-   4.1900e-     0.0000               2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-              9.2000e-
+                                  005        003                               005        005                     005        005                   003        003        005                   003
+
+
+
+7.0 Water Detail
+
+7.1 Mitigation Measures Water
+
+
+8.0 Waste Detail
+
+8.1 Mitigation Measures Waste
+
+
+9.0 Operational Offroad
+
+              Equipment Type                         Number                Hours/Day                   Days/Year               Horse Power             Load Factor              Fuel Type
+
+
+
+10.0 Vegetation
+  CalEEMod Version: CalEEMod.2013.2.2                                              Page 1 of 21                                                Date: 10/15/2013 1:49 PM
+
+
+
+                                                                               Lone Tree Autozone
+                                                                           Contra Costa County, Winter
+
+1.0 Project Characteristics
+
+1.1 Land Usage
+
+                 Land Uses                                    Size                            Metric                          Lot Acreage       Floor Surface Area   Population
+
+        Automobile Care Center                                7.93                           1000sqft                            0.18               7,928.00              0
+
+                Parking Lot                                  22.00                            Space                              0.20               8,800.00              0
+
+      Other Non-Asphalt Surfaces                              9.72                           1000sqft                            0.22               9,717.00              0
+
+
+1.2 Other Project Characteristics
+
+Urbanization          Urban                     Wind Speed (m/s)         2.2                      Precipitation Freq (Days)          58
+
+Climate Zone          4                                                                           Operational Year                   2015
+
+
+Utility Company       Pacific Gas & Electric Company
+
+
+CO2 Intensity         641.35                    CH4 Intensity              0.029                  N2O Intensity                 0.006
+(lb/MWhr)                                       (lb/MWhr)                                         (lb/MWhr)
+
+
+1.3 User Entered Comments & Non-Default Data
+
+Project Characteristics -
+Land Use -
+Construction Phase -
+Grading -
+Architectural Coating -
+
+                Table Name                             Column Name                      Default Value                              New Value
+
+       tblProjectCharacteristics                       OperationalYear                      2014                                        2015
+ CalEEMod Version: CalEEMod.2013.2.2                                             Page 2 of 21                                               Date: 10/15/2013 1:49 PM
+
+
+2.0 Emissions Summary
+
+2.1 Overall Construction (Maximum Daily Emission)
+Unmitigated Construction
+
+
+
+
+              ROG        NOx      CO       SO2     Fugitive   Exhaust   PM10      Fugitive   Exhaust   PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O       CO2e
+                                                    PM10       PM10     Total      PM2.5      PM2.5     Total
+
+    Year                                                  lb/day                                                                              lb/day
+
+
+
+    2014     37.8113   15.4531   9.8709   0.0134   0.8471      1.0445   1.7783     0.4388    0.9609    1.3299    0.0000    1,397.140   1,397.140   0.3630    0.0000   1,404.762
+                                                                                                                               0           0                              9
+
+    Total    37.8113   15.4531   9.8709   0.0134   0.8471      1.0445   1.7783     0.4388    0.9609    1.3299    0.0000    1,397.140   1,397.140   0.3630    0.0000   1,404.762
+                                                                                                                               0           0                              9
+
+
+
+
+Mitigated Construction
+
+
+
+
+              ROG        NOx      CO       SO2     Fugitive   Exhaust   PM10      Fugitive   Exhaust   PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O       CO2e
+                                                    PM10       PM10     Total      PM2.5      PM2.5     Total
+
+    Year                                                  lb/day                                                                              lb/day
+
+
+
+    2014     37.8113   15.4531   9.8709   0.0134   0.8471      1.0445   1.7783     0.4388    0.9609    1.3299    0.0000    1,397.140   1,397.140   0.3630    0.0000   1,404.762
+                                                                                                                               0           0                              9
+
+    Total    37.8113   15.4531   9.8709   0.0134   0.8471      1.0445   1.7783     0.4388    0.9609    1.3299    0.0000    1,397.140   1,397.140   0.3630    0.0000   1,404.762
+                                                                                                                               0           0                              9
+CalEEMod Version: CalEEMod.2013.2.2                                   Page 3 of 21                                                Date: 10/15/2013 1:49 PM
+
+            ROG    NOx     CO     SO2    Fugitive   Exhaust   PM10    Fugitive   Exhaust   PM2.5    Bio- CO2   NBio-CO2 Total CO2     CH4     N20     CO2e
+                                          PM10       PM10     Total    PM2.5      PM2.5     Total
+
+ Percent    0.00   0.00    0.00   0.00     0.00      0.00     0.00      0.00      0.00      0.00      0.00       0.00      0.00       0.00    0.00    0.00
+Reduction
+ CalEEMod Version: CalEEMod.2013.2.2                                                      Page 4 of 21                                                  Date: 10/15/2013 1:49 PM
+
+
+
+2.2 Overall Operational
+Unmitigated Operational
+
+
+
+
+              ROG        NOx         CO        SO2       Fugitive   Exhaust     PM10       Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2         CH4     N2O        CO2e
+                                                          PM10       PM10       Total       PM2.5      PM2.5      Total
+
+  Category                                                      lb/day                                                                                    lb/day
+
+
+
+    Area      0.6175    4.0000e-   4.1900e-   0.0000                2.0000e-   2.0000e-               2.0000e-   2.0000e-              8.6800e-    8.6800e-    3.0000e-              9.2000e-
+                           005        003                              005        005                    005        005                   003         003         005                   003
+
+   Energy    6.4200e-   0.0584     0.0490     3.5000e-              4.4400e-   4.4400e-               4.4400e-   4.4400e-               70.0424    70.0424     1.3400e-   1.2800e-   70.4686
+                003                              004                   003        003                    003        003                                           003        003
+
+   Mobile     1.7303    2.3134     14.0532    0.0148     1.0365      0.0251    1.0616       0.2768    0.0230     0.2998                1,317.728   1,317.728   0.0729                1,319.259
+                                                                                                                                           4           4                                 4
+
+    Total     2.3543    2.3718     14.1064    0.0151     1.0365      0.0296    1.0660       0.2768    0.0275     0.3043                1,387.779   1,387.779   0.0743     1.2800e-   1,389.737
+                                                                                                                                           4           4                     003         3
+
+
+
+
+Mitigated Operational
+
+
+
+
+              ROG        NOx         CO        SO2       Fugitive   Exhaust     PM10       Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2         CH4     N2O        CO2e
+                                                          PM10       PM10       Total       PM2.5      PM2.5      Total
+
+  Category                                                      lb/day                                                                                    lb/day
+
+
+
+    Area      0.6175    4.0000e-   4.1900e-   0.0000                2.0000e-   2.0000e-               2.0000e-   2.0000e-              8.6800e-    8.6800e-    3.0000e-              9.2000e-
+                           005        003                              005        005                    005        005                   003         003         005                   003
+
+   Energy    6.4200e-   0.0584     0.0490     3.5000e-              4.4400e-   4.4400e-               4.4400e-   4.4400e-               70.0424    70.0424     1.3400e-   1.2800e-   70.4686
+                003                              004                   003        003                    003        003                                           003        003
+
+   Mobile     1.7303    2.3134     14.0532    0.0148     1.0365      0.0251    1.0616       0.2768    0.0230     0.2998                1,317.728   1,317.728   0.0729                1,319.259
+                                                                                                                                           4           4                                 4
+
+    Total     2.3543    2.3718     14.1064    0.0151     1.0365      0.0296    1.0660       0.2768    0.0275     0.3043                1,387.779   1,387.779   0.0743     1.2800e-   1,389.737
+                                                                                                                                           4           4                     003         3
+    CalEEMod Version: CalEEMod.2013.2.2                                                 Page 5 of 21                                                     Date: 10/15/2013 1:49 PM
+
+                      ROG          NOx     CO        SO2      Fugitive   Exhaust      PM10     Fugitive   Exhaust   PM2.5      Bio- CO2     NBio-CO2 Total CO2      CH4     N20     CO2e
+                                                               PM10       PM10        Total     PM2.5      PM2.5     Total
+
+     Percent          0.00         0.00    0.00       0.00        0.00    0.00        0.00       0.00       0.00     0.00        0.00         0.00        0.00       0.00   0.00    0.00
+    Reduction
+
+
+
+
+3.0 Construction Detail
+
+Construction Phase
+ Phase               Phase Name                     Phase Type               Start Date          End Date      Num Days      Num Days                Phase Description
+ Number                                                                                                          Week
+
+1          Site Preparation               Site Preparation                1/15/2014           1/15/2014                 5               1
+
+2          Grading                        Grading                         1/16/2014           1/17/2014                 5               2
+
+3          Building Construction          Building Construction           1/18/2014           6/6/2014                  5          100
+
+4          Paving                         Paving                          6/7/2014            6/13/2014                 5               5
+
+5          Architectural Coating          Architectural Coating           6/14/2014           6/20/2014                 5               5
+
+
+
+Acres of Grading (Site Preparation Phase): 0.5
+
+Acres of Grading (Grading Phase): 0
+
+Acres of Paving: 0
+
+Residential Indoor: 0; Residential Outdoor: 0; Non-Residential Indoor: 26,864; Non-Residential Outdoor: 8,955 (Architectural Coating ­ sqft)
+
+OffRoad Equipment
+  CalEEMod Version: CalEEMod.2013.2.2                                                     Page 6 of 21                                                    Date: 10/15/2013 1:49 PM
+
+             Phase Name                      Offroad Equipment Type                  Amount              Usage Hours       Horse Power          Load Factor
+
+Architectural Coating                 Air Compressors                                             1               6.00                   78                 0.48
+
+Paving                                Cement and Mortar Mixers                                    4               6.00                    9                 0.56
+
+Grading                               Concrete/Industrial Saws                                    1               8.00                   81                 0.73
+
+Building Construction                 Cranes                                                      1               4.00                  226                 0.29
+
+Building Construction                 Forklifts                                                   2               6.00                   89                 0.20
+
+Site Preparation                      Graders                                                     1               8.00                  174                 0.41
+
+Paving                                Pavers                                                      1               7.00                  125                 0.42
+
+Paving                                Rollers                                                     1               7.00                   80                 0.38
+
+Grading                               Rubber Tired Dozers                                         1               1.00                  255                 0.40
+
+Building Construction                 Tractors/Loaders/Backhoes                                   2               8.00                   97                 0.37
+
+Grading                               Tractors/Loaders/Backhoes                                   2               6.00                   97                 0.37
+
+Paving                                Tractors/Loaders/Backhoes                                   1               7.00                   97                 0.37
+
+Site Preparation                      Tractors/Loaders/Backhoes                                   1               8.00                   97                 0.37
+
+
+
+Trips and VMT
+
+     Phase Name         Offroad Equipment   Worker Trip     Vendor Trip    Hauling Trip   Worker Trip     Vendor Trip    Hauling Trip    Worker Vehicle       Vendor        Hauling
+                              Count          Number           Number         Number        Length           Length         Length            Class          Vehicle Class Vehicle Class
+
+
+Site Preparation                        2           5.00            0.00           0.00          12.40            7.30          20.00 LD_Mix                HDT_Mix       HHDT
+
+Grading                                 4          10.00            0.00           0.00          12.40            7.30          20.00 LD_Mix                HDT_Mix       HHDT
+
+Building Construction                   5          10.00            4.00           0.00          12.40            7.30          20.00 LD_Mix                HDT_Mix       HHDT
+
+Paving                                  7          18.00            0.00           0.00          12.40            7.30          20.00 LD_Mix                HDT_Mix       HHDT
+
+Architectural Coating                   1           2.00            0.00           0.00          12.40            7.30          20.00 LD_Mix                HDT_Mix       HHDT
+
+
+3.1 Mitigation Measures Construction
+  CalEEMod Version: CalEEMod.2013.2.2                                                  Page 7 of 21                                               Date: 10/15/2013 1:49 PM
+
+
+
+3.2 Site Preparation - 2014
+Unmitigated Construction On-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                              lb/day
+
+
+
+ Fugitive Dust                                          0.5303      0.0000    0.5303    0.0573     0.0000     0.0573                          0.0000                      0.0000
+
+
+  Off-Road       1.4341   14.4817   7.3936   9.3700e-               0.8920    0.8920               0.8206     0.8206              995.1971   995.1971   0.2941           1,001.373
+                                                003                                                                                                                          0
+
+    Total        1.4341   14.4817   7.3936   9.3700e-   0.5303      0.8920    1.4223    0.0573     0.8206     0.8779              995.1971   995.1971   0.2941           1,001.373
+                                                003                                                                                                                          0
+
+
+
+
+Unmitigated Construction Off-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                              lb/day
+
+
+
+   Hauling       0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000     0.0000    0.0000            0.0000
+
+
+   Vendor        0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000     0.0000    0.0000            0.0000
+
+
+   Worker        0.0255   0.0381    0.3578   5.3000e-   0.0472     4.3000e-   0.0476    0.0125     3.9000e-   0.0129               47.9227   47.9227    3.0300e-         47.9864
+                                                004                   004                             004                                                  003
+
+    Total        0.0255   0.0381    0.3578   5.3000e-   0.0472     4.3000e-   0.0476    0.0125     3.9000e-   0.0129               47.9227   47.9227    3.0300e-         47.9864
+                                                004                   004                             004                                                  003
+  CalEEMod Version: CalEEMod.2013.2.2                                                  Page 8 of 21                                               Date: 10/15/2013 1:49 PM
+
+
+
+3.2 Site Preparation - 2014
+Mitigated Construction On-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                              lb/day
+
+
+
+ Fugitive Dust                                          0.5303      0.0000    0.5303    0.0573     0.0000     0.0573                          0.0000                      0.0000
+
+
+  Off-Road       1.4341   14.4817   7.3936   9.3700e-               0.8920    0.8920               0.8206     0.8206    0.0000    995.1971   995.1971   0.2941           1,001.373
+                                                003                                                                                                                          0
+
+    Total        1.4341   14.4817   7.3936   9.3700e-   0.5303      0.8920    1.4223    0.0573     0.8206     0.8779    0.0000    995.1971   995.1971   0.2941           1,001.373
+                                                003                                                                                                                          0
+
+
+
+
+Mitigated Construction Off-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                              lb/day
+
+
+
+   Hauling       0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000     0.0000    0.0000            0.0000
+
+
+   Vendor        0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000     0.0000    0.0000            0.0000
+
+
+   Worker        0.0255   0.0381    0.3578   5.3000e-   0.0472     4.3000e-   0.0476    0.0125     3.9000e-   0.0129               47.9227   47.9227    3.0300e-         47.9864
+                                                004                   004                             004                                                  003
+
+    Total        0.0255   0.0381    0.3578   5.3000e-   0.0472     4.3000e-   0.0476    0.0125     3.9000e-   0.0129               47.9227   47.9227    3.0300e-         47.9864
+                                                004                   004                             004                                                  003
+  CalEEMod Version: CalEEMod.2013.2.2                                                  Page 9 of 21                                                Date: 10/15/2013 1:49 PM
+
+
+
+3.3 Grading - 2014
+Unmitigated Construction On-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                                lb/day
+
+
+
+ Fugitive Dust                                          0.7528      0.0000    0.7528    0.4138     0.0000     0.4138                           0.0000                       0.0000
+
+
+  Off-Road       1.4929   12.4922   8.8528   0.0121                 0.9304    0.9304               0.8904     0.8904              1,207.246   1,207.246   0.2515           1,212.528
+                                                                                                                                      9           9                            1
+
+    Total        1.4929   12.4922   8.8528   0.0121     0.7528      0.9304    1.6832    0.4138     0.8904     1.3041              1,207.246   1,207.246   0.2515           1,212.528
+                                                                                                                                      9           9                            1
+
+
+
+
+Unmitigated Construction Off-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                                lb/day
+
+
+
+   Hauling       0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Vendor        0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000    0.0000     0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Worker        0.0510   0.0761    0.7155   1.0700e-   0.0943     8.5000e-   0.0952    0.0250     7.7000e-   0.0258               95.8454    95.8454     6.0700e-         95.9728
+                                                003                   004                             004                                                    003
+
+    Total        0.0510   0.0761    0.7155   1.0700e-   0.0943     8.5000e-   0.0952    0.0250     7.7000e-   0.0258               95.8454    95.8454     6.0700e-         95.9728
+                                                003                   004                             004                                                    003
+  CalEEMod Version: CalEEMod.2013.2.2                                                  Page 10 of 21                                               Date: 10/15/2013 1:49 PM
+
+
+
+3.3 Grading - 2014
+Mitigated Construction On-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                                lb/day
+
+
+
+ Fugitive Dust                                          0.7528      0.0000    0.7528     0.4138    0.0000     0.4138                           0.0000                       0.0000
+
+
+  Off-Road       1.4929   12.4922   8.8528   0.0121                 0.9304    0.9304               0.8904     0.8904    0.0000    1,207.246   1,207.246   0.2515           1,212.528
+                                                                                                                                      9           9                            1
+
+    Total        1.4929   12.4922   8.8528   0.0121     0.7528      0.9304    1.6832     0.4138    0.8904     1.3041    0.0000    1,207.246   1,207.246   0.2515           1,212.528
+                                                                                                                                      9           9                            1
+
+
+
+
+Mitigated Construction Off-Site
+
+
+
+
+                 ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                         PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                     lb/day                                                                                lb/day
+
+
+
+   Hauling       0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Vendor        0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Worker        0.0510   0.0761    0.7155   1.0700e-   0.0943     8.5000e-   0.0952     0.0250    7.7000e-   0.0258               95.8454    95.8454     6.0700e-         95.9728
+                                                003                   004                             004                                                    003
+
+    Total        0.0510   0.0761    0.7155   1.0700e-   0.0943     8.5000e-   0.0952     0.0250    7.7000e-   0.0258               95.8454    95.8454     6.0700e-         95.9728
+                                                003                   004                             004                                                    003
+  CalEEMod Version: CalEEMod.2013.2.2                                               Page 11 of 21                                               Date: 10/15/2013 1:49 PM
+
+
+
+3.4 Building Construction - 2014
+Unmitigated Construction On-Site
+
+
+
+
+              ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+  Off-Road    1.4930   14.8331   8.3419   0.0113                 1.0334    1.0334               0.9507     0.9507              1,204.349   1,204.349   0.3559           1,211.823
+                                                                                                                                   7           7                            5
+
+    Total     1.4930   14.8331   8.3419   0.0113                 1.0334    1.0334               0.9507     0.9507              1,204.349   1,204.349   0.3559           1,211.823
+                                                                                                                                   7           7                            5
+
+
+
+
+Unmitigated Construction Off-Site
+
+
+
+
+              ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+   Hauling    0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Vendor     0.0725   0.5439    0.8135   9.5000e-   0.0265      0.0103    0.0368    7.5700e-   9.4300e-   0.0170               96.9449    96.9449     1.0300e-         96.9665
+                                             004                                        003        003                                                    003
+
+   Worker     0.0510   0.0761    0.7155   1.0700e-   0.0943     8.5000e-   0.0952     0.0250    7.7000e-   0.0258               95.8454    95.8454     6.0700e-         95.9728
+                                             003                   004                             004                                                    003
+
+    Total     0.1235   0.6200    1.5290   2.0200e-   0.1208      0.0111    0.1319     0.0326    0.0102     0.0428              192.7903    192.7903    7.1000e-         192.9394
+                                             003                                                                                                          003
+  CalEEMod Version: CalEEMod.2013.2.2                                               Page 12 of 21                                               Date: 10/15/2013 1:49 PM
+
+
+
+3.4 Building Construction - 2014
+Mitigated Construction On-Site
+
+
+
+
+               ROG      NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+  Off-Road    1.4930   14.8331   8.3419   0.0113                 1.0334    1.0334               0.9507     0.9507    0.0000    1,204.349   1,204.349   0.3559           1,211.823
+                                                                                                                                   7           7                            5
+
+    Total     1.4930   14.8331   8.3419   0.0113                 1.0334    1.0334               0.9507     0.9507    0.0000    1,204.349   1,204.349   0.3559           1,211.823
+                                                                                                                                   7           7                            5
+
+
+
+
+Mitigated Construction Off-Site
+
+
+
+
+               ROG      NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4    N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+   Hauling    0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000            0.0000
+
+
+   Vendor     0.0725   0.5439    0.8135   9.5000e-   0.0265      0.0103    0.0368    7.5700e-   9.4300e-   0.0170               96.9449    96.9449     1.0300e-         96.9665
+                                             004                                        003        003                                                    003
+
+   Worker     0.0510   0.0761    0.7155   1.0700e-   0.0943     8.5000e-   0.0952     0.0250    7.7000e-   0.0258               95.8454    95.8454     6.0700e-         95.9728
+                                             003                   004                             004                                                    003
+
+    Total     0.1235   0.6200    1.5290   2.0200e-   0.1208      0.0111    0.1319     0.0326    0.0102     0.0428              192.7903    192.7903    7.1000e-         192.9394
+                                             003                                                                                                          003
+  CalEEMod Version: CalEEMod.2013.2.2                                               Page 13 of 21                                               Date: 10/15/2013 1:49 PM
+
+
+
+3.5 Paving - 2014
+Unmitigated Construction On-Site
+
+
+
+
+              ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+  Off-Road    1.2331   11.8542   7.3554   0.0111                 0.7457    0.7457               0.6898     0.6898              1,103.282   1,103.282   0.2973          1,109.524
+                                                                                                                                   6           6                           8
+
+   Paving     0.1048                                             0.0000    0.0000               0.0000     0.0000                           0.0000                      0.0000
+
+
+    Total     1.3379   11.8542   7.3554   0.0111                 0.7457    0.7457               0.6898     0.6898              1,103.282   1,103.282   0.2973          1,109.524
+                                                                                                                                   6           6                           8
+
+
+
+
+Unmitigated Construction Off-Site
+
+
+
+
+              ROG       NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+   Hauling    0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000           0.0000
+
+
+   Vendor     0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000           0.0000
+
+
+   Worker     0.0918   0.1370    1.2879   1.9200e-   0.1698     1.5300e-   0.1713     0.0450    1.3900e-   0.0464              172.5218    172.5218    0.0109          172.7511
+                                             003                   003                             003
+
+    Total     0.0918   0.1370    1.2879   1.9200e-   0.1698     1.5300e-   0.1713     0.0450    1.3900e-   0.0464              172.5218    172.5218    0.0109          172.7511
+                                             003                   003                             003
+  CalEEMod Version: CalEEMod.2013.2.2                                               Page 14 of 21                                               Date: 10/15/2013 1:49 PM
+
+
+
+3.5 Paving - 2014
+Mitigated Construction On-Site
+
+
+
+
+               ROG      NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+  Off-Road    1.2331   11.8542   7.3554   0.0111                 0.7457    0.7457               0.6898     0.6898    0.0000    1,103.282   1,103.282   0.2973          1,109.524
+                                                                                                                                   6           6                           8
+
+   Paving     0.1048                                             0.0000    0.0000               0.0000     0.0000                           0.0000                      0.0000
+
+
+    Total     1.3379   11.8542   7.3554   0.0111                 0.7457    0.7457               0.6898     0.6898    0.0000    1,103.282   1,103.282   0.2973          1,109.524
+                                                                                                                                   6           6                           8
+
+
+
+
+Mitigated Construction Off-Site
+
+
+
+
+               ROG      NOx       CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5    Bio- CO2   NBio- CO2 Total CO2         CH4   N2O    CO2e
+                                                      PM10       PM10      Total      PM2.5      PM2.5      Total
+
+  Category                                                  lb/day                                                                                lb/day
+
+
+
+   Hauling    0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000           0.0000
+
+
+   Vendor     0.0000   0.0000    0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000               0.0000      0.0000     0.0000           0.0000
+
+
+   Worker     0.0918   0.1370    1.2879   1.9200e-   0.1698     1.5300e-   0.1713     0.0450    1.3900e-   0.0464              172.5218    172.5218    0.0109          172.7511
+                                             003                   003                             003
+
+    Total     0.0918   0.1370    1.2879   1.9200e-   0.1698     1.5300e-   0.1713     0.0450    1.3900e-   0.0464              172.5218    172.5218    0.0109          172.7511
+                                             003                   003                             003
+  CalEEMod Version: CalEEMod.2013.2.2                                                    Page 15 of 21                                                Date: 10/15/2013 1:49 PM
+
+
+
+3.6 Architectural Coating - 2014
+Unmitigated Construction On-Site
+
+
+
+
+                    ROG       NOx      CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                           PM10       PM10      Total      PM2.5      PM2.5      Total
+
+   Category                                                      lb/day                                                                                lb/day
+
+
+
+ Archit. Coating   37.3549                                            0.0000    0.0000               0.0000     0.0000                            0.0000                      0.0000
+
+
+   Off-Road        0.4462    2.7773   1.9216   2.9700e-               0.2452    0.2452               0.2452     0.2452                281.4481   281.4481   0.0401           282.2905
+                                                  003
+
+     Total         37.8011   2.7773   1.9216   2.9700e-               0.2452    0.2452               0.2452     0.2452                281.4481   281.4481   0.0401           282.2905
+                                                  003
+
+
+
+
+Unmitigated Construction Off-Site
+
+
+
+
+                    ROG       NOx      CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                           PM10       PM10      Total      PM2.5      PM2.5      Total
+
+   Category                                                      lb/day                                                                                lb/day
+
+
+
+    Hauling        0.0000    0.0000   0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000                 0.0000     0.0000    0.0000            0.0000
+
+
+    Vendor         0.0000    0.0000   0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000                 0.0000     0.0000    0.0000            0.0000
+
+
+    Worker         0.0102    0.0152   0.1431   2.1000e-   0.0189     1.7000e-   0.0190    5.0000e-   1.5000e-   5.1600e-               19.1691   19.1691    1.2100e-         19.1946
+                                                  004                   004                  003        004        003                                         003
+
+     Total         0.0102    0.0152   0.1431   2.1000e-   0.0189     1.7000e-   0.0190    5.0000e-   1.5000e-   5.1600e-               19.1691   19.1691    1.2100e-         19.1946
+                                                  004                   004                  003        004        003                                         003
+  CalEEMod Version: CalEEMod.2013.2.2                                                    Page 16 of 21                                                Date: 10/15/2013 1:49 PM
+
+
+
+3.6 Architectural Coating - 2014
+Mitigated Construction On-Site
+
+
+
+
+                    ROG       NOx      CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                           PM10       PM10      Total      PM2.5      PM2.5      Total
+
+   Category                                                      lb/day                                                                                lb/day
+
+
+
+ Archit. Coating   37.3549                                            0.0000    0.0000               0.0000     0.0000                            0.0000                      0.0000
+
+
+   Off-Road        0.4462    2.7773   1.9216   2.9700e-               0.2452    0.2452               0.2452     0.2452      0.0000    281.4481   281.4481   0.0401           282.2905
+                                                  003
+
+     Total         37.8011   2.7773   1.9216   2.9700e-               0.2452    0.2452               0.2452     0.2452      0.0000    281.4481   281.4481   0.0401           282.2905
+                                                  003
+
+
+
+
+Mitigated Construction Off-Site
+
+
+
+
+                    ROG       NOx      CO       SO2       Fugitive   Exhaust    PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                           PM10       PM10      Total      PM2.5      PM2.5      Total
+
+   Category                                                      lb/day                                                                                lb/day
+
+
+
+    Hauling        0.0000    0.0000   0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000                 0.0000     0.0000    0.0000            0.0000
+
+
+    Vendor         0.0000    0.0000   0.0000   0.0000     0.0000      0.0000    0.0000     0.0000    0.0000     0.0000                 0.0000     0.0000    0.0000            0.0000
+
+
+    Worker         0.0102    0.0152   0.1431   2.1000e-   0.0189     1.7000e-   0.0190    5.0000e-   1.5000e-   5.1600e-               19.1691   19.1691    1.2100e-         19.1946
+                                                  004                   004                  003        004        003                                         003
+
+     Total         0.0102    0.0152   0.1431   2.1000e-   0.0189     1.7000e-   0.0190    5.0000e-   1.5000e-   5.1600e-               19.1691   19.1691    1.2100e-         19.1946
+                                                  004                   004                  003        004        003                                         003
+
+
+
+
+4.0 Operational Detail - Mobile
+ CalEEMod Version: CalEEMod.2013.2.2                                                                   Page 17 of 21                                                            Date: 10/15/2013 1:49 PM
+
+
+4.1 Mitigation Measures Mobile
+
+
+
+
+                    ROG         NOx        CO        SO2        Fugitive      Exhaust         PM10       Fugitive     Exhaust          PM2.5    Bio- CO2   NBio- CO2 Total CO2             CH4          N2O    CO2e
+                                                                 PM10          PM10           Total       PM2.5        PM2.5            Total
+
+  Category                                                             lb/day                                                                                                     lb/day
+
+
+
+  Mitigated         1.7303     2.3134    14.0532    0.0148      1.0365            0.0251      1.0616      0.2768      0.0230           0.2998              1,317.728       1,317.728      0.0729              1,319.259
+                                                                                                                                                               4               4                                  4
+
+ Unmitigated        1.7303     2.3134    14.0532    0.0148      1.0365            0.0251      1.0616      0.2768      0.0230           0.2998              1,317.728       1,317.728      0.0729              1,319.259
+                                                                                                                                                               4               4                                  4
+
+
+
+
+4.2 Trip Summary Information
+
+                                                                       Average Daily Trip Rate                                           Unmitigated                                   Mitigated
+                     Land Use                              Weekday                   Saturday          Sunday                            Annual VMT                               Annual VMT
+
+               Automobile Care Center                        491.54                   491.54              491.54                           489,661                                     489,661
+          Other Non-Asphalt Surfaces                          0.00                     0.00                0.00
+                    Parking Lot                               0.00                     0.00                0.00
+                       Total                                 491.54                   491.54              491.54                           489,661                                     489,661
+
+
+4.3 Trip Type Information
+
+                                                     Miles                                                   Trip %                                              Trip Purpose %
+
+          Land Use                 H-W or C-W      H-S or C-C     H-O or C-NW H-W or C-W H-S or C-C                     H-O or C-NW             Primary          Diverted                    Pass-by
+  Automobile Care Center                9.50          7.30                 7.30            33.00           48.00            19.00                    21                51                          28
+ Other Non-Asphalt Surfaces             9.50          7.30                 7.30               0.00          0.00                0.00                 0                 0                           0
+         Parking Lot                    9.50          7.30                 7.30               0.00          0.00                0.00                 0                 0                           0
+ CalEEMod Version: CalEEMod.2013.2.2                                                        Page 18 of 21                                                 Date: 10/15/2013 1:49 PM
+
+  LDA          LDT1        LDT2          MDV          LHD1           LHD2         MHD             HHD         OBUS            UBUS          MCY          SBUS              MH
+  0.527595     0.065111    0.176365     0.146583      0.036541       0.004920     0.009546       0.020124      0.001217       0.001491     0.006333      0.002119          0.002054
+
+
+
+5.0 Energy Detail
+4.4 Fleet Mix
+Historical Energy Use: N
+
+5.1 Mitigation Measures Energy
+
+
+
+
+                  ROG       NOx        CO       SO2       Fugitive    Exhaust     PM10       Fugitive   Exhaust    PM2.5       Bio- CO2   NBio- CO2 Total CO2        CH4    N2O       CO2e
+                                                           PM10        PM10       Total       PM2.5      PM2.5      Total
+
+  Category                                                       lb/day                                                                                     lb/day
+
+
+
+ NaturalGas     6.4200e-   0.0584     0.0490   3.5000e-               4.4400e-   4.4400e-               4.4400e-   4.4400e-                70.0424    70.0424   1.3400e-   1.2800e-   70.4686
+  Mitigated        003                            004                    003        003                    003        003                                          003        003
+
+ NaturalGas     6.4200e-   0.0584     0.0490   3.5000e-               4.4400e-   4.4400e-               4.4400e-   4.4400e-                70.0424    70.0424   1.3400e-   1.2800e-   70.4686
+ Unmitigated       003                            004                    003        003                    003        003                                          003        003
+  CalEEMod Version: CalEEMod.2013.2.2                                                       Page 19 of 21                                                 Date: 10/15/2013 1:49 PM
+
+
+
+5.2 Energy by Land Use - NaturalGas
+Unmitigated
+
+
+
+
+                  NaturalGa    ROG        NOx      CO       SO2       Fugitive   Exhaust      PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4     N2O       CO2e
+                   s Use                                               PM10       PM10        Total      PM2.5      PM2.5      Total
+
+   Land Use       kBTU/yr                                                    lb/day                                                                                  lb/day
+
+
+
+Automobile Care    595.36     6.4200e-   0.0584   0.0490   3.5000e-              4.4400e-    4.4400e-              4.4400e-   4.4400e-               70.0424   70.0424    1.3400e-   1.2800e-   70.4686
+    Center                       003                          004                   003         003                   003        003                                         003        003
+
+   Other             0        0.0000     0.0000   0.0000   0.0000                 0.0000      0.0000               0.0000     0.0000                 0.0000    0.0000     0.0000     0.0000     0.0000
+ Non-Asphalt
+  Surfaces
+ Parking Lot         0        0.0000     0.0000   0.0000   0.0000                 0.0000      0.0000               0.0000     0.0000                 0.0000    0.0000     0.0000     0.0000     0.0000
+
+
+     Total                    6.4200e-   0.0584   0.0490   3.5000e-              4.4400e-    4.4400e-              4.4400e-   4.4400e-               70.0424   70.0424    1.3400e-   1.2800e-   70.4686
+                                 003                          004                   003         003                   003        003                                         003        003
+
+
+
+
+Mitigated
+
+
+
+
+                  NaturalGa    ROG        NOx      CO       SO2       Fugitive   Exhaust      PM10      Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4     N2O       CO2e
+                   s Use                                               PM10       PM10        Total      PM2.5      PM2.5      Total
+
+   Land Use       kBTU/yr                                                    lb/day                                                                                  lb/day
+
+
+
+   Other             0        0.0000     0.0000   0.0000   0.0000                 0.0000      0.0000               0.0000     0.0000                 0.0000    0.0000     0.0000     0.0000     0.0000
+ Non-Asphalt
+  Surfaces
+ Parking Lot         0        0.0000     0.0000   0.0000   0.0000                 0.0000      0.0000               0.0000     0.0000                 0.0000    0.0000     0.0000     0.0000     0.0000
+
+
+Automobile Care   0.59536     6.4200e-   0.0584   0.0490   3.5000e-              4.4400e-    4.4400e-              4.4400e-   4.4400e-               70.0424   70.0424    1.3400e-   1.2800e-   70.4686
+    Center                       003                          004                   003         003                   003        003                                         003        003
+
+     Total                    6.4200e-   0.0584   0.0490   3.5000e-              4.4400e-    4.4400e-              4.4400e-   4.4400e-               70.0424   70.0424    1.3400e-   1.2800e-   70.4686
+                                 003                          004                   003         003                   003        003                                         003        003
+
+
+
+6.0 Area Detail
+ CalEEMod Version: CalEEMod.2013.2.2                                                        Page 20 of 21                                                 Date: 10/15/2013 1:49 PM
+
+
+6.1 Mitigation Measures Area
+
+
+
+
+                  ROG        NOx         CO        SO2     Fugitive   Exhaust     PM10        Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                            PM10       PM10       Total        PM2.5      PM2.5      Total
+
+   Category                                                       lb/day                                                                                   lb/day
+
+
+
+   Mitigated     0.6175     4.0000e-   4.1900e-   0.0000              2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-         9.2000e-
+                               005        003                            005        005                     005        005                   003        003        005              003
+
+ Unmitigated     0.6175     4.0000e-   4.1900e-   0.0000              2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-         9.2000e-
+                               005        003                            005        005                     005        005                   003        003        005              003
+
+
+
+
+6.2 Area by SubCategory
+Unmitigated
+
+
+
+
+                  ROG        NOx         CO        SO2     Fugitive   Exhaust     PM10        Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4    N2O    CO2e
+                                                            PM10       PM10       Total        PM2.5      PM2.5      Total
+
+ SubCategory                                                      lb/day                                                                                   lb/day
+
+
+
+ Architectural   0.0512                                                0.0000    0.0000                  0.0000     0.0000                           0.0000                      0.0000
+   Coating
+
+  Consumer       0.5659                                                0.0000    0.0000                  0.0000     0.0000                           0.0000                      0.0000
+   Products
+
+ Landscaping     4.1000e-   4.0000e-   4.1900e-   0.0000              2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-         9.2000e-
+                    004        005        003                            005        005                     005        005                   003        003        005              003
+
+     Total       0.6175     4.0000e-   4.1900e-   0.0000              2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-         9.2000e-
+                               005        003                            005        005                     005        005                   003        003        005              003
+ CalEEMod Version: CalEEMod.2013.2.2                                                              Page 21 of 21                                                 Date: 10/15/2013 1:49 PM
+
+
+
+6.2 Area by SubCategory
+Mitigated
+
+
+
+
+                    ROG         NOx         CO          SO2     Fugitive    Exhaust     PM10        Fugitive   Exhaust    PM2.5      Bio- CO2   NBio- CO2 Total CO2       CH4        N2O     CO2e
+                                                                 PM10        PM10       Total        PM2.5      PM2.5      Total
+
+ SubCategory                                                           lb/day                                                                                    lb/day
+
+
+
+ Architectural      0.0512                                                  0.0000     0.0000                  0.0000     0.0000                           0.0000                           0.0000
+   Coating
+
+  Consumer          0.5659                                                  0.0000     0.0000                  0.0000     0.0000                           0.0000                           0.0000
+   Products
+
+ Landscaping       4.1000e-    4.0000e-   4.1900e-     0.0000               2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-              9.2000e-
+                      004         005        003                               005        005                     005        005                   003        003        005                   003
+
+     Total          0.6175     4.0000e-   4.1900e-     0.0000               2.0000e-   2.0000e-                2.0000e-   2.0000e-              8.6800e-   8.6800e-   3.0000e-              9.2000e-
+                                  005        003                               005        005                     005        005                   003        003        005                   003
+
+
+
+7.0 Water Detail
+
+7.1 Mitigation Measures Water
+
+
+8.0 Waste Detail
+
+8.1 Mitigation Measures Waste
+
+
+9.0 Operational Offroad
+
+              Equipment Type                         Number                Hours/Day                   Days/Year               Horse Power             Load Factor              Fuel Type
+
+
+
+10.0 Vegetation
+APPENDIX B ­ BIOLOGY
+                                                                                               CNPS
+                                                                                                                                                         Habitat
+                                                                           Federal   State     Rare
+               Scientific Name                               Common Name                                     General Habitat Characteristics             Present/                         Rationale
+                                                                           Status    Status    Plant
+                                                                                                                                                         Absent
+                                                                                               Rank
+                                                                                              Plants
+                                                                                                       Cismontane woodland, and valley and foothill
+                                                                                                       grassland. Elev: 275-550m. Blooms: April-
+Amsinckia grandiflora                     large-flowered fiddleneck          FE       SE        1B.1   May (CNPS 2013).                                     A       No effect. Outside elevation range.
+                                                                                                       Cismontane woodland and sandstone soils in
+                                                                                                       chaparral. Elev: 135-650m. Blooms: Jan-                      No effect. Outside elevation range. Suitable habitat
+Arctostaphylos auriculata                 Mt. Diablo manzanita                -        -        1B.3   March (CNPS 2013).                                   A       not present.
+                                                                                                       Rocky chaparral. Elev: 500-1100m. Blooms:                    No effect. Outside elevation range. Suitable habitat
+Arctostaphylos manzanita ssp. laevigata   Contra Costa manzanita              -        -        1B.2   Jan-Apr (CNPS 2013).                                 A       not present.
+                                                                                                       Saline or alkaline areas in chenopod scrub,
+                                                                                                       meadows, seeps, and valley and foothill
+                                                                                                       grassland. Elev: 0-560m. Blooms: Apr-Oct
+Atriplex cordulata var. cordulata         heartscale                          -        -        1B.2   (CNPS 2013).                                         A       No effect. Suitable habitat not present.
+                                                                                                       Alkaline and clay areas in chenopod scrub,
+                                                                                                       meadows, seeps, playas, vernal pools, and
+                                                                                                       valley and foothill grasslands. Elev: 1-320m.
+Atriplex depressa                         brittlescale                        -        -        1B.2   Blooms: Apr-Oct (CNPS 2013).                         A       No effect. Suitable habitat not present.
+                                                                                                       Alkaline chenopod scrub, meadows, seeps,
+                                                                                                       playas, and valley and foothill grasslands.
+                                                                                                       Elev: 1-835m. Blooms: Apr-Oct (CNPS
+Atriplex joaquinana                       San Joaquin spearscale              -        -        1B.2   2013).                                               A       No effect. Suitable habitat not present.
+                                                                                                       Usually clay in valley and foothill grasslands.
+                                                                                                       Elev: 30-505m. Blooms: July-Oct (CNPS
+Blepharizonia plumosa                     big tarplant                        -        -        1B.1   2013).                                               A       No effect. Suitable habitat not present.
+                                                                                                       Clay soils in cismontane woodland and valley
+                                                                                                       and foothill grasslands. Elev: 15-1200m.
+California macrophylla                    round-leaved filaree                -        -        1B.1   Blooms: 15-1200m (CNPS 2013).                        A       No effect. Suitable habitat not present.
+                                                                                                       Chaparral, cismontane woodland, riparian
+                                                                                                       woodland, and valley and foothill grassland.
+                                                                                                       Elev: 30-840m. Blooms: Apr-June (CNPS
+Calochortus pulchellus                    Mt. Diablo fairy-lantern            -        -        1B.2   2013).                                               A       No effect. Suitable habitat not present.
+                                                                                                       Alkaline valley and foothill grasslands. Elev:
+Centromadia parryi ssp. congdonii         Congdon's tarplant                  -        -        1B.1   0-230m. Blooms: May-Nov (CNPS 2013).                 A       No effect. Suitable habitat not present.
+                                                                                                       Coastal salt marshes and swamps. Elev: 0-                    No effect. Outside elevation range. Suitable habitat
+Chloropyron molle ssp. molle              soft bird's-beak                   FE       SR        1B.2   3m. Blooms: July-Nov (CNPS 2013).                    A       not present.
+                                                                                                       Coastal, fresh or brackish marshes and
+                                                                                                       swamps. Elev: 0-200m. Blooms: July-Sept
+Cicuta maculata var. bolanderi            Bolander's water-hemlock            -        -         2.1   (CNPS 2013).                                         A       No effect. Suitable habitat not present.
+                                                                                                       Inland dunes and sandy valley and foothill
+                                                                                                       grasslands. Elev: 9-150m. Blooms: Apr-May
+Cryptantha hooveri                        Hoover's cryptantha                 -        -         1A    (CNPS 2013).                                         A       No effect. Suitable habitat not present.
+                                                                                                       Inland dunes. Elev: 0-20m. Blooms: July-Oct                  No effect. Outside elevation range. Suitable habitat
+Eriogonum nudum var. psychicola           Antioch Dunes buckwheat             -        -        1B.1   (CNPS 2013).                                         A       not present.
+                                                                                               CNPS
+                                                                                                                                                        Habitat
+                                                                            Federal   State    Rare
+                Scientific Name                           Common Name                                        General Habitat Characteristics            Present/                         Rationale
+                                                                            Status    Status   Plant
+                                                                                                                                                        Absent
+                                                                                               Rank
+                                                                                                       Sandy areas in chaparral, coastal scrub, and
+                                                                                                       valley and foothill grasslands. Elev: 3-350m.
+Eriogonum truncatum                      Mt. Diablo buckwheat                  -        -      1B.1    Blooms: Apr-Dec (CNPS 2013).                        A       No effect. Suitable habitat not present.
+                                                                                                       Inland dunes. Elev: 3-20m. Blooms: Mar-July                 No effect. Outside elevation range. Suitable habitat
+Erysimum capitatum var. angustatum       Contra Costa wallflower              FE       SE      1B.1    (CNPS 2013).                                        A       not present.
+                                                                                                       Alkaline and clay valley and foothill
+                                                                                                       grasslands. Elev: 0-975m. Blooms: Mar-Apr
+Eschscholzia rhombipetala                diamond-petaled California poppy      -        -      1B.1    (CNPS 2013).                                        A       No effect. Suitable habitat not present.
+                                                                                                       Chaparral, cismontane woodland, coastal
+                                                                                                       scrub, riparian woodland, broadleafed upland
+                                                                                                       forest, and valley and foothill grasslands.
+                                                                                                       Elev: 60-1300m. Blooms: Mar-June (CNPS                      No effect. Outside elevation range. Suitable habitat
+Helianthella castanea                    Diablo helianthella                   -        -      1B.2    2013).                                              A       not present.
+                                                                                                       Usually serpentinite, in chaparral, cismontane
+                                                                                                       woodland, and valley and foothill grasslands.
+                                                                                                       Elev: 30-900m. Blooms: May-July (CNPS
+Hesperolinon breweri                     Brewer's western flax                 -        -      1B.2    2013).                                              A       No effect. Suitable habitat not present.
+                                                                                                       Freshwater marshes and swamps. Elev: 0-
+Hibiscus lasiocarpus var. occidentalis   woolly rose-mallow                    -        -      1B.2    120m. Blooms: June-Sept (CNPS 2013).                A       No effect. Suitable habitat not present.
+                                                                                                       Mesic areas in vernal pools, cismontane
+                                                                                                       woodland, alkaline playas, and valley and
+                                                                                                       foothill grasslands. Elev: 0-470m. Blooms:
+Lasthenia conjugens                      Contra Costa goldenfields            FE        -      1B.1    Mar-June (CNPS 2013).                               A       No effect. Suitable habitat not present.
+                                                                                                       Freshwater and brackish marshes and
+                                                                                                       swamps. Elev: 0-4m. Blooms: May-Sept                        No effect. Outside elevation range. Suitable habitat
+Lathyrus jepsonii var. jepsonii          Delta tule pea                        -        -      1B.2    (CNPS 2013).                                        A       not present.
+                                                                                                       Riparian scrub, and brackish or freshwater
+                                                                                                       marshes and swamps. Elev: 0-10m. Blooms:                    No effect. Outside elevation range. Suitable habitat
+Lilaeopsis masonii                       Mason's lilaeopsis                    -       SR      1B.1    Apr-Nov (CNPS 2013).                                A       not present.
+                                                                                                       Usually mud banks in riparian scrub, and
+                                                                                                       freshwater or brackish marshes and swamps.                  No effect. Outside elevation range. Suitable habitat
+Limosella australis                      Delta mudwort                         -        -       2.1    Elev: 0-3m. Blooms: May-Aug (CNPS 2013).            A       not present.
+                                                                                                       Cismontane woodland, and valley and foothill
+                                                                                                       grasslands. Elev: 25-1215m. Blooms: Mar-
+Madia radiata                            showy golden madia                    -        -       2.1    May (CNPS 2013).                                    A       No effect. Suitable habitat not present.
+                                                                                                       Chaparral and coastal scrub. Elev: 10-760m.
+Malacothamnus hallii                     Hall's bush-mallow                    -        -      1B.2    Blooms: May-Oct (CNPS 2013).                        A       No effect. Suitable habitat not present.
+                                                                                                       Sometimes clay in cismontane woodland,
+                                                                                                       vernal pools, and valley and foothill
+                                                                                                       grassland. Elev: 76-1000m. Blooms: Apr-                     No effect. Outside elevation range. Suitable habitat
+Navarretia nigelliformis ssp. Radians    shining navarretia                    -        -      1B.2    July (CNPS 2013).                                   A       not present.
+                                                                                                       Inland dunes. Elev: 0-30m. Blooms: Mar-Sep                  No effect. Outside elevation range. Suitable habitat
+Oenothera deltoides ssp. howellii        Antioch Dunes evening-primrose       FE       SE      1B.1    (CNPS 2013).                                        A       not present.
+                                                                                                    CNPS
+                                                                                                                                                               Habitat
+                                                                                 Federal   State    Rare
+               Scientific Name                      Common Name                                                     General Habitat Characteristics            Present/                         Rationale
+                                                                                 Status    Status   Plant
+                                                                                                                                                               Absent
+                                                                                                    Rank
+                                                                                                              Sometimes alkaline in chaparral, cismontane
+                                                                                                              woodland, and coastal scrub. Elev: 15-800m.
+Senecio aphanactis                  chaparral ragwort                               -        -        2.2     Blooms: Jan-Apr (CNPS 2013).                        A       No effect. Suitable habitat not present.
+                                                                                                              Brackish and freshwater marshes and
+                                                                                                              swamps. Elev: 0-3m. Blooms: May-Nov                         No effect. Outside elevation range. Suitable habitat
+Symphyotrichum lentum               Suisun Marsh aster                              -        -       1B.2     (CNPS 2013).                                        A       not present.
+                                                                                                              Chaparral, cismontane woodland, and lower
+                                                                                                              montane coniferous forest. Elev: 215-1400m.                 No effect. Outside elevation range. Suitable habitat
+Viburnum ellipticum                 oval-leaved viburnum                            -        -       2.3      Blooms: May-June (CNPS 2013).                       A       not present.
+                                                                                              Invertebrates
+                                                                                                              Endemic to the Antioch Dunes (USFWS                         No effect. Suitable habitat not present and outside
+Apodemia mormo langei               Lange's metalmark butterfly                    FE        -                2008)                                               A       species range.
+                                                                                                              Various types of vernal pools (USFWS
+Branchinecta conservatio            Conservancy fairy shrimp                       FE        -                2005).                                              A       No effect. Suitable habitat not present.
+                                                                                                              Various types of vernal pools (USFWS
+Branchinecta longiantenna           longhorn fairy shrimp                          FE        -                2005).                                              A       No effect. Suitable habitat not present.
+                                    vernal pool fairy shrimp                       FT        -                Found only in vernal pools and vernal pool-         A       No effect. Suitable habitat not present.
+Branchinecta lynchi                                                                                           like habitats. Distributed throughout the
+                                                                                                              Central Valley, including Sacramento County
+                                    Critical Habitat, vernal pool fairy shrimp     X         -                (USFWS 2005).                                       A       No effect. Critical habitat not present.
+
+                                                                                                              Dependent on hostplant, elderberry
+                                                                                                              (Sambucus spp.), which generally grows in
+Desmocerus californicus dimorphus                                                                             riparian woodlands and upland habitats of the
+                                                                                                              Central Valley. Current beetle distribution in
+                                                                                                              Central Valley ranges from Shasta County to
+                                    valley elderberry longhorn beetle              FT        -                Fresno County (USFWS 1999).                         A       No effect. Suitable habitat not present.
+                                                                                                              Wide variety of ephemeral wetland habitats
+Lepidurus packardi                                                                                            (vernal pools). Distributed throughout Central
+                                                                                                              Valley and San Francisco bay Area (USFWS
+                                    vernal pool tadpole shrimp                     FE        -                2005).                                              A       No effect. Suitable habitat not present.
+                                                                                                    Fish
+                                                                                                              Warm-water sloghs, slow moving rivers and
+                                                                                                              lakes, reservoirs and farm ponds (Moyle et al.
+Archoplites interruptus             Sacramento perch                                -      SSC                1995).                                              A
+                                    delta smelt                                    FT       SE                Distribution includes the Sacramento River          A
+                                                                                                              below Isleton, San Joaquin River below                      No effect. No water bodies present.
+                                                                                                              Mossdale, and Suisun Bay. Spawning areas
+Hypomesus transpacificus                                                                                      include the Sacramento River below
+                                                                                                              Sacramento, Mokelumne River system,
+                                                                                                              Cache Slough, the delta, and Montezuma
+                                    Critical habitat, delta smelt                  X         -                Slough (USFWS 1996).                                A
+                                                                                                         CNPS
+                                                                                                                                                                  Habitat
+                                                                                      Federal   State    Rare
+                 Scientific Name                    Common Name                                                        General Habitat Characteristics            Present/                         Rationale
+                                                                                      Status    Status   Plant
+                                                                                                                                                                  Absent
+                                                                                                         Rank
+                                                                                                                 Currently found in the upper
+                                                                                                                 Sacramento River and its tributaries,
+                                                                                                                 including
+                                                                                                                 Antelope, Deer, and Mill creeks and the Yuba
+                                                                                                                 River. May exist in Big Chico and
+                                                                                                                 Butte creek. Small populations found in the
+                                                                                                                 American, Feather, Stanislaus, Mokelumne,
+Oncorhynchus mykiss                 Central Valley steelhead                            FT        -              and Calaveras rivers (NMFS 2009).                   A
+                                                                                                                 Currently found in the Sacramento-San
+                                                                                                                 Joaquin River Delta, the Sacramento River
+                                                                                                                 and its tributaries, including American, Yuba
+                                                                                                                 and Feather rivers, and Mill, Deer and Butte
+                                    Central Valley spring-run chinook salmon            FT       ST              Creeks. (NMFS 2009).                                A
+Oncorhynchus tshawytscha                                                                                         Currently found in the Sacramento River and
+                                                                                                                 its larger tributaries, including American,
+                                                                                                                 Yuba and Feather rivers. Also found in San
+                                                                                                                 Joaquin rivers. Requires stream reaches with
+                                                                                                                 cold water sources for spawning. (NMFS
+                                    winter-run chinook slamon, Sacramento River         FE       SE              2009).                                              A
+                                                                                                   Amphibians
+                                                                                                                 Occurs in grasslands of the Central Valley
+                                                                                                                 and oak savannah communities in the Central
+                                                                                                                 valley, the Sierra Nevada and Coast ranges,
+                                                                                                                 and the San Francisco Bay area. Needs
+                                                                                                                 seasonal or semi-permanent wetlands to
+                                                                                                                 reproduce, and terrestrial habitat with active
+                                                                                                                 ground squirrel or gopher burrows (Bolster                  No effect. Suitable habitat not present.
+Ambystoma californiense             California tiger salamander, central population     FT       ST              2010).                                              A
+                                                                                                                 Occurs in various aquatic, riparian and upland
+                                                                                                                 habitats. They need aquatic habitats to breed,
+                                                                                                                 whether they be natural or artificial, such as
+                                                                                                                 stock ponds. In summer, they move to habitat
+Rana draytonii                      California red-legged frog                          FT      SSC              that provides cover (USFWS 2002a).                  A
+                                                                                                      Reptiles
+                                                                                                                 Occurs in sparsely vegetated areas of beach
+                                                                                                                 dunes, chaparral, pine-oak woodland, desert
+                                                                                                                 scrub, sandy washes, and stream terraces
+Anniella pulchra pulchra            silvery legless lizard                               -      SSC              (Nafis 2013).                                       A       No effect. Suitable habitat not present.
+                                                                                                                 Found in a wide variety of habitats
+                                                                                                                 throughout California, but associated with
+                                                                                                                 permanent ponds, lakes, streams, irrigation
+                                                                                                                 ditches, and permanent pools along
+Emys marmorata                      western pond turtle                                  -      SSC              intermittant streams (DFG 2000).                    A       No effect. Suitable habitat not present.
+Masticophis lateralis euryxanthus   Alameda whipsnake (=striped racer)                  FT       ST              Associated with chaparral and shrubland             A       No effect. Suitable habitat not present.
+                                                                                                CNPS
+                                                                                                                                                          Habitat
+                                                                            Federal   State     Rare
+                Scientific Name                         Common Name                                           General Habitat Characteristics             Present/                         Rationale
+                                                                            Status    Status    Plant
+                                                                                                                                                          Absent
+                                                                                                Rank
+                                                                                                        communities, but will range into adjacent
+                                                                                                        grassland and woodlands (USFWS 2002b).
+                                      Critical Habitat, Alameda whipsnake     X         -                                                                    A       No effect. Critical habitat not present.
+                                                                                                        Marshes, sloughs, ponds, small lakes, low
+                                                                                                        gradient streams, irrigation and drainage
+                                                                                                        canals, rice fields and their associated
+Thamnophis gigas                      giant garter snake                      FT       ST               uplands. (USFWS 2012).                               A       No effect. Suitable habitat not present.
+                                                                                               Birds
+
+                                                                                                        Open, flat expanses with short, sparse
+                                                                                                        vegetation and few shrubs, level to gentle
+                                                                                                        topography and well-drained soils. Requires
+                                                                                                        underground burrows or cavities for nesting
+                                                                                                        and roosting. Can use rock cavities, debris
+                                                                                                        piles, pipes and culverts if burrows
+                                                                                                        unavailable. Habitats include grassland,
+                                                                                                        shrub steppe, desert, agricultural land, vacant
+Athene cunicularia                    burrowing owl                            -      SSC               lots and pastures (DFG 2012).                        P       May affect. Suitable habitat present.
+                                                                                                        Nests in stands with few trees in riparian
+                                                                                                        areas, juniper-sage flats, and oak savannah in
+                                                                                                        the Central Valley. Forages in adjacent
+                                                                                                        grasslands, agricultural fields and pastures
+Buteo swainsoni                       Swainson's hawk                          -       ST               (DFG 2006).                                          A
+                                                                                                        Occurs in herbaceous and open stages of
+                                                                                                        valley lowland habitats, usually near
+                                                                                                        agricultural land. Forages in undisturbed,
+                                                                                                        open grasslands, meadows, farmlands and
+Elanus leucurus                       white-tailed kite                        -       FP               emergent wetlands (DFG 2005b).                       A
+                                                                                                        Breed in shrublands or open woodlands with                   No effect. Suitable habitat not present.
+                                                                                                        a fair amount of grass cover and areas of bare
+Lanius ludovicianus                   loggerhead shrike                        -      SSC               ground (Shuford 2008).                               A
+                                                                                                        Yearlong resident of saline, brackish, and
+Laterallus jamaicensis coturniculus   California black rail                    -      ST/FP             fresh emergent wetlands (Zeiner 1988-1990).          A
+                                                                                                        Require intricate network of sloughs with
+                                                                                                        smalle natural berms along tidal channels
+                                                                                                        with relatively tall vegetation (USFWS
+Rallus longirostris obsoletus         California clapper rail                 FE      SE/FP             2010a)                                               A
+                                                                                                        Nest and roost in colonies on open beaches,
+                                                                                                        forage near shore ocean waters and in shallow
+Sternula antillarum browni            California least tern                   FE      SE/FP             estuaries ad lagoons (USFWS 2006).                   A
+                                                                                          Mammals
+                                                                                                        Roosting habitat includes forests and
+                                                                                                        woodlands, often in edge habitats adjacent to
+                                                                                                        streams, fields, or urban areas (Zeiner 1988-
+Lasiurus blossevillii                 western red bat                          -      SSC               1990).                                               A       No effect. Suitable habitat not present.
+                                                                    All Traffic Data
+                                                                              (916) 771-8700
+                                                                           orders@atdtraffic.com
+City of Antioch                                                                                                     File Name         : 13-7152-003 Heidorn Ranch-Lone Tree
+Pedestrians and Bicycles on Bank 1 Tab                                                                              Site Code         : 00000000
+                                                                                                                    Start Date        : 3/26/2013
+                                                                                                                    Page No           :1
+
+
+                                                                            Groups Printed- Unshifted
+                           Fairside Way                          Lone Tree Way                         Heidorn Ranch Road                       Lone Tree Way
+                           Southbound                             Westbound                                Northbound                             Eastbound
+      Start Time    Left   Thru      Right   App. Total   Left    Thru     Right App. Total       Left     Thru    Right App. Total      Left    Thru     Right   App. Total   Int. Total
+           07:00      4       1         0             5     1      139        0         140          3        0        5          8        0      108        0          108          261
+           07:15      2       0         1             3     2      131        2         135          2        0        1          3        0       87        3           90          231
+           07:30      2       0         2             4     4      214        0         218          5        0        3          8        0      131        2          133          363
+           07:45      5       0         1             6     5      187        2         194          4        0        3          7        1      161        4          166          373
+            Total    13       1         4           18     12      671        4         687         14        0       12        26         1      487        9          497        1228
+
+          08:00        1      2         3            6      3      191        5         199        7        0         7         14         1      173        6          180        399
+          08:15        1      0         2            3      8      172        2         182       18        1         8         27         0      143       16          159        371
+          08:30        3      0         0            3      2      199        1         202       18        0         7         25         0      183        9          192        422
+          08:45        1      1         3            5      1      186        0         187        7        1         6         14         2      194        8          204        410
+           Total       6      3         8           17     14      748        8         770       50        2        28         80         3      693       39          735       1602
+
+
+
+
+          16:00        0      0         0            0     10      250        5         265       28        2        12         42         1     326        23          350        657
+          16:15        0      2         1            3      8      258        4         270       27        7        18         52         1     325        30          356        681
+          16:30        3      1         0            4      5      203        3         211       31        2         6         39         0     310        18          328        582
+          16:45        0      1         1            2      4      216        3         223       23        1        12         36         1     332        18          351        612
+           Total       3      4         2            9     27      927       15         969      109       12        48        169         3    1293        89         1385       2532
+
+          17:00       5       0         1            6      3      253        3         259       37        1        14         52         5     341        19          365        682
+          17:15       1       0         0            1      4      223        5         232       25        2        13         40         1     333        10          344        617
+          17:30       1       1         0            2      7      247        3         257       36        6        11         53         0     335        23          358        670
+          17:45       4       0         0            4      6      242        4         252       34        1        18         53         4     299        20          323        632
+           Total     11       1         1           13     20      965       15        1000      132       10        56        198        10    1308        72         1390       2601
+
+     Grand Total      33      9        15           57     73     3311        42       3426      305        24      144        473         17   3781       209         4007       7963
+      Apprch %      57.9   15.8      26.3                 2.1      96.6      1.2                64.5       5.1     30.4                   0.4    94.4       5.2
+         Total %     0.4    0.1       0.2           0.7   0.9      41.6      0.5         43       3.8      0.3       1.8        5.9       0.2    47.5       2.6        50.3
+                                                                               All Traffic Data
+                                                                                       (916) 771-8700
+                                                                                    orders@atdtraffic.com
+City of Antioch                                                                                                                 File Name      : 13-7152-003 Heidorn Ranch-Lone Tree
+Pedestrians and Bicycles on Bank 1 Tab                                                                                          Site Code      : 00000000
+                                                                                                                                Start Date     : 3/26/2013
+                                                                                                                                Page No        :1
+
+
+                                                                                       Groups Printed- Bank 1
+                          Fairside Way                             Lone Tree Way                    Heidorn Ranch Road                         Lone Tree Way
+                          Southbound                                 Westbound                           Northbound                              Eastbound
+Start Time       Left   Thr    Rig Ped       App. Total   Left   Thru Right Peds    App. Total Left Thru Right Peds      App. Total   Left   Thru Right Peds   App. Total   Exclu. Total   Inclu. Total   Int. Total
+        07:00       0     0      0       1            0      0     0      0     1         0     0      0      0     0             0      0     0     0     0            0              2              0            2
+        07:15       0     0      0       1            0      0     0      0     0         0     0      0      0     0             0      0     1     0     0            1              1              1            2
+        07:30       0     0      0       0            0      0     1      0     0         1     0      0      0     0             0      0     0     0     0            0              0              1            1
+        07:45       0     0      0       0            0      0     0      0     0         0     0      0      0     1             0      0     0     0     1            0              2              0            2
+         Total      0     0      0       2            0      0     1      0     1         1     0      0      0     1             0      0     1     0     1            1              5              2            7
+
+
+
+        08:30       0     0      0       0            0      0     0      0     0         0     0      0      0     0             0      0     1     0     0            1              0              1            1
+        08:45       0     1      0       1            1      0     1      0     0         1     0      0      0     1             0      0     0     0     1            0              3              2            5
+         Total      0     1      0       1            1      0     1      0     0         1     0      0      0     1             0      0     1     0     1            1              3              3            6
+
+
+
+
+        16:00       0     1      0       0            1      0     1      0     0         1     0      0      0     1             0      0     0     0     0            0              1              2            3
+        16:15       0     0      0       1            0      0     1      0     0         1     0      0      0     2             0      0     0     0     0            0              3              1            4
+        16:30       0     0      0       0            0      0     4      1     0         5     0      0      0     0             0      0     0     0     0            0              0              5            5
+        16:45       0     0      0       0            0      0     0      0     0         0     1      0      0     0             1      0     0     0     0            0              0              1            1
+         Total      0     1      0       1            1      0     6      1     0         7     1      0      0     3             1      0     0     0     0            0              4              9           13
+
+        17:00       0     0      0       0            0      0     1      0     1         1     0      0      0     1             0      0     0     0     0            0              2              1            3
+
+        17:30       0     1      0       2            1      0     0      1     1         1     0      0      0     1             0      0     0     0     1            0              5              2            7
+
+        Total       0     1      0       2            1      0     1      1     2         2     0      0      0     2             0      0     0     0     1            0              7              3           10
+
+  Grand Total       0      3     0       6            3      0      9      2    3        11     1      0      0     7             1      0      2    0     3            2            19             17            36
+    Apprch %        0    100     0                           0   81.8   18.2                  100      0      0                          0    100    0
+      Total %       0   17.6     0                17.6       0   52.9   11.8           64.7   5.9      0      0                5.9       0   11.8    0              11.8          52.8           47.2

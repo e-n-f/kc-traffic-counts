@@ -1,0 +1,1543 @@
+       WYDOT
+
+TRAFFIC STUDIES MANUAL
+
+      March 2011
+WYDOT TRAFFIC STUDIES MANUAL
+          MARCH 2011
+           TABLE OF CONTENTS
+CHAPTER 1 ­ INTRODUCTION ............................................................................................................................ 1
+   PURPOSE .............................................................................................................................................................. 1
+   AUTHORITY ........................................................................................................................................................ 1
+   SCOPE .................................................................................................................................................................. 1
+   BACKGROUND ................................................................................................................................................... 1
+   1.           DISTRIBUTION....................................................................................................................................... 1
+   1.1          ADDITIONAL COPIES ........................................................................................................................... 2
+   2.           REVISIONS AND ADDITIONS ............................................................................................................. 2
+   3.           FORMS ACCESS ..................................................................................................................................... 2
+CHAPTER 2 ­ TRAFFIC SIGNAL STUDY PROCEDURE ................................................................................... 3
+   2.1          PURPOSE ................................................................................................................................................. 3
+   2.2          LEARNING OF THE CONCERN ........................................................................................................... 3
+   2.3          OBSERVATION OF CONCERN SYMPTOMS ..................................................................................... 3
+   2.4          ESTABLISHING BASIC AREAS OF CONCERN ................................................................................. 4
+        2.4.1      VEHICLE ............................................................................................................................................. 4
+        2.4.2      PEDESTRIAN ...................................................................................................................................... 4
+        2.4.3      CRASHES............................................................................................................................................. 5
+   2.5          DATA COLLECTION, REDUCTION AND SUMMARIZATION ........................................................ 5
+   2.6          DATA ANALYSIS AND INTERPRETATION ...................................................................................... 6
+   2.7          PREPARATION AND APPROVAL OF STUDY REPORT ................................................................... 6
+   2.8          DEVELOPMENT OF NEW TRAFFIC SIGNAL DESIGN .................................................................... 7
+   2.9          TRAFFIC SIGNAL RECONNAISSANCE REPORT ............................................................................. 9
+   2.10         IMPLEMENTATION ............................................................................................................................... 9
+CHAPTER 3 ­ TRAFFIC SIGNAL WARRANT ANALYSIS .............................................................................. 11
+   3.1          PURPOSE ............................................................................................................................................... 11
+   3.2          TRAFFIC SIGNAL WARRANT ANALYSIS....................................................................................... 11
+   3.3          APPLICATION OF REDUCED (70%) WARRANT CRITERIA ......................................................... 12
+   3.4          APPROACH LANES ............................................................................................................................. 12
+   3.5          VOLUMES ............................................................................................................................................. 13
+   3.6          PRELIMINARY SCREENING .............................................................................................................. 14
+   3.7          TRAFFIC SIGNAL WARRANTS WORKSHEET................................................................................ 15
+   3.8          WARRANT 1, EIGHT HOUR VEHICULAR VOLUME ..................................................................... 28
+   3.9          WARRANT 2, FOUR-HOUR VEHICULAR VOLUMES .................................................................... 28
+   3.10         WARRANT 3, PEAK HOUR................................................................................................................. 28
+   3.11         WARRANT 4, PEDESTRIAN VOLUME ............................................................................................. 28
+   3.12         WARRANT 5, SCHOOL CROSSING ................................................................................................... 28
+
+
+           TRAFFIC STUDIES MANUAL                                                      Page i                                                         March 9, 2011
+   3.13       WARRANT 6, COORDINATED SIGNAL SYSTEM .......................................................................... 28
+   3.14       WARRANT 7, CRASH EXPERIENCE ................................................................................................. 29
+   3.15       WARRANT 8, ROADWAY NETWORK.............................................................................................. 29
+   3.16       WARRANT 9, INTERSECTION NEAR A GRADE CROSSING........................................................ 29
+CHAPTER 4 ­ TURNING MOVEMENT COUNT ................................................................................................ 31
+   4.1        PURPOSE ............................................................................................................................................... 31
+   4.2        MANUAL TURNING MOVEMENT COUNT ..................................................................................... 31
+   4.3        AUTOMATED TURNING MOVEMENT COUNT.............................................................................. 31
+CHAPTER 5 ­ CONDITION DIAGRAM .............................................................................................................. 33
+   5.1         PURPOSE .............................................................................................................................................. 33
+   5.2        COMPLETING THE CONDITION DIAGRAM ................................................................................... 33
+CHAPTER 6 ­SIGHT DISTANCE STUDIES........................................................................................................ 35
+   6.1         PURPOSE .............................................................................................................................................. 35
+   6.2        INTERSECTION SIGHT DISTANCE .................................................................................................. 35
+      6.2.1      APPROACH SIGHT TRIANGLES ................................................................................................... 35
+      6.2.2      DEPARTURE SIGHT TRIANGLES ................................................................................................. 36
+      6.2.3      OBSTRUCTIONS WITHIN SIGHT TRIANGLES ........................................................................... 36
+   6.3        SIGHT DISTANCE STUDY METHODS ............................................................................................. 37
+      6.3.1      UNCONTROLLED INTERSECTIONS ............................................................................................ 38
+      6.3.2      INTERSECTIONS CONTROLLED WITH STOP SIGNS ............................................................... 40
+      6.3.3      STOPPING SIGHT DISTANCE ........................................................................................................ 41
+CHAPTER 7 ­ CRASH STUDY ............................................................................................................................. 43
+   7.1        PURPOSE ............................................................................................................................................... 43
+   7.2        COLLISION DIAGRAM ....................................................................................................................... 43
+   7.3        CRASH LISTING ................................................................................................................................... 43
+CHAPTER 8 ­ STOP SIGN DELAY STUDY........................................................................................................ 47
+   8.1        PURPOSE ............................................................................................................................................... 47
+   8.2        STOP SIGN DELAY STUDY................................................................................................................ 47
+   8.3        FIELD OBSERVATION ........................................................................................................................ 47
+CHAPTER 9 ­ PEDESTRIAN GAP STUDY ......................................................................................................... 49
+   9.1        PURPOSE ............................................................................................................................................... 49
+   9.2        PEDESTRIAN GAP STUDY FORM..................................................................................................... 49
+   9.3        PEDESTRIAN GROUP SIZE SURVEY ............................................................................................... 49
+   9.4        MINIMUM ADEQUATE GAP .............................................................................................................. 50
+   9.5        MEASURING GAP SIZES .................................................................................................................... 52
+      9.5.1      MULTI-DIRECTION GAP STUDY .................................................................................................. 52
+      9.5.2      TOTAL (COMBINED DIRECTION) GAP STUDY ......................................................................... 54
+      9.5.3      AVAILABLE GAP SURVEY ............................................................................................................ 57
+          TRAFFIC STUDIES MANUAL                                                    Page ii                                                       March 9, 2011
+CHAPTER 10 ­ SIGNAL OPERATIONS STUDIES............................................................................................. 59
+   10.1       PURPOSE ............................................................................................................................................... 59
+   10.2       CONTROLLER PHASING .................................................................................................................... 59
+   10.3       LEFT-TURN OPERATION ................................................................................................................... 60
+   10.4       LEFT-TURN PHASING CRITERIA ..................................................................................................... 60
+   10.5       PROTECTED/PERMISSIVE LEFT-TURN PHASE CONTROL ......................................................... 61
+   10.6       PEDESTRIAN PHASES ........................................................................................................................ 61
+   10.7       PEDESTRIAN CROSSING DISTANCE MEASUREMENT ............................................................... 61
+   10.8       PRETIMED VERSUS ACTUATED CONTROL .................................................................................. 62
+      10.8.1 PRETIMED CONTROL ..................................................................................................................... 64
+      10.8.2 SEMI-ACTUATED CONTROL ........................................................................................................ 64
+      10.8.3 FULLY-ACTUATED CONTROL ..................................................................................................... 64
+   10.9       ISOLATED VERSUS SYSTEM OPERATION .................................................................................... 64
+   10.10      USE OF FLASHING OPERATION....................................................................................................... 64
+   10.11      OPERATIONAL REVIEWS .................................................................................................................. 65
+      10.11.1 SIGNALIZED INTERSECTION CHECKLIST ................................................................................ 65
+      10.11.2 LEFT-TURN PHASE OPERATIONAL REVIEW ............................................................................ 65
+CHAPTER 11 ­ CURVE ADVISORY SPEED STUDY ........................................................................................ 69
+   11.1       PURPOSE ............................................................................................................................................... 69
+   11.2       USE OF THE DESIGN SPEED EQUATION ........................................................................................ 70
+   11.3       BALL-BANK INDICATOR METHOD ................................................................................................ 71
+   11.4       ESTABLISHING CURVE ADVISORY SPEEDS ................................................................................ 74
+   11.5       USE OF CURVE ADVISORY SPEED STUDY FORM ....................................................................... 75
+   11.6       TRUCK ADVISORY SPEEDS .............................................................................................................. 77
+CHAPTER 12 ­ NO-PASSING ZONE STUDY ..................................................................................................... 79
+   12.1       PURPOSE ............................................................................................................................................... 79
+   12.2       NO-PASSING ZONE CRITERIA .......................................................................................................... 79
+   12.3       ESTABLISHING NO-PASSING ZONES ............................................................................................. 80
+   12.4       RANGE TRACKING ............................................................................................................................. 81
+   12.5       ONE VEHICLE METHOD .................................................................................................................... 82
+CHAPTER 13 ­ SPEED STUDIES ......................................................................................................................... 85
+   13.1       PURPOSE ............................................................................................................................................... 85
+   13.2       SPEED STUDY DATA COLLECTION ................................................................................................ 85
+   13.3       SPEED STUDY DATA COLLECTION SHEET................................................................................... 86
+   13.4       SPEED STUDY WORKSHEET ............................................................................................................ 89
+   13.5       DETERMINATION OF APPROPRIATE SPEED LIMIT .................................................................... 93
+   13.6       DECLARATION OF SPEED LIMIT ..................................................................................................... 94
+   13.7       MINIMUM SPEED LIMITS .................................................................................................................. 94
+           TRAFFIC STUDIES MANUAL                                                  Page iii                                                       March 9, 2011
+CHAPTER 14 ­ TRAVEL TIME AND DELAY STUDY ..................................................................................... 97
+  14.1      PURPOSE ............................................................................................................................................... 97
+  14.2      DEFINITIONS ........................................................................................................................................ 97
+  14.3      STUDY PROCEDURES ........................................................................................................................ 99
+  14.4      COLLECTING THE DATA ................................................................................................................. 101
+  14.5      ANALYSIS ........................................................................................................................................... 102
+CHAPTER 15 ­ HIGHWAY LIGHTING STUDIES ........................................................................................... 105
+  15.1      PURPOSE ............................................................................................................................................. 105
+  15.2      LIGHTING WARRANTS .................................................................................................................... 105
+     15.2.1 CONTINUOUS FREEWAY LIGHTING ........................................................................................ 105
+     15.2.2 COMPLETE INTERCHANGE LIGHTING .................................................................................... 106
+     15.2.3 PARTIAL INTERCHANGE LIGHTING ........................................................................................ 106
+     15.2.4 NON-FREEWAY LIGHTING ......................................................................................................... 107
+CHAPTER 16 ­ TRAFFIC SIGNAL REMOVAL STUDY ................................................................................. 109
+  16.1      PURPOSE ............................................................................................................................................. 109
+  16.2      STAGE 1 ­ PRELIMINARY SCREENING ........................................................................................ 109
+     16.2.1 SIGHT DISTANCE .......................................................................................................................... 111
+     16.2.2 SPECIAL SITE CONSIDERATIONS ............................................................................................. 111
+     16.2.3 WARRANTS .................................................................................................................................... 112
+     16.2.4 SPECIAL JUSTIFICATIONS .......................................................................................................... 112
+  16.3      STAGE 2 ­ DETAILED REMOVAL ANALYSIS.............................................................................. 112
+     16.3.1 EXPECTED INFLUENCE ON CRASHES ..................................................................................... 113
+     16.3.2 EXPECTED TRAFFIC FLOW RELATED IMPACTS ................................................................... 115
+     16.3.3 JURISDICTION-RELATED COSTS............................................................................................... 117
+     16.3.4 CANVAS PUBLIC OPPOSITION ................................................................................................... 117
+     16.3.5 SIGNAL REMOVAL DECISION.................................................................................................... 118
+  16.4      INTERSECTION CONTROL ALTERNATIVES ............................................................................... 118
+     16.4.1 TWO-WAY STOP CONTROL (TWSC) ......................................................................................... 118
+     16.4.2 ALL-WAY STOP CONTROL (AWSC) .......................................................................................... 118
+     16.4.3 ROUNDABOUT CONTROL ........................................................................................................... 118
+  16.5      REMOVAL PROCEDURE .................................................................................................................. 119
+     16.5.1 PUBLIC NOTIFICATION ............................................................................................................... 119
+     16.5.2 INSTALL INTERIM CONTROL .................................................................................................... 119
+     16.5.3 MONITOR CRASHES ..................................................................................................................... 120
+  SIGNAL REMOVAL ANALYSIS WORKSHEETS ........................................................................................ 121
+  STAGE 1 ­ INTERSECTION INVENTORY ................................................................................................... 121
+  STAGE 2 ­ PRELIMINARY SCREENING ..................................................................................................... 121
+  STAGE 3 ­ DETAILED ANALYSIS, TWO-WAY STOP CONTROL ........................................................... 122
+         TRAFFIC STUDIES MANUAL                                                  Page iv                                                        March 9, 2011
+     STAGE 3.1 ­ EXPECTED INFLUENCE ON CRASHES............................................................................ 122
+     STAGE 3.2 ­ EXPECTED TRAFFIC FLOW-RELATED IMPACTS ......................................................... 122
+     STAGE 3.3 ­ JURISDICTION-RELATED COSTS ..................................................................................... 125
+     STAGE 3.4 ­ ANTICIPATED STRENGTH OF OPPOSITION/SUPPORT FOR SIGNAL REMOVAL... 126
+     STAGE 3.5 ­ FINAL DECISION ................................................................................................................. 126
+CHAPTER 17 ­ PREEMPTION ­ This chapter is under development ................................................................ 145
+CHAPTER 18 ­ AUXILIARY LANE AND TRAFFIC IMPACT STUDIES ...................................................... 147
+  18.1      PURPOSE ............................................................................................................................................. 147
+  18.2      AUXILIARY LEFT-TURN LANES .................................................................................................... 147
+     18.2.1 RURAL GUIDELINES .................................................................................................................... 147
+     18.2.2 URBAN AND FRINGE AREA GUIDELINES ............................................................................... 148
+  18.3      AUXILIARY RIGHT-TURN LANES ................................................................................................. 150
+  18.4      OFFSET RIGHT- AND LEFT-TURN LANES ................................................................................... 152
+  18.5      AUXILIARY TRUCK CLIMBING LANES ....................................................................................... 153
+  18.6      AUXILIARY PASSING LANES ......................................................................................................... 153
+  18.7      AUXILIARY RIGHT-TURN ACCELERATION LANES.................................................................. 154
+  18.8      REVIEW OF TRAFFIC IMPACT STUDY REPORTS ....................................................................... 154
+
+
+
+
+         TRAFFIC STUDIES MANUAL                                                  Page v                                                        March 9, 2011
+                         (This page intentionally left blank)
+
+
+
+
+TRAFFIC STUDIES MANUAL                 Page vi                  March 9, 2011
+                           CHAPTER 1 ­ INTRODUCTION
+PURPOSE
+This manual will be used to establish minimum standards for conducting traffic engineering studies on
+roads under the jurisdiction of the Wyoming Department of Transportation (WYDOT). In addition, local
+governmental agencies are recommended and encouraged to use the Traffic Studies Manual as a guideline
+in conducting traffic engineering studies within their area of responsibility.
+
+AUTHORITY
+Federal Code of Regulations, 23 CFR 655.603; Wyoming Statute 31-5-112; Manual on Uniform Traffic
+Control Devices for Streets and Highways, 2009 Edition (MUTCD); Wyoming Department of
+Transportation Operating Policy, Policy Number 25-1.
+
+SCOPE
+This manual affects the WYDOT Traffic Program, WYDOT District Traffic Offices, WYDOT Planning
+Program, and anyone else who performs traffic studies on the state highway system in Wyoming.
+
+BACKGROUND
+Section 1A.09 of the MUTCD recommends that early in the processes of location and design of roads and
+streets, engineers should coordinate such location and design with the design and placement of the traffic
+control devices to be used with such roads and streets. The decision to use a particular device at a
+particular location should typically be made on the basis on an engineering study or the application of
+engineering judgment. The MUTCD requires that an engineering study shall be performed by an
+engineer, or by an individual working under the supervision of an engineer, through the application of
+procedures and criteria established by the engineer. An engineering study shall be documented.
+This manual will provide a more efficient, standardized process for compiling and analyzing data
+collected during traffic engineering study activities. This manual will serve as a basic tool for district
+traffic operations studies and as a guideline for local agencies in Wyoming.
+This manual will constitute the minimum standards for use in conducting traffic engineering studies on
+state highways in Wyoming. The manual's chapters and data collection sheets are not shown in any
+particular order. Accordingly, sections applicable to a specific situation or concern should be considered
+on an individual basis.
+District Traffic Engineers should ensure that studies performed by their staff or by consultants conform,
+as a minimum, to the practices and techniques prescribed by this manual and shall incorporate the manual
+by reference in consultant contract documents.
+This manual was originally based on the organization and format of the Florida Department of
+Transportation's Manual on Uniform Traffic Studies (FDOT Manual Number 750-020-007), January
+2000 (as revised March 2003). Copies of the original Florida manual can be purchased from Florida
+Department of Transportation, Maps and Publications, 605 Suwannee Street, Mail Station 12,
+Tallahassee, Florida 32399-0450, Phone (850) 414-4050, Fax (850) 487-4099. This Wyoming adaptation
+of that manual has significantly modified the original manual.
+
+1.      DISTRIBUTION
+The official recipients of this manual will be the District Traffic Engineers, District Traffic Technicians,
+Traffic Program managers and staff.
+
+
+
+
+TRAFFIC STUDIES MANUAL                             Page 1                                      March 9, 2011
+1.1     ADDITIONAL COPIES
+Consultants and other public users may request copies of the manual from Wyoming Department of
+Transportation Traffic Program, 5300 Bishop Blvd., Cheyenne, WY 82009. Phone (307) 777-4491;
+Fax (307) 777-3993.
+2.      REVISIONS AND ADDITIONS
+(1)     The State Traffic Engineer, both Assistant State Traffic Engineers, District Traffic Engineers and
+        the Traffic Studies Engineer will constitute the Manual Review Committee.
+(2)     The Traffic Studies Engineer will periodically review, amend, or revise the manual to ensure its
+        compatibility with current technology and state-of-the-art methods and practices.
+(3)     Comments or suggestions for improving the manual may be submitted in writing to the Traffic
+        Studies Engineer, 5300 Bishop Blvd., Bldg. 6101, Cheyenne, WY 82009, along with appropriate
+        supporting information or data. Any time a revision is initiated by the Traffic Studies Engineer,
+        comments will be solicited from the District Traffic Engineers and any other affected offices.
+        Their concerns, when appropriate, will be incorporated into the revision.
+(4)     Substantive revisions, as determined by the Manual Review Committee, will be approved by the
+        State Traffic Engineer following the process established in the Standard Operating Policy.
+
+3.      FORMS ACCESS
+We have standardized all of the forms in this manual and they are available in the Forms Library.
+Reproducible copies of all of the forms are in the Appendix.
+        ·   Form TR-01 ­ Traffic Signal Warrants Worksheet (Excel Spreadsheet)
+        ·   Form TR-01a ­ School Crossing Warrant Sheet (Excel Spreadsheet)
+        ·   Form TR-01b ­ Intersection Near a Grade Crossing Warrant Sheet (Excel Spreadsheet)
+        ·   Form TR-03 ­ Signal Removal Analysis Worksheet
+        ·   Form TR-04 ­ Worksheet for Estimating Daily Impacts of Signal Removal and Replacement
+                         by Two-Way Stop
+        ·   Form TR-10 ­ Speed Study Data Collection Sheet
+        ·   Form TR-11 ­ Speed Study Worksheet (Excel Spreadsheet)
+        ·   Form TR-12 ­ Pedestrian Gap Study
+        ·   Form TR-16 ­ Curve Advisory Speed Study
+        ·   Form TR-17 ­ Rural Intersection Lighting Criteria
+        ·   Form TR-18 ­ Operational Review Signalized Intersection Checklist
+        ·   Form TR-19 ­ Left Turn Phase Operational Review
+        ·   Form TR-22 ­ PC-Travel Field Worksheet
+        ·   Form TR-25 ­ Traffic Impact Study Review Checklist
+
+
+
+
+TRAFFIC STUDIES MANUAL                           Page 2                                     March 9, 2011
+      CHAPTER 2 ­ TRAFFIC SIGNAL STUDY PROCEDURE
+2.1   PURPOSE
+(1)   The purpose of this chapter is to present to the traffic engineer a guide for conducting
+      comprehensive traffic signal studies. The information, techniques, and instructions presented
+      herein were formulated from the MUTCD and experiences of practicing traffic engineers.
+(2)   This manual is not all-inclusive in addressing traffic signal study situations; rather, it is a general
+      guide for the traffic engineer to follow while investigating conditions and circumstances
+      regarding the installation of a new traffic signal or improvement of the operation of an existing
+      traffic signal. This manual will begin with an alleged problem concerning traffic control at a
+      particular location. The observation of the symptoms, establishment of areas of concern,
+      collection and analysis of data, and preparation of a traffic signal study report will be outlined in
+      subsequent chapters.
+(3)   This chapter provides a logical and systematic data collection procedure for investigating traffic
+      signal requirements which allows the traffic engineer to use judgment to analyze local conditions
+      and interpret data as effectively and efficiently as possible with the resources available. By
+      following this chapter it is intended to minimize the collection of unnecessary or inappropriate
+      data and/or to reduce the number of trips to the field to collect additional data.
+
+2.2   LEARNING OF THE CONCERN
+(1)   The problem facing traffic engineers at this point has yet to be defined. This is the stage during
+      which the traffic engineer receives notice from the public, a civic organization, business, etc.,
+      regarding their desire or need for a traffic signal to be installed or modified at a given site. Often,
+      the traffic engineer or one of his/her staff has observed the situation, or another governmental
+      agency has brought it to their attention.
+(2)   Regardless of the source, the traffic engineer is obligated to respond. However, to respond in a
+      professional manner requires some systematic investigation of the situation. Before a full scale
+      investigation is launched requiring a large amount of manpower and equipment, the traffic
+      engineer should conduct an observation of the site. If a great deal of delay is encountered, the
+      engineer should contact the reporting party about the action to be initiated.
+
+2.3   OBSERVATION OF CONCERN SYMPTOMS
+(1)   During the initial observation or field investigation of the site, a number of items should be noted.
+      The preparation of a condition diagram (Chapter 5) should be made at this time if none exists for
+      the site. The condition diagram shows the location of traffic control devices, intersection
+      geometry, and other physical features. If the engineer has an existing condition diagram, it
+      should be updated if necessary. Note that it is not necessary for this diagram to be drawn to scale.
+(2)   In addition to preparing a condition diagram, the engineer should observe the operational
+      characteristics of the location and note any unusual or significant circumstances. Ideally, this
+      observation should be made during the hours of the day when the operational concerns were
+      reported to have occurred. Photographs of each approach often save subsequent trips back to the
+      study location.
+(3)   With an understanding of the operation and a representation of conditions at the location, the
+      engineer is in a position to determine if a real problem exists or no further investigation is
+      warranted. If it is decided after the field investigation that no problem exists, the engineer should
+      respond either in writing or verbally to that person responsible for the initial contact regarding the
+      site. However, should it be determined that further investigation is warranted, the engineer
+      should continue the investigation. At this point, the engineer should notify the concerned
+
+TRAFFIC STUDIES MANUAL                            Page 3                                      March 9, 2011
+      party(ies) of his/her intention to investigate the site for possible signalization and inform them of
+      an approximate completion date.
+
+2.4   ESTABLISHING BASIC AREAS OF CONCERN
+(1)   Establishing the basic area(s) of concern draws a great deal from the traffic engineer's experience
+      and judgment. Some cases can be easily diagnosed, such as excessive vehicle delays. Other
+      cases are more subtle in nature. Of course, the issue under consideration may be the result of
+      more than one basic area of concern.
+(2)   Decisions made by the traffic engineer at this point will provide the basis for data collection
+      efforts to be made during the investigation. The areas of concern can be grouped into three basic
+      categories: vehicle, pedestrian, and crashes and are addressed in this section. Warrants for signal
+      installation, taken from the MUTCD, will be correlated with the studies indicated. This manual
+      will be of assistance in conducting many of the studies indicated as we have noted the appropriate
+      chapter or section.
+2.4.1 VEHICLE
+(1)   A vehicle problem can normally be diagnosed during the field observation without great
+      difficulty. Some of these characteristics are: excessive queue lengths, slow queue dissipation
+      rates, and/or large traffic volumes using the intersection, etc.
+(2)   Typically, the data collected to determine the extent of a vehicle problem includes one or more of
+      the following:
+      (a)     Hourly approach volumes ­ from the turning movement count (Chapter 4) ­ for the
+              highest 8 hours of an average day, as required for MUTCD Warrants 1 ­ 5 and 7 ­ 9
+              (MUTCD Sections 4C.02 ­ 4C.06 and 4C.08 ­ 4C.10)
+      (b)     Stop sign delay study (Chapter 8)
+      (c)     Verification ­ from the condition diagram (Chapter 5) ­ that the distance to the nearest
+              signal in each direction is greater than 1000 feet as required for MUTCD Warrant 6
+              (MUTCD Section 4C.07), and the location meets the recommended signal spacing in
+              WYDOT's access policy (see Chapter II of the WYDOT Access Manual).
+      (d)     Determination ­ from the condition diagram (Chapter 5) ­ of the clear storage distance as
+              required for MUTCD Warrant 9 (MUTCD Section 4C.10)
+      (e)     Travel time and delay study (Chapter 14)
+2.4.2 PEDESTRIAN
+(1)   A pedestrian problem can also be diagnosed through field observation. However, the severity of
+      this problem is difficult to ascertain without field data collection.
+(2)   The types of data which may be needed for this investigation are summarized below:
+      (a)     Turning movement count (Chapter 4), that includes hourly approach volumes for the
+              highest 8 hours of an average day as required for MUTCD Warrants 1, 2, 3 and 8, and
+              pedestrian volumes, as required for MUTCD Warrants 4 and 5
+      (b)     Pedestrian gap study (Chapter 9) as required for MUTCD Warrants 4 and 5
+      (c)     Verification ­ from the condition diagram (Chapter 5) ­ that the distance to nearest
+              crosswalk, or signalized intersection is greater than 300 feet as required for MUTCD
+              Warrants 4 and 5
+      (d)     Characteristics of pedestrians such as age, disability, average walking speed, etc.
+
+
+
+TRAFFIC STUDIES MANUAL                           Page 4                                      March 9, 2011
+2.4.3 CRASHES
+(1)     The determination of an intersection's crash potential during a short field observation is difficult.
+        Some obvious features of a high crash location may be damaged sign supports or excessive tire
+        skid marks; however, the number of crashes is not normally shown by the previous features. The
+        quickest and cheapest method of determining if crashes are a problem (e.g., significantly higher
+        than average for similar intersections), is to review past crash records for a minimum of three but
+        preferably five years. Crashes many times can also be related to the previously described
+        problems of vehicle and pedestrian delay, yet poor geometric design may be the overriding factor.
+(2)     The following information can be used to further define a crash problem:
+        (a)     Hourly approach volumes and pedestrian volumes ­ from the turning movement count
+                (Chapter 4) ­ for the highest 8 hours of an average day, as required for MUTCD Warrants
+                1 ­ 5 and 7 ­ 9
+        (b)     Crash records/rates as required for MUTCD Warrant 7
+        (c)     Collision diagram (Chapter 7)
+        (d)     Speed study (Chapter 13) may be required for MUTCD Warrants 1-4 and 7
+        (e)     Intersection sight distances (Chapter 6)
+        (f)     Geometrics: vertical and horizontal
+        (g)     Pavement condition for skid resistance
+        (h)     Roadside hazards
+        (i)     Existing positive guidance through signing and marking
+        (j)     Existing highway lighting
+        (k)     Traffic conflict investigation and analysis
+(3)     This list of data to be collected for each of the three basic areas of concern is neither all inclusive
+        nor suggested as a minimum effort. Keep in mind that data is required for justification (warrant
+        analysis) and other data is required for design and operation. Data for justification; however, is
+        not mutually exclusive of the data required for design and operation.
+(4)     The engineer should not attempt to collect any of the data elements listed unless he is certain it
+        will ultimately be required for the study. In fact, certain elements should not be collected until
+        others have been reviewed. For example, hourly approach volumes (preferably fifteen minute
+        volumes) should be counted for analysis of traffic signal warrants, which is generally necessary
+        for each of the three areas of concern. Once the warrant analysis has been completed and the
+        problem(s) has been identified (and before any turning volumes are counted), the machine counts
+        should also be examined carefully to determine the control periods of interest. These periods of
+        interest are the peak and off-peak periods for which the various signal operation plans will be
+        designed.
+
+2.5     DATA COLLECTION, REDUCTION AND SUMMARIZATION
+Conducting the previously mentioned studies generates a large volume of data. The study sheets and
+techniques available in this manual are designed to allow for use as field collection sheets, reduction
+sheets, and summary sheets, thus reducing the amount of paperwork and time required to finalize field
+work (A convenient manner in which to summarize and thus facilitate interpretation of the data required
+for the MUTCD signal warrants is to complete the Traffic Signal Warrants worksheet, Form TR-01, in
+Chapter 3). For more information regarding data collection, reduction, and summarization see the
+individual chapters contained herein.
+
+
+
+TRAFFIC STUDIES MANUAL                              Page 5                                      March 9, 2011
+2.6   DATA ANALYSIS AND INTERPRETATION
+(1)   Once the appropriate data for the warrant analysis has been collected, it is the traffic engineer's
+      responsibility to analyze and interpret it.
+(2)   Application of the Traffic Signal Warrants worksheet can be made in a straightforward manner
+      and provides the traffic engineer with information concerning the minimum conditions for
+      justifying signal installation. Instructions for use of the Traffic Signal Warrants worksheet (Form
+      TR-01) are included in Chapter 3.
+(3)   Further explanation of the individual warrants can be found in Part 4 of the MUTCD.
+(4)   Engineering judgment plays an important role in the decision to signalize an intersection. The
+      traffic engineers need a thorough knowledge and understanding of any local conditions which
+      may or may not support the need for signalization. Situations may arise when a traffic signal is
+      best not installed even though one of the eight warrants may be met. Such a condition may exist
+      when minimum traffic volumes are present at a location, but signalization would severely
+      interrupt mainline movement to serve a relatively small side street movement. Some additional
+      considerations should be made by the engineer when minimum warrants have been met to insure
+      that installation of a signal does not create a greater problem. These considerations include, but
+      are not limited to the following:
+      (a)     Development of excessive queues on the major street
+      (b)     Queue dissipation rates
+      (c)     Spacing between adjacent signalized intersections
+      (d)     Highway and intersection geometry (turn lanes)
+      (e)     Distance to pedestrian crossings and distance pedestrians have to cross
+(5)   Conversely, local conditions may, on rare occasions, dictate installation of a signal when the
+      minimum volume warrants are not met for the required eight hours. An example of this situation
+      is the entrance to a plant or office complex which generates sufficient traffic such as work trips,
+      to meet volume warrant criteria for several hours of the day (but less than the full eight hours) for
+      at least each weekday. These locations should be designed with an operation plan which may
+      include flashing operation during hours when full signal control is not justified. See Warrants 2
+      and 3 (Sections 3.9 and 3.10) in Chapter 3.
+(6)   It is very important to note that even when a traffic signal is justified (e.g., it satisfies one or more
+      warrants), it may not contribute to the safety and efficiency of the roadway. Closely spaced
+      intersections in high volume corridors could all meet volume warrants, but signals are not
+      desirable at every cross street. Signals can be poorly designed, ineffectively placed, improperly
+      operated, and poorly maintained. Any of these conditions can negate the benefits intended by the
+      traffic signal installation. The traffic engineer should also be increasingly aware of energy
+      conservation and include these thoughts when signalization is considered.
+
+2.7   PREPARATION AND APPROVAL OF STUDY REPORT
+(1)   Proper documentation of all activities that have taken place from the initial allegation of a
+      problem through the warrant analysis is extremely important. A traffic signal study report which
+      includes the following elements (as needed) should be prepared:
+      (a)     Cover/Title page that is signed and sealed
+      (b)     Description and map of intersection being considered
+      (c)     Existing conditions and a diagram (sketch) ­ see Chapter 5
+      (d)     Crash analysis and Collision Diagram ­ see Chapter 7
+
+TRAFFIC STUDIES MANUAL                            Page 6                                       March 9, 2011
+      (e)     Warrant analysis ­ see Chapter 3
+              · Statement of use of 70 or 100 percent requirements
+              · Discussion of number of approach lanes used in the analysis
+              · Discussion of how right turns are considered in the analysis
+              · Analysis discussion of Warrants 1-9 (only those applicable)
+              · Discussion of delay study
+              · Discussion of capacity analysis with Synchro or HCS+
+      (f)     Recommendations (including sketch if applicable)
+      (g)     Supplemental information or data to be submitted (as appropriate)
+              · Completed Traffic Signal Warrants worksheets (Form TR-01)
+              · Turning movement counts for the existing intersection (8 hour - A.M., Noon and
+                 P.M. peaks)
+              · Projected turning movement counts for the proposed intersection (A.M., Noon and
+                 P.M. peaks) (if applicable)
+              · 24-hour machine counts
+              · Pedestrian counts (8 hours)
+              · Color photos of each approach
+              · Projected traffic data for new intersection (if applicable)
+              · Pertinent supplemental information if needed
+              · Computer program outputs
+(2)   Guidelines for the content and format of this report are necessary to insure uniform report
+      preparation procedures and to expedite report review time.
+(3)   The traffic signal study report should conclude one of the following: (1) no problem exists and
+      therefore no traffic signal is warranted; (2) a problem exists, but the solution is not a traffic
+      signal; (3) a problem exists and a traffic signal will correct or reduce the problem; or (4) a
+      problem exists and a traffic signal in conjunction with other improvements will correct or reduce
+      the problem.
+(4)   In the first case, the traffic signal study should be terminated and the party initiating the request
+      should be notified. It may also be beneficial to disseminate further information explaining the
+      basis of the decision. In the second case, the traffic signal study should also be terminated,
+      another study (non-signal related) should be initiated to resolve the problem, and proper
+      notification should be given. In the third or fourth case, the study should be initiated to resolve
+      the problem, and proper notification should be given, also the study should be handed over to the
+      engineer(s) responsible for design. It is again advisable at this point to notify the party initiating
+      the request so that they are kept informed of the progress of the study.
+
+2.8   DEVELOPMENT OF NEW TRAFFIC SIGNAL DESIGN
+(1)   The design stage includes all activities that take place after justification of a new traffic signal
+      installation has been made or the modification of the operation of the existing signal is required.
+      These activities, which lead up to the traffic signal design reconnaissance report, include the
+      following:
+      (a)     Collect additional data (if needed)
+      (b)     Develop alternatives
+      (c)     Evaluate alternatives
+      (d)     Select "Best" alternative
+      (e)     Design improvement
+
+TRAFFIC STUDIES MANUAL                           Page 7                                      March 9, 2011
+(2)   For the installation of a new traffic signal the additional data collection will generally be limited
+      to the turning volume counts for 15-minute time periods required for developing the signal
+      operating plan and controller timings. Data collected for the signal warrants are of course
+      available if needed. For modification of an existing signal the data available is often dated, so it
+      may also be necessary to collect some of the data elements outlined previously in addition to the
+      turning volumes. In any event it is advisable to develop alternative concepts prior to the
+      collection of additional data.
+(3)   The alternative development, evaluation, and selection steps are significant steps in themselves
+      and are, therefore, only addressed in general terms in this manual. However, the basic approach
+      is presented in order to provide the user with guidelines necessary to properly conduct the traffic
+      signal study.
+(4)   All reasonable alternative concepts should be considered by the engineer. These concepts should
+      then be screened based on any known constraints such as funding, future programmed
+      construction, etc. All of the alternatives determined to be feasible by the engineer should then be
+      evaluated using the optimization and simulation computer programs.
+(5)   The first step is an isolated intersection analysis. Synchro is a valuable program with a Highway
+      Capacity Manual interface that can be used for design, analysis, and evaluation of isolated
+      intersections. By specifying appropriate commands and parameters, this program can select
+      optimal phase patterns and timings (cycle lengths and splits). Each alternative can be analyzed by
+      the measures of effectiveness included in the output reports. Several alternatives can also be
+      evaluated by comparative analysis to determine the best alternative. The Engineer of Record
+      should be responsible for any model result.
+      (a)     When modeling intersections using Synchro or HCS+, it is imperative that the factors
+              used in the analysis reflect actual Wyoming driving conditions. For example, the default
+              saturation flow rate should be set to 1600 vehicles per lane per hour of green. Field
+              observation of the traffic characteristics may be used to justify increasing the saturation
+              flow rate to 1700 where conditions indicate that driver behavior at the intersection is
+              more aggressive than the typical Wyoming intersection.
+      (b)     With the majority of intersections in Wyoming being located in relatively sparsely
+              populated areas, the traffic volumes can tend to fluctuate excessively throughout the day
+              and throughout the peak periods of the day. Therefore, when modeling intersections
+              using Synchro or HCS+, the actual peak hour factor for each movement should be used
+              for the analysis, rather than relying on the software's default peak hour factors.
+(6)   If the intersection is included in a linear arterial highway under study for progression, is part of a
+      grid network, or is part of an interchange with coordinated signals at each ramp terminal, a
+      Synchro analysis should be conducted. Synchro optimizes signal progression and is capable of
+      design and analysis of multiphase, actuated, as well as two phase, fixed time signal control.
+(7)   It is advisable to examine all legitimate phasing patterns and determine the optimal cycle length
+      for an intersection regardless of whether it is isolated or part of a network. This may result in
+      significant time savings, because model output can be used to determine input values and ranges
+      necessary to run Synchro more effectively and more efficiently.
+(8)   An economic analysis (cost effectiveness) should be conducted in conjunction with the computer
+      analyses and before proceeding to the implementation stage. Unfortunately, constraints beyond
+      the engineer's control may sometimes not permit implementation of the best alternative.
+(9)   Although input from the local agency is usually received through the traffic signal request, in all
+      cases the conceptual design should reflect any special needs or conditions the local agency
+      requires.
+
+TRAFFIC STUDIES MANUAL                           Page 8                                       March 9, 2011
+2.9   TRAFFIC SIGNAL RECONNAISSANCE REPORT
+(1)   Upon completion of the conceptual traffic signal design process, a design reconnaissance report
+      should be prepared. This report should include the following elements as a minimum:
+      (a)     All elements of the traffic signal study report (show report in the Appendix)
+      (b)     Additional data collected, if any
+      (c)     Description of alternatives
+      (d)     Description of analyses (including appropriate output from Synchro, SIDRA, VisSim or
+              HCS+)
+      (e)     Recommendations of engineer
+      (f)     Work to be performed
+      (g)     Approval of recommended concept
+(2)   This report should be distributed to the State Traffic Engineer, both Assistant State Traffic
+      Engineers, Traffic Studies Engineer, District Traffic Engineer and Electrical Operations Engineer.
+      If the project involves geometric changes, such as ADA modifications, corner radii improvements
+      or the addition of turn lanes, the Highway Development Engineer should be included in the
+      distribution because Project Development will need to be involved with the geometric project
+      design and administration.
+
+2.10 IMPLEMENTATION
+(1)   Actual implementation of the improvement should take place as soon as possible after the traffic
+      signal study report and design reconnaissance report stages. Conditions change with time, and if
+      too much time lapses before implementation it may be necessary to repeat the entire traffic signal
+      study procedure. For this reason it is wise to plan traffic signal studies in close conjunction with
+      the State Transportation Improvement Program (STIP). If this is not done the result may be an
+      improvement that does not match the conditions at the site.
+(2)   Following implementation, the engineer should always visit the site to determine if the traffic
+      signal is operating as designed. As a minimum, he should observe the operation during each
+      critical time period, keeping in mind the original concern and/or any other concerns identified in
+      the Traffic Signal Study Report. It is always a good idea to drive through the intersection from
+      all approaches and to make any critical turning maneuvers. The Operational Review Signalized
+      Intersection Checklist (Form TR-18) provides a convenient form on which to check each of the
+      signal components and note any concerns or deficiencies (see Chapter 10).
+(3)   In some cases, data collection may be necessary to determine if and how well the improvement is
+      operating. This is particularly true for the after condition of a before and after study, where crash
+      data (Chapter 7), travel time and delay data (Chapter 14), etc., are required.
+(4)   It is also advisable to follow through on the implementation of a traffic signal with an educational
+      program, preferably before any ground is broken, to increase public awareness of the change.
+      This should result in improved safety and efficiency during the transition, and it draws attention
+      to the traffic engineering activities, particularly safety and energy efficiency, that benefit the area.
+
+
+
+
+TRAFFIC STUDIES MANUAL                            Page 9                                      March 9, 2011
+                         (This page intentionally left blank)
+
+
+
+
+TRAFFIC STUDIES MANUAL                Page 10                   March 9, 2011
+      CHAPTER 3 ­ TRAFFIC SIGNAL WARRANT ANALYSIS
+3.1   PURPOSE
+(1)   Section 4C.01 of the MUTCD requires that an engineering study of traffic conditions, pedestrian
+      characteristics, and physical characteristics of the location shall be performed to determine
+      whether installation of a traffic control signal is justified at a particular location.
+(2)   This chapter provides a procedure to determine input into the decision of whether or not
+      conditions warrant the installation or the continued operation of a traffic signal.
+
+3.2   TRAFFIC SIGNAL WARRANT ANALYSIS
+(1)   The MUTCD requires that the investigation of the need for a traffic control signal shall include an
+      analysis of factors related to the existing operation and safety at the study location and the
+      potential to improve these conditions, and the applicable factors contained in the following traffic
+      signal warrants:
+              · Warrant 1, Eight-Hour Vehicular Volume
+              · Warrant 2, Four-Hour Vehicular Volume
+              · Warrant 3, Peak Hour
+              · Warrant 4, Pedestrian Volume
+              · Warrant 5, School Crossing
+              · Warrant 6, Coordinated Signal System
+              · Warrant 7, Crash Experience
+              · Warrant 8, Roadway Network
+              · Warrant 9, Intersection Near a Grade Crossing
+(2)   Traffic signals should not be installed unless one or more of these nine warrants are satisfied.
+      Because these are minimum requirements, satisfaction of a traffic signal warrant or warrants shall
+      not in itself require the installation of a traffic control signal. Delay, congestion, crash
+      experience, confusion, or other evidence of the need for right-of-way assignment must be shown.
+      Geometric changes which may eliminate the need for a signal should be considered.
+(3)   A warrant is a set of criteria which can be used to define the relative need for, and
+      appropriateness of, a particular traffic control device (i.e., STOP or YIELD sign, traffic signal,
+      etc.). Warrants are usually expressed in the form of numerical requirements such as the volume
+      of vehicular or pedestrian traffic. A warrant normally carries with it a means of assigning
+      priorities among several alternative choices. There are two fundamental concepts involved in this
+      determination:
+      (a)     The most effective traffic control device is that which is the least restrictive while still
+              accomplishing the intended purpose. For instance, geometric changes alone may negate
+              the need for a traffic signal.
+      (b)     Driver response to the influences of a traffic control device has been previously identified
+              by observation, field experience, and laboratory tests under a variety of traffic and driver
+              conditions.
+(4)   Warrants should be viewed as guidelines, not as absolute values. Satisfaction of a warrant is not
+      a guarantee that the device is needed. The warrant analysis process is just one of the tools to be
+      used in determining if a traffic signal is warranted.
+(5)   The application of warrants is effective only when combined with comprehensive analysis and
+      evaluation of available pertinent information, and the application of appropriate principles,
+      provisions, and practices as contained in the MUTCD and other sources, for the purpose of
+      deciding upon the applicability, design, operation, or installation of a traffic control device as
+
+TRAFFIC STUDIES MANUAL                          Page 11                                     March 9, 2011
+      noted in the definition of Engineering Study in Section 1A.13 of the MUTCD. In all cases, at
+      least one or more warrants must be fully met before a traffic signal installation is considered.
+(6)   Most of the warrants have criteria associated with the number of approach lanes and reduced
+      criteria for rural and/or higher speed locations. Each traffic signal warrant analysis must
+      determine which criteria apply based on the number of lanes and whether or not the reduced
+      warrant criteria apply. Engineering judgment must be used to determine when to apply the
+      reduced criteria and the appropriate number of lanes to use for the warrant analysis.
+
+3.3   APPLICATION OF REDUCED (70%) WARRANT CRITERIA
+(1)   The MUTCD allows for the application of reduced (70%) traffic signal warrant criteria at certain
+      rural and/or higher speed locations. The application of the 70% criteria is applicable for
+      intersections that lie within the built-up area of an isolated community having a population of less
+      than 10,000, or where the posted or statutory speed limit or the 85th-percentile speed on the major
+      street exceeds 40 mph.
+(2)   The application of the 70% criteria based on population only applies to communities in Wyoming
+      that do not currently have a signalized intersection (reduction based on speed may still apply). It
+      also does not apply to intersections lying outside the incorporated limits of a community, but
+      within the urban planning boundaries (typically within 3 miles, or otherwise as determined by the
+      Planning Program).
+(3)   The application of the reduced warrant criteria based on speeds will be based on the posted speed
+      limit. If the speed limit is posted less than 40 mph, the reduced criteria do not apply based on
+      speeds (reduction based on population may still apply). If the posted speed limit is 45 mph or
+      greater, the reduced criteria applies. If the speed limit is posted at 40 mph, a spot speed study
+      (see Chapter 13) should be conducted at the intersection to determine whether or not the 85th-
+      percentile speed is greater than 40 mph.
+
+3.4   APPROACH LANES
+(1)   Engineering judgment must be exercised in applying various traffic signal warrants to cases
+      where approaches consist of one lane plus one right or one left-turn lane. The site specific traffic
+      characteristics will dictate whether an approach should be considered as a one-lane approach or a
+      two-lane approach.
+(2)   For a minor street approach with one lane plus a left-turn lane, engineering judgment would
+      indicate that it should be considered a one-lane approach if the traffic using the left-turn lane is
+      minor. In such a case, the total traffic volume approaching the intersection should be applied
+      against the signal warrants as a one-lane approach. The approach should be considered two lanes
+      if approximately half of the traffic on the approach turns left and the left-turn lane is of sufficient
+      length to accommodate all left-turn vehicles.
+(3)   Similar engineering judgment and rationale should be applied to a street approach with one-lane
+      plus a right-turn lane. In the case of a right-turn lane, engineering judgment must also be
+      exercised relative to the degree of conflict of minor street right-turn traffic with traffic on the
+      major street. Thus, right-turn traffic should not be included in the minor street volume if the
+      movement enters the major street with minimal conflict. In such cases, the approach would be
+      evaluated as a one-lane approach and only the traffic in the through/left-turn lane considered.
+(4)   In some cases the minor street approach may not be striped with multiple lanes, but may be of
+      sufficient width (typically 18 feet or more) to allow right-turning traffic to pass to the right of any
+      left-turn or through traffic and complete their turn with little delay. In this case, the approach
+      should be considered a single lane approach, but the right turn volumes from the minor street
+      should not be included in the warrant analysis.
+
+TRAFFIC STUDIES MANUAL                           Page 12                                      March 9, 2011
+(5)   Minor street approaches having a single left-turn/through lane and a free flow right-turn lane
+      should be considered a single lane approach, and the right turn volumes from the minor street
+      should not be included in the warrant analysis.
+(6)   Major street approaches having single through lanes with separate left or right-turn lanes are
+      typically considered one-lane approaches for the warrant analysis.
+
+3.5   VOLUMES
+(1)   The volumes of traffic used in a full signal warrant analysis should be the actual turning
+      movement count (see Chapter 4) taken for the highest 8 to 12 hours in an average day (a weekday
+      representing traffic volumes normally and repeatedly found at the location).
+(2)   A review of the latest machine counts should be conducted first in order to determine:
+      (a)     The need for a turning movement count (i.e., if the volumes are too low then 8 to 12
+              hours of manual count are not needed and the warrant analysis may be completed based
+              on the machine counts only); and
+      (b)     The appropriate time periods for conducting the turning movement count.
+(3)   In all of the warrants where hourly volumes are to be entered, any hourly period may begin on
+      any quarter hour (7:15, 7:30, 7:45 etc.), as long as there is no overlap among warranted hours.
+(4)   An engineering study should consider the effects of the right-turn vehicles from the minor-street
+      approaches. Engineering judgment should be used to determine what, if any, portion of the right-
+      turn traffic is subtracted from the minor street traffic count when evaluating the count against the
+      signal warrants.
+(5)   The following factors should be considered when applying engineering judgment to determine the
+      portion of right-turn volumes included in the minor street volume:
+      (a)     Number of lanes on the minor street approach
+      (b)     Presence or absence of exclusive right-turn lane
+      (c)     Presence or absence of free flow right-turn lane
+      (d)     Availability of gaps in major street traffic
+      (e)     Sight distance available to right-turning vehicles
+      (f)     Percentage of minor street traffic which turns right
+      (g)     Pedestrian volumes
+(6)   Section 3.4 includes several instances where right turn volumes would not be included in the
+      warrant analysis.
+(7)   If free flow right-turn lanes are present, the right turn volumes should not be included in the
+      warrant analysis. This includes both free flow right-turns from the major street (right turn
+      volumes deducted from the major street volumes), and from the minor street (right turn volumes
+      deducted from the minor street approach volumes).
+(8)   When a minor street approach consists of a single lane, but right-turn volumes exceed 50% of the
+      total traffic on the approach, some of the right-turn traffic can proceed with little delay, but some
+      will be impeded by through or left-turn traffic. Also, the presence of the right turn traffic, though
+      it may be able to turn with little delay adds delay to the through and left-turn traffic. In this case,
+      all of the left-turn and through volume plus 50% of the right turn volume should be considered in
+      the warrant analysis and the single lane approach criteria should be used.
+
+
+
+TRAFFIC STUDIES MANUAL                           Page 13                                      March 9, 2011
+3.6      PRELIMINARY SCREENING
+(1)      Prior to conducting a full traffic signal warrant analysis, existing two-way average daily traffic
+         (ADT) volume data should be reviewed to determine if the intersection experiences enough
+         traffic to possibly meet any traffic signal warrants. The ADT volumes for all state highway
+         routes are available in the latest Vehicle Miles Book published by the Department's Planning
+         Program each year. The ADT volumes for most major city streets are also available from the
+         Department's Planning Program. Table 3-1 shows the minimum ADT volumes below which it is
+         impossible to meet the 8-hour traffic signal warrant criteria.
+(2)      The Equivalent ADT volumes indicated in the table are the minimum hourly volumes required to
+         meet the 8-hour warrant criteria multiplied by 8 (the number of hours that must meet the
+         minimum volume criteria). If either street at the intersection experiences traffic volumes below
+         the equivalent ADT for the applicable number of lanes and application of the full (100%) or
+         reduced (70%) criteria, it can be concluded that the intersection will not warrant the installation of
+         a traffic control signal, and the signal warrant study can be terminated. The requestor should be
+         notified of these findings per Chapter 2.
+       Table 3-1 ADT Volumes below which MUTCD Signal Warrants Cannot be Met
+                                                                                  Vehicles Per Hour on
+               Number of Lanes for Vehicles Per Hour on                           Higher Volume Minor
+              Moving Traffic on Each Major Street (Total of                       Street Approach (One
+                    Approach          Both Approaches)           Equivalent ADT      Direction Only)     Equivalent ADT
+               Major St.   Minor St.   100%         70%         100%       70%     100%        70%       100%      70%
+                  1           1         500         350         4,000     2,800     150        105       2,400    1,680
+ Warrant 1    2 or more       1         600         420         4,800     3,360     150        105       2,400    1,680
+Condition A   2 or more    2 or more    600         420         4,800     3,360     200        140       3,200    2,240
+                  1        2 or more    500         350         4,000     2,800     200        140       3,200    2,240
+
+
+                  1           1         750         525         6,000     4,200      75         53       1,200     848
+ Warrant 1    2 or more       1         900         630         7,200     5,040      75         53       1,200     848
+Condition B   2 or more    2 or more    900         630         7,200     5,040     100         70       1,600    1,120
+                  1        2 or more    750         525         6,000     4,200     100         70       1,600    1,120
+
+
+                  1           1         600         420         4,800     3,360     120         84       1,920    1,344
+Combination   2 or more       1         720         504         5,760     4,032     120         84       1,920    1,344
+of Warrants
+  1A & 1B     2 or more    2 or more    720         504         5,760     4,032     160        112       2,560    1,792
+                  1        2 or more    600         420         4,800     3,360     160        112       2,560    1,792
+
+
+(3)      For the volumes in Table 3-1 to meet the 8-hour warrant criteria, all traffic during the day would
+         have to be concentrated into an 8-hour period, with no other traffic during the remaining 16 hours
+         of the day. Based on the normal distribution of traffic volumes throughout the day, the actual
+         two-way ADT volumes needed to meet the 8-hour warrant criteria is significantly higher than
+         those indicated in Table 3-1. Normal daily traffic distribution was analyzed to determine the
+         typical 24-hour traffic volumes that would be likely to meet the 8-hour warrant criteria. Table 3-
+         2 shows the results of that analysis. If the roadway volumes on both approaches meet or exceed
+         the traffic volumes shown on Table 3-2 for the applicable number of lanes and application of the
+         full (100%) or reduced (70%) criteria, it does not necessarily mean that a traffic signal is
+         warranted and should be installed, but indicates that the intersection should be further analyzed
+         for possible signal warrants (a full warrant analysis should be conducted per the remainder of this
+         chapter). If the two-way ADT volumes on the approaches are less than those shown on Table 3-
+         2, engineering judgment should be used to decide whether the traffic volumes are close enough to
+         need full warrant analysis or the volumes are too low to meet the warrant criteria.
+TRAFFIC STUDIES MANUAL                                        Page 14                                    March 9, 2011
+      Table 3-2 ADT Volumes above which MUTCD Signal Warrants are Likely to be Met
+                                                                                     Vehicles Per Hour on
+               Number of Lanes for     Vehicles Per Hour on                          Higher Volume Minor
+                Moving Traffic on      Major Street (Total of                        Street Approach (One
+                 Each Approach          Both Approaches)          Equivalent ADT *      Direction Only)     Equivalent ADT *
+               Major St.   Minor St.    100%         70%          100%       70%      100%        70%       100%       70%
+                  1           1          500          350         8,300     5,810      150        105       4,600     3,220
+
+ warrant 1     2 or more      1          600          420         10,000    7,000      150        105       4,600     3,220
+condition a    2 or more   2 or more     600          420         10,000    7,000      200        140       6,000     4,200
+                  1        2 or more     500          350         8,300     5,810      200        140       6,000     4,200
+
+
+                  1           1          750          525         12,500    8,750       75         53       2,300     1,610
+
+ Warrant 1     2 or more      1          900          630         15,000    10,500      75         53       2,300     1,610
+Condition B    2 or more   2 or more     900          630         15,000    10,500     100         70       3,100     2,170
+                  1        2 or more     750          525         12,500    8,750      100         70       3,100     2,170
+
+
+                  1           1          600          420         10,000    7,000      120         84       3,680     2,576
+Combination    2 or more      1          720          504         12,000    8,400      120         84       3,680     2,576
+of Warrants
+  1A & 1B      2 or more   2 or more     720          504         12,000    8,400      160        112       4,800     3,360
+                  1        2 or more     600          420         10,000    7,000      160        112       4,800     3,360
+                  * Box, P. "Warrants for Traffic Control Signals," Traffic Engineering, November 1967
+
+
+3.7      TRAFFIC SIGNAL WARRANTS WORKSHEET
+(1)      The Traffic Signal Warrants worksheet is an Excel spreadsheet that has been developed to
+         simplify the traffic signal warrant analysis procedure. It is designed for the easy input of the
+         volume data and pertinent intersection conditions and to compile the results in a clear and
+         understandable format for use in justifying the installation of a new signal or the removal of an
+         existing signal.
+(2)      This form summarizes data previously collected at the intersection. This data is drawn from a
+         larger set of data which can later be used to determine the proper design and operation should
+         signalization be warranted.
+(3)      Most of the data entry for the Traffic Signal Warrants worksheet takes place on the "Input Sheet".
+         All fields should be filled in as applicable. Figure 3-1 gives an example of the "Input Sheet".
+         (a)       It is important that the city name be entered and spelled correctly because the spreadsheet
+                   determines whether or not to apply the reduced warrant criteria based on the name of the
+                   city. If the intersection is within the urban area boundary of an incorporated city, even
+                   though it may be outside of the actual corporate limits, the city's name should be used.
+         (b)       Enter the names and information for each of the approaches. Select "Yes" or "No" from
+                   the dropdown lists in each of the blanks after a question.
+         (c)       The posted speed limit on the major street must be input for proper application of the
+                   speed-based warrant reductions. If the speed limit is posted at 40 mph, the spreadsheet
+                   will ask if the 85th-percentile speed exceeds 40 mph. This should be determined by a
+                   spot speed study (see Chapter 13). Select "Yes" if the 85th percentile speed is greater
+                   than 40 mph, or "No" if it is 40 mph or less, from the dropdown list next to the question
+                   that is highlighted in red text.
+         (d)       The number of lanes per approach should be determined per Sections 3.4 and 3.5.
+
+
+TRAFFIC STUDIES MANUAL                                          Page 15                                      March 9, 2011
+                 Figure 3-1 Traffic Signal Warrants Input Sheet
+
+
+
+
+TRAFFIC STUDIES MANUAL              Page 16                       March 9, 2011
+      (e)     If "Yes" is selected for the question, "Is there a designated school crossing across the
+              uncontrolled roadway at this intersection?", then a pedestrian gap study (see Chapter 9)
+              should be performed and the results tabulated on the Pedestrian Gap Study form (Form
+              TR-12) and the School Crossing Warrant Sheet (Form TR-01a) should be completed,
+              which can be found under the "Wrnt 5" tab of the Traffic Signal Warrants worksheet.
+      (f)     If "Yes" is selected for the question "Is there a railroad grade crossing within 140 feet of
+              the intersection on a STOP controlled approach?", then the Intersection Near a Grade
+              Crossing Warrant Sheet (Form TR-01b) should be completed, and which can be found
+              under the "Wrnt 9 Input", "Fig 4C-9" and "Fig 4C-10" tabs of the Traffic Signal
+              Warrants worksheet.
+      (g)     The traffic volumes can be input manually, but the recommended method is to copy the
+              volumes directly from the PetraPro software program. To prepare the count data, first
+              arrange the approaches in the order of Northbound, Southbound, Eastbound and
+              Westbound using the approach wizard tool. Then, if all of the count intervals start on the
+              hour (i.e., XX:00), change the interval length to 60 minutes using the "Tools" dropdown
+              menu in PetraPro, then selecting "Change Interval Length" and "60 minutes". If any of
+              the count intervals were started on the quarter hour (i.e., XX:15, XX:30 or XX:45), the
+              count data will need to be moved to where it starts on the hour in order for the PetraPro
+              software to process the count data into full one-hour blocks. Also, any count intervals
+              that form incomplete hours must be deleted prior to changing the interval length.
+
+
+
+
+(4)   Once all of the data is entered on the "Input Sheet", additional data for the Crash Experience
+      warrant must be entered on "Pg 3" of the worksheet.
+      (a)     Under sub-section A, select "X" if adequate trial of alternatives to reduce crashes has
+              failed to reduce the crash experience at the intersection.
+
+
+TRAFFIC STUDIES MANUAL                          Page 17                                     March 9, 2011
+      (b)     Under sub-section B, enter the number of correctable crashes that have occurred at the
+              intersection each year, and select "X" if there have been more than five correctable
+              crashes in a 12 month period. Crashes that are considered susceptible to correction are
+              typically crashes involving either crossing or left-turning vehicles from the minor street
+              being struck by through vehicles on the major street. See Chapter 7 regarding crash
+              studies.
+
+
+
+
+(5)   The peak four-hour volumes must be plotted on Figure 4C-1 if the full warrant criteria is used, or
+      Figure 4C-2 if the reduced (70%) criteria is used. The peak one-hour volumes must be plotted on
+      Figure 4C-3 if the full warrant criteria is used, or Figure 4C-4 if the reduced (70%) criteria is
+      used. These figures can be found under the "Pg 5 Full" or "Pg 5 70%" tabs in the Traffic Signal
+      Warrants worksheet. Figures 4C-1 and 4C-3 are included on the "Pg 5 Full" sheet for studies that
+      use the full warrant criteria, and Figures 4C-2 and 4C-4 are included on the "Pg 5 70%" sheet for
+      studies that use the reduced (70%) warrant criteria.
+      (a)     First, determine which sheet applies and select the respective tab.
+      (b)     On the blank worksheet, each figure contains green horizontal lines underlining each of
+              the possible lane configurations. Delete the lines that do not apply, leaving the applicable
+              lane configuration used for the analysis underlined in green.
+      (c)     On the blank worksheet, Figures 4C-1 and 4C-2 include four horizontal and four vertical
+              lines each of red, blue and green colors which are to be used to plot the appropriate points
+              for analysis. Figures 4C-3 and 4C-4 include one horizontal and one vertical line each of
+              red, blue and green colors. The lines are color coded to mean:
+              · Red = warrant criteria is met
+              · Blue = warrant criteria is close to being met (i.e., the point fall on or just below the
+                  curve)
+              · Green = warrant criteria is not met.
+      (d)     To the right of each of the figures, a table of data indicates the peak eight hours of data
+              analyzed in the worksheet, including how much above or below the curve the point falls
+              for each hour. Positive numbers typically fall above the curve, while negative numbers
+              typically fall below the curve. This data is color coded as previously discussed to
+
+TRAFFIC STUDIES MANUAL                         Page 18                                     March 9, 2011
+               indicate the appropriate color of line to use to plot that hour's data. Due to the scale of
+               the figure and inherent errors in plotting the points, some positive numbers will show as
+               blue to indicate that the point is on, or nearly on, the curve, but not above the curve as
+               required for the warrant to be met. The table also indicates how long the associated
+               horizontal and vertical lines need to be to accurately represent the respective volumes on
+               the figures.
+       (e)     Determine the four highest points to be plotted on the Four-Hour Warrant curves from the
+               four highest numbers under the "Volume Above/Below Criteria" heading. The color
+               coding will indicate how many points will be plotted in each color. Delete the extra
+               horizontal and vertical lines leaving just four horizontal and four vertical lines of the
+               appropriate colors.
+       (f)     Set the length of each of the lines by right-clicking on the line, selecting Size and
+               Properties, and entering the length of the line from the table to the right of the figure. Set
+               the length of line for horizontal lines in the Width field, and for vertical lines in the
+               Height field.
+
+
+
+
+       (g)     Move each of the horizontal and respective vertical lines into their appropriate locations
+               on the figure to accurately represent each of the plotted points.
+(6)    If the School Crossing warrant applies, complete the School Crossing Signal Warrant Sheet
+       (Form TR-01a) under the "Wrnt 5" tab. This first requires the completion of a pedestrian gap
+       study (see Chapter 9).
+(7)    If the Intersection Near a Grade Crossing warrant applies, complete the Intersection Near a Grade
+       Crossing Warrant worksheet (Form TR-01b). Enter the pertinent information on the "Wrnt 9
+       Input" sheet, then plot the highest point on the applicable figure (i.e., Figure 4C-9 for a single
+       lane over the crossing or Figure 4C-10 for multiple lanes over the crossing).
+(8)    Figure 3-2, consisting of 6 pages, gives an example of a completed traffic signal warrant analysis
+       using the Traffic Signal Warrants worksheet.
+(9)    Figure 3-3 gives an example of a completed School Crossing Signal Warrant Sheet.
+(10)   Figure 3-4 gives an example of a completed Intersection near a Grade Crossing Warrant Sheet.
+
+
+
+
+TRAFFIC STUDIES MANUAL                           Page 19                                      March 9, 2011
+        Figure 3-2 Example Traffic Signal Warrants Worksheet (Page 1 of 6)
+
+
+
+
+TRAFFIC STUDIES MANUAL               Page 20                            March 9, 2011
+        Figure 3-2 Example Traffic Signal Warrants Worksheet (Page 2 of 6)
+
+
+
+
+TRAFFIC STUDIES MANUAL               Page 21                            March 9, 2011
+        Figure 3-2 Example Traffic Signal Warrants Worksheet (Page 3 of 6)
+
+
+
+
+TRAFFIC STUDIES MANUAL               Page 22                            March 9, 2011
+        Figure 3-2 Example Traffic Signal Warrants Worksheet (Page 4 of 6)
+
+
+
+
+TRAFFIC STUDIES MANUAL               Page 23                            March 9, 2011
+        Figure 3-2 Example Traffic Signal Warrants Worksheet (Page 5 of 6)
+
+
+
+
+TRAFFIC STUDIES MANUAL               Page 24                            March 9, 2011
+        Figure 3-2 Example Traffic Signal Warrants Worksheet (Page 6 of 6)
+
+
+
+
+TRAFFIC STUDIES MANUAL               Page 25                            March 9, 2011
+            Figure 3-3 Example School Crossing Signal Warrant Sheet
+
+
+
+
+TRAFFIC STUDIES MANUAL              Page 26                           March 9, 2011
+       Figure 3-4 Example Intersection near a Grade Crossing Warrant Sheet
+
+
+
+
+TRAFFIC STUDIES MANUAL               Page 27                           March 9, 2011
+3.8     WARRANT 1, EIGHT HOUR VEHICULAR VOLUME
+The Eight Hour Vehicular Volume signal warrant is broken into three conditions that are detailed in
+Section 4C.02 of the MUTCD.
+The Minimum Vehicular Volume, Condition A, is intended for application at locations where a large
+volume of intersecting traffic is the principal reason to consider installing a traffic control signal.
+The Interruption of Continuous Traffic, Condition B, is intended for application at locations where
+Condition A is not satisfied and where the traffic volume on a major street is so heavy that traffic on a
+minor intersecting street suffers excessive delay or conflict in entering or crossing the major street.
+The combination of Conditions A and B is intended for application at locations where Condition A is not
+satisfied and Condition B is not satisfied and should be applied only after an adequate trial of other
+alternatives that could cause less delay and inconvenience to traffic has failed to solve the traffic
+problems.
+
+3.9     WARRANT 2, FOUR-HOUR VEHICULAR VOLUMES
+The Four-Hour Vehicular Volume signal warrant is intended to be applied where the volume of
+intersecting traffic is the principal reason to consider installing a traffic control signal. The warrant
+conditions are detailed in Section 4C.03 of the MUTCD.
+
+3.10 WARRANT 3, PEAK HOUR
+The Peak Hour signal warrant is intended for use at a location where traffic conditions are such that for a
+minimum of 1 hour of an average day, the minor street traffic suffers undue delay when entering or
+crossing the major street. The warrant conditions are detailed in Section 4C.04 of the MUTCD.
+This signal warrant shall be applied only in unusual cases, such as office complexes, manufacturing
+plants, industrial complexes, or high-occupancy vehicle facilities that attract or discharge large numbers
+of vehicles over a short time.
+
+3.11 WARRANT 4, PEDESTRIAN VOLUME
+The Pedestrian Volume signal warrant is intended where the traffic volumes on a major street are so
+heavy that pedestrians experience excessive delays in crossing the major street. The warrant conditions
+are detailed in Section 4C.05 of the MUTCD.
+
+3.12 WARRANT 5, SCHOOL CROSSING
+The School Crossing signal warrant is intended for application where the fact that school children cross
+the major street is the principal reason to consider installing a traffic control signal. The warrant
+conditions are detailed in Section 4C.06 of the MUTCD.
+Before a decision is made to install a traffic control signal, consideration shall be given to the
+implementation of other remedial measures, such as warning signs and flashers, school speed zones,
+school crossing guards, or a grade-separated crossing.
+
+3.13 WARRANT 6, COORDINATED SIGNAL SYSTEM
+Progressive movement in a coordinated signal system sometimes necessitates installing traffic signal at
+intersections where they would not otherwise be needed in order to maintain proper platooning of
+vehicles. The warrant conditions for this warrant are detailed in Section 4C.07 of the MUTCD.
+In order for this warrant to apply, there must be a signalized intersection more than 1,000 feet away in
+each direction along the coordinated signal corridor.
+
+
+
+
+TRAFFIC STUDIES MANUAL                             Page 28                                      March 9, 2011
+3.14 WARRANT 7, CRASH EXPERIENCE
+The Crash Experience signal warrant conditions are intended for applications where the severity and
+frequency of crashes are the principal reasons to consider installing a traffic control signal. The warrant
+conditions for this warrant are detailed in Section 4C.08 of the MUTCD.
+
+3.15 WARRANT 8, ROADWAY NETWORK
+Installing a traffic signal at some intersections might be justified to encourage concentration and
+organization of traffic flow on a roadway network. The warrant conditions for this warrant are detailed in
+Section 4C.09 of the MUTCD.
+
+3.16 WARRANT 9, INTERSECTION NEAR A GRADE CROSSING
+The Intersection Near a Grade Crossing signal warrant is intended for use at a location where none of the
+conditions described in the other eight traffic signal warrants are met, but the proximity to the intersection
+of a grade crossing on an intersection approach controlled by a STOP or YIELD sign is the principal
+reason to consider installing a traffic control signal. The warrant conditions for this warrant are detailed
+in Section 4C.10 of the MUTCD.
+
+
+
+
+TRAFFIC STUDIES MANUAL                             Page 29                                     March 9, 2011
+                         (This page intentionally left blank)
+
+
+
+
+TRAFFIC STUDIES MANUAL                Page 30                   March 9, 2011
+              CHAPTER 4 ­ TURNING MOVEMENT COUNT
+4.1     PURPOSE
+The purpose of a turning movement count (TCM) is to summarize the counts of vehicle movements
+through an intersection during certain time periods. This type of volume summary is used in making
+decisions regarding the geometric design of the roadway, sign and signal installation, signal timing,
+pavement marking, traffic circulation patterns, capacity analysis, parking and loading zones, and vehicle
+classification.
+
+4.2     MANUAL TURNING MOVEMENT COUNT
+(1)     Manual turning movement counts should be collected using an electronic count board such as a
+        JAMAR Technologies DB-400, TDC-8 or TDC-12 traffic data collector, and processed through
+        JAMAR's PetraPro software.
+(2)     The count header on the turning movement count should be filled in completely. Enter the Street
+        Name of each roadway and orient the intersection by indicating the approach direction of each
+        approach (i.e., Northbound, Southbound, Eastbound and Westbound).
+(3)     For turning movement counts that will be used for signal warrant analysis, the approaches should
+        be in order of Northbound, Southbound, Eastbound and Westbound from left to right.
+(4)     Briefly describe the Weather Conditions and include any Comments that may influence the
+        results of the data being collected. For example, a stalled vehicle that may temporarily restrict a
+        vehicle movement during a time period should be noted.
+(5)     Figure 4-1 gives an example of a turning movement count that was completed using a TDC-8
+        count board and processed through the PetraPro software.
+
+4.3     AUTOMATED TURNING MOVEMENT COUNT
+Automated turning movement counts are collected using Miovision Technologies Polemount Video
+Collection Units (VCUs), and the data is processed and retrieved on Miovision's Traffic Data Online
+(TDO) servers.
+
+
+
+
+TRAFFIC STUDIES MANUAL                            Page 31                                    March 9, 2011
+                                       Figure 4-1 Example Turning Movement Count
+                                    Wyoming Department of Transportation
+                                                               Traffic Program
+                                                         Safety & Studies Section
+                                                             Cheyenne, WY
+
+Intersection: Main & 5th St                                                                           File Name: N Main & 5th St
+Counted By: AA                                                                                        Site Code: 00000005
+Weather: Rainy                                                                                        Start Date: 6/5/2008
+Comments:                                                                                             Page No: 1
+
+
+                                                            Groups Printed- All Vehicles
+                      N Main                              N Main                         5th St                            5th St
+                    Northbound                          Southbound                    Eastbound                          Westbound
+                                                                                                                                                     Int.
+Start Time   Left   Thru    Right    Peds       Left    Thru     Right    Peds     Left   Thru    Right   Peds    Left   Thru    Right   Peds       Total
+ 07:00 AM      12     73        6           0      31      57        4       0       15     37       11      0      10     14       29          0    299
+ 07:15 AM      19     48        6           0      31      51       12       1        9     40       24      1      15     27       44          0    328
+ 07:30 AM      17     53       11           0      44      76       16       0       13     46       22      1      11     42       19          1    372
+ 07:45 AM      21     77       10           0      67     103       18       0       18     74       29      1      12     40       30          1    501
+     Total     69    251       33           0     173     287       50       1       55    197       86      3      48    123      122          2   1500
+
+ 08:00 AM      24     65       13           0      50      78       15       0       11     46       20      1      15     22       25          0    385
+ 08:15 AM      14     59        3           0      28      63        9       0       11     38       25      1       9     34       21          0    315
+ 08:30 AM      12     43       10           0      39      64       13       0       10     37       19      0       9     13       23          0    292
+ 08:45 AM      18     50       10           0      31      57        9       0        9     44       16      0      13     24       32          0    313
+     Total     68    217       36           0     148     262       46       0       41    165       80      2      46     93      101          0   1305
+
+
+
+ 11:00 AM      23     67       10           0      39      81       11       0       15     42       19      0      15     31       39          0    392
+ 11:15 AM      21     77        7           0      33      69        8       0       13     49       26      0      22     31       32          0    388
+ 11:30 AM      23     86       15           0      45      82       10       1       15     45       22      1      12     32       46          0    435
+ 11:45 AM      30     82       15           0      42      75       11       0        8     43       31      0      17     46       39          0    439
+     Total     97    312       47           0     159     307       40       1       51    179       98      1      66    140      156          0   1654
+
+ 12:00 PM      26    101       11           0      36      90       15       0       18     60       25      0      20     47       48          3    500
+ 12:15 PM      17     95       14           2      30      92        9       1       10     28       14      0      17     38       36          1    404
+ 12:30 PM      33     87       14           0      46      84       11       0       25     38       25      0      16     44       27          1    451
+ 12:45 PM      31     88       17           1      46      74       13       0       16     46       19      1      17     35       49          1    454
+     Total    107    371       56           3     158     340       48       1       69    172       83      1      70    164      160          6   1809
+
+
+
+ 03:30 PM      27     78       12           0      51      91        7       0       15     34       21      0      16     29       26          2     409
+ 03:45 PM      44    104       17           0      50      98       24       0       11     24       35      0       6     15       24          1     453
+     Total     71    182       29           0     101     189       31       0       26     58       56      0      22     44       50          3     862
+
+ 04:00 PM      29    109       10           0      72     140       14       0       17     57       17      1      22     43       50          0    581
+ 04:15 PM      40     79       11           0      59      92       17       3       15     41       25      3      25     35       46          0    491
+ 04:30 PM      52     91        5           0      49      97       18       2       19     53       25      4      21     49       45          0    530
+ 04:45 PM      44    108        8           0      62      89       21       0       17     41       19      1      21     39       43          0    513
+     Total    165    387       34           0     242     418       70       5       68    192       86      9      89    166      184          0   2115
+
+ 05:00 PM      58     131      11        0         54       93      15        0      26      66      22       0     28      63      52       0   619
+ 05:15 PM      48     109      15        0         42       85      12        0      14      58      21       2     18      39      42       0   505
+    Grand     683   1960      261        3      1077     1981      312        8     350   1087      532      18    387     832     867      11 10369
+ Apprch %    23.5   67.4        9      0.1       31.9     58.6     9.2      0.2    17.6    54.7    26.8     0.9   18.5    39.7    41.3     0.5
+   Total %    6.6    18.9     2.5        0       10.4     19.1       3      0.1     3.4    10.5     5.1     0.2    3.7       8     8.4     0.1
+
+
+
+
+       TRAFFIC STUDIES MANUAL                                            Page 32                                            March 9, 2011
+                   CHAPTER 5 ­ CONDITION DIAGRAM
+5.1   PURPOSE
+(1)   The purpose of the condition diagram is to show the intersection and the conditions within the
+      surrounding area as it exists. The diagram should include the intersection alignment, items such
+      as buildings, sidewalks, trees, light poles, fire hydrants, stop signs, number of lanes, lane use if
+      required, approach speed limits, and distance to the next signal in each direction (if applicable),
+      associated with the streets forming the intersection. The condition diagram should show the
+      length of all exclusive lanes and associated tapers.
+(2)   The condition diagram provides the engineer with details of field conditions and helps investigate
+      the need for changes to existing traffic control devices. The diagram should also be part of an
+      intersection crash analysis.
+
+5.2   COMPLETING THE CONDITION DIAGRAM
+(1)   The location information should be entered so that the intersection is thoroughly identified. The
+      state, U.S., or county route numbers and street names for both streets should be included if
+      applicable, as well as the County, City, Date, and Person(s) preparing the diagram. Orient the
+      intersection by indicating north with a north arrow.
+(2)   All items associated with the streets should be drawn using representative symbols. The diagram
+      should also include the width and surface type of the streets, the grades (if 5 percent or more), and
+      traffic control devices. All measurements should be as accurate as possible and indicated on the
+      diagram. The usual distance measured from the intersection is 80 to 100 feet; however, in those
+      cases where pertinent signing or pavement markings concerning the intersection (such as `Stop
+      Ahead') occur in advance of the intersection in question, those conditions should be diagrammed
+      and distances indicated with a "broken arrow." Reasonable judgment should be used to decide
+      the distance away from the intersection to include elements in the condition diagram.
+(3)   Show all lanes and the movements allowed/required from each lane. Include lane widths, full-
+      width turn bay lengths and turn bay taper lengths.
+(4)   Note the posted speed limit on all approaches and the distance to the next traffic signal in each
+      direction (if applicable).
+(5)   Figure 5-1 gives an example of a completed condition diagram.
+
+
+
+
+TRAFFIC STUDIES MANUAL                          Page 33                                     March 9, 2011
+                    Figure 5-1 Example Condition Diagram
+
+
+
+
+TRAFFIC STUDIES MANUAL            Page 34                  March 9, 2011
+                 CHAPTER 6 ­SIGHT DISTANCE STUDIES
+6.1     PURPOSE
+(1)     Sight distance is the length of roadway visible to a driver. The three types of sight distance
+        common in roadway design are intersection sight distance, stopping sight distance, and passing
+        sight distance. This chapter will discuss intersection sight distance and stopping sight distance.
+        Information on passing sight distance can be found in Chapter 12 of this manual and in Chapter 3
+        of the AASHTO A Policy on Geometric Design of Highways and Streets (Green Book).
+(2)     A sight distance study at an intersection includes four key steps:
+        ·       Determine the minimum recommended sight distance.
+        ·       Obtain or construct sighting and target rods.
+        ·       Measure current sight distances and record observations.
+        ·       Perform sight distance analysis.
+
+6.2     INTERSECTION SIGHT DISTANCE
+(1)     The driver of a vehicle approaching or departing from an intersection should have an
+        unobstructed view of the intersection, including any traffic control devices, and sufficient lengths
+        along the intersecting highway to permit the driver to anticipate and avoid potential collisions
+        (Maze and Plazak 2000). These unobstructed views form triangular areas known as sight
+        triangles.
+(2)     A typical intersection is divided into areas between each leg known as quadrants. Sight triangles
+        are the specified areas along an intersection's approach legs and across the included corners (see
+        Figures 6-1 and 6-2 for an illustration). These areas should be clear of obstructions that might
+        block a driver's view of conflicting vehicles or pedestrians. The two types of sight triangles are
+        approach sight triangles and departure sight triangles (AASHTO, Green Book, 2004).
+6.2.1 APPROACH SIGHT TRIANGLES
+Approach sight triangles provide the driver of a vehicle approaching an intersection an unobstructed view
+of any conflicting vehicles or pedestrians. These triangular areas should be large enough that drivers can
+see approaching vehicles and pedestrians in sufficient time to slow or stop and avoid a crash. Approach
+sight triangles are illustrated in Figure 6-1.
+                                Figure 6-1 Approach Sight Triangles
+
+
+
+
+                                             (Source: CTRE)
+
+TRAFFIC STUDIES MANUAL                            Page 35                                    March 9, 2011
+6.2.2 DEPARTURE SIGHT TRIANGLES
+Appropriate departure sight triangles provide adequate sight distance for a stopped driver on a minor
+roadway to depart from the intersection and enter or cross the major roadway. These sight triangles
+should be provided in each quadrant of a controlled intersection. Departure sight triangles are illustrated
+in Figure 6-2.
+                                Figure 6-2 Departure Sight Triangles
+
+
+
+
+                                              (Source: CTRE)
+
+6.2.3 OBSTRUCTIONS WITHIN SIGHT TRIANGLES
+(1)     To determine whether an object is a sight obstruction, consider both the horizontal and vertical
+        alignment of both roadways, as well as the height and position of the object (AASHTO Green
+        Book). For passenger vehicles, it is assumed that the driver's eye height is 3.5 feet and the height
+        of an approaching vehicle is 4.25 feet above the roadway surface, as illustrated in Figure 6-3. At
+        the decision point, the driver's eye height is used for the measurement. Sometimes a higher
+        driver's eye height should be considered for drivers of trucks to see underneath the tree canopy.
+                         Figure 6-3 Heights Pertaining to Sight Triangles
+
+
+
+
+                                              (Source: CTRE)
+
+TRAFFIC STUDIES MANUAL                            Page 36                                    March 9, 2011
+(2)   Any object within the sight triangle that would obstruct the driver's view of an approaching
+      vehicle (4.25 feet in height) should be removed or modified or appropriate traffic control devices
+      should be installed as per the MUTCD. Obstructions within sight triangles could be buildings,
+      parked vehicles, hedges, trees, bushes, tall crops, walls, fences, etc. Figure 6-4 shows a clear
+      sight triangle and an obstructed sight triangle.
+                     Figure 6-4 Clear Versus Obstructed Sight Triangles
+
+
+
+
+                                            (Source: CTRE)
+
+6.3   SIGHT DISTANCE STUDY METHODS
+(1)   Different types of traffic control require different sight distances. For example, intersections with
+      no control require adequate distance for the approaching vehicle to identify any conflicts in or
+      approaching the intersection before entering. An approach sight triangle is used for this analysis.
+      However, intersections with stop control require drivers to stop at the intersection, check for
+      approaching vehicles in the intersection, and then depart. A departure sight triangle is used for
+      this analysis.
+(2)   Example sighting and target rods are illustrated in Figure 6-5. The target rod can be constructed
+      out of normal 1x2 dimensional lumber. The target rod should be 4.25 feet tall to represent the
+      vehicle height and be painted fluorescent orange on both the top portion and bottom 2 feet of the
+      rod. The bottom 2-foot portion represents the object height for measuring stopping sight distance
+      (this will be further explained later in Section 6.3.3). The sighting rod should be 3.5 feet tall to
+      represent the driver's eye height. The sighting rod can be constructed out of the same type of
+      wood but should be painted flat black. The sighting rod and target rod are used in measuring
+      sight distance.
+(3)   The methods to measure and analyze the approach sight distance for uncontrolled intersection,
+      intersection sight distance for STOP controlled intersections and stopping sight distance are
+      described below.
+
+
+
+
+TRAFFIC STUDIES MANUAL                          Page 37                                     March 9, 2011
+              Figure 6-5 Example Sighting Rod (left) and Target Rod (right)
+
+
+
+
+                                           (Source: CTRE)
+
+6.3.1 UNCONTROLLED INTERSECTIONS
+(1)   For uncontrolled intersections, the drivers of both approaching vehicles should be able to see
+      conflicting vehicles in adequate time to stop or slow to avoid a crash. The required sight distance
+      for safe operation at an uncontrolled intersection is directly related to the vehicle speeds and the
+      distances traveled during perception, reaction, and braking time. Table 6-1 lists the minimum
+      recommended sight distances for specific design speeds. For example, for a speed limit of 30
+      mph, 140 feet is the minimum recommended sight distance along that approach leg.
+                Table 6-1 Length of Sight Triangle Leg (No Traffic Control)
+                          Posted Speed             Length of Leg (X or Y)
+                             (mph)                         (feet)
+                                 20                            90
+                                 25                           115
+                                 30                           140
+                                 35                           165
+                                 40                           195
+                                 45                           220
+                                 50                           245
+                                 55                           285
+                                 60                           325
+                                 65                           365
+                                (Source: AASHTO Green Book, 2004)
+
+
+TRAFFIC STUDIES MANUAL                          Page 38                                    March 9, 2011
+(2)   Determine the minimum sight distance for the posted speed on each approach to the intersection
+      per Table 6-1.
+(3)   Sight distance measurements should be gathered for all legs of the uncontrolled intersection.
+      Traffic approaching from both the left and right should be considered for measurements. The
+      observer records the date and time, posted or operating speed, site location, and weather
+      conditions on the sight distance diagram. The measuring process is represented in Figure 6-6 and
+      described below.
+            Figure 6-6 Sight Distance Measurement at Uncontrolled Intersection
+
+
+
+
+                                             (Source: CTRE)
+(4)   The observer holds the sighting rod, and the assistant holds the target rod. They position
+      themselves on two intersecting approaches at the appropriate stopping sight distances taken from
+      Table 6-1. These are the X and Y dimensions. The observer represents the approaching vehicle
+      and is located at the decision point. The observer uses the 3.5-foot sighting rod, which represents
+      the driver's eye height. The assistant represents the intersecting vehicle. The assistant uses the
+      4.25-foot target rod, which represents the height of the approaching vehicle. The observer sights
+      from the top of the sighting rod to the target rod.
+(5)   If the target rod is visible, the approach sight triangle for the intersection is appropriate. If the top
+      of the target rod is not visible, the assistant holding the target rod should walk toward the
+      intersection along the centerline of the intersecting lane until the observer can see the target rod.
+      When the target rod is visible, the position should be marked and the distance to the intersection
+      should be measured along the centerline of the roadway. This is the X dimension.
+(6)   The analysis of intersection sight distance consists of comparing the recommended sight distance
+      to the measured sight distance. The measured sight distance should be equal to or greater than the
+      recommended stopping sight distance. If the measured sight distance is less than the
+      recommended sight distance, some mitigation may be required. Some mitigation measures are as
+      follows:
+      (a)     Remove/modify obstruction.
+      (b)     Reduce speeds (Note: posting lower speed limits alone is seldom effective).
+      (c)     Install traffic control devices (if warranted by the MUTCD).
+
+TRAFFIC STUDIES MANUAL                           Page 39                                       March 9, 2011
+6.3.2 INTERSECTIONS CONTROLLED WITH STOP SIGNS
+(1)   Vehicles stopped at an intersection must have sufficient sight distance to permit a safe departure.
+      At intersections with stop sign control, close attention should be given to departure sight
+      triangles.
+(2)   Three maneuvers can be completed by vehicles stopped at an intersection: crossing maneuver,
+      left-turn maneuver, and right-turn maneuver.
+(3)   When a driver is completing a crossing maneuver, there must be sufficient sight distance in both
+      directions available to cross the intersecting roadway and avoid approaching traffic. The sight
+      distance required for this maneuver is based on the distance approaching vehicles will travel on
+      the major road during the time it takes a stopped vehicle to clear the intersection. Table 6-2 lists
+      the recommended sight distances for this maneuver based on design speeds.
+(4)   The left-turn maneuver requires first clearing the traffic on the left, then entering the traffic
+      stream from the right. The required sight distance for this maneuver is affected by the amount of
+      time it takes the stopped vehicle to turn left, clearing traffic from the left and reach average
+      running speed without affecting the speed of an approaching vehicle from the right. Table 6-2
+      lists the recommended sight distances for this maneuver based on design speeds.
+(5)   The right turn maneuver must have sufficient sight distance to permit entrance onto the
+      intersecting roadway and then accelerate to the posted speed limit without being overtaken by
+      approaching vehicles from the left. Table 6-2 lists the recommended sight distances for this
+      maneuver based on design speeds.
+                  Table 6-2 Intersection Sight Distance (STOP Controlled)
+         Posted
+                         Sight Distance for Left-          Sight Distance for Crossover
+         Speed
+                          Turn Maneuver (feet)            and Right-Turn Maneuvers (feet)
+         (mph)
+           20                        225                                    195
+            25                       280                                    240
+            30                       335                                    290
+            35                       390                                    335
+            40                       445                                    385
+            45                       500                                    430
+            50                       555                                    480
+            55                       610                                    530
+            60                       665                                    575
+            65                       720                                    625
+            70                       775                                    670
+                                (Source: AASHTO Green Book, 2004)
+(6)   To measure the intersection sight distance, first determine the minimum sight distance for each
+      maneuver and speed (see Table 6-2).
+(7)   The observer records the date and time, posted or operating speed, site location, and weather
+      conditions on the sight distance diagram.
+(8)   The sight distance should be measured in each direction from each minor street approach. The
+      line of sight should be from the driver's eye position where traffic would normally be expected to
+      stop and look for gaps in approaching traffic (a typical rule of thumb is 15 feet from the near edge
+
+TRAFFIC STUDIES MANUAL                          Page 40                                     March 9, 2011
+       of the major street traveled way). Observation of traffic behavior at the intersection should be
+       used to determine the point at which the majority of drivers stop to look for gaps in traffic without
+       encroaching on the through lanes. Measure the intersection sight distance from that point.
+(9)    The observer with the sighting rod stands at the center of the approaching lane at the point
+       determined above. The observer's eyes should be at the top of the sighting rod. The assistant
+       walks away from the observer along the intersecting roadway toward approaching traffic. The
+       assistant should stop periodically and place the target rod on the pavement for sighting by the
+       observer. This process should continue until the top of the target rod can no longer be seen. The
+       point where the target rod disappears is the maximum sight distance along that leg. The position
+       should be marked and the distance to the intersection should be measured along the centerline of
+       the roadway.
+(10)   The analysis of intersection sight distance consists of comparing the recommended sight distance
+       to the measured available sight distance. The comparison of the actual distances should be
+       performed with consideration to posted speed limit. If the measured sight distance is less than the
+       recommended sight distance some mitigation may be required. Some mitigation measures are as
+       follows:
+       (a)     Remove/modify obstruction.
+       (b)     Post a reduced advisory speed.
+       (c)     Install additional traffic control devices (if warranted by the MUTCD).
+6.3.3 STOPPING SIGHT DISTANCE
+(1)    The available sight distance on a roadway should be sufficiently long to enable a vehicle traveling
+       at the posted speed to stop before reaching a stationary object in its path. Although greater
+       lengths of visible roadway are desirable, the sight distance at every point along a roadway should
+       be at least that needed for a below-average driver or vehicle to stop (AASHTO Green Book).
+       Stopping sight distance is defined as the sum of two distances:
+       (a)     Brake reaction distance ­ the distance traveled by the vehicle from the instant the driver
+               sees an object necessitating a stop to the instant the brakes are applied; plus
+       (b)     Braking distance ­ the distance needed to stop the vehicle from the instant brake
+               application begins.
+(2)    The reaction distance is based on the reaction time of the driver and the speed of the vehicle. The
+       braking distance is dependent upon the vehicle speed and the coefficient of friction between the
+       tires and roadway.
+(3)    Table 6-3 lists minimum recommended stopping sight distances based on design speed and the
+       sum of reaction distance and braking distance rounded to the nearest 5 feet for ease of
+       application. At 55 mph, for example, the recommended stopping sight distance is 495 feet.
+(4)    For stopping distance calculations, the height of the driver's eye is 3.5 feet above the roadway
+       and the object height is 2 feet above the roadway surface, as illustrated in Figure 6-7. The 2-foot
+       object height represents an object that the driver of an approaching vehicle would want to avoid.
+(5)    One element to consider for stopping sight distance is vertical curvature of the roadway. On
+       straight roadway sections, the obstruction that blocks the driver's vision of the roadway ahead is
+       the vertical curvature of the road surface. As the vertical curvature increases, stopping sight
+       distance also increases.
+(6)    Determine the minimum stopping sight distance for the posted speed limit (see Table 6-3).
+(7)    The observer records the date and time, posted or operating speed, site location, and weather
+       conditions on the sight distance diagram.
+
+TRAFFIC STUDIES MANUAL                           Page 41                                    March 9, 2011
+(8)   Standing at a pre-determined location along the road, the observer should sight from the top of
+      the sighting road while the assistant moves away in the direction of travel. The assistant stops
+      when the bottom 2-foot portion of the target rod is no longer visible. This is the distance at which
+      a 2-foot tall object can no longer be seen by an approaching driver. The distance from the
+      disappearing point to the observer is measured and recorded.
+                               Table 6-3 Stopping Sight Distance
+                          Design Speed           Stopping Sight Distance
+                             (mph)                        (feet)
+                                 20                           115
+                                 25                           155
+                                 30                           200
+                                 35                           250
+                                 40                           305
+                                 45                           360
+                                 50                           425
+                                 55                           495
+                                 60                           570
+                                 65                           645
+                                 70                           730
+                                 75                           820
+                                 80                           910
+                               (Source: AASHTO Green Book, 2004)
+
+                  Figure 6-7 Heights Pertaining to Stopping Sight Distance
+
+
+
+
+                                           (Source: CTRE)
+(9)   The analysis of stopping sight distance consists of comparing the recommended sight distance to
+      the measured sight distance. The measured stopping sight distance should be greater than the
+      recommended stopping distance. On a horizontal curved roadway, a sight obstruction may be due
+      to the curve or to physical features outside of the roadway. On a straight roadway, the sight
+      obstruction will be due to the vertical curvature of the roadway.
+
+
+
+
+TRAFFIC STUDIES MANUAL                         Page 42                                     March 9, 2011

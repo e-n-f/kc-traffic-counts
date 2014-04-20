@@ -1,0 +1,2490 @@
+   Draft Environmental Impact Report
+                for the
+
+
+
+
+San José Downtown Health Center
+
+
+          SCH# 2011122019
+
+
+
+             Prepared by
+
+
+
+
+             March 2012
+TABLE OF CONTENTS
+
+
+                                                                                                                                                      Page
+                                                                     EIR Text
+
+SUMMARY              ....................................................................................................................................... 1 
+
+SECTION 1.0  INTRODUCTION AND PURPOSE ............................................................................ 7 
+             1.1  CALIFORNIA ENVIRONMENTAL QUALITY ACT...................................... 7 
+             1.2  ORGANIZATION OF THE DRAFT EIR .......................................................... 8 
+             1.3  REFERENCE AVAILABILITY ......................................................................... 9 
+             1.4  PUBLIC PARTICIPATION IN ENVIRONMENTAL REVIEW .................... 10 
+
+SECTION 2.0  PROJECT INFORMATION ....................................................................................... 11 
+             2.1  PROJECT LOCATION AND BACKGROUND .............................................. 11 
+             2.2  PROJECT DESCRIPTION ............................................................................... 11 
+             2.3  PROJECT OBJECTIVES .................................................................................. 13 
+             2.4  USES OF THE EIR ........................................................................................... 14 
+
+SECTION 3.0  ENVIRONMENTAL SETTING, IMPACTS, AND MITIGATION.......................... 19 
+             3.1  LAND USE........................................................................................................ 20 
+             3.2  TRANSPORTATION ....................................................................................... 23 
+             3.3  AIR QUALITY.................................................................................................. 39 
+             3.4  GREENHOUSE GAS EMISSIONS ................................................................. 47 
+             3.5  NOISE AND VIBRATION ............................................................................... 53 
+             3.6  CULTURAL RESOURCES .............................................................................. 61 
+             3.7  AESTHETICS ................................................................................................... 65 
+             3.8  GEOLOGY AND SOILS .................................................................................. 70 
+             3.9  HYDROLOGY AND WATER QUALITY ...................................................... 74 
+             3.10  HAZARDS AND HAZARDOUS MATERIALS ............................................. 82 
+             3.11  BIOLOGICAL RESOURCES ........................................................................... 87 
+             3.12  UTILITIES AND SERVICE SYSTEMS .......................................................... 93 
+             3.13  ENERGY ........................................................................................................... 97 
+             3.14  PUBLIC SERVICES ....................................................................................... 103 
+
+SECTION 4.0  CUMULATIVE IMPACTS ...................................................................................... 106 
+             4.1  INTRODUCTION ........................................................................................... 106 
+             4.2  LIST OF CUMULATIVE PROJECTS ........................................................... 107 
+             4.3  ANALYSIS OF CUMULATIVE IMPACTS.................................................. 109 
+
+
+
+
+County of Santa Clara                                                        i                                                                Draft EIR
+San José Downtown Health Center                                                                                                              March 2012
+TABLE OF CONTENTS
+
+
+                                                                                                                                            Page
+
+SECTION 5.0  CONSISTENCY WITH RELEVANT PLANS ........................................................ 125 
+             5.1  2010 CLEAN AIR PLAN................................................................................ 125 
+             5.2  SAN FRANCISCO BAY REGION WATER QUALITY CONTROL PLAN125 
+             5.3  SANTA CLARA VALLEY URBAN RUNOFF POLLUTION PREVENTION
+                  PROGRAM ..................................................................................................... 126 
+             5.4  SANTA CLARA COUNTY CONGESTION MANAGEMENT PROGRAM
+                  ......................................................................................................................... 126 
+             5.5  SANTA CLARA COUNTY GENERAL PLAN............................................. 127 
+             5.6  SANTA CLARA COUNTY GREEN BUILDING POLICY.......................... 130 
+             5.7  CITY OF SAN JOSÉ ENVISION 2040 GENERAL PLAN ........................... 131 
+
+SECTION 6.0  ALTERNATIVES TO THE PROPOSED PROJECT .............................................. 134 
+             6.1  SIGNIFICANT IMPACTS OF THE PROJECT ............................................. 134 
+             6.2  PROJECT OBJECTIVES ................................................................................ 135 
+             6.3  FEASIBILITY OF ALTERNATIVES ............................................................ 135 
+             6.4  SELECTION OF ALTERNATIVES .............................................................. 135 
+             6.5  PROJECT ALTERNATIVES ......................................................................... 136 
+
+SECTION 7.0  GROWTH INDUCING IMPACTS .......................................................................... 145 
+
+SECTION 8.0  SIGNIFICANT UNAVOIDABLE IMPACTS ......................................................... 146 
+
+SECTION 9.0  REFERENCES.......................................................................................................... 147 
+
+SECTION 10.0      LEAD AGENCY AND CONSULTANTS ..................................................... 149 
+            10.1  LEAD AGENCY ............................................................................................. 149 
+            10.2  CONSULTANTS ............................................................................................ 149 
+
+
+                                                                    Photos
+
+Photo 1: View of the project site from the corner of East Santa Clara Street and North 17th Street
+         looking west. ......................................................................................................................... 66 
+Photo 2: View of the Mediplex Building from East Santa Clara Street looking north. ...................... 66 
+Photo 3: View of the project site from North 17th Street looking northwest. ..................................... 67 
+Photo 4: View of North 17th Street and the eastern project site boundary from the intersection of
+         North 17th Street and East St. John Street looking south. ..................................................... 67 
+
+
+
+
+County of Santa Clara                                                    ii                                                         Draft EIR
+San José Downtown Health Center                                                                                                    March 2012
+TABLE OF CONTENTS
+
+
+                                                                                                                                                Page
+                                                                     Figures
+
+Figure 1:      Regional Map ...................................................................................................................... 15 
+Figure 2:      Vicinity Map........................................................................................................................ 16 
+Figure 3:      Aerial Photograph................................................................................................................ 17 
+Figure 4:      Conceptual Site Plan ........................................................................................................... 18 
+Figure 5:      Surrounding Road Network and Study Intersections .......................................................... 25 
+Figure 6:      Existing Bicycle Facilities ................................................................................................... 26 
+Figure 7:      Existing Transit Facilities .................................................................................................... 27 
+Figure 8:      Tree Location Map .............................................................................................................. 92 
+Figure 9:      Alternative Locations ........................................................................................................ 139 
+
+
+                                                                      Tables
+
+Table 1: Estimated Breakdown of Construction Phases ..................................................................... 12 
+Table 2: Letter Codes of Environmental Issues .................................................................................. 19 
+Table 3: Signalized Intersection Level of Service Definitions Using Average Control Vehicular
+         Delay ..................................................................................................................................... 30 
+Table 4: Existing and Background Intersection Levels of Service ..................................................... 31 
+Table 5: Project Trip Generation Estimates ........................................................................................ 34 
+Table 6: Existing and Existing Plus Project Intersection Levels of Service ....................................... 35 
+Table 7: Background and Background Plus Project Intersection Levels of Service........................... 36 
+Table 8: Bay Area 2010 Clean Air Plan Applicable Control Measures ............................................. 42 
+Table 9: Summary of TAC Emission Concentrations from the Proposed On-site Generator at the
+         Closest Sensitive Receptors .................................................................................................. 45 
+Table 10: Estimated Operational Greenhouse Gas Emissions ............................................................ 51 
+Table 11: Typical Reaction of People and Damage to Buildings from Continuous Vibration Levels ...
+               ..................................................................................................................................... 57 
+Table 12: Active Faults Near the Project Site ..................................................................................... 70 
+Table 13: Summary of Impervious and Pervious Surfaces On-Site ................................................... 78 
+Table 14: Geographic Considerations in Cumulative Analysis ........................................................ 106 
+Table 15: Cumulative Projects List................................................................................................... 107 
+Table 16: Cumulative Intersection Levels of Service ....................................................................... 110 
+Table 17: Summary of the Cumulative Health Risk to the Single-Family Residence Located at the
+         Southeast Corner of North 17th Street and East St. John Street from Proposed and Existing
+         Mobile and Stationary Sources ........................................................................................... 114 
+Table 18: Summary of the Cumulative Health Risk to the Multi-Family Residence Located at the
+         Southwest Corner of South 16th Street and East Santa Clara Street from Proposed and
+         Existing Mobile and Stationary Sources............................................................................. 115 
+Table 19: Matrix of Project Alternative ............................................................................................ 144 
+
+
+
+
+County of Santa Clara                                                      iii                                                          Draft EIR
+San José Downtown Health Center                                                                                                        March 2012
+TABLE OF CONTENTS
+
+
+                                         Appendices
+
+Appendix A:   Notice of Preparation and Responses 
+Appendix B:   Transportation Impact Analysis 
+Appendix C:   Geotechnical Report 
+Appendix D:   Hazardous Materials Reports 
+Appendix E:   TAC and PM2.5 Analysis 
+Appendix F:   Greenhouse Gas Emission Modeling Results 
+Appendix G:   Noise Analysis 
+
+
+
+
+County of Santa Clara                          iv          Draft EIR
+San José Downtown Health Center                           March 2012
+SUMMARY
+
+
+The San José Downtown Health Center project proposes construction of a new 60,000 square foot
+primary care health center on an approximately five-acre site located at the northwest corner of East
+Santa Clara Street and North 17th Street in San José. The proposed health center would be three
+stories tall (up to 65 feet).
+
+While the project site is located within the City of San José, the County of Santa Clara owns the
+project site and is the Lead Agency under CEQA.
+
+The following is a brief summary of project impacts and mitigation measures. The reader is
+referred to the main body text of the EIR for detailed discussions for the existing setting, impacts,
+and mitigation measures.
+
+                          Summary of Impacts and Mitigation Measures
+
+The project would not result in impacts to the following resources, as discussed in the text of the
+EIR:
+
+    ·   Land Use                                            ·   Historic Resources
+
+The project would result in less than significant impacts to the following resources, as discussed in
+the text of the EIR:
+
+    ·   Transportation                                      ·   Hazards and Hazardous Materials
+    ·   Air Quality                                         ·   Trees
+    ·   Noise                                               ·   Utilities and Service Systems
+    ·   Aesthetics                                          ·   Energy
+    ·   Geology and Soils                                   ·   Public Services
+    ·   Hydrology and Water Quality
+
+The project would result in less than significant impacts with the incorporation of the identified
+mitigation to the following resources, as discussed in the text of the EIR:
+
+    ·   Greenhouse Gas Emissions                            ·   Nesting Birds
+    ·   Archaeological Resources
+
+The table on the following pages summarizes the project impacts found to be less than significant
+with the incorporation of the identified mitigation measures.
+
+The project would not result in any significant and unavoidable impacts.
+
+
+
+
+County of Santa Clara                               1                                          Draft EIR
+San José Downtown Health Center                                                               March 2012
+                                                                                                 Summary
+
+
+            Summary of Less Than Significant Impacts With Mitigation Incorporated
+  Environmental Impacts                              Mitigation Measures
+                                  Greenhouse Gas Emissions
+Impact GHG ­ 1: The         MM GHG ­ 1.1: Prior to occupancy of the proposed health center,
+construction and operation  the County shall prepare and implement a Greenhouse Gas Emissions
+of the project would result Reduction Plan (GHG Plan) to offset the project-related incremental
+in significant greenhouse   increase of greenhouse gas emissions exceeding 1,100 metric tons of
+gas emissions.              carbon dioxide equivalents per year. Refinement of the project's
+                            estimated GHG emissions would be completed as part of the GHG
+Significant Impact          Reduction Plan in order to reflect the most current and accurate data
+                            available regarding the project's estimated emissions (including
+                            emission rates). Offsets may include, but are not limited to, the
+                            following (in order of preference):
+
+                                  1. Incorporation of on-site measures to offset project emissions, for
+                                     example through development of a renewable energy generation
+                                     facility or additional energy efficiency measures.
+                                  2. Implementation of County projects that would result in real,
+                                     permanent, verifiable, enforceable, and additional reduction in
+                                     greenhouse gas emissions. (The County has developed a program
+                                     to make investments in greenhouse gas reduction projects, such as
+                                     photovoltaic solar installations and energy efficiency retrofits in
+                                     County buildings.)
+                                  3. Purchase of carbon credits. Carbon offset credits must be verified
+                                     and registered with the Climate Registry, the Climate Action
+                                     Reserve, or other source that is approved by the California Air
+                                     Resources Board as being consistent with the policies and
+                                     guidelines of the California Global Warming Solution Act of 2006
+                                     (AB 32).
+
+                                  Impact GHG ­ 1: The proposed project, with the implementation of
+                                  the identified mitigation measure (MM GHG ­ 1.1), would not result
+                                  in significant greenhouse gas emission impacts.
+
+                                  Less Than Significant Impact with Mitigation Incorporated
+                                             Cultural Resources
+Impact CUL ­ 1: Project           MM CUL ­ 1.1: If evidence of any archaeological, cultural, and/or
+construction could result in      historical deposits is found during construction, hand excavation
+impacts to unknown buried         and/or mechanical excavation by a qualified archaeologist shall
+cultural resources.               proceed to evaluate the deposits for determination of significance as
+                                  defined by the CEQA Guidelines. The consulting archaeologist shall
+Significant Impact                submit reports describing the testing program and subsequent results.
+                                  These reports shall identify any program mitigation that the applicant
+                                  shall complete in order to mitigate archaeological impacts (including
+                                  resource recovery and/or avoidance testing and analysis, removal,
+                                  reburial, and curation of archaeological resources.)
+
+                                  MM CUL ­ 1.2: In the event that human remains and/or cultural
+
+County of Santa Clara                                 2                                         Draft EIR
+San José Downtown Health Center                                                                March 2012
+                                                                                                    Summary
+
+
+         Summary of Less Than Significant Impacts With Mitigation Incorporated
+ Environmental Impacts                             Mitigation Measures
+                         materials are found, all project-related construction shall cease within
+                         a 50-foot radius in order to proceed with the testing and mitigation
+                         measures required.
+
+                                  ·   In the event of the discovery of human remains during
+                                      construction, there shall be no further excavation or disturbance of
+                                      the site or any nearby area reasonably suspected to overlie
+                                      adjacent remains. The Santa Clara County Coroner shall be
+                                      notified and shall make a determination as to whether the remains
+                                      are Native American. If the Coroner determines that the remains
+                                      are not subject to his authority, he shall notify the Native
+                                      American Heritage Commission who shall attempt to identify
+                                      descendants of the deceased Native American. If no satisfactory
+                                      agreement can be reached as to the disposition of the remains
+                                      pursuant to this State law, then the land owner shall re-inter the
+                                      human remains and items associated with Native American burials
+                                      on the property in a location not subject to further subsurface
+                                      disturbance.
+
+                                  ·   A final report shall be completed that contains a description of the
+                                      mitigation programs and its results including a description of the
+                                      monitoring and testing program, a list of the resources found, a
+                                      summary of the resources analysis methodology and conclusions,
+                                      and a description of the disposition/curation of the resources. The
+                                      report shall verify completion of the mitigation program.
+
+                                  Impact CUL ­ 1: The proposed project, with the implementation of
+                                  the identified mitigation measures (MM CUL ­ 1.1 and 1.2), would
+                                  not result in significant impacts to unknown buried cultural resources.
+
+                                  Less Than Significant Impact with Mitigation Incorporated
+                                            Biological Resources
+Impact BIO ­ 1: The               MM BIO ­ 1.1: If possible, construction should be scheduled
+project would result in           between October and December (inclusive) to avoid the bird nesting
+significant impacts to            season. If this is not possible, pre-construction surveys for nesting
+nesting birds, if present on-     birds shall be conducted by a qualified ornithologist to identify active
+site prior to project             bird nests that may be disturbed during project implementation.
+construction.                     Between January and April (inclusive) pre-construction surveys shall
+                                  be conducted no more than 14 days prior to the initiation of
+Significant Impact                construction activities or tree relocation or removal. Between May
+                                  and August (inclusive), pre-construction surveys shall be conducted
+                                  no more than thirty (30) days prior to the initiation of these activities.
+                                  The surveying ornithologist shall inspect all trees in and immediately
+                                  adjacent to the construction area for bird nests.
+
+                                  If an active raptor nest is found in or close enough to the construction
+
+County of Santa Clara                                  3                                           Draft EIR
+San José Downtown Health Center                                                                   March 2012
+                                                                                                   Summary
+
+
+         Summary of Less Than Significant Impacts With Mitigation Incorporated
+ Environmental Impacts                              Mitigation Measures
+                         area to be disturbed by these activities, the ornithologist, shall, in
+                         consultation with the California Department of Fish and Game
+                         (CDFG), designate a construction-free buffer zone (typically 250 feet)
+                         around the nest. A report indicating the results of the survey and any
+                         designated buffer zones to the satisfaction of the Director of Planning
+                         prior to the initiation of the removal or grading.
+
+                                  Impact BIO ­ 1: The project, with the implementation of mitigation
+                                  measure MM BIO ­ 1.1 identified above, would result in a less than
+                                  significant impact to nesting birds, if present on-site prior to project
+                                  construction.
+
+                                  Less Than Significant Impact with Mitigation Incorporated
+
+
+                                         Summary of Alternatives
+
+CEQA requires that an EIR identify alternatives to a project as it is proposed. The CEQA Guidelines
+specify that an EIR should identify alternatives that "will feasibly attain most of the basic objectives
+of the project but will avoid or substantially lessen any of the significant effects of the project." The
+purpose of this section is to determine whether there are alternatives of design, scope or location that
+will substantially lessen the significant impacts, even if those alternatives "impede to some degree
+the attainment of the project objectives."
+
+The project's primary objective is to provide urgent care and expanded primary healthcare services in
+the downtown area. The County believes that a facility between 30,000 and 60,000 square feet in
+size would be sufficient to provide the necessary services to meet the project's objective. Overall,
+the County strives to construct and maintain well-planned County facilities that provide public
+services in a sound financial manner in conformance with long-term sustainability policies.
+
+No Project Alternatives
+
+The CEQA Guidelines specifically require consideration of a "No Project" alternative. The
+Guidelines specifically advise that the No Project Alternative is "what would be reasonably expected
+to occur in the foreseeable future if the project were not approved, based on current plans and
+consistent with available infrastructure and community services." The Guidelines emphasize that an
+EIR should take a practical approach and not "... create and analyze a set of artificial assumptions
+that would be required to preserve the existing physical environment [§15126.6(e)(3)(B)]."
+
+The project site is currently developed with surface parking and landscaping. Under the No Project
+Alternative, the project site could continue to remain as it does today or it could be developed with
+uses consistent with the existing General Plan land use designation of Public/Quasi-Public. Under
+the Public/Quasi-Public land use designation, the site could be redeveloped with County office
+space. There are two logical No Project alternatives: 1) a No Project/No Development Alternative
+and 2) a No Project/Development Alternative. These two alternatives are summarized below.
+
+
+County of Santa Clara                                  4                                         Draft EIR
+San José Downtown Health Center                                                                 March 2012
+                                                                                               Summary
+
+
+No Project/No Development Alternative
+
+The No Project/No Development Alternative assumes that the project site would continue to remain
+as is ­ developed with surface parking and landscaping. While the No Project/No Development
+Alternative would avoid the project's impacts, it would not meet the project's objectives.
+
+No Project/Development Alternative
+
+The No Project/Development Alternative assumes that the project site is redeveloped with a 60,000
+square foot office building. While the No Project/Development Alternative would have lesser
+environmental impacts than the proposed project, it would not meet the project's primary objective
+and may not meet the County's overall objective of providing County facilities that provide public
+services.
+
+Alternative Locations
+
+The County considered a number of locations for the proposed downtown health center. In general,
+the County was looking for a site that was a) located in downtown San José; b) accessible to drivers,
+transit users, and pedestrians; c) and available for purchase or a long-term lease. The site also needed
+to have sufficient parking for the project. If there was a building already developed on-site, the
+condition of the building (including layout, size, and need/cost for improvements) was considered.
+
+The County evaluated over 25 possible locations for the proposed health center. After evaluating
+each possible location against the above listed criteria, four sites were considered further. The
+proposed project site is one of the four downtown locations considered. The other three possible
+locations were:
+
+1.      25 North 14th Street;
+2.      96 North 3rd Street; and
+3.      210 North 4th Street.
+
+25 North 14th Street Alternative Location
+
+The alternative location at 25 North 14th Street in downtown San José is located approximately 680
+feet west of the project site. This alternative location is currently developed with a 10-story office
+building that was built in the late 1960s. Under this alternative location, the County would only lease
+a portion of the building (60,000 square feet) for the proposed health center.
+
+Because the proposed health center would be located in an existing building under this location
+alternative, the project's impacts to archaeological resources and nesting birds would be avoided.
+This alternative would also avoid the project's construction-related greenhouse gas emissions, but
+would result in similar operational greenhouse gas emission as the proposed project. This alternative
+would meet the project's primary objective, however, it may not meet the County's overall objective
+of providing well-planned County facilities in a sound financial manner.
+
+
+
+
+County of Santa Clara                               5                                         Draft EIR
+San José Downtown Health Center                                                              March 2012
+                                                                                               Summary
+
+
+96 North 3rd Street Alternative Location
+
+The alternative location at 96 North 3rd Street in downtown San José is currently developed with a
+six-story office building. Under this alternative location, the County would only lease a portion of
+the building (60,000 square feet) for the proposed health center.
+
+Because the proposed health center would be located in an existing building under this location
+alternative, the project's impacts to archaeological resources and nesting birds would be avoided.
+This alternative would also avoid the project's construction-related greenhouse gas emissions, but
+would result in similar operational greenhouse gas emission as the proposed project. This alternative
+would meet the project's primary objective (but may not meet the County's overall objective for
+providing well-planned County facilities). In addition, this alternative appears infeasible because the
+building is not currently available for sale or lease.
+
+210 North 4th Street Alternative Location
+
+The alternative location at 210 North 4th Street is currently developed with a four-story office
+building. Under this alternative location, the County would lease only a portion of the building
+(60,000 square feet) for the proposed health center.
+
+Because the proposed health center would be located in an existing building under this location
+alternative, the project's impacts to archaeological resources and nesting birds would be avoided.
+This alternative would also avoid the project's construction-related greenhouse gas emissions, but
+would result in similar operational greenhouse gas emission as the proposed project. This alternative
+would meet the project's primary objective (but may not meet the County's overall objective of
+providing well-planned County facilities).
+
+Reduced Scale Development Alternative
+
+To avoid the project's significant greenhouse gas emissions impact, the Reduced Scale Development
+Alternative consists of construction of a 26,000 square foot health center, about a 57 percent
+reduction in size.
+
+The Reduced Scale Development Alternative would avoid the project's significant and unavoidable
+greenhouse gas emissions impact and result in the lesser impacts to archaeological resources and
+nesting birds compared to the proposed project. This alternative, however, would only partially meet
+the project's primary objective and may not meet the County's overall objective for long-term
+sustainability for County facilities.
+
+                    Known Views of Local Groups and Areas of Controversy
+
+Issues raised by residents of San José and owners of property near the project site during community
+outreach meetings include concerns related to traffic, aesthetics, impacts to trees, and construction-
+related impacts.
+
+
+
+
+County of Santa Clara                              6                                         Draft EIR
+San José Downtown Health Center                                                             March 2012
+SECTION 1.0            INTRODUCTION AND PURPOSE
+
+
+1.1            CALIFORNIA ENVIRONMENTAL QUALITY ACT
+
+This Environmental Impact Report (EIR) has been prepared by the County of Santa Clara as the Lead
+Agency in conformance with the California Environmental Quality Act (CEQA) and the CEQA
+Guidelines. The purpose of this EIR is to inform decision makers and the general public of the
+environmental effects which might result from approval of the proposed San José Downtown Health
+Center project. The proposed project is described in detail in Section 2.0 Project Information of
+this Draft EIR.
+
+1.1.1          Purpose of an EIR
+
+The purpose and role of an EIR are detailed in CEQA and the CEQA Guidelines. The following
+guidelines are included in CEQA to clarify the role of an EIR:
+
+        Section 15121(a). Informational Document. An EIR is an informational document which
+        will inform public agency decision makers and the public generally of the significant
+        environmental effect of a project, identify possible ways to minimize the significant effects,
+        and describe reasonable alternatives to the project. The public agency shall consider the
+        information in the EIR, along with other information which may be presented to the agency.
+
+        Section 15146. Degree of Specificity. The degree of specificity required in an EIR will
+        correspond to the degree of specificity involved in the underlying activity which is described
+        in the EIR.
+
+        (a)    An EIR on a construction project will necessarily be more detailed in the specific
+               effects of a project than will an EIR on the adoption of a local general plan or
+               comprehensive zoning ordinance because the effects of the construction can be
+               predicted with greater accuracy.
+
+        (b)    An EIR on a project such as the adoption or amendment of a comprehensive zoning
+               ordinance or a local general plan should focus on the secondary effects that can be
+               expected to follow from the adoption or amendment, but the EIR need not be as
+               detailed as an EIR on the specific construction projects that might follow.
+
+        Section 15151. Standards for Adequacy of an EIR. An EIR should be prepared with a
+        sufficient degree of analysis to provide decision makers with information which enables them
+        to make a decision which intelligently takes account of environmental consequences. An
+        evaluation of the environmental effects of a proposed project need not be exhaustive, but the
+        sufficiency of an EIR is to be reviewed in the light of what is reasonably feasible.
+        Disagreement among experts does not make an EIR inadequate, but the EIR should
+        summarize the main points of disagreement among the experts. The courts have looked not
+        for perfection, but for adequacy, completeness, and a good-faith effort at full disclosure.
+
+
+
+
+County of Santa Clara                              7                                         Draft EIR
+San José Downtown Health Center                                                             March 2012
+                                                                        Section 1.0 ­ Introduction and Purpose
+
+
+1.1.2           Project Environmental Review Process
+
+This document includes descriptions of the physical environment in the vicinity of the project, as
+those conditions existed at the time the Notice of Preparation (NOP) circulated in December 2010.
+In accordance with Section 15082 of the CEQA Guidelines, the NOP was circulated to the public and
+responsible agencies for input regarding the analysis in this EIR. This EIR addresses those issues
+which were raised by the public and responsible agencies in response to the NOP.
+
+The consideration and discussion of environmental impacts that follow evaluate whether the
+environmental effects are significant; that is: do those effects exceed stated levels, or "thresholds" of
+significance. Mitigation measures, proposed to minimize the identified significant environmental
+effects, are also described in the discussion of environmental impacts and mitigation measures, per
+CEQA Guidelines Section 15126.
+
+
+1.2             ORGANIZATION OF THE DRAFT EIR
+
+The Draft EIR includes the following sections:
+
+·       Summary ­ The summary, which precedes this introduction, includes a brief description of
+        the proposed project and summarizes the project's impacts, mitigation measures, and
+        alternatives to the project. The summary also briefly describes any known areas of public
+        controversy and the views of local groups.
+
+·       Section 1.0 Introduction and Purpose ­ This section provides a general overview of the
+        CEQA process, describes the public participation process and opportunities for input, and
+        outlines the contents of the Draft EIR.
+
+·       Section 2.0 Project Information ­ This section describes the physical and operational
+        characteristics of the proposed project. Information on the location of the project, project
+        objective, and intended uses of the EIR are addressed in this section.
+
+·       Section 3.0 Environmental Setting, Impacts, and Mitigation ­ This section describes the
+        environmental baseline under CEQA, descriptions of the physical setting of the project area
+        for each issue (e.g., land use, transportation, and air quality), identifies environmental
+        impacts resulting from the project, and identifies mitigation measures for the environmental
+        impacts examined in the EIR. The Draft EIR identifies proposed mitigation measures for
+        significant impacts in this section, and briefly evaluates the expected effectiveness/feasibility
+        of these measures.
+
+·       Section 4.0 Availability of Public Services ­ This section discusses the availability of public
+        facilities and service systems (including police and fire services, parks and recreational
+        facilities, schools, and libraries) in the project area, and the potential for the project to require
+        the construction of new or expanded facilities.
+
+
+
+
+County of Santa Clara                                 8                                            Draft EIR
+San José Downtown Health Center                                                                   March 2012
+                                                                   Section 1.0 ­ Introduction and Purpose
+
+
+·      Section 5.0 Cumulative Impacts ­ This section includes a discussion of cumulative
+       environmental impacts of the project along with other past, pending, and future development
+       in the area.
+
+·      Section 6.0 Consistency with Relevant Plans ­ This section discusses the project's
+       consistency with the County's General Plan and applicable regional plans.
+
+·      Section 7.0 Alternatives to the Proposed Project ­ This section identifies a reasonable range
+       of alternatives to the proposed project which would feasibly attain most of the basic
+       objectives of the project, but would avoid or substantially lessen the significant impacts of
+       the project. The environmental impacts associated with each alternative are discussed and a
+       comparison of the impacts to those of the project presented. Each of the alternatives is
+       assessed to determine its ability to meet the project objectives.
+
+·      Section 8.0 Growth Inducing ­ The discussion of growth inducing impacts addresses the
+       ways in which the proposed project could foster economic or population growth or the
+       construction of additional housing in the surrounding area.
+
+·      Section 9.0 Significant Unavoidable Impacts ­ This section lists any significant unavoidable
+       impacts that could result if the proposed project is implemented.
+
+·      Section 10.0 References ­ This section lists the references, persons, and organizations
+       consulted during the preparation of the Draft EIR.
+
+·      Section 11.0 Lead Agency and Consultants ­ This section lists the lead agency staff and
+       consultants who participated in preparation of the Draft EIR.
+
+·      Appendices ­ These attachments to the Draft EIR include the NOP, responses to the NOP,
+       and technical appendices.
+
+
+1.3            REFERENCE AVAILABILITY
+
+This EIR, and all documents referenced in it, are available for public review on weekdays during
+normal business hours at the following address:
+
+                                        County of Santa Clara
+                     Facilities and Fleet Department, Capital Programs Division
+                               2310 North 1st Street, 2nd Floor, Suite 200
+                                          San José, CA 95131
+
+
+
+
+County of Santa Clara                             9                                           Draft EIR
+San José Downtown Health Center                                                              March 2012
+                                                                  Section 1.0 ­ Introduction and Purpose
+
+
+1.4            PUBLIC PARTICIPATION IN ENVIRONMENTAL REVIEW
+
+The County of Santa Clara, as required under CEQA, encourages public participation in the
+environmental review process. Opportunities for comments by public agencies and the public
+include responding to the NOP of the Draft EIR, written comments on this Draft EIR, and
+presentation of written or verbal comments at future public hearings. A NOP was circulated for 30
+days for public comment through the State Clearinghouse from December 1, 2010 to December 31,
+2010. The NOP and responses to the NOP are included in Appendix A of this Draft EIR.
+
+Under CEQA, the Lead Agency is required, after completion of the Draft EIR, to consult with and
+obtain comments from public agencies having jurisdiction by law with respect to the proposed
+project, and to provide the general public with an opportunity to comment on the Draft EIR. Written
+comments concerning the environmental review contained in this Draft EIR must be submitted to the
+Lead Agency (i.e., County of Santa Clara) during the 45-day public review and comment period at
+the following address:
+
+                                        County of Santa Clara
+                     Facilities and Fleet Department, Capital Programs Division
+                                           Attn: Ron Johnson
+                               2310 North 1st Street, 2nd Floor, Suite 200
+                                          San José, CA 95131
+
+Written and verbal comments may also be presented at scheduled public hearings on certification of
+the Final EIR, but these comments may not be included in the response to comment and the Final
+EIR.
+
+
+
+
+County of Santa Clara                            10                                          Draft EIR
+San José Downtown Health Center                                                             March 2012
+SECTION 2.0                PROJECT INFORMATION
+
+
+2.1               PROJECT LOCATION AND BACKGROUND
+
+The approximately five-acre project site is located northwest of East Santa Clara Street and North
+17th Street in San José and consists of multiple parcels (Assessor's Parcel Numbers 467-14-001 to -
+003, 467-14-006 to -010, 467-14-082, 467-14-088, and a portion of 467-14-087). The project site is
+bounded by East Saint John Street to the north, North 17th Street to the east, and East Santa Clara
+Street to the south. 1 The project site is currently developed with a 34,000 square foot medical office
+building (the Mediplex building), surface parking, and landscaping.
+
+Regional and vicinity maps are shown on Figures 1 and 2, respectively. An aerial photograph of the
+project site and surrounding area is provided on Figure 3.
+
+The San José Medical Center, a privately-operated facility, formerly occupied an approximately 11-
+acre property which includes the project site. This facility was closed in 2004. By June 2011, the
+former hospital and medical buildings, with the exception of the Mediplex building and Building 800
+(a portion of which is a historic resource) had been demolished. The environmental effects of
+demolishing the San José Medical Center, including the Mediplex building and Building 800, were
+previously addressed in the Demolition of the San José Medical Center Final EIR (April 2009) and
+the Demolition of the San José Medical Center Addendum #1 to the Final EIR (April 2010). 2
+
+
+2.2               PROJECT DESCRIPTION
+
+2.2.1             New Health Center
+
+The proposed San José Downtown Health Center project would involve the construction and
+operation of a new 60,000 square foot primary care health center at the southeast corner of the
+project site, fronting East Santa Clara Street. The proposed building would be three stories (up to 65
+feet). A conceptual site plan is provided on Figure 4. The proposed health center would include
+primary care (adult medicine, obstetrics and gynecology, pediatrics and urgent care for non-
+emergency medical problems), outpatient imaging, laboratory services (specimen collection only),
+and outpatient pharmacy. There would be no surgery or other services requiring patient stays and no
+patient visit would exceed 23 hours.
+
+The proposed health center would be oriented along East Clara Street, set back approximately 25 feet
+from the sidewalk along East Santa Clara Street and approximately 13 feet from the sidewalk along
+East 17th Street. An outdoor staff patio area is proposed on the north side of the building. Landscape
+trees would border pedestrian walkways and sidewalks at the building perimeter and be located
+throughout surface parking areas. A diesel-fueled back-up generator would supply power to the
+health center in the event of an electricity outage.
+
+
+1
+  For the purposes of this EIR, East Santa Clara Street is considered the southern boundary of the project site, North
+17th Street the eastern boundary of the project site, and East Saint John Street the northern boundary of the project
+site.
+2
+  These analyses of the Mediplex building demolition are incorporated by reference.
+
+County of Santa Clara                                      11                                              Draft EIR
+San José Downtown Health Center                                                                           March 2012
+                                                                             Section 2.0 ­ Project Information
+
+
+2.2.2           Site Access and Parking
+
+The main entrance to the proposed 60,000 square foot health center would have connections to a
+drop-off area and bus transit stop. Vehicular access to the health center would be available via a
+driveway on East Santa Clara Street and two driveways on North 17th Street (see driveways 2, 3, and
+4 on Figure 4). Site access during construction is described in Section 2.2.6 below. The existing on-
+site parking lot would be reconfigured as part of the project to provide 405 parking spaces. Bicycle
+racks would be provided on-site.
+
+2.2.4           Utility and Roadway Improvements
+
+The project would require connections to the existing utility lines (storm drain, sewer, water,
+recycled water, gas, and electric) in East Santa Clara Street. No roadway improvements are proposed
+as part of the project.
+
+2.2.5           Sustainability and Green Building
+
+The project would incorporate the following design features to reduce energy and water use and
+waste:
+
+·       LEED Silver certification;
+·       Reflective roofing;
+·       Exterior sunshades at south and west facing windows and interior shade devices at all other
+        windows;
+·       High energy efficient exterior glazing;
+·       LED lighting in some areas of the health center;
+·       Day-lighting controls in all waiting rooms of the health center;
+·       Motion sensor controls in all conference rooms in the health center;
+·       Native plants as part of landscaping;
+·       Connection to the existing recycled water system for landscape irrigation;
+·       Low-flow toilets; and
+·       Recycled materials in construction as practical.
+
+2.2.6           Construction Phasing
+
+It is anticipated that construction of the proposed health center would take approximately 33 months.
+A breakdown of the construction phases is provided in Table 1 below. The project would require
+excavating approximately 5,000 cubic yards of soil and importing approximately 2,500 cubic yards
+of clean, engineered fill.
+
+                      Table 1: Estimated Breakdown of Construction Phases
+1.   Site preparation, including fencing, setting up site office and utilities, site clearing    2 months
+2.   Excavation and soil stabilization, and foundations                                          2 months
+3.   Steel erection                                                                              1 month
+4.   Exterior and interior construction                                                         24 months
+5.   Final detailing and building commissioning                                                  4 months
+                                                                                    TOTAL       33 months
+
+
+County of Santa Clara                                 12                                          Draft EIR
+San José Downtown Health Center                                                                  March 2012
+                                                                          Section 2.0 ­ Project Information
+
+
+Currently, access to the existing building on-site (the Mediplex building) is provided via an existing
+driveway on East Santa Clara Street (see driveway 2 on Figure 4). The construction of the project
+would temporarily close this existing driveway. An interim driveway would be constructed east of
+the Mediplex building (see driveway 1 on Figure 4) to allow for access to the Mediplex building
+during project construction. Secondary access to the Mediplex building would be provided via
+existing driveway 6 on Figure 4.
+
+Once the project is constructed, existing driveway 2 between the Mediplex building and proposed
+building would be reopened, interim driveway 1 west of the Mediplex building would be closed to
+the public, existing driveway 5 on East St. John Street would be closed, and existing driveway 6 on
+East St. John Street would be limited to maintenance vehicles only.
+
+
+2.3            PROJECT OBJECTIVES
+
+The closure of San José Medical Center in 2004 reduced regional hospital capacity and resulted in
+increased demands for service at Santa Clara Valley Medical Center and other community hospitals.
+Residents of downtown San José were particularly hard-hit because they lost both a local hospital
+and an emergency room that had served the area for 80 years. In response to the closure, the County
+of Santa Clara and City of San José jointly commissioned a study that concluded that there was a
+need for certain types of healthcare services in downtown San José to replace those that were lost.
+
+This study caused the formation of a Stakeholder Advisory Committee by the City of San José,
+whose final recommendations were presented to the San José City Council in March 2008. The
+Stakeholder Advisory Committee report recommended that urgent care services be established and
+primary care services be expanded in the downtown area, and that a joint City-County Taskforce be
+established to assess future healthcare needs for the area. Availability of urgent care and expanded
+primary care services in or near downtown San José, possibly operated by an established local
+provider, would add much-needed healthcare services capacity for the community. Measure A,
+which would make $790 million available for construction of the Valley Medical Center campus and
+$50 million available for medical facilities in San José, was put on the ballot in 2008. It was
+approved by 78 percent of County voters.
+
+The proposed project would be funded by Measure A. The project's primary objective is to provide
+urgent care and expanded primary healthcare services in the downtown area. The County believes
+that a facility between 30,000 and 60,000 square feet in size would be sufficient to provide the
+necessary services to meet the project's objective.
+
+Overall, the County strives to construct and maintain well-planned County facilities that provide
+public services in a sound financial manner in conformance with long-term sustainability policies.
+
+
+
+
+County of Santa Clara                              13                                          Draft EIR
+San José Downtown Health Center                                                               March 2012
+                                                                          Section 2.0 ­ Project Information
+
+
+2.4             USES OF THE EIR
+
+This EIR is intended to be an informational document and is subject to public review, agency review,
+and consideration by the County of Santa Clara. The purpose of this EIR is to identify potentially
+significant effects of the project on the physical environment, to determine the extent to which these
+effects could be reduced or avoided, and to identify feasible alternatives to the project. The EIR is an
+information document and in itself does not determine whether a project should or will be approved.
+
+The following project-specific discretionary action(s) may be considered by the County of Santa
+Clara:
+
+·       Approval of a contract or contracts for construction of a new health center by the Board of
+        Supervisors, and
+·       Tree removal permit(s) from the Planning Office.
+
+Ministerial permits, such as an Inter-Agency Encroachment Permit for other Governmental Agencies
+from the City of San José, may also be required.
+
+
+
+
+County of Santa Clara                              14                                          Draft EIR
+San José Downtown Health Center                                                               March 2012
+                                         ET
+                                    RE                                                          ET
+                               ST                                                          RE
+                                                                                      ST
+                      TH
+                 17                                                           TH
+                                                                         16
+           H
+      RT
+ NO
+                                                                  T  E
+                                                                  RE
+                                                                      ST
+                                                                                                                     ET
+                                                                                                                RE
+                                                                              RA
+                                                                                                           ST
+                                                                                   A
+                                                                                                    TH
+
+
+                                                                                CL
+                                                                                               15
+           ET
+
+
+
+
+                                                                                           TA
+                  E
+               TR
+
+
+
+
+                                                                                                  N
+                                                                                               SA
+                 S
+                      HN
+                          JO
+                               T  IN
+                               SA
+                                                                                     ET
+                     ET                                                         RE
+                RE                                                       ST
+
+
+                                       ST
+           ST
+
+
+
+
+                                         EA
+     TH                                                          TH
+15                                                          14
+                                                        H
+                                                   RT
+                                              NO
+                                                                                                               ET
+                                                                                                          RE
+                                                                                                     ST
+                                                                                          TH
+                                                                                     13
+                                                                            H
+                                                                       RT
+                                                                  NO
+SECTION 3.0             ENVIRONMENTAL SETTING, IMPACTS, AND
+                        MITIGATION
+
+
+In accordance with Section 15143 of the CEQA Guidelines, the discussion in this EIR is focused on
+the significant effects on the environment resulting from the proposed San José Downtown Health
+Center project. An important consideration for the environmental analysis in this EIR is the
+establishment of an appropriate environmental baseline for the project. The baseline is the conditions
+against which the proposed project would be compared. The environmental impacts are based upon
+the difference between the environmental baseline and the project. Both the CEQA Guidelines and
+case law provide standards for establishing the baseline.
+
+The CEQA Guidelines state that, "an EIR must include a description of the physical environmental
+conditions in the vicinity of the Project, as they exist at the time the notice of preparation is
+published, or if no notice of preparation is published, at the time the environmental analysis is
+commenced, from both a local and regional perspective. This environmental setting will normally
+constitute the baseline physical conditions by which a Lead Agency determines whether an impact is
+significant" [CEQA Guidelines §15125(a)].
+
+The baseline used for the environmental analysis in this EIR is the actual physical conditions existing
+on and around the project site at the time of the Notice of Preparation was circulated (December 1,
+2010), and also the predicted conditions on the project site at the expected date of project approval (if
+different). Mitigation measures are identified for all significant project impacts. "Mitigation
+measures" are measures that will minimize, avoid, or eliminate a significant impact (CEQA
+Guidelines 15370). Each impact is numbered using an alpha-numerical system that identifies the
+environmental issue. For example, Impact HAZ ­ 1, denotes the first impact discussed in the
+hazards and hazardous materials section. Mitigation measures (MM) are also numbered to
+correspond to the impact they address. For example, MM NOI ­ 2.3 refers to the third mitigation
+measure for the second impact in the noise section. The letter codes used to identify environmental
+issues are listed in Table 2 below.
+
+                          Table 2: Letter Codes of Environmental Issues
+                         Letter Code     Environmental Issue
+                             AES         Aesthetics
+                             AQ          Air Quality
+                             BIO         Biological Resources
+                              C          Cumulative
+                            CUL          Cultural Resources
+                             EN          Energy
+                            GEO          Geology and Soils
+                            GHG          Greenhouse Gas Emissions
+                            HAZ          Hazards and Hazardous Materials
+                            HYD          Hydrology and Water Quality
+                             LU          Land Use
+                             NOI         Noise
+                              PS         Public Services
+                           TRAN          Transportation
+                            UTIL         Utilities and Service Systems
+
+
+County of Santa Clara                               19                                         Draft EIR
+San José Downtown Health Center                                                               March 2012
+                                                         Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+3.1                 LAND USE
+
+3.1.1               Existing Setting
+
+The approximately five-acre project site is located within the City of San José. It is developed with a
+34,000 square foot medical office building (Mediplex building), surface parking, and landscaping.
+
+Previously, the project site was part of a larger approximately 11-acre site developed with a hospital
+­ San José Medical Center. In 2004, all of the facilities (except the Mediplex building) closed. Since
+the closure, all of the San José Medical Center buildings except for the Mediplex building and
+Building 800 (refer to Figure 3) have been demolished. The Mediplex building and Building 800 are
+currently unoccupied. The Mediplex building, however, is planned to be fully occupied with medical
+office uses between now and the approval of the proposed project. 3 Other surrounding land uses
+include a mix of undeveloped, residential, commercial, and public utility uses.
+
+The project site has an existing San José General Plan land use designation of Public/Quasi-Public.
+The Public/Quasi-Public land use designation is used to designate public land uses, including
+schools, colleges, corporation yards, homeless shelters, libraries, fire stations, water treatment
+facilities, convention centers and auditoriums, museums, governmental offices and airports. This
+land use designation is also used to designate lands used by some private entities, including public
+utilities and the facilities of any organization involved in the provision of public services such as gas,
+water, electricity, and telecommunications. In addition, such institutions as churches, private schools
+and private hospitals are also appropriate for this designation.
+
+According to the Santa Clara County Important Farmland Map (2010), the project site is identified as
+Urban and Built-Up Land. Urban and Built-Up Land is defined as land occupied by structures with
+a building density of at least one unit to 1.5 acres, or approximately six structures to a 10-acre parcel.
+The project site is not considered prime farmland and is not part of a Williamson Act contract. The
+project site is not zoned for agricultural use, forest land, timberland, or timberland production.
+
+3.1.2               Land Use Impacts
+
+3.1.2.1             Thresholds of Significance
+
+A land use impact is considered significant if the project would:
+
+·          Physically divide an established community;
+·          Conflict with any applicable land use plan, policy, or regulation of an agency with
+           jurisdiction over the project (including, but not limited to the general plan, specific plan, local
+           coastal program, or zoning ordinance) adopted for the purpose of avoiding or mitigating an
+           environmental effect;
+·          Conflict with special policies: San Martin and/or South County; Los Gatos Specific Plan or
+           Lexington Watershed; Guadalupe Watershed; Stanford; City of Morgan Hill Urban Growth
+           Boundary Area; West Valley Hillsides Preservation Area; Water Collaborative (Guidelines
+           and Standards for Land Use Near Streams);
+
+
+
+3
+    The Mediplex building is an existing building and its re-occupancy does not require any discretionary approvals.
+
+County of Santa Clara                                       20                                             Draft EIR
+San José Downtown Health Center                                                                           March 2012
+                                                   Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+·         Convert 10 or more acres of farmland classified as prime in the report Soils of Santa Clara
+          County (Class I, II) to non-agricultural use;
+·         Conflict with existing zoning for agricultural use;
+·         Conflict with an existing Williamson Act Contract or the County's Williamson Act
+          Ordinance (Section C13 of County Ordinance Code);
+·         Conflict with existing zone for, or cause rezoning of, forest land (as defined in Public
+          Resources Code section 12220(g)), timberland (as defined by Public Resources Code section
+          4526), or timberland zoned Timberland Production (as defined by Government Code section
+          51104(g));
+·         Result in the loss of forest land or conversion of forest land to non-forest use; or
+·         Involve other changes in the existing environment which, due to their location or nature,
+          could result in conversion of Farmland, to non-agricultural use or conversion of forest land to
+          non-forest use.
+
+The project site is not located within special policy areas including San Martin, South County, Los
+Gatos, Lexington Watershed, Guadalupe Watershed, Stanford, City of Morgan Hill Urban Growth
+Boundary, or West Valley Hillsides Preservation Area. As discussed in Section 3.9.2.6, the project
+would not conflict with the Guidelines and Standards for Land Use Near Streams. The project site
+and adjacent property are not used or zoned for agricultural or forest uses. Nor is the project site is
+subject to an existing Williamson Act contract. For these reasons, the project would not result in
+impacts to these resources and, therefore, the last seven bulleted thresholds listed above are not
+discussed further.
+
+3.1.2.2          Impacts to an Established Community
+
+The project area includes a mix of land uses including medical, residential, commercial, and public
+utility uses. The proposed use is the same as the existing Mediplex building on-site, and similar to
+the hospital use that used to occupy the project area.
+
+The proposed health center is separated from the residential uses to the north by approximately 500
+feet of surface parking and Saint John Street. The residential and public utility uses east of the site
+are separated from the proposed health center by North 17th Street, which is approximately 55 feet
+wide. The residential and commercial uses south of the site are separated from the proposed health
+center by East Santa Clara Street, which is approximately 65 feet wide.
+
+Given that the project area consists of a mix of uses and the project is not proposing a new land use
+or physical layout (e.g., blocking of roadways or sidewalks) that would change the neighborhood,
+and the fact that the project activity areas are mostly separated from surrounding land uses by
+roadways, the project would not divide an established community.
+
+Impact LU ­ 1:           The project would not divide an established community. (Less Than
+                         Significant Impact)
+
+
+
+
+County of Santa Clara                                21                                             Draft EIR
+San José Downtown Health Center                                                                    March 2012
+                                                 Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+3.1.2.3        Consistency with the General Plan and Zoning Ordinance
+
+The project site, located within the city limits of San José, is owned by the County and the proposed
+project would be operated by the County of Santa Clara Health and Hospital System.
+
+As described in Section 6.0 Consistency with Relevant Plans, the Santa Clara County General Plan
+is the document that contains the County's vision and overall direction for growth in the form of
+strategies, policies, and actions. The proposed project, development of a health center to serve
+residents of Santa Clara County, would be located in an existing urban area and developed in a
+manner consistent with County policies designed to reduce environmental effects including, but not
+limited to, transportation, air quality, noise, water quality, and energy use.
+
+Because the project is a public project proposed by the County, it is not subject to City of San José
+land use policies or zoning. Although not subject to City of San José General Plan policies, the
+project's characteristics that relate to the recently adopted Envision San José 2040 General Plan are
+discussed in Section 6.0 Consistency with Relevant Plans.
+
+Impact LU ­ 1:         The project would not conflict with applicable land use plans, policies, or
+                       regulations adopted to avoid environmental impacts. (Less Than Significant
+                       Impact)
+
+3.1.3          Mitigation Measures
+
+No mitigation measures are proposed or required.
+
+3.1.4          Conclusion
+
+Impact LU ­ 1:         The project would not divide an established community or result in other land
+                       use compatibility impacts. (Less Than Significant Impact)
+
+Impact LU ­ 2:         The project would not conflict with applicable land use plans, policies, or
+                       regulations. (Less Than Significant Impact)
+
+
+
+
+County of Santa Clara                              22                                             Draft EIR
+San José Downtown Health Center                                                                  March 2012
+                                                  Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+3.2             TRANSPORTATION
+
+The following discussion is based on a transportation impact analysis completed by Hexagon
+Transportation Consultants, Inc. in February 2012. A copy of this report is included in Appendix B
+of this EIR.
+
+3.2.1           Existing Setting
+
+3.2.1.1         Existing Transportation Network
+
+                                          Roadway Network
+
+Regional and local access to the project site is described below and shown on Figure 5.
+
+Regional Access
+
+US Highway 101 (US 101) is a north-south freeway that extends through and beyond the Bay Area,
+connecting San Francisco to San José. US 101 is eight lanes wide [three mixed-flow lanes and one
+high occupancy vehicle (HOV) lane in each direction] in the vicinity of the project site. US 101
+provides access to the site via a full interchange at Santa Clara Street and Alum Rock Avenue.
+
+Interstate 280 (I-280) is a north-south freeway that extends from I-80 in San Francisco to US 101 in
+San José. At US 101, it connects to I-680. In the vicinity of downtown San José, I-280 is generally
+an east-west oriented eight-lane freeway. I-280 provides access to the site via a full interchange at
+10th and 11th Streets. I-280 connects to US 101, I-680 and SR 87 in the project area.
+
+Interstate 680 (I-680) is a north-south freeway that extends from Contra Costa County south to Santa
+Clara County, where it connects to I-280 at its interchange with US 101. I-680 has six lanes north of
+State Route (SR) 237 and eight lanes south of SR 237. I-680 does not contain HOV lanes in the
+project area. I-680 provides access to the site via a full interchange at Alum Rock Avenue.
+
+State Route 87 (SR 87) provides access to the project site via a partial interchange at Santa Clara
+Street and a full interchange at Julian Street. SR 87 is oriented in a north-south direction with four
+mixed-flow lanes and two HOV lanes (two mixed-flow lanes and one HOV lane in each direction).
+SR 87 connects to I-280 in the project area.
+
+Local Access
+
+Santa Clara Street is an east-west four-lane arterial with left-turn pockets at selected intersections in
+the project area. It extends from The Alameda in San José to Alum Rock Avenue east of US 101.
+Santa Clara Street will provide direct access to the project site via a driveway directly opposite 16th
+Street.
+
+Julian Street is an east-west arterial that runs north of and parallel to Santa Clara Street between The
+Alameda and McKee Road in San José. It is a two lane roadway in the vicinity of the project and
+provides access to the project site via a traffic signal at 17th Street.
+
+
+
+
+County of Santa Clara                               23                                             Draft EIR
+San José Downtown Health Center                                                                   March 2012
+                                                  Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+17th Street is a north-south roadway that runs between East Hedding Street to the north and San
+Carlos Street to the south. Two driveways would provide direct access to the project site via 17th
+Street. The intersections of 17th Street at Santa Clara Street and Julian Street are signalized.
+
+24th Street is a north-south roadway that runs parallel to and east of 17th Street. 24th Street is the
+extension of McLaughlin Avenue, north of I-280 and terminates at Julian Street. The intersection of
+Santa Clara Street and 24th Street is signalized.
+
+                                  Pedestrian and Bicycle Facilities
+
+Class II bicycle facilities (on-street, striped bike lanes) are provided on the following roadways in the
+project area, as shown on Figure 6:
+
+·       South 17th Street between East Santa Clara Street and East Hedding Street;
+·       North 21st Street between East Julian Street and East Taylor Street; and
+·       South 21st Street between East Santa Clara Street and East William Street.
+
+Pedestrian facilities in the project area consist of sidewalks along the surrounding streets.
+Crosswalks with pedestrian signal heads are located at all signalized intersections in the project area.
+
+                                           Transit Services
+
+Existing transit services to the project area are provided by the Valley Transportation Authority
+(VTA). Existing bus routes that serve the project site are described below and shown on Figure 7.
+
+Local Route 22 provides service between the Palo Alto Transit Center and the Eastridge Transit
+Center. Route 22 operates along Santa Clara Street in the project area with 10 to 15-minute
+headways during the day on weekdays. A bus stop for Route 22 is located on Santa Clara Street
+immediately west of 17th Street directly adjacent the project site. Route 22 also stops at the San José
+Diridon Transit Center.
+
+Local Route 23 provides service between the Alum Rock Transit Center and De Anza College.
+Route 23 operates along Santa Clara Street in the project area with 12 to 13-minute headways during
+the day on weekdays. Route 23 serves the bus stop directly adjacent to the project site on Santa
+Clara Street.
+
+Local Route 64 provides service between the Almaden LRT station and the intersection of McKee
+Road and White Road in east San José. Route 64 operates along Santa Clara Street, 13th Street, and
+Julian Street in the project area with 15-minute headways during the day on weekdays. The closest
+bus stop is approximately one-fifth of a mile from the project site at the intersection of Santa Clara
+Street and 13th Street. The project site is also within walking distance (approximately one-third of a
+mile) from another bus stop at the intersection of Julian Street and 17th Street. Route 64 also stops at
+the San José Diridon Transit Center.
+
+
+
+
+County of Santa Clara                               24                                             Draft EIR
+San José Downtown Health Center                                                                   March 2012
+Roosevelt
+  Park
+Roosevelt
+  Park
+                                                   Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+Local Route 72 provides service between the intersection of Monterey Road and Senter Road in
+south San José to downtown San José. In the project area, Route 72 operates along 17th Street, San
+Antonio Street and 24th Street with 15 to 20-minute headways during the day on weekdays. The
+closest bus stop is approximately one-third of a mile from the project site at the intersection of San
+Carlos Street and 16th Street.
+
+Express Route 121 provides service between the Gilroy Transit Center and Lockheed Martin/Moffett
+Industrial Park in Sunnyvale. It operates on US 101; however, there are no stops within the project
+area.
+
+Express Route 122 provides service between the south San José and Lockheed Martin/Moffett
+Industrial Park in Sunnyvale. It operates on US 101; however, there are no stops within the project
+area.
+
+Rapid 522 provides service between the Palo Alto Transit Center and the Eastridge Transit Center.
+Rapid 522 operates along Santa Clara Street in the project area with 15-minute headways during the
+day on weekdays. The closest bus stops are approximately one-fifth of a mile from the project site at
+the intersection of Santa Clara Street and 13th Street and at the intersection of Santa Clara Street and
+20th Street. Rapid 522 also stops at the San José Diridon Transit Center.
+
+3.2.1.2           Study Intersections
+
+Transportation impacts related to the proposed project were evaluated following the standards and
+methodologies set forth by the City of San José. Since the project would generate more than 100
+peak hour vehicle trips, the transportation analysis was prepared in accordance with the VTA's
+Congestion Management Program (CMP) guidelines. Per CMP Transportation Impact Analysis
+Guidelines, intersections are to be evaluated if the project adds 10 or more peak hour trips per lane.
+The study intersections are listed below and shown on Figure 5:
+
+    1.    US 101 Ramps and Alum Rock Avenue*
+    2.    US 101 Ramps and Santa Clara Street*
+    3.    24th Street and Santa Clara Street
+    4.    17th Street and Santa Clara Street
+    5.    17th Street and Julian Street
+
+    * denotes CMP intersection
+
+Traffic conditions at the study intersections were analyzed for the weekday AM and PM peak hours
+of traffic. The AM peak hour of traffic is generally between 7:00 and 9:00 AM, and the PM peak
+hour is typically between 4:00 and 6:00 PM. It is during these periods on an average day that the
+most congested traffic conditions occur. Traffic conditions were evaluated for the following
+scenarios:
+
+·         Existing Conditions ­ Existing traffic conditions are represented by existing peak-hour traffic
+          volumes on the existing roadway network. Existing traffic volumes were obtained from the
+          City of San José and supplemented with new counts conducted in 2011.
+
+·         Existing Plus Project Conditions ­ Existing plus project peak hour traffic volumes were
+          estimated by adding to existing traffic volumes the additional traffic generated by the project
+
+County of Santa Clara                                28                                             Draft EIR
+San José Downtown Health Center                                                                    March 2012
+                                                  Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+          (60,000 square foot medical office). Existing plus project conditions were evaluated relative
+          to existing conditions in order to determine potential project impacts.
+
+·         Background Conditions ­ Background traffic conditions are represented by future
+          background traffic volumes on the near-term future roadway network. Background traffic
+          volumes were estimated by adding to existing peak-hour volumes the projected volumes from
+          approved but not yet completed developments. The added traffic from approved but not yet
+          completed developments was provided by the City of San José in the form of the Approved
+          Trips Inventory (ATI), which also includes traffic volumes associated with the Downtown
+          Strategy Plan Phase I. Background conditions include trips generated by the planned re-
+          occupancy of the presently vacant Mediplex building located on-site.
+
+·         Background Plus Project Conditions ­ Background plus project traffic volumes were
+          estimated by adding the peak-hour traffic volumes generated by the new 60,000 square foot
+          health center to the background traffic volumes. Background plus project conditions were
+          evaluated relative to background conditions in order to determine potential project impacts.
+
+3.2.1.3          Intersection Level of Service Methodology
+
+Level of service (LOS) is a qualitative description of intersection operations and is reported using an
+A through F letter rating system to describe travel delay and congestion. LOS A indicates free flow
+conditions with little or no delay, and LOS F indicates jammed conditions with excessive delays and
+long back-ups.
+
+                                     City of San José Intersections
+
+The City of San José level of service methodology for signalized intersections is the 2000 Highway
+Capacity Manual (HCM) method. This method is applied using the TRAFFIX software. The 2000
+HCM operations method evaluates signalized intersection operations on the basis of average control
+delay time for all vehicles at the intersection. The City of San José level of service standard for
+signalized intersections is LOS D or better. The correlation between average control delay and level
+of service is shown in Table 3.
+
+
+
+
+County of Santa Clara                               29                                             Draft EIR
+San José Downtown Health Center                                                                   March 2012
+                                                   Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+
+
+     Table 3: Signalized Intersection Level of Service Definitions Using Average Control
+                                         Vehicular Delay
+                                                                                 Average
+   Level
+                                                                              Control Delay
+    of                                 Description
+                                                                               per Vehicle
+  Service
+                                                                                (seconds)
+           Operations with very low delay occurring with favorable                 10.0
+    A
+           progression and/or short cycle lengths
+           Operations with low delay occurring with good progression and/or    10.1 to 20.0
+    B
+           short cycle lengths.
+           Operations with average delays resulting from fair progression      20.1 to 35.0
+    C      and/or longer cycle lengths. Individual cycle failures begin to
+           appear.
+           Operations with longer delays due to a combination of unfavorable   35.1 to 55.0
+    D      progression, long cycle lengths, and high V/C ratios. Many
+           vehicles stop and individual cycle failures are noticeable.
+           Operations with high delay valued indicating poor progression,      55.1 to 80.0
+     E     long cycle lengths, and high V/C ratios. Individual cycle failures
+           are frequent occurrences.
+           Operations with delays unacceptable to most drivers occurring due      > 80.0
+     F
+           to over-saturation, poor progression, or very long cycle lengths.
+  Source: VTA's CMP Traffic Level of Service Analysis Guidelines, June 2003, and Transportation Research
+  Board, Highway Capacity Manual, 2000.
+
+
+
+                      Congestion Management Program (CMP) Intersections
+
+The designated level of service methodology for the Congestion Management Program (CMP) also is
+the 2000 HCM operations method for signalized intersections, using TRAFFIX. The CMP level of
+service standard for signalized intersections is LOS E or better.
+
+                                           Freeway Segments
+
+According to CMP guidelines, an analysis of freeway segment levels of service is required if a
+project is estimated to add trips to a freeway segment equal to or greater than one percent of the
+capacity of that segment, or the proposed development is adjacent to one of the freeway segment's
+access or egress points. The number of peak-hour trips added to the freeways in the project area by
+the proposed project (under either option) is estimated to be well below the one-percent threshold
+(refer to Appendix B) and the site is not located next to freeway access or egress points. Therefore, a
+detailed analysis of freeway segment levels of service was not performed.
+
+
+
+
+County of Santa Clara                                30                                             Draft EIR
+San José Downtown Health Center                                                                    March 2012
+                                                  Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+3.2.1.4         Existing Conditions
+
+                                    Intersection Levels of Service
+
+The results of the intersection level of service analysis under existing conditions are summarized
+below in Table 4. The results show that, based on the City of San José standards, all study
+intersections operate at an acceptable LOS C or better during both the AM and PM peak hours of
+traffic.
+
+
+                 Table 4: Existing and Background Intersection Levels of Service
+                                                     Existing         Background
+                                                   Conditions         Conditions
+                                         Peak   Average            Average
+                Study Intersection
+                                        Hour      Delay              Delay
+                                                            LOS                 LOS
+                                                (seconds/          (seconds/
+                                                 vehicle)           vehicle)
+           1.   US 101 Ramps and         AM        9.8        A        9.9       A
+                Alum Rock Avenue*         PM       17.0       B       17.1       B
+           2.   US 101 Ramps and         AM        12.2       B       12.9       B
+                Santa Clara Street*       PM       15.2       B       15.3       B
+           3.   24th Street and Santa    AM        18.7       B       19.0       B
+                Clara Street              PM       23.0       C       23.5       C
+           4.   17th Street and Santa    AM        5.2        A        5.3       A
+                Clara Street              PM       7.8        A        9.2       A
+                   th
+           5.   17 Street and Julian     AM        6.7        A        7.2       A
+                Street                    PM       7.4        A        9.8       A
+           Note: *Denotes CMP intersection
+
+
+
+                                    Observed Traffic Conditions
+
+Traffic conditions were observed during the AM and PM peak commute periods to identify existing
+operational deficiencies and to confirm the accuracy of calculated levels of service. The purpose of
+this effort was 1) to identify any existing traffic problems that may not be directly related to level of
+service and 2) to identify any locations where the level of service analysis does not accurately reflect
+actual existing traffic conditions.
+
+Field observations revealed that the study intersections operate well during both peak commute
+periods with minimal delay for most movements. The freeway ramp meters at the US 101/Santa
+Clara Street/Alum Rock Avenue interchange currently are activated only on the northbound on ramp
+during the AM peak period. The queue extending from the ramp meter was confined to the on ramp
+and did not affect traffic flow on the adjacent roadways. Queues were observed to overflow the
+westbound left-turn pocket at the intersection of Santa Clara Street and 24th Street during the PM
+peak hour. In addition, at the same intersection, the eastbound through movement occasionally
+queued past the upstream intersection at 23rd Street; however, the queues cleared during each signal
+cycle so the blockage of cross street traffic was only temporary and did not cause any problems.
+
+
+County of Santa Clara                               31                                             Draft EIR
+San José Downtown Health Center                                                                   March 2012
+                                                         Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+3.2.1.5           Background Conditions
+
+The following discussion describes background conditions in the project area. Background traffic
+conditions are traffic conditions just prior to completion of the proposed project. At the direction of
+the City of San José, the transportation network under background conditions was assumed to be the
+same as under existing conditions. 4
+
+Background peak hour traffic volumes were estimated by adding to existing volumes the estimated
+traffic from approved but not yet constructed developments in the project area. The added traffic
+from approved but not yet completed developments (including Phase I of the Downtown Strategy)
+was provided by the City of San José in the form of the Approved Trips Inventory (ATI). Trips
+generated by the Mediplex building on-site are also included in background traffic conditions since
+they are associated with an existing building. Refer to Appendix B for more detail regarding
+background traffic volumes.
+
+The results of the intersection level of service analysis under background conditions are summarized
+in Table 4. The results show that, based on the City of San José standards, all study intersections are
+expected to operate at acceptable LOS C or better conditions during both the AM and PM peak hours
+of traffic on a typical weekday.
+
+3.2.2             Transportation Impacts
+
+3.2.2.1           Thresholds of Significance
+
+A transportation impact is considered significant if the project would:
+
+    ·     Conflict with an applicable plan, ordinance, or policy establishing measures of effectiveness
+          for the performance of the circulation system, taking into account all modes of transportation
+          including mass transit and non-motorized travel and relevant components of the circulation
+          system, including but not limited to intersections, streets, highways and freeways, pedestrian
+          and bicycle paths, and mass transit;
+    ·     Conflict with an applicable congestion management program, including, but not limited to
+          level of service standards and travel demand measures, or other standards established by the
+          county congestion management agency for designated roads or highways;
+    ·     Result in a change in air traffic patterns, including either an increase in traffic levels or a
+          change in location that results in substantial safety risks;
+    ·     Substantially increase hazards due to a design feature (e.g., sharp curves or dangerous
+          intersections) or incompatible uses (e.g., farm equipment);
+    ·     Result in inadequate emergency access;
+    ·     Conflict with adopted policies, plans, or programs regarding public transit, bicycle, or
+          pedestrian facilities, or otherwise decrease in performance or safety of such facilities; or
+
+
+4
+  The VTA is planning to implement a bus rapid transit project along the Santa Clara-Alum Rock Corridor. The
+BRT project would include a station on Santa Clara Street between 16th and 17th Streets. Preliminary drawings of
+the 17th Street station show sidewalk improvements would cause a reduction in the width of the curb lane on Santa
+Clara Street. As a result, traffic using this lane will be temporarily blocked when a bus stops at the station. The City
+of San José is working with VTA to refine the BRT plans. Since the design is not yet finalized and the timing of the
+BRT project is uncertain, modifications related to the BRT project were not included in this traffic analysis.
+
+County of Santa Clara                                      32                                               Draft EIR
+San José Downtown Health Center                                                                            March 2012
+                                                    Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+ ·        Not provide safe access, obstruct access to nearby uses or fail to provide for future street
+          right of way.
+
+The project would not result in impacts to air traffic patterns or emergency access. The project does
+not fail to provide necessary future street right-of-way. Therefore, the third and fifth, and a portion
+of the last bulleted threshold listed above is not discussed further.
+
+                                      Intersection Impact Criteria
+
+The criteria used to determine impacts on intersections are based on the level of service standards of
+the City of San José. The project's impacts were also analyzed according to the County CMP
+methodology for the CMP study intersection.
+
+A project would create a significant adverse impact on traffic conditions at a signalized intersection
+in the City of San José if for either peak hour:
+
+·         The level of service at the intersection degrades from an acceptable LOS D or better under
+          background conditions to an unacceptable LOS E or F under background plus project
+          conditions; or
+·         The level of service at the intersection is an unacceptable LOS E or F under background
+          conditions and the addition of project trips causes both the critical-movement delay at the
+          intersection to increase by four (4) or more seconds and the volume-to-capacity ratio (V/C) to
+          increase by one percent (.01) or more.
+
+An exception to this rule applies when the addition of project traffic reduces the amount of average
+stopped delay for critical movements (i.e., the change in average stopped delay for critical
+movements is negative). In this case, the threshold of significance is an increase in the critical V/C
+value by .01 or more.
+
+The definition of a significant impact at a CMP intersection is the same as for the City of San José,
+except that the CMP standard for acceptable level of service at a CMP intersection is LOS E or
+better.
+
+3.2.2.2           Project Traffic Estimates
+
+The amount of traffic added to the roadway system from the proposed project is estimated using a
+three-step process: 1) trip generation; 2) trip distribution; and 3) trip assignment. In determining
+project trip generation, the magnitude of traffic entering and exiting the project site is estimated for
+the AM and PM peak hours. As part of the project trip distribution, an estimate is made of the
+directions to and from which the project trips would travel. In the project trip assignment, the project
+trips are assigned to specific streets and intersections. These procedures are described below.
+
+
+
+
+County of Santa Clara                                 33                                             Draft EIR
+San José Downtown Health Center                                                                     March 2012
+                                                     Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+                                               Trip Generation
+
+Based on the medical office trip rates recommended by the City of San José, the project is estimated
+to generate 3,000 gross daily vehicle trips, with 180 trips occurring during the AM peak hour and 300
+trips occurring during the PM peak hour. The project site is within 2,000 feet of a major bus stop. In
+accordance with the VTA guidelines, the gross trip estimates were reduced by two percent to account
+for transit usage. After deducting for transit usage, the proposed 60,000 square foot health center is
+expected to generate 2,940 net daily vehicle trips, with 176 net trips occurring during the AM peak
+hour and 294 net trips occurring during the PM peak hour. The project trip generation estimates are
+presented in Table 5.
+
+
+                              Table 5: Project Trip Generation Estimates
+                              Daily               AM Peak Hour           PM Peak Hour
+                                     Daily
+ Land Use        Size (sf)    Trip
+                                     Trips Rate      In   Out Total Rate In     Out Total
+                              Rate
+Medical
+Clinic/Health 60,000            50     3,000     3.00     144      36      180     5.00      90     210     300
+Center
+  Reduction for transit       (2%)      (60)              (3)     (1)      (4)              (2)     (4)     (6)
+      Net Project Trips                2,940              141     35       176              88      206     294
+Notes: Trip generation rates are based on the San José Traffic Impact Analysis Handbook (August 2008). Transit
+reduction is based on the Santa Clara County Transportation Authority, Congestion Management Program
+Transportation Impact Analysis Guidelines (March 2009).
+
+
+
+                                     Trip Distribution and Assignment
+
+The trip distribution pattern for the proposed health center was estimated based on existing travel
+patterns on the surrounding roadway system and the relative locations of complementary land uses.
+The project trip distribution pattern, which has been reviewed by City of San José staff, is included in
+Appendix B. The peak hour trips generated by the proposed project were assigned to the roadway
+system in accordance with the trip distribution pattern. The project trip assignment to individual
+roadways is included in Appendix B.
+
+3.2.2.3          Existing Plus Project Conditions
+
+The project trips were added to existing traffic volumes to obtain existing plus project traffic
+volumes. The results of the intersection level of service analysis under existing plus project
+conditions are summarized in Table 6. The results show that all study intersection are expected to
+operate at acceptable LOS C or better during both the AM and PM peak hours under existing plus
+project conditions.
+
+Impact TRAN ­ 1:          The proposed project would not result in significant level of service impacts
+                          under existing plus project conditions. (Less Than Significant Impact)
+
+
+
+
+County of Santa Clara                                   34                                            Draft EIR
+San José Downtown Health Center                                                                      March 2012
+                                                 Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+
+
+              Table 6: Existing and Existing Plus Project Intersection Levels of Service
+                                           Existing                  Existing Plus Project
+                                      Average              Average             Increase Increase
+                              Peak
+     Study Intersection                 Delay                Delay                in         in
+                              Hour                 LOS                 LOS
+                                      (seconds/            (seconds/           Critical    Critical
+                                       vehicle)             vehicle)            Delay       V/C
+1.    US 101 Ramps and         AM         9.8       A         9.8        A        0.1       0.01
+      Alum Rock Avenue*        PM        17.0       B         16.9       B        1.1       0.01
+2.    US 101 Ramps and         AM        12.2       B         12.6       B        0.2       0.00
+      Santa Clara Street*      PM        15.2       B         15.2       B        0.0       0.01
+3.    24th Street and Santa    AM        18.7       B         18.8       B        0.2       0.02
+      Clara Street             PM        23.0       C         23.1       C        0.0       0.02
+4.    17th Street and Santa    AM         5.2       A         5.6        A        0.3       0.02
+      Clara Street             PM         7.8       A         9.6        A        1.8       0.05
+         th
+5.    17 Street and Julian     AM         6.7       A         7.1        A        0.3       0.02
+      Street                   PM         7.4       A         8.7        A        1.6       0.05
+Note: *Denotes CMP intersection
+
+
+
+3.2.2.4         Background Plus Project Conditions
+
+The background plus project conditions reflect the near-term traffic conditions expected to occur
+when the project is complete. The project trips (Table 5) were added to background traffic volumes
+to obtain background plus project traffic volumes. Background plus project conditions were
+evaluated relative to background conditions in order to determine potential project impacts. This
+traffic scenario represents a more congested traffic condition than existing plus project conditions
+since it includes traffic from approved (but not yet constructed) projects and reoccupancy of the
+Mediplex building.
+
+The results of the level of service analysis under background plus project conditions show that,
+measured against the City of San José and CMP level of service impact criteria, all of the study
+intersections would operate at acceptable levels of service and none of the study intersections would
+be significantly impacted by the project (see Table 7).
+
+Impact TRAN ­ 2:        The proposed project would not result in significant level of service impacts
+                        under background plus project conditions. (Less Than Significant Impact)
+
+
+
+
+County of Santa Clara                              35                                             Draft EIR
+San José Downtown Health Center                                                                  March 2012
+                                                 Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+
+
+         Table 7: Background and Background Plus Project Intersection Levels of Service
+                                      Background             Background Plus Project
+                                   Average           Average            Increase Increase
+                            Peak
+     Study Intersection              Delay             Delay                in          in
+                            Hour              LOS                LOS
+                                   (seconds/         (seconds/           Critical    Critical
+                                    vehicle)          vehicle)            Delay        V/C
+1.    US 101 Ramps and      AM        9.9      A        10.0       B       0.1        0.01
+      Alum Rock Avenue*      PM       17.1     B        17.1       B       0.0        0.01
+2.    US 101 Ramps and      AM        12.9     B        13.4       B       0.3        0.00
+      Santa Clara Street*    PM       15.3     B        15.4       B       0.0        0.01
+3.    24th Street and Santa AM        19.0     B        19.1       B       0.2        0.02
+      Clara Street           PM       23.5     C        23.6       C       0.2        0.03
+4.    17th Street and Santa AM        5.3      A        5.7        A       0.3        0.02
+      Clara Street           PM       9.2      A        10.6       B       1.5        0.05
+         th
+5.    17 Street and Julian  AM        7.2      A        7.6        A       0.3        0.02
+      Street                 PM       9.8      A        10.5       B       0.9        0.05
+Note: *Denotes CMP intersection
+
+
+
+3.2.2.5        Pedestrian and Bicycle Facilities Impacts
+
+The proposed health center would generate pedestrian traffic primarily from clinic workers and
+patients walking to and from the nearby transit stops within 0.5 miles of the site on Santa Clara
+Street, Julian Street, and San Carlos Street. In addition, some people who reside in the surrounding
+neighborhood may walk to the proposed health center. As described previously, all of the roadways
+in the vicinity of the project site have sidewalks on both sides of the street. Crosswalks with
+pedestrian signal heads are located at all signalized intersections in the project area. Overall, the
+existing network of sidewalks in the project area exhibits good connectivity and provides pedestrians
+with a safe connection between the project site and surrounding land uses. The existing pedestrian
+facilities are adequate to serve the anticipated pedestrian demand.
+
+Class II bicycle lanes exist on 17th Street and 21st Street. In addition, with the exception of Santa
+Clara Street, many of the streets in the project area are local neighborhood streets with low traffic
+volumes and slow speeds, which are well suited to bicycling. A reasonable assumption for bicycle
+trip generation for the project would be a one percent mode share. This equates to two to three new
+bicycle trips during both the AM and PM peak commute periods. Given the estimated number of
+bicycle trips generated from the proposed project, the existing bicycle facilities would be adequate to
+serve the anticipated bicycle demand.
+
+As noted in the project description, no off-site roadway improvements are proposed by the project.
+The project does not include features that would adversely affect planned bicycle or pedestrian paths
+in the area.
+
+Impact TRAN ­ 3:        The proposed project would not have a significant impact on existing or
+                        planned pedestrian or bicycle facilities. (Less Than Significant Impact)
+
+
+
+County of Santa Clara                              36                                             Draft EIR
+San José Downtown Health Center                                                                  March 2012
+                                                       Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+3.2.2.6           Transit Service Impacts
+
+Five bus lines are located within walking distance of the project site. Due to the convenient locations
+of the bus stops, it is assumed that some workers and patients of the new health center would utilize
+the existing transit services. Applying a two percent transit mode share, which is consistent with the
+Congestion Management Program TIA Analysis Guidelines, it is estimated that the project would
+generate approximately four new transit riders during the AM peak hour and six new transit riders
+during the PM peak hour. Assuming the existing transit services would remain unchanged, the small
+number of new transit riders resulting from the project would have little effect on bus lines 22, 23,
+64, 72, and 522. The potential new riders could be accommodated by the current available ridership
+capacity of the transit services in the project area, and no improvements to the existing transit
+services would be necessary to accommodate project generated transit riders.
+
+The VTA is planning to implement a Bus Rapid Transit (BRT) project along the Santa Clara-Alum
+Rock corridor. The BRT project would include sidewalk improvements to create a bus station on
+Santa Clara Street between 16th and 17th Streets. The project would not conflict with the BRT station
+plans. 5
+
+Impact TRAN ­ 4:           The proposed project would not have a significant impact on existing or
+                           planned transit facilities. (Less Than Significant Impact)
+
+3.2.2.7           Obstruct Access to Nearby Uses
+
+Currently, access to the Mediplex building on-site is provided by a driveway on East Santa Clara
+Street between the Mediplex building and the proposed health center building (see driveway 2 on
+Figure 4). While the project is being constructed, this driveway would be temporarily closed. As a
+result, the project would construct an interim driveway (driveway 1 on Figure 4) west of the
+Mediplex building for employees and patients of the Mediplex building. Secondary access to the
+Mediplex building is provided via existing driveway 6 (see Figure 4) on St. John Street opposite 15th
+Street.
+
+Once the project is constructed, driveway 2 would be reopened and the interim driveway west of the
+Mediplex building (driveway 1) would be closed to the public.
+
+Impact TRAN ­ 5:           The project would not result in significant access impacts to the adjacent
+                           Mediplex building. (Less Than Significant Impact)
+
+3.2.3             Mitigation Measures
+
+No mitigation measures are proposed or required.
+
+
+
+
+5
+ The transportation impact analysis in Appendix B recommends coordinating with the VTA to revise the
+preliminary plans for the BRT bus stop to move the taper for the bus to the other side of the site driveway at 16th
+Street to enhance circulation. If this recommendation is not implemented, no substantial impacts to level of service
+or safety are anticipated (Source: Michelle Hunt, Hexagon Transportation Consultants. Personal communications.
+September 2010.).
+
+County of Santa Clara                                     37                                              Draft EIR
+San José Downtown Health Center                                                                          March 2012
+                                                Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+3.3.4          Conclusion
+
+Impact TRAN ­ 1:       The proposed project would not result in significant level of service impacts
+                       under existing plus project conditions. (Less Than Significant Impact)
+
+Impact TRAN ­ 2:       The proposed project would not result in significant level of service impacts
+                       under background plus project conditions. (Less Than Significant Impact)
+
+Impact TRAN ­ 3:       The proposed project would not have a significant impact on existing or
+                       planned pedestrian or bicycle facilities. (Less Than Significant Impact)
+
+Impact TRAN ­ 4:       The proposed project would not have a significant impact on existing or
+                       planned transit facilities. (Less Than Significant Impact)
+
+Impact TRAN ­ 5:       The project would not result in significant access impacts to the Mediplex
+                       building. (Less Than Significant Impact)
+
+
+
+
+County of Santa Clara                             38                                             Draft EIR
+San José Downtown Health Center                                                                 March 2012
+                                                  Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+3.3             AIR QUALITY
+
+3.3.1           Existing Setting
+
+Air quality and the amount of a given pollutant in the atmosphere are determined by the amount of
+pollutant released and the atmosphere's ability to transport and dilute the pollutant. The major
+determinants of transport and dilution are wind, atmospheric stability, terrain, and for photochemical
+pollutants, sunshine.
+
+The project is located in San José, which is in Santa Clara Valley. The project site is in proximity to
+both the Pacific Ocean and San Francisco Bay, which have moderating influence on the climate. The
+valley is bound to the north by the San Francisco Bay and by mountains to the east, south, and west.
+The surrounding terrain greatly influences winds in the valley, resulting in a prevailing wind that
+follows along the valley's northwest-southeast axis. During the afternoon and early evening, a north-
+northwesterly sea breeze often flows from the Bay through the valley, and a light south-southeasterly
+drainage flow often occurs during the late evening and early morning hours.
+
+3.3.1.1         Regional and Local Criteria Pollutants
+
+Major criteria pollutants, listed in "criteria" documents by the U.S. Environmental Protection Agency
+(USEPA) and the California Air Resources Board (CARB) include ozone, carbon monoxide,
+nitrogen dioxide, sulfur dioxide, and suspended particulate matter (PM). These pollutants have
+health effects such as respiratory impairment and heart/lung disease symptoms.
+
+Areas that do not violate ambient air quality standards are considered to have attained the standard.
+Violations of ambient air quality standards are based on air pollutant monitoring data and are judged
+for each air pollutant. The Bay Area as a whole does not meet state or federal ambient air quality
+standards for ground level ozone and state standards for particulate matter (PM10 and PM2.5). The
+area is considered attainment or unclassified for all other pollutants.
+
+3.3.1.2         Local Community Risks/Toxic Air Contaminants and Fine Particulate Matter
+
+Besides criteria air pollutants, there is another group of substances found in ambient air referred to as
+Toxic Air Contaminants (TACs). These contaminants tend to be localized and are found in relatively
+low concentrations in ambient air. However, they can result in adverse chronic health effects if
+exposure to low concentrations occurs for long periods.
+
+Fine Particulate Matter (PM2.5) is a complex mixture of substances that includes elements such as
+carbon and metals; compounds such as nitrates, organics, and sulfates; and complex mixtures such as
+diesel exhaust and wood smoke. Long-term and short-term exposure to PM2.5 can cause a wide range
+of health effects.
+
+Common stationary source types of TACs and PM2.5 include gasoline stations, dry cleaners, and
+diesel backup generators which are subject to permit requirements. The other, often more significant,
+common source is motor vehicles on freeways and roads.
+
+
+
+
+County of Santa Clara                               39                                             Draft EIR
+San José Downtown Health Center                                                                   March 2012
+                                                    Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+3.3.1.3           Sensitive Receptors
+
+The San Francisco Bay Area Air Quality Management District defines sensitive receptors as facilities
+or land uses that include members of the population that are particularly sensitive to the effects of air
+pollutants, such as children, the elderly, and people with illnesses. Examples include schools,
+hospitals, and residential areas. The nearest existing sensitive receptors to the project site include the
+residences located north of the project site on East Saint John Street, east of the project site on North
+17th Street, and south of the project site on East Santa Clara Street (refer to Figure 3).
+
+3.3.1.4           Regulatory Overview
+
+The City of San José is within the San Francisco Bay Area Air Quality Management District
+(BAAQMD). BAAQMD is the agency primarily responsible for assuring that the federal and state
+ambient air quality standards are maintained in the San Francisco Bay Area. Air quality standards
+are set by the federal government (the 1970 Clean Air Act and its subsequent amendments) and the
+state (California Clean Air Act of 1988 and its subsequent amendments). Regional air quality
+management districts such as BAAQMD must prepare air quality plans specifying how state
+standards would be met. BAAQMD's most recently adopted Clean Air Plan (CAP) is the 2010
+Clean Air Plan (2010 CAP). The 2010 CAP provides an updated comprehensive plan to improve
+Bay Area air quality and protect public health, taking into account future growth projections to 2035.
+
+3.3.2             Air Quality Impacts
+
+3.3.2.1           Thresholds of Significance
+
+An air quality impact is considered significant if the project would:
+
+·         Conflict with or obstruct implementation of the applicable air quality plan;
+·         Violate any air quality standard or contribute substantially to an existing or projected air
+          quality violation;
+·         Result in a cumulatively considerable net increase of any criteria pollutant for which the
+          project region is non-attainment under an applicable federal or state ambient air quality
+          standard (including releasing emissions which exceed quantitative thresholds for ozone
+          precursors);
+·         Expose sensitive receptors to substantial pollutant concentrations; or
+·         Create objectionable odors affecting a substantial number of people.
+
+The construction and operation of the proposed health center would not create objectionable odors.
+Therefore, the last bulleted threshold listed above is not discussed further.
+
+
+
+
+County of Santa Clara                                 40                                             Draft EIR
+San José Downtown Health Center                                                                     March 2012
+                                                       Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+                           BAAQMD Project-Level Significance Thresholds 6
+
+The BAAQMD thresholds of significance for criteria air pollutants are 54 pounds or more a day of
+reactive organic gas (ROG), nitrous oxide (NOx), and/or PM2.5; or 82 pounds or more a day of PM10.
+According to the BAAQMD CEQA Air Quality Guidelines (May 2011) screening criteria, the
+construction of a 277,000 square foot medical office building may result in significant levels of
+construction-related criteria air pollutants and the operation of a 117,000 square foot medical office
+building may result in significant levels operational-related criteria air pollutants.
+
+The BAAQMD-adopted thresholds of significance for local community risk and hazard impacts
+apply to both the siting of a new source (e.g., proposed on-site generator) and to the siting of a new
+receptor. Local community risks and hazard impacts are associated with TACs and PM2.5 because
+emission of these pollutants can have significant health impacts at a local level. If emissions of
+TACs or PM2.5 exceed any of the thresholds of significance listed below, the project would result in a
+significant impact:
+
+·         Non-compliance with a qualified risk reduction plan;
+·         An excess cancer risk level of more than 10 in one million, or a non-cancer (i.e., chronic or
+          acute) hazard index greater than 1.0 would be a cumulatively considerable contribution; or
+·         An incremental increase of greater than 0.3 micrograms per cubic meter annual average
+          PM2.5 would be a cumulatively considerable contribution.
+
+3.3.2.2          Consistency with the Clean Air Plan
+
+Determining consistency with the 2010 CAP involves assessing whether applicable control measures
+contained in the 2010 CAP are implemented. Implementation of control measures are intended to
+improve air quality and protect public health. These control measures are organized into five
+categories: Stationary Source Measures, Mobile Source Measures, Transportation Control Measures
+(TCMs), Land Use and Local Impact Measures, and Energy and Climate Measures. Applicable
+
+
+6
+  In December 2010, the California Building Industry Association (BIA) filed a lawsuit in Alameda County Superior
+Court challenging toxic air contaminants and PM2.5 thresholds developed by BAAQMD for its CEQA Air Quality
+Guidelines (California Building Industry Association v. Bay Area Air Quality Management District, Alameda
+County Superior Court Case No. RG10548693). One of the identified concerns is that the widespread use of the
+thresholds would inhibit infill and smart growth in the urbanized Bay Area. On January 9, 2012, the Superior Court
+made a tentative ruling that the adoption of thresholds by the BAAQMD for its CEQA Air Quality Guidelines is a
+"project" subject to environmental review under CEQA. At the time this Draft EIR was prepared, the Superior
+Court had not yet issued a final Statement of Decision, nor had any final judgment or writ been issued by the court.
+The County understands the effect of the lawsuit to be that BAAQMD may eventually have to complete
+environmental review before adopting the same or revised thresholds. However, the ruling in the case does not
+equate to a finding that the quantitative metrics in the thresholds are incorrect or unreliable.
+
+The determination of whether a project may have a significant effect on the environment is subject to the discretion
+of each individual lead agency, based upon substantial evidence. Notwithstanding the BIA lawsuit, the County has
+carefully considered the thresholds prepared by BAAQMD and considers them to be based on the best information
+currently available for the San Francisco Bay Area Air Basin. Substantial evidence supporting these thresholds has
+been presented in the following documents: a) Bay Area Air Quality Management District. CEQA Air Quality
+Guidelines, Appendix D. May 2011; b) California Air Pollution Control Officers Association. Health Risk
+Assessments for Proposed Land Use Projects. July 2009; and c) California Environmental Protection Agency,
+California Air Resources Board. Air Quality and Land Use Handbook: A Community Health Perspective. 2005.
+
+County of Santa Clara                                    41                                              Draft EIR
+San José Downtown Health Center                                                                         March 2012
+                                              Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+control measures and the project's consistency with them are summarized in Table 8 below. The
+proposed project is generally consistent with the control measures.
+
+Impact AIR ­ 1:        The project is generally consistent with the 2010 CAP. (Less Than
+                       Significant Impact)
+
+
+            Table 8: Bay Area 2010 Clean Air Plan Applicable Control Measures
+Control
+              Description                                 Project Consistency
+Measures
+Transportation Control Measures
+Support       Support voluntary employer trip-reduction The project would provide ECO
+Voluntary     programs through the implementation of      passes (for bus and light rail service)
+Employer-     the 511 Regional Rideshare Program and      for employees at the proposed health
+Based Trip    Congestion Management Agency rideshare center. For this reason, the project is
+Reduction     programs, the Spare the Air Program,        consistent with the intent of this
+Program       encouraging cities to adopt transit benefit measure.
+              ordinances, and supporting Bay Area
+              shuttle service providers.
+Improve       Expand bicycle facilities serving transit   As discussed in Section 3.2, the
+Bicycle       hubs, employment sites, educational and     existing bicycle facilities are adequate
+Access and    cultural facilities, residential areas,     to serve the proposed project. As
+Facilities    shopping districts, and other activity      discussed in Section 2.2.3, the project
+              centers.                                    would be providing bicycle parking
+                                                          for the proposed health center.
+                                                          Therefore, the project is consistent
+                                                          with this measure.
+Support       Promote land use patterns, policies, and    The project proposes a health center in
+Local Land    infrastructure investments that support     the downtown in a mixed use area. As
+Use           mixed-use, transit-oriented development     discussed in Section 3.2, the existing
+Strategies    that reduce motor vehicle dependence and transit, bicycle, and pedestrian
+              facilitate walking, bicycling, and transit  facilities would adequately serve the
+              use.                                        proposed project. The project also
+                                                          proposes to install a bus schedule rack
+                                                          in the lobby of the proposed health
+                                                          center to promote transit use. For
+                                                          these reasons, the project is consistent
+                                                          with this measure.
+Land Use and Local Impacts Measures
+Goods         Reduce diesel PM and GHG emissions          As discussed in Section 3.3.2.3 below,
+Movement      from goods movement in the Bay Area         the project would restrict construction
+              through measures such as increased          truck idling times. For this reason, the
+              signage indicating truck routes and anti-   project is consistent with this control
+              idling rules.                               measure.
+Energy and Climate Measures
+Urban Heat    Mitigate the "urban heat island" effect by  The project would mitigate the urban
+Island        promoting the implementation of cool        heat island effect by installing
+Mitigation    roofing, cool paving, and other strategies. reflective roofing, installing sunshades
+
+County of Santa Clara                           42                                             Draft EIR
+San José Downtown Health Center                                                               March 2012
+                                                   Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+               Table 8: Bay Area 2010 Clean Air Plan Applicable Control Measures
+Control
+                  Description                                     Project Consistency
+Measures
+                                                                  on all windows, and planting trees on-
+                                                                  site. For these reasons, the project is
+                                                                  consistent with this measure.
+Tree-             Promote planting of low-VOC-emitting            The project would plant new trees as
+Planting          shade trees to reduce urban heat island         part of the project and replace existing
+                  effects, save energy, and absorb CO2 and        trees removed. For this reason, the
+                  other air pollutants.                           project is consistent with this measure.
+
+
+3.3.2.3           Short-Term Construction-Related Impacts
+
+Construction activities would temporarily affect local air quality. Construction activities such as
+earthmoving, construction vehicle traffic, and wind blowing over exposed earth would generate
+exhaust emissions and fugitive particulate matter emissions that affect local and regional air quality.
+Construction activities are also a source of organic gas emissions. Solvents in adhesives, non-water
+based paints, thinners, some insulating materials, and caulking materials would evaporate into the
+atmosphere and would participate in the photochemical reaction that creates urban ozone. Asphalt
+used in paving is also a source of organic gases for a short time after its application.
+
+Construction dust could affect local air quality at various times during construction of the project.
+The dry, windy climate of the area during the summer months creates a high potential for dust
+generation when and if underlying soils are exposed to the atmosphere. Construction activities
+would increase dustfall and locally elevated levels of PM10 downwind.
+
+The BAAQMD CEQA Air Quality Guidelines has a screening threshold of a 277,000 square foot
+medical office building a potentially significant construction-related air quality impact from criteria
+pollutant emissions. The proposed project would result in the construction of a new 60,000 square
+foot health center, which is below the BAAQMD screening threshold.
+
+According to the BAAQMD CEQA Air Quality Guidelines, the construction of a project would
+result in a less than significant impact from criteria air pollutant and precursor emissions if the
+project is below the screening threshold, implements all basic construction mitigation measures, and
+does not include: demolition activities inconsistent with District Regulation 11, Rule 2 ­ Asbestos
+Demolition, Renovation and Manufacturing; simultaneous occurrence of more than two construction
+phases (e.g., paving and building construction would occur simultaneously); simultaneous
+construction of more than one land use type; extensive site preparation; or extensive material
+transport (e.g., greater than 10,000 cubic yards of soil import/export) requiring a considerable amount
+of haul truck activity. No demolition is proposed as part of this project.
+
+The project includes implementation of the following BAAQMD basic construction mitigation
+measures to reduce construction-related air quality impacts to a less than significant level:
+
+·         All exposed surfaces (e.g., parking areas, staging areas, soil piles, graded areas, and unpaved
+          access roads) shall be watered two times per day.
+·         All haul trucks transporting soil, sand, or other loose material off-site shall be covered.
+
+County of Santa Clara                                43                                             Draft EIR
+San José Downtown Health Center                                                                    March 2012
+                                                     Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+·         All visible mud or dirt track-out on to adjacent public roads shall be removed using wet
+          power vacuum street sweepers at least once per day. The use of dry power sweeping is
+          prohibited.
+·         All roadways, driveways, and sidewalks to be paved shall be completed as soon as possible.
+          Building pad shall be laid as soon as possible after grading unless seeding or soil binders are
+          used.
+·         Idling times shall be minimized either by shutting equipment off when not in use or reducing
+          the maximum idling time to five minutes (as required by the California airborne toxics
+          control measure Title 13, Section 2485 of California Code of Regulations). Clear signage
+          shall be provided for construction workers at all access points.
+·         All construction equipment shall be maintained and properly tuned in accordance with
+          manufacturer's specifications. At the start of project construction, all equipment shall be
+          checked by a California Air Resources Board certified visible emissions evaluator.
+·         Post a publicly visible sign with the telephone number and person to contact at the County
+          regarding dust complaints. This person shall respond and take corrective action within 48
+          hours. The BAAQMD's phone number shall also be visible to ensure compliance with
+          applicable regulations.
+
+Impact AIR ­ 2:          The proposed project, with the implementation of the above BAAQMD basic
+                         construction mitigation measures, would not result in significant construction-
+                         related air quality impacts. (Less Than Significant Impact)
+
+3.3.2.4          Long-Term Air Quality Impacts
+
+As discussed previously, the BAAQMD CEQA Air Quality Guidelines has a screening threshold of a
+117,000 square foot medical office building for a potentially significant operational-related air
+quality impact. The proposed project would result in an increase of 60,000 square feet of medical
+clinic space, which is below the screening threshold and therefore, would not result in a significant
+air quality impact.
+
+Impact AIR ­ 3:          The project would not result in significant long-term air quality impacts.
+                         (Less Than Significant Impact)
+
+3.3.2.5          Local Community Risks/ Toxic Air Contaminants and Fine Particulate Matter 7
+
+The proposed project includes a 1,000 kilowatt (kw) back-up diesel generator on-site. The generator
+would provide power to the health center building in the event of an electricity outage. The
+generator would be located adjacent to the health center building and is considered a stationary
+source of air emissions, including TACs and fine particulate matter (PM2.5).
+
+Local community risks were assess by Illingworth & Rodkin (refer to Appendix E) using BAAQMD
+methodology. Existing sensitive receptors in the project area were identified. The closest sensitive
+receptors to the project site are the single-family residence located at the southeast corner of North
+17th Street and East St. John Street and the multi-family residence located at the southwest corner of
+South 16th Street and East Santa Clara Street (refer to Figure 3). The TAC emission concentrations
+
+7
+  BAAQMD requires that the health risk from existing or future proposed sources of TAC and/or PM2.5 emissions
+that would adversely affect a proposed sensitive receptor be evaluated.
+
+County of Santa Clara                                  44                                             Draft EIR
+San José Downtown Health Center                                                                      March 2012
+                                                        Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+from the proposed generator were calculated at the nearby residences based on BAAQMD screening
+tables and information provided by BAAQMD. The results are summarized in Table 9 and show that
+the TAC emissions from the proposed on-site generator from routine testing would not exceed the
+BAAQMD health risk thresholds of significance at the closest sensitive receptors. The health risk
+from the proposed generator would be less than identified in Table 9 at other sensitive receptors in
+the project area located further from the project site than at the closest single-family and multi-family
+residences analyzed. The routine operation of the proposed on-site generator would not subject
+existing sensitive receptors (e.g., existing nearby residences) to significant health risks from TACs or
+PM2.5.
+
+
+  Table 9: Summary of TAC Emission Concentrations from the Proposed On-site Generator at
+                                       the Closest Sensitive Receptors
+                                            Distance from     Chronic       Acute   Cancer   PM2.5**
+Emission          Closest Sensitive           Proposed        Hazard        Hazard  Risk**    (g/m3
+Source            Receptor                   Generator         Index        Index     (per    annual
+                                                (feet)        Value*        Value*  million) average)
+                  Residence located at
+                  the southeast corner
+                  of North 17th Street           235             ---          ---      7.7     0.01
+Proposed On- and East St. John
+Site Diesel       Street
+Back-up           Residence located at
+Generator         the southwest corner
+                  of South 16th Street           543             ---          ---      7.8     0.01
+                  and East Santa Clara
+                  Street
+                                                                Increased Non-     Increased Ambient
+                                                             Cancer Risk (Chronic   Cancer     PM2.5
+BAAQMD Significance Threshold for Risks and Hazards
+                                                                    or Acute)        Risk >  Increase
+                                                                      > 1.0           10.0     > 0.8
+Does the proposed generator's TAC emissions at the
+closest sensitive receptors exceed the BAAQMD                    No           No       No       No
+significance thresholds?
+Notes:
+* Values for non-cancer (chronic and acute hazards index) risks are negligible (i.e., well below the threshold) for the
+on-site diesel generator and therefore, not included.
+**The health risks identified are conservative. The emissions and risk calculated were based on the generator being
+tested one hour per month (or about 12 hours annually). The County anticipates that the generator would only be
+tested for 30 minutes once a month.
+
+
+
+The project's contribution to cumulative TAC and fine particulate matter (PM2.5) hazards is described
+in Section 4.3.5 Cumulative Air Quality Impacts. As discussed in Section 4.3.5, the project, along
+with other emission sources in the area, would not result in a cumulative TAC or PM2.5 impact.
+
+BAAQMD considers a project a new sensitive receptor if the project is likely to be a place where
+people live, play, or convalesce; and if sensitive individuals (i.e., segments of the population most
+susceptible to poor air quality including children, the elderly, and those with pre-existing serious
+health problems affected by air quality) are likely to spend a significant amount of time there. While
+
+County of Santa Clara                                      45                                              Draft EIR
+San José Downtown Health Center                                                                           March 2012
+                                                 Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+some patients at the proposed health center could have pre-existing health problems affected by air
+quality, patient visits at the proposed health center would be relatively short and not exceed 23 hours
+(i.e., no overnight stays). Therefore, patients would not spend a significant amount of time at the
+project site. For this reason, the proposed health center is not considered a sensitive receptor with
+respect to the community risk impact criteria, and therefore, health risks to the proposed health center
+from existing mobile and stationary sources were not evaluated further.
+
+Impact AIR ­ 4:         The proposed on-site generator would not subject sensitive receptors (e.g.,
+                        existing nearby residences) to significant health risks from TACs. (Less
+                        Than Significant Impact)
+
+3.3.3           Mitigation Measures
+
+No mitigation measures are proposed or required.
+
+3.3.4           Conclusion
+
+Impact AIR ­ 1:         The project is generally consistent with the 2010 CAP. (Less Than
+                        Significant Impact)
+
+Impact AIR ­ 2:         The proposed project, with the implementation of the above BAAQMD basic
+                        construction mitigation measures, would not result in significant construction-
+                        related air quality impacts. (Less Than Significant Impact)
+
+Impact AIR ­ 3:         The project would not result in significant long-term air quality impacts or
+                        objectionable odors. (Less Than Significant Impact)
+
+Impact AIR ­ 4:         The proposed on-site generator would not subject sensitive receptors (e.g.,
+                        existing nearby residences) to significant health risks from TACs. (Less
+                        Than Significant Impact)
+
+
+
+
+County of Santa Clara                              46                                             Draft EIR
+San José Downtown Health Center                                                                  March 2012
+                                                        Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+3.4               GREENHOUSE GAS EMISSIONS
+
+The following discussion is based in part on modeling completed to determine the project's
+construction and operational greenhouse gas emissions. The modeling results are included in
+Appendix F of this EIR.
+
+3.4.1             Existing Setting
+
+3.4.1.1           Background Information and Regulatory Framework
+
+Global climate change refers to changes in weather including temperatures, precipitation, and wind
+patterns. Global temperatures are modulated by naturally occurring and anthropogenic (generated by
+mankind) atmospheric gases such as carbon dioxide, methane, and nitrous oxide. 8 These gases allow
+sunlight into the Earth's atmosphere but prevent heat from radiating back out into outer space and
+escaping from the earth's atmosphere, thus altering the earth's energy balance. This phenomenon is
+known as the greenhouse effect.
+
+Naturally occurring greenhouse gases include water vapor, 9 carbon dioxide, methane, nitrous oxide,
+and ozone. Several classes of halogenated substances that contain fluorine, chlorine, or bromine are
+also greenhouse gases, but are for the most part solely a product of industrial activities. Emissions of
+greenhouse gases are typically expressed in a common metric (i.e., carbon dioxide equivalent), so
+that their impacts can be directly compared, as some gases are more potent (have a higher global
+warming potential) than others.
+
+Agencies at the international, national, state, and local levels are considering strategies to control
+emissions of gases that contribute to global warming. There is no comprehensive strategy that is
+being implemented on a global scale that addresses climate change; however, in California a multi-
+agency "Climate Action Team," has identified a range of strategies and the Air Resources Board,
+under AB 32, has approved the Climate Change Scoping Plan. AB 32 requires achievement by 2020
+of a statewide greenhouse gas emissions limit equivalent to 1990 emissions, and the adoption of rules
+and regulations to achieve the maximum technologically feasible and cost-effective greenhouse gas
+emissions reductions. The CARB and other state agencies are currently working on regulations and
+other initiatives to implement the Climate Change Scoping Plan. By 2050, the state plans to reduce
+emissions to 80 percent below 1990 levels.
+
+Other state and local greenhouse gas regulations include:
+
+·         SB 1078 and 107 which requires retail sellers of electricity to provide at least 20 percent of
+          their supply from renewable sources by 2010.
+
+
+
+8
+  IPCC. 2007: Summary for Policymakers. In: Climate Change 2007: The Physical Science Bases. Contribution of
+Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon, S.,
+D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M. Tignor, and H.L. Miller (eds.)]. Cambridge University
+Press, Cambridge, United Kingdom and New York, NY, USA. Available at: http://ipcc.ch/.
+9
+  Concentrations of water are highly variable in the atmosphere over time, with water occurring as vapor, cloud
+droplets and ice crystals. Changes in its concentration are also considered to be a result of climate feedbacks rather
+than a direct result of industrialization or other human activities. For this reason, water vapor is not discussed
+further as a greenhouse gas.
+
+County of Santa Clara                                     47                                              Draft EIR
+San José Downtown Health Center                                                                          March 2012
+                                                 Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+·      Executive Order S-14-08 which expands the state's Renewable Energy Standard to 33
+       percent renewable power by 2020.
+·      SB 375 which aligns regional transportation planning efforts, regional greenhouse gas
+       reduction targets, and land use and housing allocation.
+·      Executive Order S-1-07 which establishes a goal to reduce the carbon intensity of
+       transportation fuels sold in California by a minimum of 10 percent by 2020.
+·      Bay Area Air Quality Management District Climate Protection Program which includes
+       measures to promote energy efficiency, reduce vehicle miles traveled, and develop
+       alternative sources of energy ­ all of which assist in reducing greenhouse gas emissions and
+       air pollutants.
+
+The County has a Climate Action Plan for Operations and Facilities, Green Building Policy for
+County Government Buildings and sustainability policies. In 2007, the County Board of Supervisors
+signed the Cool Counties Climate Stabilization Declaration and established a set of goals for
+greenhouse gas emission reductions for the County:
+
+·      Stop increasing the amount of emissions by 2010;
+·      Decrease emission by 10 percent every five years from 2010-2050; and
+·      Reach an 80 percent reduction by 2050.
+
+The County's Climate Action Plan for Operations and Facilities (CAP) focuses primarily on the ten
+percent reduction by 2015 and identifies policies and actions that are needed to set the stage for
+reductions past 2015. To reduce greenhouse gas emission from County facilities, the CAP
+recommends:
+
+·      Designing facilities to meet LEED standards;
+·      Reducing cars on the road by promoting public transportation, carpools, bicycling, vanpools,
+       and shuttles;
+·      Increasing waste diversion;
+·      Integrating information technology (IT) strategies to reduce paper, printing, and travel;
+·      Using energy efficient lighting;
+·      Increasing water conservation; and
+·      Using recycled water.
+
+The County also has a Green Building Policy for County Government Buildings. "Green building"
+is the practice of siting, designing, constructing, operating, maintaining, and removing buildings in
+such a way as to increase the efficiency of resource use ­ energy, water, and materials ­ while
+reducing building impacts on human health and the environment. For new buildings, such as the
+proposed health center, the Green Building Policy requires:
+
+·      The building to be designed and constructed to meet LEED Silver standards;
+·      New County owned buildings will be designed to control stormwater runoff in accordance
+       with the requirements and procedures set forth in the SCVURPPP; and
+·      Within a reasonable distance of existing or planned recycled water infrastructure, new
+       buildings shall be plumbed and landscaping shall be planned to utilize recycled water.
+
+
+
+
+County of Santa Clara                              48                                             Draft EIR
+San José Downtown Health Center                                                                  March 2012
+                                                       Section 3.0 ­ Environmental Setting, Impacts, and Mitigation
+
+
+In April 2010, the County Board of Supervisors adopted policies on sustainability. The policies
+focus on providing a vibrant economy, healthy environment, social equity, and balance between
+these elements.
+
+3.4.1.2          Existing Conditions
+
+The project site is currently developed surface parking and landscaping. Greenhouse gas emissions
+from the project site include:
+
+·         Emissions produced from conveying water to the project site for landscape irrigation.
+
+3.4.2            Greenhouse Gas Emission Impacts
+
+3.4.2.1          Thresholds of Significance
+
+A greenhouse gas emission impact is considered significant if the project would:
+
+·         Generate greenhouse gas emissions, either directly or indirectly, that may have a significant
+          impact on the environment; or
+·         Conflict with an applicable plan, policy or regulation adopted for the purpose of reducing the
+          emissions of greenhouse gases.
+
+The BAAQMD CEQA Air Quality Guidelines include quantitative thresholds for greenhouse gas
+emissions. 10 Using a methodology that models how new land use development in the San Francisco
+Bay area can meet AB 32 GHG reduction goals, the BAAQMD Guidelines establish a significance
+threshold of 1,100 metric tons of carbon dioxide equivalents per year. In addition to this bright line
+threshold, the Guidelines include an "efficiency" threshold to be used for urban high density, transit
+oriented development projects that are intended to reduce vehicle trips but may still result in overall
+emissions greater than 1,100 meter metric tons per year. This efficiency threshold is 4.6 metric tons
+of carbon dioxide equivalents per service population (e.g., residents and employees) per year. The
+BAAQMD does not have a threshold of significance for construction related greenhouse gas
+emissions.
+
+3.4.2.2          Greenhouse Gas Emission Impacts
+
+Given the overwhelming scope of global climate change, it is not anticipated that a single
+development project would have an individually discernible effect on global climate change. It is
+more appropriate to conclude that the greenhouse gas emissions generated by the proposed project
+would combine with emissions across the state, nation, and globe to cumulatively contribute to
+global climate change.
+
+
+
+
+10
+  Refer to previous footnote 5 in Section 3.3 Air Quality. The determination of whether a project may have a
+significant effect on the environment is made by the lead agency, in this case the County of Santa Clara, based upon
+substantial evidence (CEQA Guidelines Section 15064(b)). The County of Santa Clara considers the thresholds
+identified in the BAAQMD CEQA Air Quality Guidelines (May 2011) to be based on the best information available
+for the San Francisco Bay Area Air Basin.
+
+County of Santa Clara                                    49                                              Draft EIR
+San José Downtown Health Center                                                                         March 2012
+                                                                    Traffic Data Service
+                                                                           Campbell, CA
+                                                                          (408) 377-2988
+                                                                          tdsbay@cs.com                                           File Name        : 1AM FINAL
+                                                                                                                                  Site Code        : 00000001
+                                                                                                                                  Start Date       : 9/8/2011
+                                                                                                                                  Page No          :1
+
+
+                                                                      Groups Printed- Vehicles
+                    US-101 SB OFF RAMP                     SANTA CLARA ST                 US-101 SB ON RAMP                       SANTA CLARA ST
+                         Southbound                            Westbound                       Northbound                             Eastbound
+  Start Time   Right Thru   Left Peds App. Total   Right   Thru Left Peds App. Total Right Thru Left Peds App. Total      Right   Thru Left Peds App. Total   Int. Total
+  07:00 AM       29     0     26    0       55        0     125    63    0    188       0      0    0     2       2        59       85     0    0    144         389
+  07:15 AM       22     0     42    1       65        0     123    82    0    205       0      0    0     3       3        65       93     0    0    158         431
+  07:30 AM       31     0     33    5       69        0     208    93    0    301       0      0    0     3       3        73      122     0    0    195         568
+  07:45 AM       30     0     32    2       64        0     229    82    0    311       0      0    0     0       0        70      128     0    0    198         573
+      Total     112     0 133       8     253         0     685 320      0   1005       0      0    0     8       8       267      428     0    0    695        1961
+
+  08:00 AM      43      0     46      0      89       0     188    59     0     247      0     0      0      3       3     73      112     0      0     185      524
+  08:15 AM      36      0     31      4      71       0     176    58     0     234      0     0      0      2       2     54      106     0      0     160      467
+  08:30 AM      31      0     32      0      63       0     159    61     0     220      0     0      0      0       0     65      111     0      0     176      459
+  08:45 AM      34      0     31      2      67       0     155    57     0     212      0     0      0      1       1     61      104     0      0     165      445
+      Total    144      0    140      6     290       0     678   235     0     913      0     0      0      6       6    253      433     0      0     686     1895
+
+ Grand Total   256      0   273     14      543       0 1363      555     0    1918      0     0      0     14      14    520     861      0      0    1381     3856
+  Apprch %     47.1     0   50.3    2.6               0 71.1      28.9    0              0     0      0    100            37.7    62.3     0      0
+    Total %     6.6     0    7.1    0.4    14.1       0 35.3      14.4    0    49.7      0     0      0     0.4     0.4   13.5    22.3     0      0    35.8
+
+
+
+
+                     US-101 SB OFF RAMP                    SANTA CLARA ST                  US-101 SB ON RAMP                    SANTA CLARA ST
+                            Southbound                         Westbound                       Northbound                           Eastbound
+  Start Time Right Thru Left Peds App. Total Right Thru Left Peds App. Total          Right Thru   Left Peds App. Total   Right Thru   Left Peds App. Total   Int. Total
+Peak Hour Analysis From 07:00 AM to 08:30 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:30 AM
+   07:30 AM       31       0      33       5       69    0 208     93    0   301         0      0      0      3      3      73     122      0      0    195      568
+   07:45 AM       30       0      32       2       64    0 229     82    0   311         0      0      0      0      0      70     128      0      0    198      573
+   08:00 AM       43       0      46       0       89    0 188     59    0   247         0      0      0      3      3      73     112      0      0    185      524
+   08:15 AM       36       0      31       4       71    0 176     58    0   234         0      0      0      2      2      54     106      0      0    160      467
+ Total Volume   140        0 142         11       293    0 801 292       0 1093          0      0      0      8      8     270     468      0      0    738     2132
+  % App. Total 47.8        0 48.5       3.8              0 73.3 26.7     0               0      0      0    100           36.6    63.4      0      0
+         PHF .814 .000 .772 .550                 .823 .000 .874 .785 .000   .879      .000   .000   .000   .667    .667   .925    .914   .000   .000   .932      .930
+                                                                       Traffic Data Service
+                                                                              Campbell, CA
+                                                                             (408) 377-2988
+                                                                             tdsbay@cs.com                                           File Name        : 2AM FINAL
+                                                                                                                                     Site Code        : 00000002
+                                                                                                                                     Start Date       : 9/8/2011
+                                                                                                                                     Page No          :1
+
+
+                                                                         Groups Printed- Vehicles
+                       US-101 ON RAMP                         ALUM ROCK AVE                   US-101 OFF RAMP                        ALUM ROCK AVE
+                          Southbound                              Westbound                       Northbound                             Eastbound
+  Start Time   Right   Thru Left Peds    App. Total   Right   Thru Left Peds App. Total Right Thru Left Peds App. Total      Right   Thru Left Peds App. Total   Int. Total
+  07:00 AM        0       0     0    0           0    116      166     0    0    282      11      0    25    2     38           0      66    45    0    111         431
+  07:15 AM        0       0     0    1           1    104      194     0    0    298      13      0    18    6     37           0     100    36    0    136         472
+  07:30 AM        0       0     0    4           4     61      254     0    1    316      13      0    24    2     39           0      83    57    0    140         499
+  07:45 AM        0       0     0    2           2     78      250     0    0    328      19      0    47    0     66           0     127    55    0    182         578
+      Total       0       0     0    7           7    359      864     0    1   1224      56      0 114     10   180            0     376 193      0    569        1980
+
+  08:00 AM        0      0    0      0           0     97      240     0     0     337     24     0     24       4     52       0     112    34      0     146      535
+  08:15 AM        0      0    0      4           4     89      195     0     0     284     17     0     27       3     47       0     101    32      0     133      468
+  08:30 AM        0      0    0      0           0     88      197     0     0     285     22     0     23       1     46       0     108    40      0     148      479
+  08:45 AM        0      0    0      2           2     86      161     0     1     248     20     0     40       1     61       0      97    44      0     141      452
+      Total       0      0    0      6           6    360      793     0     1    1154     83     0    114       9    206       0     418   150      0     568     1934
+
+ Grand Total      0      0    0    13          13     719 1657         0      2   2378   139      0    228     19     386       0    794    343      0    1137     3914
+  Apprch %        0      0    0   100                 30.2 69.7        0    0.1           36      0    59.1    4.9              0    69.8   30.2     0
+    Total %       0      0    0    0.3        0.3     18.4 42.3        0    0.1   60.8    3.6     0     5.8    0.5     9.9      0    20.3    8.8     0      29
+
+
+
+
+                        US-101 ON RAMP                     ALUM ROCK AVE                       US-101 OFF RAMP                     ALUM ROCK AVE
+                            Southbound                         Westbound                          Northbound                           Eastbound
+  Start Time Right Thru Left Peds App. Total Right Thru Left Peds App. Total             Right Thru   Left Peds App. Total   Right Thru   Left Peds App. Total   Int. Total
+Peak Hour Analysis From 07:00 AM to 08:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:15 AM
+   07:15 AM        0       0       0       1        1 104 194       0     0   298          13      0     18       6    37       0     100     36      0    136      472
+   07:30 AM        0       0       0       4        4   61 254      0     1   316          13      0     24       2    39       0      83     57      0    140      499
+   07:45 AM        0       0       0       2        2   78 250      0     0   328          19      0     47       0    66       0     127     55      0    182      578
+   08:00 AM        0       0       0       0        0   97 240      0     0   337          24      0     24       4    52       0     112     34      0    146      535
+ Total Volume      0       0       0       7        7 340 938       0     1 1279           69      0    113     12    194       0     422    182      0    604     2084
+  % App. Total     0       0       0 100              26.6 73.3     0   0.1              35.6      0   58.2     6.2             0    69.9   30.1      0
+         PHF .000 .000 .000 .438                 .438 .817 .923 .000 .250    .949        .719   .000   .601   .500    .735   .000    .831   .798   .000   .830      .901
