@@ -18,4 +18,6 @@ From these sources:
   * Wenatchee, WA
   * Auburn, ME
   * North Carolina Department of Transportation
+  * Richland County, OH (rcrpc)
+  * Atlanta, GA (perimetercid)
   * Miscellaneous reports found through web search
