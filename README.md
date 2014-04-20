@@ -21,4 +21,5 @@ From these sources:
   * North Carolina Department of Transportation
   * Richland County, OH (rcrpc)
   * Atlanta, GA (perimetercid)
+  * Minnesota Department of Transportation
   * Miscellaneous reports found through web search

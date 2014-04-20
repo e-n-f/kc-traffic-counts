@@ -1,0 +1,34 @@
+#!/usr/bin/perl
+
+system "curl -o index.html http://www.dot.state.mn.us/cgi-bin/metro/browse.cgi";
+open(IN, "index.html");
+while (<IN>) {
+	if (/href="\/cgi-bin\/metro\/browse.cgi\?dir=([^\/"]*)/) {
+		$dir = $1;
+
+		mkdir "$dir";
+		system "curl -o $dir/index.html 'http://www.dot.state.mn.us/cgi-bin/metro/browse.cgi?dir=$dir/'";
+
+		open(IN2, "$dir/index.html");
+		while (<IN2>) {
+			if (/href="\/cgi-bin\/metro\/browse.cgi\?dir=([^\/"]*)/) {
+				$dir2 = $1;
+
+				mkdir "$dir/$dir2";
+				system "curl -o $dir/$dir2/index.html 'http://www.dot.state.mn.us/cgi-bin/metro/browse.cgi?dir=$dir2/'";
+
+				open(IN3, "$dir/$dir2/index.html");
+				while (<IN3>) {
+					if (/http:\/\/(www.dot.state.mn.us\/metro\/[^"]*)/) {
+						print "$1\n";
+						system "curl -o '$1' --create-dirs 'http://$1'";
+					}
+				}
+
+				close(IN3);
+			}
+		}
+		close(IN2);
+	}
+}
+close(IN);
