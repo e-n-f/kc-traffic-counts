@@ -23,4 +23,5 @@ From these sources:
   * Atlanta, GA (perimetercid)
   * Minnesota Department of Transportation
   * Portland, OR
+  * Chittenden County (Burlington), VT
   * Miscellaneous reports found through web search
