@@ -63,6 +63,7 @@ sub out {
 						for $turn ("Right", "Thru", "Left") {
 							# print "$dir $turn ";
 							print "$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
+							delete $val{$fname}{$street}{$date}{$time}{$dir}{$turn};
 						}
 					}
 
@@ -70,6 +71,7 @@ sub out {
 						my $turn;
 						for $turn ("Peds") {
 							print "$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
+							delete $val{$fname}{$street}{$date}{$time}{$dir}{$turn};
 						}
 					}
 
@@ -77,6 +79,7 @@ sub out {
 						my $turn;
 						for $turn ("ThruBikes") {
 							print "$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
+							delete $val{$fname}{$street}{$date}{$time}{$dir}{$turn};
 						}
 					}
 
@@ -84,6 +87,17 @@ sub out {
 						print "$lat{$1},$lon{$1}";
 					} else {
 						print ",";
+					}
+
+					if (0) {
+						for $dir (keys(%{$val{$fname}{$street}{$date}{$time}})) {
+							my $turn;
+							for $turn (keys(%{$val{$fname}{$street}{$date}{$time}{$dir}})) {
+								unless ($turn =~ /Total/) {
+									print "$dir:$turn:$val{$fname}{$street}{$date}{$time}{$dir}{$turn},";
+								}
+							}
+						}
 					}
 
 					print "\n";
@@ -233,11 +247,10 @@ while (<>) {
 	if (/Start Date\s*:\s*(.*)/) {
 		$date = $1;
 		$date =~ s/,/ /g;
-	}
-
-	if (/(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday), (.*)/) {
+	} elsif (/(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday), (.*)/) {
 		$date = $2;
 		$date =~ s/,/ /g;
+		$date =~ s/    .*//;
 	}
 
 	if (/Groups Printed\s*-?\s*(.*)/ || /Turning Movement Data/) {
