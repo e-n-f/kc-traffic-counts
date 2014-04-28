@@ -30,7 +30,7 @@ while (<>) {
 		if ($dur{$key} == 60) {
 			$walk = $fields{$key}[12] + $fields{$key}[13] + $fields{$key}[14] + $fields{$key}[15];
 
-			printf("%d /%s ", $walk, $dur{$key});
+			# printf("%d /%s ", $walk, $dur{$key});
 
 			print "$id,$name,$id2,$date,";
 			printf("%02d:%02d-%02d:%02d,", $start{$key} / 60, $start{$key} % 60, ($start{$key} + $dur{$key}) / 60, ($start{$key} + $dur{$key}) % 60);
