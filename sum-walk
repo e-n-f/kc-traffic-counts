@@ -1,0 +1,8 @@
+#!/usr/bin/perl
+
+while (<>) {
+	($id, $name, $id2, $date, $time, @fields) = split(/,/);
+
+	$walk = $fields[12] + $fields[13] + $fields[14] + $fields[15];
+	print "$walk $_";
+}
