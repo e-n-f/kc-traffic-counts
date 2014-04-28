@@ -1,0 +1,30 @@
+#!/usr/bin/perl
+
+sub out {
+	@walks = sort { $omax{$b} <=> $omax{$a} } (keys(%omax));
+
+	# Second busiest hour, to reduce outliers
+
+	if ($#walks >= 1) {
+		print $walks[1];
+	} else {
+		print $walks[0];
+	}
+}
+
+while (<>) {
+	($id, $name, $id2, $date, $time, @fields) = split(/,/);
+
+	$key = "$id,$name,$id2,$date";
+	if ($key ne $okey) {
+		out();
+		%omax = ();
+	}
+
+	$walk = $fields[12] + $fields[13] + $fields[14] + $fields[15];
+
+	$omax{$_} = $walk;
+	$okey = $key;
+}
+
+out();
