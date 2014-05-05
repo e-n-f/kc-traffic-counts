@@ -21,7 +21,14 @@ while (<>) {
 
 		if ($start{$key} == 0) {
 			$start{$key} = $h1 * 60 + $m1;
+		} elsif ($start{$key} + $dur{$key} != $h1 * 60 + $m1) {
+			# printf("expected %02d:%02d, found %02d:%02d\n", $h1, $m1, ($start{$key} + $dur{$key}) / 60, ($start{$key} + $dur{$key}) % 60);
+			delete $dur{$key};
+			delete $fields{$key};
+			delete $start{$key};
+			$start{$key} = $h1 * 60 + $m1;
 		}
+
 		$dur{$key} += $dur;
 		for ($i = 0; $i <= $#fields; $i++) {
 			$fields{$key}[$i] += $fields[$i];
