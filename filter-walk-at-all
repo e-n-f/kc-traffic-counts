@@ -1,0 +1,28 @@
+#!/usr/bin/perl
+
+sub out {
+	if ($walks != 0) {
+		print @lines;
+	} elsif (0) {
+		for $line (@lines) {
+			print "# $line";
+		}
+	}
+}
+
+while (<>) {
+	($id, $name, $id2, $date, $time, @fields) = split(/,/);
+
+	$key = "$id,$name,$id2,$date";
+	if ($key ne $okey) {
+		out();
+		$walks = 0;
+		@lines = ();
+	}
+
+	$walks += $fields[12] + $fields[13] + $fields[14] + $fields[15];
+	push @lines, $_;
+	$okey = $key;
+}
+
+out();
