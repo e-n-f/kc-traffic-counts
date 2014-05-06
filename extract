@@ -213,7 +213,35 @@ sub parse_cols {
 		s/\bRightLeft\b/Right Left/gi;
 		@cols = split(/ +/, $_);
 
-		if (($group =~ /Bicycle/i || $group =~ /Bike/i) && !($group =~ /Motor bike/i) && !($group =~ /Cars/i)) {
+		if (
+			$group eq "Peds and Bicycles" ||
+			$group eq "Bicycles" ||
+			$group eq "BIKES" ||
+			$group eq "BIKES PEDS" ||
+			$group eq "Bikes" ||
+			$group eq "2 - Bicycles" ||
+			$group eq "Bike_Peds" ||
+			$group eq "Bicycles Only" ||
+			$group eq "Bikes/Peds" ||
+			$group eq "Bicycle" ||
+			$group eq "2 - 2 - Bicycles" ||
+			$group eq "Pedal Bikes" ||
+			$group eq "Bicycles/Peds" ||
+			$group eq "Bikes & Peds" ||
+			$group eq "Bikes Peds" ||
+			$group eq "Bikes_Peds" ||
+			$group eq "Bicycles and Pedestrians" ||
+			$group eq "Bicycles/Pedestrians" ||
+			$group eq "Bikes / Peds" ||
+			$group eq "Peds - Bikes" ||
+			$group eq "Pedestrians - Bikes" ||
+			$group eq "Bikes / Pedestrians" ||
+			$group eq "Bikes - Bank 2" ||
+			$group eq "Bicyclists" ||
+			$group eq "Bikes (Acting as Pedestrians)" ||
+			$group eq "Peds/Bikes" ||
+			0
+		) {
 			my $i;
 			for ($i = 0; $i <= $#cols; $i++) {
 				if ($cols[$i] ne "Peds") {
@@ -259,6 +287,7 @@ while (<>) {
 
 		$fname =~ s/,/ /g;
 		$group =~ s/,/ /g;
+		$group =~ s/\s*Out\s*In.*//;
 
 		$_ = <>;
 		chomp;
