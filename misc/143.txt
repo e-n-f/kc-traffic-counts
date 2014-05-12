@@ -1,0 +1,1310 @@
+TECHNICAL MEMORANDUM
+
+
+
+  TRAFFIC IMPACT STUDY
+
+
+ DESOTO 300 DEVELOPMENT
+
+
+
+
+                Prepared by:
+   Florida Transportation Engineering, Inc.
+              8250 Pascal Drive
+           Punta Gorda, FL 33950
+
+
+
+
+                November 2006
+                       PROFESSIONAL ENGINEER CERTIFICATE
+
+
+
+I hereby certify that I am a registered professional engineer in the State of Florida
+practicing with Florida Transportation Engineering, Inc., a consulting firm in the State of
+Florida and that I have supervised the preparation and approve the evaluation, findings,
+opinions, conclusions, and technical advice hereby reported for:
+
+
+       PROJECT:                Desoto 300 Development
+       LOCATION:               NE Quadrant of Kings Highway and Peace River Street
+       COUNTY:                 Desoto
+       STATE:                  Florida
+
+
+This report includes a summary of Trip Generation, Trip Distribution, Level of Service
+Analysis, Turn Lane Analysis and Recommendations for Desoto 300 Development. I
+acknowledge that the procedures and references used to develop the results contained in
+this report are standard to the professional practice of transportation engineering and
+planning as applied through professional judgment and experience.
+
+
+
+
+                                         SIGNATURE:
+                                                               Ravi Devaguptapu, P.E.,
+                                                               P.T.O.E.
+
+                                         DATE:
+                                                               Florida P.E. No. 53150
+Desoto 300 Development
+Traffic Impact Study
+
+
+
+
+                                             TABLE OF CONTENTS
+
+
+
+1.0      EXECUTIVE SUMMARY ...........................................................................................1
+
+2.0      INTRODUCTION .........................................................................................................2
+
+3.0      TRIP GENERATION ....................................................................................................5
+
+4.0      TRIP DISTRIBUTION..................................................................................................6
+
+5.0      PROJECT TRIPS...........................................................................................................8
+
+6.0      EXISTING ROADWAY CONDITIONS....................................................................10
+
+7.0      FUTURE TRAFFIC CONDITIONS ...........................................................................11
+
+8.0      INTERSECTION ANALYSIS ....................................................................................15
+
+9.0      TURN LANE ANALYSIS ..........................................................................................16
+
+10.0     CONCLUSION............................................................................................................19
+
+
+
+
+                                                               i
+Desoto 300 Development
+Traffic Impact Study
+
+
+                                                    LIST OF FIGURES
+
+
+1     PROJECT LOCATION MAP........................................................................................... 3
+
+2     PROJECT SITE PLAN..................................................................................................... 4
+
+3     TRIP DISTRIBUTION..................................................................................................... 7
+
+4     PROJECT TRIPS.............................................................................................................. 9
+
+5     2015 BACKGROUND TRAFFIC.................................................................................. 12
+
+6     2015 TOTAL TRAFFIC                           ................................................................................... ..13
+
+                                                   LIST OF TABLES
+
+
+
+1      TRIP GENERATION.....................................................................................................5
+
+2      EXISTING LINK LOS ANALYSIS........................................................................... 10
+
+3      2015 LINK LOS ANALYSIS......................................................................................12
+
+4      INTERSECTION ANALYSIS SUMMARY............................................................... 15
+
+5      SUMMARY OF RIGHT TURN LANE ANALYSIS.................................................. 18
+
+
+
+                                                LIST OF APPENDICES
+
+
+
+A      ITE Trip Generation Sheets
+
+B      Traffic Count Data and FDOT Seasonal Factor Report
+
+C      FDOT Generalized Level of Service Tables
+
+D      HCS Analysis Worksheets
+
+E      M.D. Harmelink Left Turn Study Figures and Guidelines for Exclusive Right Turn Lanes
+
+       at Unsignalized Intersections
+
+
+
+                                                                ii
+Desoto 300 Development
+Traffic Impact Study
+
+
+1.0      EXECUTIVE SUMMARY
+
+Peace River Land Group, LLC is proposing to build a mixed use development in Desoto
+County. The development site is located at the northeast quadrant of Kings Highway and
+Peace River Street. The anticipated build-out year is 2015.
+
+Trip Generation was performed using the ITE Trip Generation Manual for 326 Single Family
+Units (Land Use 210), 510 Multi Family Units (376 Carriage Homes and 134 Duplex units,
+Land Use 220), and 218 Town Homes (Land Use 230). The proposed development would
+generate 723 trips during the PM Peak Hour.
+
+Based on the local knowledge of commercial and residential land uses in the project vicinity,
+the project trips from the development were distributed 25% to the north and 75% to the
+south on Kings Highway/CR-769.
+
+Based on the discussion with Desoto County Public Works Department, it was understood
+that the roadway link on Kings Highway from Charlotte County line to Peace River Street is
+currently under design to widen from 2-lanes to 5-lanes. The anticipated opening year is
+2009. Therefore, this link was analyzed as 5-lanes roadway segment for the build-out
+conditions. Based on the roadway link analysis, the roadway links on Kings Highway and
+the Peace River Street would operate at acceptable levels of service with the proposed
+development.
+
+Based on the unsignalized intersection analysis, Kings Highway and Peace River Street
+intersection would operate at deficient level of service for the side street, which is not
+unusual for stop-controlled intersections. A traffic signal is not recommended at this time.
+
+Based on the turn lane analysis, a southbound left turn lane on Kings Highway at the Project
+Entrance 1 is recommended with a storage length of 100 feet plus appropriate taper and
+deceleration. In addition, a northbound right turn lane is recommended at this entrance.
+Eastbound Left Turn Lanes on Peace River Street at the Project Entrance 2 and Project
+Entrance 3 are recommended with storage lengths of 100 feet and 25 feet respectively, plus
+appropriate taper and deceleration. In summary, the proposed development does not have a
+significantly adverse impact on the surrounding roadway network. No additional
+improvements are recommended.
+
+                                              1
+Desoto 300 Development
+Traffic Impact Study
+
+
+2.0      INTRODUCTION
+
+
+Peace River Land Group, LLC is proposing to build a mixed use development in Desoto
+County. The development site is located at the northeast quadrant of Kings Highway and
+Peace River Street. The anticipated build-out year is 2015. The Project Location Map is
+shown as Figure 1.
+
+
+The proposed development consists of 326 Single Family Lots (Land Use 210), 510 Multi
+Family Units (376 Carriage Homes and 134 Duplex units, Land Use 220), and 218 Town
+Homes (Land Use 230). Access to the proposed development is provided via driveways on
+Kings Highway/CR 769 and Peace River Street. The Project Site Plan is shown as Figure 2.
+
+
+
+
+                                            2
+                               FIGURE 1
+
+                                               769
+
+
+
+
+                                                     ENT
+                                                         RAN
+                                                            CE
+                                                                 1
+
+
+
+
+                                                               PROJECT LOCATION
+                                                     Ú
+                                                     Ê
+               769
+              /CR
+             WAY
+
+
+
+
+                              ENTRANCE 2
+
+
+
+
+                                                                     ENTRANCE 3
+         IGH
+       GS H
+       KIN
+
+
+
+
+         PEACE RIVER STREET
+ 769
+
+
+
+
+DESOTO 300 DEVELOPMENT                                     PROJECT LOCATION MAP
+TRAFFIC IMPACT STUDY
+                                           3
+                     FIGURE 2
+
+
+
+
+DESOTO 300 DEVELOPMENT
+TRAFFIC IMPACT STUDY            PROJECT SITE PLAN
+                         4
+                                                NOT TO SCALE
+ Desoto 300 Development
+ Traffic Impact Study
+
+
+ 3.0      TRIP GENERATION
+
+
+ Trip Generation was performed using the Institute of Transportation Engineers (ITE) Trip
+ Generation, Seventh Edition for the proposed development. Table 1 summarizes the trip
+ generation calculations. Appropriate Land Use Code Work sheets from ITE Manual are
+ provided in Appendix A.
+
+
+                                                    Table 1
+                                                Trip Generation
+
+                      Land                                       AM Peak               PM Peak
+                                        Daily
+    Land Use              Use   Units              In/ Out        Hour      In/Out      Hour      In/Out
+                                        Trips
+                      Code                                        Trips                 Trips
+
+Single Family Lots        210   326     3,084    1,542 / 1,542     238     60 / 178      311     196 / 115
+
+Multi Family Units
+ (Carriage Homes          220   510     3,215    1,607 / 1,608     254     51 / 203      298     194 / 104
+and Duplex Units)
+
+  Town Homes              230   218     1,245      623 / 622       96       16 / 80      114      76 / 38
+
+       TOTAL                            7,544    3,772/ 3,772      588     127 / 461     723     466 / 257
+
+
+
+
+ As shown in Table 1, the proposed development generates 588 trips during the AM Peak
+ Hour, 723 trips during the PM Peak Hour, and 7,544 trips during a typical Weekday.
+
+
+
+
+                                                       5
+Desoto 300 Development
+Traffic Impact Study
+
+
+4.0      TRIP DISTRIBUTION
+
+
+Project trips were distributed onto the roadway network based on the local knowledge of
+commercial and residential land uses in the project vicinity. The project trips from the
+development were distributed 25% to the north and 75% to the south onto Kings
+Highway/CR-769. The trip distribution in percent is provided in Figure 3.
+
+
+
+
+                                             6
+                                   FIGURE 3
+                                                                     769
+
+
+
+
+                                                          25%
+
+
+
+                                                                EN
+                                                                    TR
+                                                                      AN
+                                                                           CE
+                                                                                1
+
+
+
+
+                                                                           PROJECT LOCATION
+                                                                Ú
+                                                                Ê
+                    769
+                 /CR
+               AY
+
+
+
+
+                                         ENTRANCE 2
+               HW
+
+
+
+
+                                                                                    ENTRANCE 3
+           HIG
+          GS
+         KIN
+
+
+
+
+                    PEACE RIVER STREET
+
+
+
+
+   75%
+
+ 769
+
+
+
+
+DESOTO 300 DEVELOPMENT
+                                                                            TRIP DISTRIBUTION
+TRAFFIC IMPACT STUDY
+                                                      7
+Desoto 300 Development
+Traffic Impact Study
+
+
+5.0      PROJECT TRIPS
+
+
+Based on the Trip Generation and Trip Distribution, the project trips were determined. The
+project trips during the PM Peak Hour are shown in Figure 4.
+
+
+
+
+                                             8
+                                FIGURE 4
+
+                                                            769
+
+                                        93 23
+                                                         13
+                                                       38
+                                                            ENT
+                                            51                  RAN
+                                                 70                 CE
+                                                                         1
+
+
+
+
+                                                                      PROJECT LOCATION
+                                                            Ú
+                                                            Ê
+                          769
+                       /CR
+                     WAY
+                    IGH
+                GS H
+
+
+
+
+                                    ENTRANCE 2
+
+
+
+
+                                                                             ENTRANCE 3
+               KIN
+
+
+
+
+            38 93                 103
+                   51                                                 103
+                      PEACE RIVER
+                  155 STR EET                         103
+                                186                               187
+              70 280            187
+      769
+
+
+
+
+DESOTO 300 DEVELOPMENT                                                         PROJECT TRIPS
+TRAFFIC IMPACT STUDY
+                                    9
+Desoto 300 Development
+Traffic Impact Study
+
+
+6.0      EXISTING ROADWAY CONDITIONS
+
+
+Access to the Desoto 300 Development is provided via one driveway on Kings Highway/CR-
+769 and two driveways on the Peace River Street.
+
+
+A turning movement count was performed at the intersection of Kings Highway/CR-769 and
+Peace River Street in October 2006. The turning movement data was adjusted to seasonal
+conditions using the Florida Department of Transportation (FDOT) seasonal factor of 1.12.
+The turning movement data and FDOT seasonal factor report are provided in Appendix B.
+
+
+As shown in Table 2, the roadway links on Kings Highway and Peace River Street currently
+operate at LOS "C" and better for the peak hour conditions. The FDOT Generalized Level of
+Service Table is provided in Appendix C.
+
+
+
+
+                                                    Table 2
+                                        Existing Link LOS Analysis
+
+
+
+                                                                     2006
+                              Roadway Segment                     Adjusted       LOS**
+                                                                  Traffic*
+
+                   Kings Highway/CR-769 n/o Peace River St.          866            C
+
+                   Kings Highway/CR-769 s/o Peace River St.          933            C
+
+                         Peace River St. e/o Kings Highway            89            A
+
+         *         Obtained from 2006 Turning Movement Count
+         **        2-Lanes Undivided LOS "A" = 205, LOS "B"= 586, LOS "C"=1,023, LOS "D"=1,395,
+                   "E"=1,897
+                   (Obtained by reducing (by 7%), the volume from FDOT Cities or Rural Developed Areas
+                   Uninterrupted Flow Highways 2-Lanes Undivided LOS)
+
+
+
+
+                                                       10
+Desoto 300 Development
+Traffic Impact Study
+
+
+7.0       FUTURE TRAFFIC CONDITIONS
+
+There was no historic data available on Kings Highway and Peace River Street. Therefore, a
+growth rate of three (3) percent was assumed on Kings Highway/CR-769 and Peace River
+Street.
+
+
+The 2006 adjusted turning movement data was projected to 2015 using the growth rate
+discussed above. The 2015 background traffic is shown in Figure 5.
+
+
+The 2015 total traffic was obtained by adding 2015 background traffic with the project trips.
+The 2015 total traffic is shown in Figure 6.
+
+
+Based on the discussion with Desoto County Public Works Department, it was understood
+that the roadway link on Kings Highway from Charlotte County line to Peace River Street is
+currently under design to widen from 2-lanes to 5-lanes. The anticipated opening year is
+2009. Therefore, this link was analyzed as 5-lane roadway segment.
+
+
+Based on the FDOT adopted service volumes, the roadway links were analyzed for the
+expected levels of service in the year 2015 with the proposed development. The link LOS
+analysis summary is shown in Table 3 for the PM peak hour. As shown in Table 3, the
+roadway links would operate at an acceptable level of service in the year 2015 with the
+proposed development.
+
+
+
+
+                                               11
+                                       FIGURE 5
+
+
+                                                                    769
+
+
+                                         434
+
+
+
+                                                               EN
+                                                                 TR
+                                                    666              AN
+                                                                          CE
+                                                                               1
+
+
+
+
+                                                                          PROJECT LOCATION
+                                                               Ú
+                                                               Ê
+                        769
+                     /CR
+                   AY
+                   HW
+               HIG
+
+
+
+
+                                       ENTRANCE 2
+              GS
+
+
+
+
+                                                                                   ENTRANCE 3
+             KIN
+
+
+
+
+  429
+         5
+                   9
+                        PEACE RIVER
+                   33   STREET                            42                                    42
+
+       657 66                     71
+
+ 769
+
+
+
+
+DESOTO 300 DEVELOPMENT                                                             2015 BACKGROUND
+TRAFFIC IMPACT STUDY                                                               TRAFFIC
+                                                     12
+                             FIGURE 6
+
+                                                                769
+
+
+                                     527
+                                                 23
+                                                             13
+                                                        38
+                                                            ENT
+                                            717                 RAN
+                                                                      CE
+                                                  70                       1
+
+
+
+
+                                                                      PROJECT LOCATION
+                                                            Ú
+                                                            Ê
+                    769
+                  /CR
+                WAY
+              IGH
+           GS H
+
+
+
+
+                                    ENTRANCE 2
+
+
+
+
+                                                                               ENTRANCE 3
+          KIN
+
+
+
+
+     467 98                   103
+               60                                                     103
+                  PEACE RIVER
+              188 STR EET                             145                                    42
+                            186                                   187
+         727 346            258
+                                                                  71
+   769
+
+
+
+
+DESOTO 300 DEVELOPMENT                                                                      2015 TOTAL
+TRAFFIC IMPACT STUDY                                                                        TRAFFIC
+                                         13
+Desoto 300 Development
+Traffic Impact Study
+
+
+                                                  Table 3
+                                          2015 Link LOS Analysis
+
+
+                               2006                          2015        PM         2015 Total
+                                         Growth
+     Roadway Segment Adjusted                      Background           Project       Traffic
+                                          Rate
+                              Traffic*            Traffic LOS**         Trips     Traffic LOS**
+
+      Kings Highway n/o
+      Peace River Street        866       3.00%    1,100            D     252      1,352        D
+
+     (2-Lanes Undivided)
+
+      Kings Highway s/o
+      Peace River Street        933       3.00%    1,185            A     543      1,728        B
+
+      (5-Lanes Roadway)
+
+     Peace River Street e/o
+        Kings Highway            89       3.00%        113          A     579      692          C
+
+     (2-Lanes Undivided)
+
+*        Obtained from 2006 Turning Movement Count
+**       2 Lane Undivided LOS "A" = 205, LOS "B"= 586, LOS "C"=1,023, LOS "D"=1,395, "E"=1,897
+         (Obtained by reducing (by 7%), the volume from FDOT Cities or Rural Developed Areas
+         Uninterrupted Flow Highways 2-Lanes Undivided LOS)
+         4 Lane Undivided LOS "A" = 1,522, LOS "B"= 2,464, LOS "C"=3,573, LOS "D"=4,620, "E"=5,245
+         (Obtained by reducing (by 12%), the volume from FDOT Cities or Rural Developed Areas
+         Uninterrupted Flow Highways 4-Lanes Divided LOS)
+
+
+
+
+                                                  14
+Desoto 300 Development
+Traffic Impact Study
+
+
+8.0      INTERSECTION ANALYSIS
+
+
+An unsignalized intersection analysis was performed at the intersection of Kings Highway
+and Peace River Street with the proposed development. The analysis was performed using
+the most recent version of Highway Capacity Software. The HCS analyses worksheets are
+provided in Appendix D.
+
+
+                                              Table 4
+                                   Intersection Analysis Summary
+
+
+                                              Year           Approach LOS
+                         Intersection          of                         WB
+                                            Analysis       SB
+                                                                     (Side Street)
+                                              2006
+                                                            A              C
+                 Kings Highway/CR-769        Existing
+                  and Peace River Street      2015
+                                                            B               F
+                                              Total
+
+
+
+
+As shown in Table 4, the intersection of Kings Highway/CR-769 and the Peace River Street
+would operate at a deficient level of service for the side street traffic, which is not unusual for
+stop-controlled intersections. A traffic signal is not recommended at this entrance.
+
+
+
+
+                                                15
+Desoto 300 Development
+Traffic Impact Study
+
+
+9.0      TURN LANE ANALYSIS
+
+
+Based on the trip generation and trip distribution, project trips were determined at the
+entrances. The Left Turn Lane Warrant Study was performed based on M.D.Harmelink Study.
+Figures from M.D. Harmelink are provided in Appendix E. The left turn warrant analysis is
+summarized below:
+
+
+         Southbound Left Turn Lane at the Project Entrance 1 on Kings Highway
+
+
+         Based on the Projected Traffic, the northbound direction would have 666 vehicles and
+         southbound direction would have 434 vehicles during the PM peak hours.
+
+
+         Advancing Volume     = 550 vph (434+93 (Project Through) + 23(Left Turns))
+         Opposing Volume      = 717 vph (666+ 51(Project Through))
+         Left Turn Volume     = 23 vph
+         Percent Lefts        = 4% (23/550)
+         Appropriate Figure   = 14
+
+
+         Based on these data, the left turn warrant is satisfied.       A left turn lane is
+         recommended. The recommended storage length is 100 feet.
+
+
+         The left turn lane should be constructed with the appropriate taper and deceleration
+         lengths in accordance with FDOT Index 301.
+
+
+         Eastbound Left Turn Lane at the Entrance 2 on Peace River Street
+
+
+         Based on the Projected Traffic, the eastbound direction would have 71 vehicles and
+         westbound direction would have 42 vehicles during the PM peak hours.
+
+
+         Advancing Volume     = 444 vph (71 + 186 (Left Turns) + 187 (Project Through))
+         Opposing Volume      = 145 (42 + 103(Project Through)) vph
+         Left Turn Volume     = 186 vph
+
+                                              16
+Desoto 300 Development
+Traffic Impact Study
+
+
+         Percent Lefts         = 42% (186/444)
+         Appropriate Figure    = 13
+         Based on these data, the left turn warrant is satisfied.        A left turn lane is
+         recommended. The recommended storage length is 100 feet.
+
+
+         The left turn lane should be constructed with the appropriate taper and deceleration
+         lengths in accordance with FDOT Index 301.
+
+
+         Eastbound Left Turn Lane at the Entrance 3 on Peace River Street
+
+
+         Based on the Projected Traffic, the peak direction would have 71 vehicles and off
+         peak direction would have 42 vehicles during the PM peak hours.
+
+
+         Advancing Volume      = 258 vph (71 + 187 Left Turns)
+         Opposing Volume       = 42 vph
+         Left Turn Volume      = 187 vph
+         Percent Lefts         = 72% (187/258)
+         Appropriate Figure    = 13
+
+
+         There is no matching figure for more than 40% left turns. Therefore, highest available
+         match figure number 13 was used.
+
+
+         Based on these data, the left turn warrant is not satisfied. However, left turn peak
+         hour volume is more than 100 vph, a left turn lane with minimum 25 feet of storage
+         length is recommended.
+
+
+         The left turn lane should be constructed with the appropriate taper and deceleration
+         lengths in accordance with FDOT Index 301.
+
+
+
+
+                                              17
+Desoto 300 Development
+Traffic Impact Study
+
+
+         Right Turn Lane Analysis
+
+
+         The Right Turn Lane Warrant Study was performed based on the article "Exclusive
+         Right Turn Lanes at Unsignalized Intersections, When We Should Require Them?"
+         published by the Statewide Access Management Team of Florida Department of
+         Transportation (FDOT). The posted speed limit on Kings Highway in the project
+         location is 55 mph. The article identifies the threshold of right turns requiring a turn
+         lane 40 vph for a facility with posted speed limit over 45 MPH. The FDOT article is
+         provided in Appendix E.
+                                             Table 5
+                                Summary of Right Turn Lane Analysis
+
+
+                                                                  Rights      Warranted
+                         Intersection            Movement
+                                                                  (vph)        (> 40 vph)
+       Kings Highway at Project Entrance 1           NBRT           70             Yes
+
+
+
+
+         As shown in Table 5, a northbound right turn lane is recommended at the intersection
+         of Kings Highway and Project Entrance 1.
+
+
+         The right turn lane need to be constructed in accordance with FDOT Index 301.
+
+
+
+
+                                                18
+Desoto 300 Development
+Traffic Impact Study
+
+
+         10.0      CONCLUSION
+
+
+Based on the roadway link analysis, the roadway links on Kings Highway and the Peace
+River Street would operate at an acceptable level of service with the proposed development.
+
+
+Based on the unsignalised intersection analysis, Kings Highway and Peace River Street
+intersection would operate at deficient level of service for the side street, which is not
+unusual for stop-controlled intersections. A traffic signal is not recommended at this time.
+
+
+Based on turn lane analysis, a southbound left turn lane on Kings Highway at the Project
+Entrance 1 is recommended with a storage length of 100 feet plus appropriate taper and
+deceleration. In addition, a northbound right turn lane is recommended at this entrance.
+Eastbound Left Turn Lanes on Peace River Street at the Project Entrance 2 and Project
+Entrance 3 are recommended with storage lengths of 100 feet and 25 feet respectively, plus
+appropriate taper and deceleration.
+
+
+In summary, the proposed development does not have a significantly adverse impact on the
+surrounding roadway network. No additional improvements are recommended.
+
+
+
+
+                                              19
+Desoto 300 Development
+Traffic Impact Study
+
+
+
+
+                                Appendix A
+
+
+                         ITE Trip Generation Sheets
+Desoto 300 Development
+Traffic Impact Study
+
+
+
+
+                                 Appendix B
+
+
+                              Traffic Count Data
+                                    And
+                         FDOT Seasonal Factor Report
+                                                             Florida Transportation Engineering, Inc.
+                                                                        8250 Pascal Drive
+Counter: 4375                                                        Punta Gorda, FL 33950                                                      File Name                   : KingsHwy@PeaceRiverAve
+Counted By: Marina                                                                                                                              Site Code                   : 00004375
+Weather: good                                                           Ph# (941)6392818                                                        Start Date                  : 10/12/2006
+Other:                                                                                                                                          Page No                     :1
+                                                                       Groups Printed- Cars, Trucks and Ped
+                                    KINGS HWY                               PEACE RIVER AVE                                         KINGS HWY
+                                    Southbound                                   Westbound                                          Northbound
+          Start Time      Thru            Left   Peds   App. Total      Right        Left     Peds       App. Total      Right      Thru        Peds          App. Total                 App. Total   Int. Total
+               16:00        81              1       0          82           3          4         0               7          14        86           0                100                          0          189
+               16:15        83              0       0          83           1          8         0               9          11       118           0                129                          0          221
+               16:30        73              0       0          73           4          6         0              10           7       115           0                122                          0          205
+               16:45        71              1       0          72           1          5         0               6          12       117           0                129                          0          207
+                Total      308              2       0         310           9         23         0              32          44       436           0                480                          0          822
+
+               17:00        75              3       0          78            0         4            0            4            16     112               0                         128             0         210
+               17:15        67              2       0          69            2         9            0           11            14     113               0                         127             0         207
+               17:30        90              3       0          93            1         5            0            6            12      92               0                         104             0         203
+               17:45        72              2       0          74            1         4            0            5             5     108               0                         113             0         192
+                Total      304             10       0         314            4        22            0           26            47     425               0                         472             0         812
+
+        Grand Total        612             12       0         624         13           45         0             58             91    861             0                           952             0        1634
+         Apprch %         98.1            1.9     0.0                   22.4         77.6       0.0                           9.6   90.4           0.0
+           Total %        37.5            0.7     0.0        38.2        0.8          2.8       0.0            3.5            5.6   52.7           0.0                           58.3          0.0
+                                                                                          KINGS HWY
+                                                                                   Out        In    Total
+                                                                                    874        624  1498
+
+
+                                                                                      612      12    0
+                                                                                     Thru    Left Peds
+                                        0
+                                    Total
+
+
+
+
+                                                                                                                                                           Out
+                                                                                                                                                            103
+                                                                                                                                           Right
+
+
+
+
+                                                                                                                                                            PEACE RIVER AVE
+                                                                                            North
+
+
+
+
+                                                                                                                                              13
+                                 Not Named
+
+                                         0
+                                      In
+
+
+
+
+                                                                                                                                           Left Peds
+
+
+
+
+                                                                                                                                                                   In
+                                                                                 10/12/2006 4:00:00 PM
+
+
+
+                                                                                                                                             45
+
+
+                                                                                                                                                                     58
+                                                                                 10/12/2006 5:45:00 PM
+                                          0
+
+
+
+
+                                                                                 Cars, Trucks and Ped
+                                    Out
+
+
+
+
+                                                                                                                                                                         Total
+                                                                                                                                                   0
+
+
+                                                                                                                                                                           161
+
+
+
+
+                                                                                     Thru Right Peds
+                                                                                      861    91    0
+
+
+                                                                                    657        952  1609
+                                                                                   Out        In    Total
+                                                                                          KINGS HWY
+
+
+
+
+                                    KINGS HWY                                    PEACE RIVER AVE                                    KINGS HWY
+                                    Southbound                                      Westbound                                       Northbound
+         Start Time       Thru       Left        Peds   App. Total      Right        Left     Peds       App. Total      Right      Thru        Peds          App. Total                 App. Total   Int. Total
+Peak Hour From 16:00 to 17:45 - Peak 1 of 1
+        Intersection 16:15
+            Volume         302          4           0         306          6           23         0             29             46    462             0                           508             0         843
+            Percent       98.7        1.3         0.0                   20.7         79.3       0.0                           9.1   90.9           0.0
+      16:15 Volume          83          0           0          83          1            8         0              9             11    118             0                           129             0         221
+       Peak Factor                                                                                                                                                                                     0.954
+            High Int. 16:15                                          16:30                                            16:15                                                             3:45:00 PM
+            Volume          83          0           0          83            4         6            0           10            11     118               0                     129
+       Peak Factor                                          0.922                                            0.725                                                         0.984
+ 2005 Peak Season Factor Category Report - Report Type: DISTRICT
+
+Category: 0400   DESOTO COUNTYWIDE
+                                                MOCF: 0.91
+
+Week          Dates            SF           PSCF
+================================================================================
+  1    01/01/2005 - 01/01/2005    0.99           1.09
+  2    01/02/2005 - 01/08/2005    0.97           1.06
+  3    01/09/2005 - 01/15/2005    0.96           1.05
+  4    01/16/2005 - 01/22/2005    0.95           1.04
+  5    01/23/2005 - 01/29/2005    0.94           1.03
+* 6    01/30/2005 - 02/05/2005    0.93           1.02
+* 7    02/06/2005 - 02/12/2005    0.92           1.01
+* 8    02/13/2005 - 02/19/2005    0.91           1.00
+* 9    02/20/2005 - 02/26/2005    0.91           1.00
+*10    02/27/2005 - 03/05/2005    0.90           0.99
+*11    03/06/2005 - 03/12/2005    0.90           0.99
+*12    03/13/2005 - 03/19/2005    0.89           0.98
+*13    03/20/2005 - 03/26/2005    0.90           0.99
+*14    03/27/2005 - 04/02/2005    0.91           1.00
+*15    04/03/2005 - 04/09/2005    0.91           1.00
+*16    04/10/2005 - 04/16/2005    0.92           1.01
+*17    04/17/2005 - 04/23/2005    0.93           1.02
+*18    04/24/2005 - 04/30/2005    0.93           1.02
+ 19    05/01/2005 - 05/07/2005    0.94           1.03
+ 20    05/08/2005 - 05/14/2005    0.94           1.03
+ 21    05/15/2005 - 05/21/2005    0.95           1.04
+ 22    05/22/2005 - 05/28/2005    0.97           1.06
+ 23    05/29/2005 - 06/04/2005    1.00           1.10
+ 24    06/05/2005 - 06/11/2005    1.02           1.12
+ 25    06/12/2005 - 06/18/2005    1.04           1.14
+ 26    06/19/2005 - 06/25/2005    1.06           1.16
+ 27    06/26/2005 - 07/02/2005    1.07           1.17
+ 28    07/03/2005 - 07/09/2005    1.08           1.18
+ 29    07/10/2005 - 07/16/2005    1.09           1.19
+ 30    07/17/2005 - 07/23/2005    1.09           1.19
+ 31    07/24/2005 - 07/30/2005    1.09           1.19
+ 32    07/31/2005 - 08/06/2005    1.10           1.21
+ 33    08/07/2005 - 08/13/2005    1.10           1.21
+ 34    08/14/2005 - 08/20/2005    1.10           1.21
+ 35    08/21/2005 - 08/27/2005    1.11           1.22
+ 36    08/28/2005 - 09/03/2005    1.12           1.23
+ 37    09/04/2005 - 09/10/2005    1.12           1.23
+ 38    09/11/2005 - 09/17/2005    1.13           1.24
+ 39    09/18/2005 - 09/24/2005    1.13           1.24
+ 40    09/25/2005 - 10/01/2005    1.13           1.24
+ 41    10/02/2005 - 10/08/2005    1.12           1.23
+ 42    10/09/2005 - 10/15/2005    1.12           1.23
+ 43    10/16/2005 - 10/22/2005    1.10           1.21
+ 44    10/23/2005 - 10/29/2005    1.07           1.17
+ 45    10/30/2005 - 11/05/2005    1.05           1.15
+ 46    11/06/2005 - 11/12/2005    1.03           1.13
+ 47    11/13/2005 - 11/19/2005    1.01           1.11
+ 48    11/20/2005 - 11/26/2005    1.00           1.10
+ 49    11/27/2005 - 12/03/2005    1.00           1.10
+ 50    12/04/2005 - 12/10/2005    0.99           1.09
+ 51    12/11/2005 - 12/17/2005    0.99           1.09
+ 52    12/18/2005 - 12/24/2005    0.97           1.06
+ 53    12/25/2005 - 12/31/2005    0.96           1.05
+
+
+
+* Peak Season
+
+
+14-Mar-2006 16:29:09                        830UPD [1,0,0,1]   1_0400_PKSEASON.txt
+
+Page 1 of 3
+Desoto 300 Development
+Traffic Impact Study
+
+
+
+
+                                       Appendix C
+
+
+                         FDOT Generalized Level of Service Tables
+                                                                                                TABLE 4 ­ 6
+                               GENERALIZED PEAK HOUR TWO-WAY VOLUMES FOR FLORIDA'S
+                                      RURAL UNDEVELOPED AREAS AND CITIES OR
+                                  DEVELOPED AREAS LESS THAN 5,000 POPULATION*
+
+                 RURAL UNDEVELOPED AREAS                                                                                 CITIES OR RURAL DEVELOPED AREAS
+                                                                                                                                   LESS THAN 5000
+                                                                                                                                                       FREEWAYS
+                                             FREEWAYS                                                                                                             Level of Service
+                                                                                                                   Lanes                         A           B           C          D           E
+                                                           Level of Service                                        4                           2,220       3,670       4,980      5,890       6,550
+Lanes                            A               B              C             D                      E             6                           3,440       5,650       7,690      9,090      10,110
+4                              2,200           3,670          4,980         5,890                  6,550           8                           4,650      7,650       10,400     12,310      13,670
+6                              3,440           5,650          7,690         9,090                 10,110                              UNINTERRUPTED FLOW HIGHWAYS
+8                              4,650           7,650         10,400       12,310                  13,670                                                          Level of Service
+                                                                                                                   Lanes Divided                 A           B           C          D           E
+                                                                                                                   2      Undivided             220         630       1,100       1,500       2,040
+                         UNINTERRUPTED FLOW HIGHWAYS                                                               4      Divided             1,730       2,800       4,060       5,250       5,960
+                                                                                                                   6      Divided             2,600       4,200       6,080       7,870       8,940
+                                                           Level of Service                                                             INTERRUPTED FLOW ARTERIALS
+Lanes Divided                     A              B              C             D                      E                                                            Level of Service
+2     Undivided                 220             460            740          1,190                  1,920           Lanes Divided                 A           B           C          D           E
+4     Divided                  1,710           2,800          4,000         5,140                  5,710           2      Undivided             **         210        1,070       1,350       1,450
+6     Divided                  2,570           4,200          6,000         7,710                  8,560           4      Divided               **         520        2,470       2,850       3,020
+                                                                                                                   6      Divided               **         810        3,820       4,290       4,540
+                         PASSING LANE ADJUSTMENTS                                                                                    NON-STATE SIGNALIZED ROADWAYS
+         (alter corresponding two-lane LOS A-D volumes indicated percent)                                                                    (signalized intersection analysis)
+                                                                                                                                                                  Level of Service
+              Passing Lane Spacing                                       Adjustment Factors                        Lanes                         A           B           C          D           E
+                      5 mi.                                                    +25%                                2                             **          **         180        740         980
+                     10 mi.                                                    +10%                                                                 BICYCLE MODE
+                                                                                                                   (Note: Level of service for the bicycle mode in this table is based on roadway
+                                                                                                                   geometrics at 45 mph posted speed and traffic conditions, not number of
+                     ISOLATED SIGNALIZED INTERSECTIONS                                                             bicyclists using the facility.) (Multiply motorized vehicle volumes shown
+                                                                                                                   below by number of directional roadway lanes to determine maximum service
+                                                           Level of Service                                        volumes.)
+Lanes                            A               B              C             D                      E
+2                                **             180            780          1,050                  1,190             Paved Shoulder/
+4                                **             290           1,700         2,250                  2,470              Bicycle Lane                                            Level of Service
+6                                **             440           2,660         3,480                  4,220                Coverage                       A               B            C            D                     E
+                                                                                                                         0-49%                        **              **           270         670                   >670
+                                          BICYCLE MODE                                                                   50-84%                       **              200          340         >340                   ***
+                                                                                                                        85-100%                       280             390         >390          ***                   ***
+(Note: Level of service for the bicycle mode in this table is based on roadway
+geometrics at 55 mph posted speed and traffic conditions, not number of                                                                          PEDESTRIAN MODE
+bicyclists using the facility.) (Multiply motorized vehicle volumes shown below                                    (Note: Level of service for the pedestrian mode in this table is based on
+by directional roadway lanes to determine maximum service volume.)                                                 roadway geometric at 45 mph posted speed and traffic conditions, not number
+                                                                                                                   of pedestrian using the facility.) (Multiply motorized vehicle volumes shown
+ Paved Shoulder/                                                                                                   by number of directional roadway lanes to determine maximum service
+  Bicycle Lane                                                                                                     volumes.)
+    Coverage                     A                B                C               D                  E                                                          Level of Service
+     0-49%                       **               **              **               **                610           Sidewalk Coverage           A            B          C            D          E
+    50-84%                       **               **              **               **               1,720                 0-49%                **          **          **          430       1,370
+    85-100%                      **               **              390             >390               ***                  50-84%               **          **          **          780       1,750
+                                                                                                                         85-100%               **          **         920         >920        ***
+                                                                  02/22/02       NON-FREEWAY AND SIGNALIZED INTERSECTION ANALYSES DIVIDED/UNDIVIDED ADJUSTMENTS
+Source:       Florida Department of Transportation                                                                  (alter corresponding volumes by the indicated percent)
+              Systems Planning Office                                                       Lanes                            Median               Left Turn Lanes                                Adjustment Factors
+              605 Suwannee Street, MS 19                                                      2                             Divided                      Yes                                           +5%
+              Tallahassee, FL 32399-0450                                                      2                            Undivided                     No                                            -20%
+                                                                                            Multi                          Undivided                     Yes                                            -5%
+http://www11.myflorida.com/planning/systems/sm/los/default.htm                              Multi                          Undivided                     No                                            -25%
+*This table does not constitute a standard and should be used only for general planning applications. The computer models from which this table is derived should be used for more specific planning applications.
+The table and deriving computer models should not be used for corridor or intersection design, where more refined techniques exist. Values shown are two-way annual average daily volumes (based on K100 factors) for
+levels of service and are for the automobile/truck modes unless specifically stated. Level of service letter grade thresholds are probably not comparable across modes and, therefore, cross modal comparisons should be
+made with caution. Furthermore, combining levels of service of different modes into one overall roadway level of service is not recommended. The table's input value defaults and level of service criteria appear on the
+following page. Calculations are based on planning applications of the Highway Capacity Manual, Bicycle LOS Model, and Pedestrian LOS Model, respectively for the automobile/truck, bicycle and pedestrian modes.
+**Cannot be achieved using table input value defaults.
+***Not applicable for the level of service letter grade. For bicycle and pedestrian modes, the level of service letter grade (including F) is not achievable, because there is no maximum vehicle volume threshold using table
+input value defaults.
+                                                                                                                                                                                                                          95
+Desoto 300 Development
+Traffic Impact Study
+
+
+
+
+                               Appendix D
+
+
+                         HCS Analyses Worksheets
+              HCS2000: Unsignalized Intersections Release 4.1d
+
+_______________________TWO-WAY STOP CONTROL SUMMARY___________________________
+
+Analyst:               FTE
+Agency/Co.:
+Date Performed:        11/7/2006
+Analysis Time Period: PM Peak Hour
+Intersection:          Kings Highway and Peace River
+Jurisdiction:          Desoto County
+Units: U. S. Customary
+Analysis Year:         2006 Existing
+Project ID: 106050-01
+East/West Street:      Peace River Street
+North/South Street:    Kings Highway
+Intersection Orientation: NS                  Study period (hrs):   0.25
+
+______________________Vehicle Volumes and Adjustments_________________________
+Major Street: Approach         Northbound                 Southbound
+                Movement    1      2         3    | 4         5      6
+                            L      T         R    | L         T      R
+______________________________________________________________________________
+Volume                             517       52        4      338
+Peak-Hour Factor, PHF              0.95      0.95      0.95   0.95
+Hourly Flow Rate, HFR              544       54        4      355
+Percent Heavy Vehicles             --        --        0      --     --
+Median Type/Storage         Undivided                /
+RT Channelized?                             No
+Lanes                              1      1               1   1
+Configuration                      T    R                   L T
+Upstream Signal?                   No                         No
+______________________________________________________________________________
+Minor Street: Approach         Westbound                  Eastbound
+                Movement    7      8         9    | 10        11     12
+                            L      T         R    | L         T      R
+______________________________________________________________________________
+Volume                      26               7
+Peak Hour Factor, PHF       0.95             0.95
+Hourly Flow Rate, HFR       27               7
+Percent Heavy Vehicles      0                0
+Percent Grade (%)                  0                          0
+Flared Approach: Exists?/Storage             No    /                    /
+Lanes                          0          0
+Configuration                      LR
+______________________________________________________________________________
+
+__________________Delay, Queue Length, and Level of Service___________________
+Approach            NB     SB        Westbound             Eastbound
+Movement            1      4    | 7      8      9    | 10      11     12
+Lane Config                L    |        LR          |
+______________________________________________________________________________
+v (vph)                    4             34
+C(m) (vph)                 989           338
+v/c                        0.00          0.10
+95% queue length           0.01          0.33
+Control Delay              8.7           16.8
+LOS                          A             C
+Approach Delay                           16.8
+Approach LOS                               C
+______________________________________________________________________________
+              HCS2000: Unsignalized Intersections Release 4.1d
+
+_______________________TWO-WAY STOP CONTROL SUMMARY___________________________
+
+Analyst:               FTE
+Agency/Co.:
+Date Performed:        11/7/2006
+Analysis Time Period: PM Peak Hour
+Intersection:          Kings Highway and Peace River
+Jurisdiction:          Desoto County
+Units: U. S. Customary
+Analysis Year:         2015 Total
+Project ID: 106050-01
+East/West Street:      Peace River Street
+North/South Street:    Kings Highway
+Intersection Orientation: NS                  Study period (hrs):   0.25
+
+______________________Vehicle Volumes and Adjustments_________________________
+Major Street: Approach          Northbound                  Southbound
+                Movement    1       2         3    | 4          5      6
+                            L       T         R    | L          T      R
+______________________________________________________________________________
+Volume                              727       346       98      467
+Peak-Hour Factor, PHF               0.95      0.95      0.95    0.95
+Hourly Flow Rate, HFR               765       364       103     491
+Percent Heavy Vehicles              --        --        0       --     --
+Median Type/Storage         Undivided                 /
+RT Channelized?                              No
+Lanes                               2      1                1   1
+Configuration                       T    R                    L T
+Upstream Signal?                    No                          No
+______________________________________________________________________________
+Minor Street: Approach          Westbound                   Eastbound
+                Movement    7       8         9    | 10         11     12
+                            L       T         R    | L          T      R
+______________________________________________________________________________
+Volume                      188               60
+Peak Hour Factor, PHF       0.95              0.95
+Hourly Flow Rate, HFR       197               63
+Percent Heavy Vehicles      0                 0
+Percent Grade (%)                   0                           0
+Flared Approach: Exists?/Storage              No    /                     /
+Lanes                           0          0
+Configuration                       LR
+______________________________________________________________________________
+
+__________________Delay, Queue Length, and Level of Service___________________
+Approach            NB     SB        Westbound             Eastbound
+Movement            1      4    | 7      8      9    | 10      11     12
+Lane Config                L    |        LR          |
+______________________________________________________________________________
+v (vph)                    103           260
+C(m) (vph)                 626           128
+v/c                        0.16          2.03
+95% queue length           0.59          21.12
+Control Delay              11.9          547.2
+LOS                          B             F
+Approach Delay                           547.2
+Approach LOS                               F
+______________________________________________________________________________
+Desoto 300 Development
+Traffic Impact Study
+
+
+
+
+                                          Appendix E
+                           M.D. Harmelink Left Turn Study Figures
+                                             And
+                         Guidelines for Exclusive Right Turn Lanes At
+                                 Unsignalized Intersections
+
