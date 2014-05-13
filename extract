@@ -405,7 +405,7 @@ while (<>) {
 	}
 
 	if ($#cols >= 0) {
-		if (s/^\s*(\d+):(\d+)\s*(.M)?\s*//) {
+		if (!/Volume/ && s/^\s*(\d+):(\d+)\s*(.M)?\s*//) {
 			my $hour = $1;
 			my $min = $2;
 			my $m = $3;
@@ -422,7 +422,8 @@ while (<>) {
 			my @row = split(/ +/, $_);
 
 			if ($#row != $#cols) {
-				print STDERR "$fname: mismatched columns $#cols, $#row @cols in $_\n";
+				print STDERR "$fname: mismatched columns: $#cols @cols\n";
+				print STDERR "$fname: mismatched row: $#row $_\n";
 				next;
 			}
 
