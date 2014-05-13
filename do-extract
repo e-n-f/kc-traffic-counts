@@ -23,3 +23,4 @@ find corvallis -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | 
 find dc -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-dc.csv
 find boston -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-boston.csv
 find oakland -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-oakland.csv
+find arkansas -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-arkansas.csv
