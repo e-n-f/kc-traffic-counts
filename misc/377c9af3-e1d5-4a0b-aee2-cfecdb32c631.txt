@@ -1,0 +1,1423 @@
+ Aldridge Transportation Consultants, LLC
+                              Advanced Transportation Planning and Traffic Engineering
+John M.W. Aldridge, PE, PTOE, AICP                                                        1082 Chimney Rock Road
+Colorado Registered Professional Engineer                                                Highlands Ranch, CO 80126
+Professional Traffic Operations Engineer                                                         Tele: 303-703-9112
+American Institute of Certified Planners                                                          Fax: 303-703-9152
+                                                                                               Mobile: 303-594-4132
+                                                                                             Email john@atceng.com
+
+
+November 5, 2013
+
+Mr. Shane Wells
+Hi-Performance Wash Systems
+shanewells@hpws.com
+
+RE:         Transportation Impact Study
+            Eco Express Car Wash ­ Aurora, Colorado
+
+
+Dear Mr. Wells:
+
+This traffic impact analysis provides a study of the traffic impact occasioned by a proposed
+automatic car wash in Aurora, Colorado. The project proposes to build an approximately 4,300
+square foot facility with one drive through wash lane and several self-serve vacuum stations. The
+                                                    site is located on the northeast corner of East
+                                                    Asbury Ave. and South Havana Street. The
+                                                    exhibit to the left shows the location and
+                                                    surrounding area on an aerial photograph.
+                                                    Access to the site will be from East Asbury
+                                                    and South Havana. Both accesses will be full-
+                                                    movement. The appendix contains the site
+                                                    plan.
+
+                                                    EXISTING CONDITIONS
+                                                    South Havana Street is a six-lane principal
+                                                    arterial roadway. It is a state highway (SH-
+                                                    30). The speed limit is 45 mph. Currently
+                                                    South Havana Street carries approximately
+                                                    40,000 AADT according to CDOT's OTIS
+                                                    website. The center left turn lanes allows left
+                                                    turns in and left turns out. East Asbury Ave.
+                                                    is a two-lane collector that carries about
+                                                    1,000 ADT. The intersection of South
+                                                    Havana and East Asbury is two-way stop
+                                                    sign controlled. The existing AM and PM
+                                                    peak hour counts at South Havana and East
+                                                    Asbury were taken October 16, 2013 by All
+                                                    Traffic Data Services, Inc., a professional
+traffic counting firm. The appendix contains existing AM and PM peak hour traffic counts.
+                                            Aldridge Transportation Consultants, LLC
+                                                                                         Page 2 of 4
+
+
+PROJECT TRAFFIC
+The proposed land use is a 4,300 square foot automatic car wash. The estimated trip generation is
+based on rates and values from the ITE Trip Generation Manual, 9th Edition. However,
+because this particular car wash could service a higher volume (theoretically, 90 vehicles per
+hour) we have doubled the observed volume from ITE to be conservative in the analysis. The
+following chart shows the adjusted trip generation for the PM peak hour, which is the heaviest
+time of travel on the adjacent streets and intersections. Because the PM peak hour is heaviest time
+of travel, it is considered the design hour volume (DHV) for geometric design and traffic control
+purposes. It is important to note that the theoretical maximum of 90 vph would not occur during
+the PM peak hour (one hour between 4 and 6 pm on an average weekday). The maximum hourly
+volume is possible, though, on a Saturday afternoon, the busiest time for a car wash.
+
+                                  Trip Generation Worksheet
+
+                                                                           AM                 PM
+ ITE Code          Land Use          Unit Quantity        ADT         In        Out     In      Out
+
+    948            Automatic          KSF       4.3        n/a       n/a        n/a     7.1     7.1
+                   Car Wash                                                             30      30
+
+                 Adustment x 2                                                           30     30
+
+
+
+          Total Adjusted Trips                                                           60     60
+
+
+
+TRIP DISTRIBUTION AND ASSIGNMENT
+Undoubtedly, the majority of trips in and out of the car wash will use the entrance on South
+Havana St. For this analysis, we have assumed that two thirds of the total (66%) will use the
+Havana entrance. The other one third will use the East Asbury entrance with about half entering
+and exiting to and from the neighborhood to the east and the other half from the west, which
+assumes some will turn in from South Havana at the intersection with East Asbury. In terms of
+numbers, we expect 20 vph entering and 20 vph exiting on northbound South Havana and 20 vph
+entering and 20 vph existing on southbound South Havana. On East Asbury, 10 vph is expected
+to enter and 10 vph exit on westbound Asbury and likewise 10 vph to enter and 10 vph to exit on
+eastbound Asbury. On Asbury to the east of the site, 20 vehicular trips (10 vph westbound and 10
+vph eastbound) are projected in the PM peak hour. On a Saturday afternoon, the total could rise to
+30 vehicular trips in a one-hour period. Again, these are highly conservative numbers. It is
+entirely possible that there would be zero trips on Asbury during the PM peak hour and on
+Saturday afternoon. Note that the majority if not all the entering and exiting traffic is "passer-by"
+or traffic that is already on the street and stops in for a car wash. In addition, we expect that most
+of traffic from the east on Asbury will be residents of the adjacent neighborhoods.
+
+SITE CIRCULATION AND QUEUING EVALUATION
+The site will have three stations for point of sale functions prior to entering the wash line. From
+Havana, the stations are approximately 500 feet away. From Asbury, they are approximately 200
+feet away. Each station has about 100 feet of queuing space for a total of 300 feet or at 25 feet per
+                                              Aldridge Transportation Consultants, LLC
+                                                                                            Page 3 of 4
+
+
+vehicle, the three stations could queue 12 vehicles. Queuing for a car wash is dynamic and
+continually moving. At 60 vph, that is one vehicle every minute. However, arrivals are random
+and not spaced equally apart. Consequently, queues will likely accumulate or "bunch." To
+determine if there is sufficient space for queues that would not extend beyond the station queuing
+area, we evaluated the probability of exactly n vehicles in the queue with a stochastic queuing
+performance equation for random arrivals and random service single (one car wash line) channel
+systems1. The equation, P (n) = p^n(1-p), where P(n) = probability of exactly n vehicles in the
+queue, p = traffic intensity and n = number of vehicles in the queue was applied to the number
+(60) of vehicles expected to enter during the PM peak period (60 minutes). Assuming that the car
+wash can service 90 vehicles per hour then the value for traffic intensity (p) is equal to 60/90 or
+.66. The probability that 12 vehicles would queue during the PM peak hour ((.66^12(1-.66) =
+.0023)) is .2 percent which is obviously exceptionally low and therefore the chances of 12
+vehicles being in the queue is virtually non-existent.
+
+Note also that the car wash is equipped with sensors that stop the car wash line in the event of
+blockage caused by queuing or breakdown. This is a standard safety feature.
+
+TRAFFIC IMPACT CONSIDERATIONS
+ATC uses Synchro v.8 for operations analyses. The Synchro methodology is based on the
+Highway Capacity Manual 2010 (HCM). The Synchro HCM reports are attached for reference.
+The chart summarizes the existing and forecast 2033 LOS (level of service). LOS is letter rating
+from A to F. LOS A indicates free-flow traffic conditions and no delay at intersections. LOS F is
+heavy traffic congestion with significant delay. LOS is provided for the overall operations at
+signalized intersections. LOS D is generally the benchmark for acceptable signalized intersection
+operations during the weekday peak hours. The LOS rating for unsignalized intersections is
+provided by the critical movement - not the overall - which is generally a left turn from the minor
+street. Caution must be used when evaluating the LOS at unsignalized intersections particularly
+when LOS F is shown. In the case of an LOS F, the HCM2 suggests that other evaluation
+measures should be considered such as the volume over capacity ratio and 95th percentile queue
+length to make the most effective traffic control decision. LOS F at unsignalized intersections is
+often normal for the weekday peak hour when either the v/c ratio or the 95th percentile queue
+length is acceptable. Note also that in conditions where the major street (South Havana) carries
+greater than 15,000 average daily traffic, the minor street left turn (East Asbury or the Havana
+entrance) will always register LOS F even if it is only one vehicle making the turn. Therefore, in
+this case the other performance measures are vitally important.
+
+                       Intersection       Existing LOS            LOS with Car Wash
+                 South Havana/East Asbury      F/F                       F/F
+                 Havana Entrance               n/a                        F
+                 Asbury Entrance               n/a                        A
+
+At the Havana/Asbury intersection in the AM peak hour the control delay is 115.9 seconds per
+vehicle, however the 95th percentile queue length is only one vehicle in a one hour period. In the
+PM peak hour the control delay exceeds 300 seconds however, the 95th percentile queue is just
+1
+    The equation is found on page 360 of Traffic Flow Fundamentals by Adolf D. May, Prentice-Hall, 1990
+2
+    Highway Capacity Manual 2010 page 19-40
+                                          Aldridge Transportation Consultants, LLC
+                                                                                      Page 4 of 4
+
+
+two vehicles in a one-hour period. The 95th percentile queue is acceptable. Note that LOS F is
+normal for an unsignalized intersection in an urban area. The volumes on the minor street (East
+Asbury) approach are too low to qualify for a traffic signal. The impact of the car wash on the
+intersection is too small to have any measurable impact on the intersection.
+
+The access to Havana will operate at LOS F in the PM peak hour, however, the volume over
+capacity for the movement is .45 and the 95th percentile queue is about two vehicles in a one-hour
+period. This condition is normal and acceptable.
+
+The access to Asbury will operate at LOS A in the PM peak hour. The movement in and out will
+have no impact on the east/west through movements on Asbury.
+
+MITIGATION MEASURES
+The primary concern for the neighborhood to the east of the site is unwanted traffic using Asbury
+to access the car wash. A review of the neighborhood streets reveals that the only users of the car
+wash from this direction would be the residents themselves. With the exception of Joliet and
+Lima, the connecting streets to Asbury are short cul-de-sacs. The chances of any "cut-through"
+traffic using Asbury to access the car wash must be considered random and occasional at best. No
+mitigation measures are necessary to limit the use of the Asbury entrance. Moreover, prohibiting
+the left turn out from the Asbury entrance, as has been indicated, would be a disservice for those
+residents wanting to return home after having their car washed.
+
+CONCLUSION & RECOMMENDATIONS
+This analysis finds that the proposed Eco Express Car Wash will have no impact on the adjacent
+streets and intersections. The access locations and circulation will function harmoniously with the
+current and future traffic flow on South Havana and East Asbury. No improvements to the
+adjacent streets and intersections are occasioned by the additional traffic from the development.
+
+Should you have any questions or need additional information please call me at 303-703-9112.
+Thank you for the opportunity to be of service.
+
+                                         Respectfully submitted,
+                                         Aldridge Transportation Consultants, LLC
+
+
+
+                                         John M.W. Aldridge, PE, PTOE, AICP
+                                         Principal
+
+jmwa/me att.
+                                                                                                                                                            SITE PLAN AND CONDITIONAL USE WITH WAIVERS
+
+                                                                                                                                      ECO EXPRESS CAR WASH II
+                                                                                                                                 LOCATED IN THE NW 1/4, SECTION 26, T. 4 S., R. 67 W., 6TH P.M.
+                                                                                                                                 CITY OF AURORA, ARAPAHOE COUNTY, STATE OF COLORADO
+
+
+
+                                                                                                                                                                                        PLOT 1,
+                                                                                                                         1
+                                                                                                                                                                                  MALONE SUBDIVISION                                                                                                                                                                                                                                                                               1
+                                                                                                                        12 " STEEL PIPE GUARDRAIL                                    FILING NO. 1                                                                                                                                                                                                                        8' DRAINAGE EASEMENT                                     12 " STEEL PIPE GUARDRAIL
+                                                                                                                        AT 42" AFF WITH INTERMEDIATE                                                                                                                                   GAS METER                                                                                                                                                                                  AT 42" AFF WITH INTERMEDIATE
+                                                                                                                        RAILS ALONG DRIVE THE                                                                                                                                                                                                                                                                            RETAINING WALL                                           RAILS ALONG DRIVE THE
+       SIGHT TRIANGLE                                                                                                   LENGTH OF DETENTION                                                                                                                                                                                                                                                                                                                                       LENGTH OF DETENTION
+                                                                                                                                                                                                                                                                                                                                                                                                                         LANDSCAPING
+                                                                 STRIPING                                                                         WATER SERVICE                                                                                                                        ELECTRICAL SERVICE                                                                                                                                                                         EXISTING FENCE
+            LANDSCAPING                                                                                                                                                                                                                                                                                                                                                                                                  BIKE RACK
+                                                                                                                                                  ENTRANCE                                                                                                                             ENTRANCE                                                                                                                          RE: 7/7
+ EXISTING SIDEWALK
+                                                                                                                                                                                                                                273.37'                                                                                                                                                                                                                                          STORM INLET
+
+
+
+
+                          17'-111 2"
+
+
+
+
+                                                                                                                                               17'-111 2"
+    13' SIDEWALK
+    EASEMENT                                                                                                                                                                                                                                                                          PIPE BOLLARD.                                                                                                                                                                              8X8 CONCRETE
+                                                                                                                                                                               Detention Pond
+
+
+
+
+                                                                                                                                      30'-0"
+                                                                                                                                                                                                                                                                                      TYPICAL                                                                                                                                                                                    PAD FOR
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 TRANSFORMER
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                     5'-0"
+                                                                                                                                                   12'-0"
+      200 SF LOADING
+                                                                                                                                                                                                                                                                                                                                                                                                                             73'-101 2"
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                  9'-0"
+      ZONE                                                        51'-2"                                                                                                                          148'-4"
+
+
+
+
+                              25'-0"
+                                                                                                                   F1                                                                       F1                                                                                                                     F1
+       SIGHT TRIANGLE                                                                                                                                                                                                                                                                                                                                                                                                                                                                  CONCRETE
+                                                                                                                                                                                                                                                                                                                                                                                                                                               30'-81 2"                               SIDEWALK
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                      17'-0"
+                                                                                                                                                                                                                                                                                                                                                                                      F2
+           ENTRY SIGN
+                                                             14'-2"              26'-11 2" F2                                                                                                                                                                                                                                                                                                                                                                                          H.C. RAMP
+                                                                                 LOADING                                                                                                                                                                                                                                                                                                                                                                                               RETAINING WALL
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       RE: 6/7
+            STORM                                                                                          F1
+
+
+
+
+                                                                                   42'-8"
+            INLET
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                      22'-8"
+PUBLIC SERVICE
+EASEMENT                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ROLLOVER CURB
+
+
+
+
+                                       127.33'
+           STOP/GO                                                                                                                                                                                                                                                                                                                                                                                                                                                                     LANDSCAPING
+           SIGN                                              14'-2"            14'-0"                                                                                                                                                                                                                                                                 F1
+                                                                                                           F1
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                          4'-6"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         12'-0"
+                                                                                                                            F1                              F1                   F1                                                               F1                                                                            F1                                                                                                                                                     VAN-ACCESSIBLE
+           FIRE LANE                                                                                                                                                                                                                                                                                                                                                                                                             F3                                                    PARKING, AISLE AND
+
+
+
+
+                                                                                            5'-0" 13'-6"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       SIGNAGE. RE: 1/6
+
+
+
+
+                                                                                                                                                                                                               (TYPICAL)
+                                                                                                                                                                                                      18'-0"
+
+
+
+
+                                                                                                                                                                                                                                                                                         18'-0"
+           H.C. RAMP
+                                                                                                                16'-0"                                                    11
+           ROLLOVER CURB
+                                                                                                                                                                                                                                                   12'-0"                                                                                                                                                                                                                              LANDSCAPING
+                                                                                                                                                                           MATT WASHER                                                            (TYPICAL)
+                                                                                                                                                                                                                                                                                                    STORM INLET
+                                                                                                                                                                           AND VENDING
+                                                                                                                                                                 F3
+
+
+
+
+                                                                                                                             14'-0"
+            LANDSCAPING                                                                                                                                                    LANDSCAPING                                                                                      UNDERGROUND SAND/OIL                                                                                      CONCRETE                                                                                         H.C. RAMP
+                                                                                                                                                                                                                      UNDERGROUND                                           INTERCEPTOR AND                                                                                           SIDEWALK
+           STORM                                                                                                                                             VACUUM EQUIP                                             WATER TANK                                            RECLAIM TANKS
+           INLET
+
+
+
+
+                                                                                                                                                                                                      31'-5"
+                                                                                                                                                             ENCLOSURE. RE: 2/7
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       CONCRETE SIDEWALK
+                                                                                                                                                             EXISTING BUILDING
+ EXISTING SIDEWALK                                                                                                                                                                                                                                                                                                                                                                                                                                                                     LANDSCAPING
+
+
+
+
+                                                                                                                   16'-5"
+
+
+
+
+                                                                                                                                                                                        77'-11"
+                                                                                                                                                             FOOTPRINT. DEMO
+                                                                                                                                                                                                                             SIDEWALK                                                                                                         MATT WASHER
+                                                                                                                                                             BUILDING AND SITE                                                                                                14'-0"                                                                                                                                                                                                   LIGHT POLE. RE: 2/6.
+                                                                                                                                                                                                                                                                                                                                              AND VENDING
+                                                                                                                                                             DEVELOPMENT                                                                                                                                                                                                                                                                                                               TYPICAL
+                                                                                                                                                              12'-0"                                                                                                                                                                      24'-0"
+                                           9.89'
+                                                                                                                                                             (TYPICAL)
+
+
+
+
+                                                                                                                                                                                                                                      (TYPICAL)
+                                        5'-0"                  16'-0"
+
+
+
+
+                                                                                                                                                                                                                                                                                                                       13
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                      52'-61 2"
+                                                                                                                                                                                                                             18'-0"
+
+
+
+
+                                                                                                                                                                                                                                                                                                                          '-3
+                                                                                                                                                                                                                                                        11                                                                                                                                                                                                                             GATE. TYP. RE: 1/7
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                "
+                                                    23.24'
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                LOT 1, BLOCK1,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       CANOPY. RE: 5/6
+
+
+
+
+                                                                      13'-9"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ASBURY PLAZA
+
+
+
+
+                                                                                                                                                                                                                                                                                CL SH
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            SUBDIVISION FILING NO. 1
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                       300.58'
+                                                                                                                                                                                                                                                                              EN RA
+
+
+
+                                                                                                                                                                                                                                                                                                                                48'-6"
+                                                                                                                                                                                                                                                                                  .
+                                                                                                                                                                                                                                                         40'-8"
+
+
+
+                                                                                                                                                                                                                                                                                T
+                                                 MONUMENT                                                                                                   140.00'
+
+
+
+
+                                                                                                                                                                                                                     6'-0"
+                                                                                                                                                                                                                                                                                                                                                                    F3
+
+
+
+
+                                                                                                                                                                                                                                                                                                           "
+                                                                                                                                                                                                                                                                                                  '-0
+                                                 SIGN. RE: 6/6
+
+
+
+
+                                                                                                                                                                                                                                                                                             18
+                                                                                                                            5' PUBLIC SERVICE
+                                                                                                                                                                                                                                                                              SHED                                                                                                                                                                                                     P.O.S. STATION
+                                                                                                                            EASEMENT
+
+
+
+
+                                                                                                                                                                                                                                                                                                                       12'-4"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       TYPICAL. RE: 1/7
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                          6'-3"
+                                                                                                                                                                                          TRASH/VACUUM
+                                                         VACUUM STATION                                                                                                                   EQUIP. ENCLOSURE                                                                                                                                                                                       6
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       CONCRETE CURB
+                                                         RE: 3/6. TYPICAL                                                                                                                 RE: 7/6.
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                 (TYPICAL)
+                                                                                                                                                                                                                                                    1'-51 2"
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                        12'-0"
+                                                                                                                                                                                                                                                                             10'-8"     10
+
+                                                                                                                                                                                                                                                                                                                                                                                                                 8'-101 2" 8'-101 2"                8'-11"
+                                                                                                                                                                                                     ENCLOSED SHED
+
+
+
+
+                                                                                                                                                                                                                                                                                                           (TYPICAL)
+                                                                                                                                                                                                                                                                                                                                                                                                        5'-0"               34'-8"
+
+
+
+
+                                                                                                                                                                                                                                                                                                  12'-0"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             14'-0"
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                   Employee Parking
+                                                                                                                                                                                                     LANDSCAPING
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                          72'-0"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       EXISTING FENCE
+                                                                                                                                                                                                                                                       6'-0"                          18'-0"                                        27'-91 2"                                                18'-0"
+                                                                                                                                                                                                                                                                                 (TYPICAL)                                                                                                 (TYPICAL)                                                                                   5' UTILITY EASEMENT
+                                                                                                                PLOT 16,
+                                                                                                            MALONE SUBDIVISION
+                                                                                                                                                                                                                                                                                                                                                                                                                                   34'-8"                                              MARKET SIGNAGE MOUNTED
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ON CMU WALL. RE: 8/7
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                96'-0"
+                                                                                                                                                                                                                                                                  150.00'
+                                                                                                                                                                                             VACUUM STATION                                                                                                                                                                                                                                                                             LANDSCAPING
+                                                                                                                                                                                             RE: 3/6. TYPICAL
+
+                                                                                                                                                                                             LIGHT POLE
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                          14'-0"
+                                                                                                                                                                                                                                                                                                                                                                    F3
+                                                                                                                                                                                             RE: 2/6. TYPICAL
+
+
+
+                                                                                                                                                                         "ENTRANCE" DIRECTIONAL SIGN
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                        ENTRY
+                                                                                                                                                                                                                                                                                                                                                          22'-0"
+                                                                                                                                                                                                           FIRE LANE                                                                                                                                                                                                                                                                    CLEARANCE BAR
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        RE: 4/6
+
+
+
+                                                                                                                                                                                                          LANDSCAPING
+
+                                                                                                                                                                                      "RIGHT TURN ONLY" SIGN
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                29'-6"
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                   29'-6"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        LANDSCAPING
+                                                                                                                                                                         LANDSCAPE WALL TO 26" AFF
+                                                                                                                                                                         WITH COLUMNS TO 36" AFF.
+                                                                                                                                                                         RE: 5/7                                                                                                                                                                                                                                                                                                       EXISTING FIRE HYDRANT
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       SITE PLAN
+                                                                                                                                                                                                                                                                                                                                                                                                       123.47'                                                                                                                         ECO EXPRESS CAR WASH II
+                                                                                    EXISTING CONCRETE                                                                                    5' SIDEWALK EASEMENT
+                                                                                    SIDEWALK
+                                                                                                                                                                                                                                                                                             6'-0"                                       27'-6"                                       6'-0"                                                                                             LANDSCAPE WALL TO 26" AFF                      1960 S HAVANA STREET
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        WITH COLUMNS TO 36" AFF
+                                                                                                                                                                                                                                                                                                                                                                                      16' UTILITY                                 PARK BENCH ON
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        RE: 5/7                                        DATE: SEPTEMBER 26, 2013
+                                                                                                                                                                                                                                                                                                                                                                                      EASEMENT                                    CONCRETE PAD                                                                                         SHEET 2 OF 8
+                                                                                                                                                                                                         60' R.O.W.                                                                                                                                                                                                               SIGHT TRIANGLE                                        EXISTING CONCRETE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        SIDEWALK
+
+                                                                                                                 1               SITE PLAN
+                                                                                                                A1-1 1"=20'-0"
+
+                                                                                                                                                                                                                                                                                                                                                                                                                 0                             25                     50                                    100
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           2100 WEST LITTLETON BLVD.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    SUITE 200
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              LITTLETON, CO 80120
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              VOICE: 303.738.9991
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               FAX: 303.738.9990
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ECO EXPRESS CAR WASH II
+Eco Express Car Wash                                                                                           AM Peak Hour
+3: S. Havana & East Asbury                                                                                             10/21/2013
+
+
+
+Intersection
+Intersection Delay, s/veh        1
+
+
+Movement                      EBL      EBT     EBR      WBL      WBT     WBR       NBL        NBT    NBR     SBL      SBT   SBR
+Vol, veh/h                       0        0      20        6        0      19        29       1443      4       7    1794     11
+Conflicting Peds, #/hr           0        0       0        0        0       0         0          0      0       0       0      0
+Sign Control                  Stop     Stop    Stop     Stop     Stop    Stop      Free       Free   Free    Free    Free   Free
+RT Channelized                   -        -    None        -        -    None         -          -   None       -       -   None
+Storage Length                   -        -      50        -        -       0         0          -      -       0       -      -
+Veh in Median Storage, #         -        0       -        -        0       -         -          0      -       -       0      -
+Grade, %                         -        0       -        -        0       -         -          0      -       -       0      -
+Peak Hour Factor                92       92      92       92       92      92        92         92     92      92      92     92
+Heavy Vehicles, %                2        2       2        2        2       2         2          2      2       2       2      2
+Mvmt Flow                        0        0      22        7        0      21        32       1568      4       8    1950     12
+
+
+Major/Minor                 Minor2                     Minor1                    Major1                     Major2
+Conflicting Flow All         2661      3607      981    2429     3611      786    1962           0      0    1573       0      0
+         Stage 1             1971      1971        -    1634     1634        -        -          -      -        -      -      -
+         Stage 2               690     1636        -      795    1977        -        -          -      -        -      -      -
+Follow-up Headway             3.82      4.02    3.92     3.82     4.02    3.92     3.12          -      -     3.12      -      -
+Pot Capacity-1 Maneuver         24         5     214       34        5     288      131          -      -      205      -      -
+         Stage 1                40       107       -       71      158       -        -          -      -        -      -      -
+         Stage 2               365       157       -      315      106       -        -          -      -        -      -      -
+Time blocked-Platoon, %                                                                          -      -               -      -
+Mov Capacity-1 Maneuver         18        4     214       24        4      288      131          -      -     205       -      -
+Mov Capacity-2 Maneuver         18        4       -       24        4        -        -          -      -       -       -      -
+         Stage 1                30      103       -       54      119        -        -          -      -       -       -      -
+         Stage 2               256      119       -      272      102        -        -          -      -       -       -      -
+
+
+Approach                       EB                         WB                        NB                         SB
+HCM Control Delay, s          22.8                       66.3                       0.8                        0.1
+HCM LOS                         C                           F
+
+
+Minor Lane / Major Mvmt                NBL      NBT     NBR EBLn1 EBLn2 WBLn1 WBLn2    SBL                    SBT    SBR
+Capacity (veh/h)                        131       -        -   214   214    45   288    205                     -       -
+HCM Lane V/C Ratio                    0.241       -        - 0.034 0.068 0.298 0.048 0.037                      -       -
+HCM Control Delay (s)                40.978       -        -  22.4    23 115.9  18.1 23.237                     -       -
+HCM Lane LOS                              E                      C     C     F     C      C
+HCM 95th %tile Q(veh)                 0.887        -       - 0.105 0.216 1.013  0.15 0.115                       -      -
+Notes
+~ : Volume Exceeds Capacity; $ : Delay Exceeds 300 Seconds; Error : Computation Not Defined
+
+
+
+
+ATC                                                                                                                    Synchro 8
+jmwa                                                                                                                      Page 1
+Eco Express Car Wash                                                                       PM Peak Hour with Car Wash
+3: S. Havana & East Asbury                                                                                             10/24/2013
+
+
+
+Intersection
+Intersection Delay, s/veh     17.4
+
+
+Movement                      EBL      EBT     EBR       WBL     WBT     WBR       NBL        NBT    NBR     SBL      SBT   SBR
+Vol, veh/h                       7        0      31         8       0      34        32       2120     19      43    2004     12
+Conflicting Peds, #/hr           0        0       0         0       0       0         0          0      0       0       0      0
+Sign Control                  Stop     Stop    Stop      Stop    Stop    Stop      Free       Free   Free    Free    Free   Free
+RT Channelized                   -        -    None         -       -    None         -          -   None       -       -   None
+Storage Length                   -        -      50         -       -      50         0          -      -     200       -      -
+Veh in Median Storage, #         -        0       -         -       0       -         -          0      -       -       0      -
+Grade, %                         -        0       -         -       0       -         -          0      -       -       0      -
+Peak Hour Factor                92       92      92        92      92      92        92         92     92      92      92     92
+Heavy Vehicles, %                2        2       2         2       2       2         2          2      2       2       2      2
+Mvmt Flow                        8        0      34         9       0      37        35       2304     21      47    2178     13
+
+
+Major/Minor                 Minor2                     Minor1                     Major1                    Major2
+Conflicting Flow All         3269      4673    1096     3349     4669     1163     2191          0      0    2325       0      0
+         Stage 1             2278      2278        -    2384     2384         -        -         -      -        -      -      -
+         Stage 2               991     2395        -      965    2285         -        -         -      -        -      -      -
+Follow-up Headway             3.82      4.02    3.92     3.82     4.02     3.92     3.12         -      -     3.12      -      -
+Pot Capacity-1 Maneuver         10         1     179        9        1      161      100         -      -       85      -      -
+         Stage 1                24        74       -       20       65        -        -         -      -        -      -      -
+         Stage 2               238        65       -      247       74        -        -         -      -        -      -      -
+Time blocked-Platoon, %                                                                          -      -               -      -
+Mov Capacity-1 Maneuver         #3        0     179        #3       0      161      100          -      -      85       -      -
+Mov Capacity-2 Maneuver         #3        0       -        #3       0        -        -          -      -       -       -      -
+         Stage 1                16       33       -        13      42        -        -          -      -       -       -      -
+         Stage 2               119       42       -        90      33        -        -          -      -       -       -      -
+
+
+Approach                        EB                         WB                        NB                        SB
+HCM Control Delay, s        $ 825.4                    $ 899.5                       0.9                       1.9
+HCM LOS                           F                          F
+
+
+Minor Lane / Major Mvmt                 NBL     NBT      NBR EBLn1 EBLn2 WBLn1 WBLn2       SBL                SBT    SBR
+Capacity (veh/h)                         100      -         -        7 179        7  161     85                 -       -
+HCM Lane V/C Ratio                     0.348      -         - 2.692 0.125 3.002 0.153      0.55                 -       -
+HCM Control Delay (s)                 59.085      -         - $ 1776.1  28 $ 1917.2 31.4 90.079                 -       -
+HCM Lane LOS                               F                         F   D        F    D      F
+HCM 95th %tile Q(veh)                   1.37       -        - 3.499 0.421 3.817 0.526      2.43                  -      -
+Notes
+~ : Volume Exceeds Capacity; $ : Delay Exceeds 300 Seconds; Error : Computation Not Defined
+
+
+
+
+ATC                                                                                                                     Synchro 8
+jmwa                                                                                                                      Page 1
+Eco Express Car Wash                                                                      PM Peak Hour with Car Wash
+6: S. Havana & Havana Ent.                                                                                   10/24/2013
+
+
+
+Intersection
+Intersection Delay, s/veh       1.8
+
+
+Movement                      WBL              WBR               NBT     NBR       SBL         SBT
+Vol, veh/h                      20               20              2141      20        20       2039
+Conflicting Peds, #/hr           0                0                 0       0         0          0
+Sign Control                  Stop             Stop              Free    Free      Free       Free
+RT Channelized                   -             None                 -    None         -       None
+Storage Length                   0                0                 -       -         0          -
+Veh in Median Storage, #         0                -                 0       -         -          0
+Grade, %                         0                -                 0       -         -          0
+Peak Hour Factor                92               92                92      92        92         92
+Heavy Vehicles, %                2                2                 2       2         2          2
+Mvmt Flow                       22               22              2327      22        22       2216
+
+
+Major/Minor                 Minor1                             Major1            Major2
+Conflicting Flow All         3268              1174                 0        0    2349           0
+         Stage 1             2338                  -                -        -        -          -
+         Stage 2               930                 -                -        -        -          -
+Follow-up Headway             3.82              3.92                -        -     3.12          -
+Pot Capacity-1 Maneuver       # 18               159                -        -       83          -
+         Stage 1                34                 -                -        -        -          -
+         Stage 2               311                 -                -        -        -          -
+Time blocked-Platoon, %                                             -        -                   -
+Mov Capacity-1 Maneuver       # 13              159                 -        -       83          -
+Mov Capacity-2 Maneuver         29                -                 -        -        -          -
+         Stage 1                34                -                 -        -        -          -
+         Stage 2              229                 -                 -        -        -          -
+
+
+Approach                       WB                                  NB               SB
+HCM Control Delay, s         158.2                                  0               0.6
+HCM LOS                          F
+
+
+Minor Lane / Major Mvmt                NBT      NBR WBLn1 WBLn2    SBL             SBT
+Capacity (veh/h)                         -         -    29   159     83              -
+HCM Lane V/C Ratio                       -         -  0.75 0.137 0.262               -
+HCM Control Delay (s)                    -         - 285.1  31.2 63.111              -
+HCM Lane LOS                                             F     D      F
+HCM 95th %tile Q(veh)                      -       - 2.437 0.463 0.947                -
+Notes
+~ : Volume Exceeds Capacity; $ : Delay Exceeds 300 Seconds; Error : Computation Not Defined
+
+
+
+
+ATC                                                                                                           Synchro 8
+jmwa                                                                                                            Page 2
+Eco Express Car Wash                                                                      PM Peak Hour with Car Wash
+8: East Asbury & Asbury Ent.                                                                                 10/24/2013
+
+
+
+Intersection
+Intersection Delay, s/veh        2
+
+
+Movement                      EBL      EBT                       WBT     WBR       SBL          SBR
+Vol, veh/h                      10      52                         32      10        10           10
+Conflicting Peds, #/hr           0       0                          0       0         0            0
+Sign Control                  Free    Free                       Free    Free      Stop         Stop
+RT Channelized                   -    None                          -    None         -         None
+Storage Length                   -       -                          -       -         0            0
+Veh in Median Storage, #         -       0                          0       -         0            -
+Grade, %                         -       0                          0       -         0            -
+Peak Hour Factor                92      92                         92      92        92           92
+Heavy Vehicles, %                2       2                          2       2         2            2
+Mvmt Flow                       11      57                         35      11        11           11
+
+
+Major/Minor                 Major1                              Major2           Minor2
+Conflicting Flow All            46        0                          -       0      118            40
+         Stage 1                 -        -                          -       -       40             -
+         Stage 2                 -        -                          -       -       78             -
+Follow-up Headway            2.218        -                          -       -    3.518         3.318
+Pot Capacity-1 Maneuver       1562        -                          -       -      878          1031
+         Stage 1                 -        -                          -       -      982             -
+         Stage 2                 -        -                          -       -      945             -
+Time blocked-Platoon, %                   -                          -       -
+Mov Capacity-1 Maneuver       1562        -                          -       -      872         1031
+Mov Capacity-2 Maneuver          -        -                          -       -      872            -
+         Stage 1                 -        -                          -       -      982            -
+         Stage 2                 -        -                          -       -      938            -
+
+
+Approach                        EB                                WB                SB
+HCM Control Delay, s            1.2                                0                8.9
+HCM LOS                                                                               A
+
+
+Minor Lane / Major Mvmt                 EBL     EBT     WBT      WBR SBLn1 SBLn2
+Capacity (veh/h)                       1562       -       -         -   872  1031
+HCM Lane V/C Ratio                    0.007       -       -         - 0.012 0.011
+HCM Control Delay (s)                 7.321       0       -         -    9.2   8.5
+HCM Lane LOS                              A       A                        A     A
+HCM 95th %tile Q(veh)                 0.021       -         -       - 0.038 0.032
+Notes
+~ : Volume Exceeds Capacity; $ : Delay Exceeds 300 Seconds; Error : Computation Not Defined
+
+
+
+
+ATC                                                                                                           Synchro 8
+jmwa                                                                                                            Page 3
+                                                                All Traffic Data Services, Inc
+                                                                   9660 W 44th Ave
+                                                                 Wheat Ridge, CO 80033
+                                                                 www.alltrafficdata.net
+                                                                                                           File Name      : #1 HAVANA&ASBURYPM
+                                                                                                           Site Code      :1
+                                                                                                           Start Date     : 10/16/2013
+                                                                                                           Page No        :1
+                                                                    Groups Printed- Car - Truck
+                     HAVANA                                     ASBURY                        HAVANA                                    ASBURY
+                    Southbound                                 Westbound                     Northbound                                Eastbound
+Start Time Right    Thru    Left        Peds           Right   Thru    Left Peds Right Thru          Left          Peds    Right       Thru   Left    Peds Int. Total
+  04:00 PM     1     469      7            0               5      0      2       1       1    490      7              0        7          0      1       5       996
+  04:15 PM     3     444      6            0               3      0      0       1       5    482     13              0       12          0      0       1       970
+  04:30 PM     4     504      8            0               4      0      1       1       5    516      4              0       10          0      0       0     1057
+  04:45 PM     1     489      7            0               6      0      0       0       1    511      5              0        8          0      3       1     1032
+      Total    9    1906     28            0              18      0      3       3     12 1999        29              0       37          0      4       7     4055
+
+  05:00 PM     5      506      4                0         7       0      0          1        1       541      12      0            8     0       1       2     1088
+  05:15 PM     3      495      6                0         8       0      1          2        3       545       9      0            9     0       3       3     1087
+  05:30 PM     3      514     16                0         8       0      2          1        4       523       6      0            6     0       0       2     1085
+  05:45 PM     1      449      9                0         6       0      2          3        1       463       5      0            4     0       2       5      950
+      Total   12     1964     35                0        29       0      5          7        9      2072      32      0           27     0       6      12     4210
+
+Grand Total    21    3870      63               0        47       0      8        10        21      4071      61      0       64         0       10     19     8265
+ Apprch %     0.5    97.9     1.6               0      72.3       0   12.3      15.4       0.5        98     1.5      0     68.8         0     10.8   20.4
+   Total %    0.3    46.8     0.8               0       0.6       0    0.1       0.1       0.3      49.3     0.7      0      0.8         0      0.1    0.2
+       Car     21    3833      63               0        47       0      8        10        21      4030      61      0       64         0       10     19     8187
+     % Car    100      99     100               0       100       0    100       100       100        99     100      0      100         0      100    100     99.1
+     Truck      0      37       0               0         0       0      0         0         0        41       0      0        0         0        0      0       78
+   % Truck      0       1       0               0         0       0      0         0         0         1       0      0        0         0        0      0      0.9
+
+
+                                                                                HAVANA
+                                                                        Out        In       Total
+                                                                        4087      3917       8004
+                                                                          41         37        78
+                                                                        4128      3954       8082
+
+
+                                                                         21 3833          63    0
+                                                                          0    37           0   0
+                                                                         21 3870          63    0
+                                                                      Right Thru        Left Peds
+                         0
+                      175
+
+                      175
+
+
+                                      10
+                                        0
+                                      10
+
+
+
+
+                                                                                                                    Right Thru
+                     Total
+
+
+
+
+                                    Left
+
+
+
+
+                                                                                                                                       Out
+                                                                                                                       47
+
+                                                                                                                       47
+                                                                                                                        0
+
+
+
+                                                                                                                                         84
+
+                                                                                                                                         84
+                                                                                                                                           0
+
+
+
+
+                                                                                 North
+                                                   0
+                                                   0
+                                                   0
+                                    Peds Right Thru
+                    ASBURY
+
+
+
+
+                                                                                                                                       ASBURY
+                         93
+                          0
+                         93
+
+
+
+
+                                                                        10/16/2013 04:00 PM
+                       In
+
+
+
+
+                                                                                                                              0
+                                                                                                                              0
+                                                                                                                              0
+
+
+
+
+                                                                                                                                         In
+
+
+
+
+                                                                        10/16/2013 05:45 PM
+                                                                                                                                           65
+
+                                                                                                                                           65
+                                            64
+                                             0
+                                            64
+
+
+
+
+                                                                                                                    Left Peds
+
+
+
+
+                                                                                                                                            0
+
+
+
+
+                                                                        Car
+                                                                                                                        8
+                                                                                                                        0
+                                                                                                                        8
+                       82
+                         0
+                       82
+
+
+
+
+                                                                        Truck
+                     Out
+
+
+
+
+                                                                                                                                       Total
+                                      19
+                                       0
+                                      19
+
+
+
+
+                                                                                                                                        149
+
+                                                                                                                                        149
+                                                                                                                           10
+
+                                                                                                                           10
+
+
+
+                                                                                                                                           0
+                                                                                                                            0
+
+
+
+
+                                                                      Left   Thru Right Peds
+                                                                        61 4030      21    0
+                                                                           0    41    0    0
+                                                                        61 4071      21    0
+
+
+                                                                        3905      4112       8017
+                                                                          37         41        78
+                                                                        3942      4153       8095
+                                                                        Out        In       Total
+                                                                                HAVANA
+                                                                  All Traffic Data Services, Inc
+                                                                     9660 W 44th Ave
+                                                                   Wheat Ridge, CO 80033
+                                                                   www.alltrafficdata.net
+                                                                                                          File Name               : #1 HAVANA&ASBURYPM
+                                                                                                          Site Code               :1
+                                                                                                          Start Date              : 10/16/2013
+                                                                                                          Page No                 :2
+
+                        HAVANA                         ASBURY                                           HAVANA                                    ASBURY
+                       Southbound                    Westbound                                         Northbound                                Eastbound
+ Start Time Right Thru Left Peds App. Total Right Thru Left Peds               App. Total   Right   Thru Left Peds   App. Total   Right       Thru Left Peds        App. Total   Int. Total
+Peak Hour Analysis From 04:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 04:45 PM
+ 04:45 PM       1 489        7     0    497      6   0     0    0                     6        1    511    5    0      517           8             0       3    1        12       1032
+ 05:00 PM       5 506        4     0    515      7   0     0    1                     8        1    541   12    0      554           8             0       1    2        11       1088
+ 05:15 PM       3 495        6     0    504      8   0     1    2                   11         3    545    9    0      557           9             0       3    3        15       1087
+ 05:30 PM       3 514       16     0    533      8   0     2    1                   11         4 523       6    0     533           6              0       0    2         8       1085
+ Total Volume  12 2004     33      0 2049       29   0     3    4                   36         9 2120     32    0    2161          31              0       7    8        46       4292
+ % App. Total 0.6 97.8 1.6         0          80.6   0   8.3 11.1                     0.4 98.1  1.5    0                   67.4    0 15.2 17.4
+      PHF .600 .975 .516 .000                      .961 .906 .000 .375 .500     .818 .563 .972 .667 .000              .970 .861 .000 .583 .667                       .767          .986
+
+                                                                                HAVANA
+                                                                        Out        In           Total
+                                                                        2156      2049           4205
+
+
+                                                                          12 2004             33    0
+                                                                       Right Thru           Left Peds
+
+
+
+
+                                                                     Peak Hour Data
+                           90
+
+
+                                    7
+
+
+
+
+                                                                                                                                     Right Thru
+                        Total
+
+
+
+
+                                Left
+
+
+
+
+                                                                                                                                                       Out
+                                                                                                                                        29
+
+                                                                                   North                                                                 42
+                                               0
+                                Peds Right Thru
+                      ASBURY
+
+
+
+
+                                                                                                                                                       ASBURY
+                           46
+                         In
+
+
+
+
+                                                                                                                                               0
+
+
+
+                                                                                                                                                         In
+                                                                      Peak Hour Begins at 04:45 PM
+                                                                                                                                                           36
+                                        31
+
+
+
+
+                                                                                                                                     Left Peds
+
+
+
+
+                                                                      Car
+                                                                                                                                         3
+                          44
+
+
+
+
+                                                                      Truck
+                        Out
+
+
+
+
+                                                                                                                                                       Total
+                                   8
+
+
+
+
+                                                                                                                                                          78
+                                                                                                                                             4
+
+
+
+
+                                                                       Left Thru Right Peds
+                                                                         32 2120     9    0
+
+
+                                                                        2038      2161           4199
+                                                                        Out        In           Total
+                                                                                HAVANA
+                                                               All Traffic Data Services, Inc
+                                                                  9660 W 44th Ave
+                                                                Wheat Ridge, CO 80033
+                                                                www.alltrafficdata.net
+                                                                                                          File Name      : #1 HAVANA&ASBURYAM
+                                                                                                          Site Code      :1
+                                                                                                          Start Date     : 10/16/2013
+                                                                                                          Page No        :1
+                                                                   Groups Printed- Car - Truck
+                     HAVANA                                    ASBURY                        HAVANA                                    ASBURY
+                    Southbound                                Westbound                     Northbound                                Eastbound
+Start Time Right    Thru    Left       Peds           Right   Thru    Left Peds Right Thru          Left          Peds    Right       Thru   Left   Peds Int. Total
+  07:00 AM     2     351      2           0               6      0      4       1       0    260      5              0        5          0      0      0       636
+  07:15 AM     2     374      2           0               5      0      1       0       2    370      3              0        3          0      0      1       763
+  07:30 AM     1     473      0           0               3      0      2       0       1    420      5              0        2          0      0      0       907
+  07:45 AM     5     486      1           0               3      0      0       0       0    372     13              0       10          0      0      1       891
+      Total   10    1684      5           0              17      0      7       1       3 1422       26              0       20          0      0      2     3197
+
+  08:00 AM     3      461      4               0         8       0      3          1        1       281       8      0            5     0      0       0      775
+  08:15 AM     1      396      6               0         7       0      0          1        1       314       2      0            4     0      0       0      732
+  08:30 AM     1      409      0               0         2       0      2          1        1       350       7      0            3     0      0       0      776
+  08:45 AM     5      368      0               0         4       0      2          0        4       352      15      0            4     0      0       0      754
+      Total   10     1634     10               0        21       0      7          3        7      1297      32      0           16     0      0       0     3037
+
+Grand Total    20    3318     15               0        38       0     14         4        10      2719      58      0       36         0      0       2     6234
+ Apprch %     0.6      99    0.4               0      67.9       0     25       7.1       0.4      97.6     2.1      0     94.7         0      0     5.3
+   Total %    0.3    53.2    0.2               0       0.6       0    0.2       0.1       0.2      43.6     0.9      0      0.6         0      0       0
+       Car     20    3244     13               0        37       0     14         4         9      2658      58      0       36         0      0       2     6095
+     % Car    100    97.8   86.7               0      97.4       0    100       100        90      97.8     100      0      100         0      0     100     97.8
+     Truck      0      74      2               0         1       0      0         0         1        61       0      0        0         0      0       0      139
+   % Truck      0     2.2   13.3               0       2.6       0      0         0        10       2.2       0      0        0         0      0       0      2.2
+
+
+                                                                               HAVANA
+                                                                       Out        In       Total
+                                                                       2695      3277       5972
+                                                                         62         76       138
+                                                                       2757      3353       6110
+
+
+                                                                        20 3244          13    0
+                                                                         0    74           2   0
+                                                                        20 3318          15    0
+                                                                     Right Thru        Left Peds
+                         0
+                      116
+
+                      116
+
+
+                                       0
+                                       0
+                                       0
+
+
+
+
+                                                                                                                   Right Thru
+                     Total
+
+
+
+
+                                   Left
+
+
+
+
+                                                                                                                                      Out
+                                                                                                                      38
+
+                                                                                                                      37
+                                                                                                                       1
+
+
+
+                                                                                                                                        25
+
+                                                                                                                                        22
+                                                                                                                                          3
+
+
+
+
+                                                                                North
+                                                  0
+                                                  0
+                                                  0
+                                   Peds Right Thru
+                    ASBURY
+
+
+
+
+                                                                                                                                      ASBURY
+                         38
+                          0
+                         38
+
+
+
+
+                                                                       10/16/2013 07:00 AM
+                       In
+
+
+
+
+                                                                                                                             0
+                                                                                                                             0
+                                                                                                                             0
+
+
+
+
+                                                                                                                                        In
+
+
+
+
+                                                                       10/16/2013 08:45 AM
+                                                                                                                                          56
+
+                                                                                                                                          55
+                                           36
+                                            0
+                                           36
+
+
+
+
+                                                                                                                   Left Peds
+
+
+
+
+                                                                                                                                           1
+
+
+
+
+                                                                       Car
+                                                                                                                     14
+
+                                                                                                                     14
+                                                                                                                       0
+                       78
+                         0
+                       78
+
+
+
+
+                                                                       Truck
+                     Out
+
+
+
+
+                                                                                                                                      Total
+                                      2
+                                      0
+                                      2
+
+
+
+
+                                                                                                                                         81
+
+                                                                                                                                         77
+                                                                                                                                          4
+                                                                                                                           4
+                                                                                                                           0
+                                                                                                                           4
+
+
+
+
+                                                                     Left   Thru Right Peds
+                                                                       58 2658       9    0
+                                                                          0    61    1    0
+                                                                       58 2719      10    0
+
+
+                                                                       3294      2725       6019
+                                                                         74         62       136
+                                                                       3368      2787       6155
+                                                                       Out        In       Total
+                                                                               HAVANA
+                                                                  All Traffic Data Services, Inc
+                                                                     9660 W 44th Ave
+                                                                   Wheat Ridge, CO 80033
+                                                                   www.alltrafficdata.net
+                                                                                                               File Name               : #1 HAVANA&ASBURYAM
+                                                                                                               Site Code               :1
+                                                                                                               Start Date              : 10/16/2013
+                                                                                                               Page No                 :2
+
+                        HAVANA                         ASBURY                                                HAVANA                                    ASBURY
+                       Southbound                    Westbound                                              Northbound                                Eastbound
+ Start Time Right Thru Left Peds App. Total Right Thru Left Peds               App. Total    Right       Thru Left Peds   App. Total   Right       Thru Left Peds        App. Total   Int. Total
+Peak Hour Analysis From 07:00 AM to 08:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:15 AM
+ 07:15 AM       2 374        2     0    378      5   0    1    0                      6            2 370        3    0      375           3             0       0    1          4        763
+ 07:30 AM       1 473        0     0    474      3   0    2    0                      5            1 420        5    0      426           2             0       0    0          2        907
+ 07:45 AM       5 486        1     0    492      3   0    0    0                      3            0 372       13    0     385           10             0       0    1        11        891
+ 08:00 AM       3 461        4     0    468      8   0    3    1                    12             1 281        8    0     290           5              0       0    0         5        775
+ Total Volume  11 1794       7     0 1812       19   0    6    1                    26             4 1443      29    0    1476          20              0       0    2        22       3336
+ % App. Total 0.6    99 0.4        0          73.1   0 23.1  3.8                      0.3 97.8    2    0                        90.9    0    0  9.1
+      PHF .550 .923 .438 .000                      .921 .594 .000 .500 .250     .542 .500 .859 .558 .000                   .866 .500 .000 .000 .500                       .500          .920
+
+                                                                                HAVANA
+                                                                        Out        In                  Total
+                                                                        1462      1812                  3274
+
+
+                                                                          11 1794                  7      0
+                                                                       Right Thru           Left       Peds
+
+
+
+
+                                                                     Peak Hour Data
+                           62
+
+
+                                    0
+
+
+
+
+                                                                                                                                          Right Thru
+                        Total
+
+
+
+
+                                Left
+
+
+
+
+                                                                                                                                                            Out
+                                                                                                                                             19
+
+                                                                                   North                                                                      11
+                                               0
+                                Peds Right Thru
+                      ASBURY
+
+
+
+
+                                                                                                                                                            ASBURY
+                           22
+                         In
+
+
+
+
+                                                                                                                                                    0
+
+
+
+                                                                                                                                                              In
+                                                                      Peak Hour Begins at 07:15 AM
+                                                                                                                                                                26
+                                        20
+
+
+
+
+                                                                                                                                          Left Peds
+
+
+
+
+                                                                      Car
+                                                                                                                                              6
+                          40
+
+
+
+
+                                                                      Truck
+                        Out
+
+
+
+
+                                                                                                                                                            Total
+                                   2
+
+
+
+
+                                                                                                                                                               37
+                                                                                                                                                  1
+
+
+
+
+                                                                       Left Thru Right Peds
+                                                                         29 1443     4    0
+
+
+                                                                        1820      1476                  3296
+                                                                        Out        In                  Total
+                                                                                HAVANA
+
