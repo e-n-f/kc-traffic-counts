@@ -1,0 +1,3108 @@
+            COMMUNITY GATE STUDY
+           SOUTH DADE VENTURE CDD
+Prepared by:   Florida Transportation Engineering, Inc.
+                         7955 NW 12 Street, Suite 418
+                             Doral, Florida 33126
+                               305-463-8411
+                                                        December, 2008
+                        December, 2008
+
+
+                        Alvarez Engineers, Inc
+                        Mr. Juan R. álvarez, P.E.
+                        10560 NW 27 Street # 102
+                        Miami, Florida 33172
+
+
+                        Reference: Community Gate Study for South Dade Venture CDD
+Responsible Office:
+
+7955 NW 12 Street       Dear Mr. Alvarez:
+Suite # 418
+Doral, Fl 33126         Florida Transportation Engineering, Inc., (FTE), has been
+                        extremely delighted in being able to participate in this project. This
+                        report presents the Community Gate study, and recommendations
+Contact Person:         to be implemented at the subject community.
+Juan S. Calderon
+Vice - President        FTE looks forward to being of service to the Alvarez Engineers, Inc
+(305) 463-8411          again in the future.
+(305) 463-8744 (fax)
+jcalderon@fteinc.net    Very truly yours,
+
+Headquarters:
+
+8250 Pascal Drive       Juan S. Calderon, P.E., PTOE
+Suite 101               Vice President
+Punta Gorda, Fl 33950
+(941) 639-2818          JSC/gb
+(941) 639-4851 (fax)
+                                                             TABLE OF CONTENTS
+
+1.       INTRODUCTION................................................................................................................................... 1
+2.       BACKGROUND .................................................................................................................................... 1
+3.       ASSESSMENT OF EXISTING FACILITIES ......................................................................................... 1
+     3.1. Evaluation Of Main Access Roads ................................................................................................... 1
+     3.2. Data Collection ................................................................................................................................. 3
+4.       TRAFFIC OPERATION CHARACTERISTICS...................................................................................... 3
+5.       PROPOSED GATE SYSTEM ALTERNATIVES................................................................................... 4
+     5.1. Alternatives Description.................................................................................................................... 4
+     5.2. Alternatives Simulation Analysis....................................................................................................... 5
+     5.3. Alternatives Evaluation ..................................................................................................................... 7
+6.       CONCLUSIONS AND RECOMMENDATIONS..................................................................................... 7
+
+
+
+                                                                         LIST OF FIGURES
+                       Figure 1.         Site Location Map
+                       Figure 2.         Critical Issues and Traffic Patterns
+                       Figure 3.         Location of Gated Facilities
+                       Figure 4.         Design Layout of Recommended Waterston Way Eastern Gate
+                       Figure 5.         Design Layout of Recommended Waterston Way Southern Gate
+                       Figure 6.         Design Layout of Recommended Waterston Boulevard Eastern Gate
+
+
+                                                                          LIST OF TABLES
+                       Table 1.         Current Roads Geometry Conditions
+                       Table 2.         Critical Peak Hour Volumes
+                       Table 3.         Typical Gate System Service Parameters
+                       Table 4.         Smart Gate System Service Parameters
+                       Table 5.         Arrival Distribution Inputs
+                       Table 6.         Service Time Distribution Inputs
+                       Table 7.         Simulaiton Performance Results of Gate Systems
+                       Table 8.         Alternatives Storage Lengths Analysis
+
+
+                                                                                APPENDIX
+                       Appendix A.             Traffic Data
+                       Appendix B.             Specifications of Smart Gate System
+                       Appendix C.             ARENA Simulation Model
+
+
+
+
+                                                                         Page i
+1. Introduction
+Florida Transportation Engineering, Inc. was retained to provide a comprehensive assessment to identify
+needs, and elaborate recommendations for an entrance gate system at Waterstone/South Dade Venture
+CDD. This study was initiated following the requests from Alvarez Engineers, Inc the current community
+engineering firm as a petition of the residents board directives and neighbor' complaints regarding security
+issues. This study included field observations, data collection, traffic engineering analysis, development of
+conclusions, and recommendations.
+
+2. Background
+The Waterstone/South Dade Venture CDD is a 388 gross acres residential community approved since 2001
+by the City of Homestead. This community contains over 2,200 households that include two independent
+sections (Section and Section ) as well as a charter school serving from kindergarten to middle school.
+Today, the City of Homestead ranks among the top fastest growing development areas as a result of the
+accelerated population growth. This situation has raised the security concerns and several complaints from
+residents and neighbors that have been brought to the attention of the residents' board.
+
+In June 2007, two traffic studies were carried out by Florida Transportation Engineering Inc. within the
+community to evaluate and improve the current traffic operations and safety conditions along the road
+network in the vicinity of the community, as well as, the traffic concerns for the drop-off/pick-up periods of
+the Waterstone Charter School.
+
+Furthermore, based on those studies and advices from the residents, it was determined to evaluate an
+entrance gate system at the three main access roads of the community. Therefore, this report analyzes the
+feasibility and traffic operation impact of the entrance gate system along the three main access roads of the
+Waterstone/South Dade Venture CDD.
+
+3. Assessment of Existing Facilities
+A Professional Traffic Operations Engineer (PTOE) conducted field reviews of the existing conditions of the
+three main entrances during peak hours of 7:00 AM to 9:00 AM and 4:00 PM to 6:00 PM, on Tuesday May
+29, 2007. Observations include assessments of existing geometry conditions, intersection operations, and
+traffic patterns.
+
+    3.1. Evaluation of Main Access Roads
+    The community has three main accesses for the two independent sections:
+
+         · Through the east, Waterstone Way at SW 137th Avenue (Section).
+         · Through the south, Waterstone Way at SW 312th Street/Cambell Road (Section ).
+         · Also through the east, Waterstone Boulevard at SW 137th Avenue (Section ).
+
+    All these accesses are two-way stop controlled intersections. Figure 1 shows the geographic location in
+    reference to the study area. The current access roads geometry conditions are described in Table 1.
+
+
+
+
+                                                  Page 1
+                                                                        North
+
+                                   Waterstone Way
+                                   Eastern Entrance
+                                  at SW 137thAvenue
+
+
+                                                       Section 
+
+                                        Waterstone Boulevard
+                                          Eastern Entrance
+                                         at SW 137thAvenue
+
+
+
+
+                           Waterstone Way
+                          Southern Entrance
+                           at SW 312thSteet                 Section 
+
+
+
+
+Waterstone Way Eastern Access                     Waterstone Way Southern Access
+
+
+
+
+                      Waterstone Boulevard Eastern Access
+
+                         Figure 1. Site Location Map
+
+
+
+                                  Page 2
+                            Table 1. Current Main Accesses Geometry Conditions
+                                   Waterstone Way           Waterstone Way            Waterstone Boulevard
+           Characteristic          Eastern Entrance        Southern Entrance            Eastern Entrance
+                                  at SW 137th Avenue        at SW 312th Street         at SW 137th Avenue
+          Pavement Width/
+                                      4 Lanes 48'               4 Lanes 48'                4 Lanes 48'
+          Number of Lanes
+             Shoulder               Curb and gutter            Curb and gutter           Lawn shoulder
+            Median Type                Divided                    Divided                   Divided
+      Right of Way (estimated)            70'                        70'                       85'
+         Road Side Parking              None                        None                     None
+                                                          400' school zone at 280'
+         School Zone Limits             None             north of the entrance from          None
+                                                              SW 312th Street
+
+    Furthermore, the cross-sections of the Waterstone Way southern access and the Waterstone
+    Boulevard eastern access are transitioned from four-lane divided to two-lane undivided segments.
+    Those transitions occur as follows:
+         · For Waterstone Way southern access, 100 feet north of SW 312th Street.
+         · For Waterstone Boulevard eastern access, 50 feet west of SW 137th Avenue.
+
+    3.2. Data Collection
+    Turning Movement Counts (TMCs) were performed during AM and PM peak periods on a typical
+    weekday. Results from the raw turning movement count volumes during peak hours are documented in
+    Appendix A. Based on the data, critical peak volumes were determined as follows:
+         · For the Waterstone Way eastern access, the critical peak hour period is the PM with 356
+           vehicles entering the community.
+         · For the Waterstone Way southern access, the critical peak hour period is the AM with 480
+           vehicles entering the community.
+         · For the Waterstone Boulevard eastern access, the critical peak hour period is the PM with 163
+           vehicles entering the community.
+
+    Table 2 shows the critical hourly volumes adjusted by the Peak Hour Factor (PHF).
+
+                                  Table 2. Critical Peak Hour Volumes
+                                                   Time Peak Hour           Peak 15 minutes
+                      Location                                        PHF
+                                                  Period   Volume            Hourly Volume
+         Waterstone Way at SW 137 Avenue
+                                   th               PM       356      0.781       456
+         Waterstone Way at SW 312th Street          AM       480      0.667       720
+       Waterstone Boulevard at SW 137th Avenue      PM       163      0.799       204
+
+4. Traffic Operation Characteristics
+In order to identify the existing traffic operational issues that could affect the gates operation in
+Waterstone/South Dade Venture CDD Community, field observations were performed along the main
+access roads during the AM/PM peak periods of a typical weekday (March 7, 2008). The following critical
+elements that affect the residents' journey and accessing traffic patterns were identified which will assist to
+
+
+                                                      Page 3
+formulate recommendations for an entrance gate system (some of those issues were documented in the
+previous studies). Also, Figure 2 shows those critical issues for traffic accessing the community.
+    · During the AM peak period most of vehicles were observed exiting the community heading north
+      along SW 137th Avenue or heading west along SW 312th Street. On the other hand, during PM peak
+      period most of the traffic entering the community was traveling south along SW 137th Avenue or east
+      along SW 312th Street
+    · During the AM peak, the traffic entering the community was mainly related to arrival activities to
+      Waterstone Charter School.
+    · During the school peak periods, long queues, delays, traffic conflicts were observed along the
+      northbound and southbound of Waterstone Way accessing the school.
+    · Queues and delays were experienced by vehicles exiting community at Waterstone Way with SW
+      312th Street and Waterstone Boulevard with SW 137th Avenue during the AM peak.
+    · Some delays and unsafe maneuvers were observed by vehicles performing eastbound left turn
+      movement at the intersection of Waterstone Way with SW 312th Street during the AM and PM peak
+      periods.
+    · Waterstone Chater School is located at the east side along Waterstone Way few feet north of SW
+      312th Street. This school has two driveways with high ingress/egress traffic during school peak
+      periods. The future community gate system should be installed north of those driveways avoiding
+      impact from the school operations.
+
+5. Proposed Gate System Alternatives
+In the current market, two types of gate system were reviewed as candidates: typical gate system and smart
+gate system. A review of key features and operation analysis were carried out to compare the two gate
+systems, develop conclusions and recommendations.
+
+    5.1. Alternatives Description
+    The main features and gate operations of those two gate systems are described as follows respectively.
+    Alternative 1: Typical Community Gate System
+        Venetian Lakes community was selected as a referenced gated community. The gate system is a
+        typical Bar Code Card control access system including main components of electronic access
+        barcode card, bar code card reader, magnetic physical barrier and access operator.
+
+        Gate operation process: In this gate, the visitors stop and are processed by a guard that input the
+        vehicles and drivers' identification into a database to grant access. Residents also stop to swap
+        their access cards to a bar code card reader to grant access.
+
+        Operation data was collected including service time per entry and hourly service rate for
+        residents/visitors during AM/PM peak periods and listed in Table 3.
+
+
+
+
+                                                 Page 4
+                        Table 3. Typical Gate System Service Parameters
+                                       Average Service Time Hourly Service Rate
+                                  AM          9.1 sec            396 vphpl
+                       Resident
+                                  PM          7.8 sec            462 vphpl
+          Typical Gate
+                                  AM          44.8 sec            80 vphpl
+                        Visitor
+                                  PM          41.1 sec            88 vphpl
+
+Alternative 2: Smart Community Gate System
+    Smart community gate system is becoming more and more popular in applications as parking
+    garages, surface lots, communities, university and hospital campuses. The smart system is
+    featured with high speed, convenience and security.
+
+    The main components of a smart gate system include Integrated Automatic Vehicle Identification
+    (AVI) Reader using Radio Frequency Identification (RFID) technology, small radio frequency (RF)
+    transponders (windshield mount tags or credit card size transponders), magnetic auto-control
+    barriers, license plate capture CCTV, digital video recorder (DVR), electronic automatic ID
+    scanning and entry management system software. The specifications of the proposed Smart gate
+    system are presented in Appendix B.
+
+    Gate operation: A non restricted soft gate operations with optional processing for visitors where
+    drivers are processed automatically through electronic ID scanning and license plate capture
+    CCTV. Residents can use windshield mount tags or credit card size transponders which are
+    automatically detected and identified by the AVI reader when approaching the detection area.
+
+    Based on recommended value from manufacture, system operation parameters such as service
+    time per entry and hourly service rate for residents/visitors during AM/PM peak periods are shown
+    in Table 4.
+
+                             Table 4. Smart Gate System Service Parameters
+                                            Average Service Time Hourly Service Rate
+                                       AM           4 sec             900 vphpl
+                           Residents
+                                       PM           3 sec            1200 vphpl
+          Smart Gate
+                                       AM          35 sec             103 vphpl
+                            Visitors
+                                       PM          35 sec             103 vphpl
+       Note: Average service time for visitors during AM and PM is based on a recommended value of 35 seconds from
+       manufacture.
+
+5.2. Alternatives Simulation Analysis
+In order to determine the delay time and the percentile of queued vehicles which will be used to design
+the entrance storage length, a simulation tool of ARENA version 11.0 was adopted to model the
+entrance gate system operation. In ARENA, the following activities were modeled: vehicles arrival at the
+gate, vehicles waiting for security check, and vehicles entering the community. The model outputs are
+presented in Appendix C.
+
+Based on the data collected for Venetian Lakes community in the previous study, it was noted that the
+distribution percentages of two types of arrivals were 85% residents and 15% visitors respectively. In
+this study, these values are adopted, and the arrival volumes were distributed between residents and
+visitors. Furthermore, an exponential distribution was applied to model the traffic arrival headways
+
+
+
+
+                                                 Page 5
+(assuming the number of arrivals following a Poisson distribution). Table 5 shows the ARENA input
+parameters.
+
+                                       Table 5. Arrival Distribution Inputs
+                                             Total                    Resident                          Visitor
+        Location         Time Period        Hourly      Hourly             Arrival          Hourly              Arrival
+                                            Volume      Volume           Distribution       Volume            Distribution
+    Waterstone Way
+                             PM              456         388            Expo(9.3) sec          68           Expo(52.9) sec
+  at SW 137th Avenue
+    Waterstone Way
+                             AM              720         612            Expo(5.9) sec         108           Expo(33.4) sec
+   at SW 312th Street
+ Waterstone Boulevard
+                             PM              204         173            Expo(20.8) sec         31           Expo(116.1) sec
+  at SW 137th Avenue
+
+
+To model the random process of the service time, a uniform distribution was used for the gate service
+time, and the maximum and minimum values were varied ±10% range from the average value. Table
+6 presents the service time distribution data.
+
+                           Table 6. Service Time Distribution Inputs
+                               Average Service Time Uniform Distribution (seconds)
+                                      (seconds)        Average Minimum Maximum
+                          AM               9.1            9.1        8.2     10.0
+                 Resident
+                          PM               7.8            7.8        7.0      8.6
+    Typical Gate
+                          AM             44.8            44.8       40.3     49.3
+                  Visitor
+                          PM             41.1            41.1       37.0     45.2
+                          AM               4              4.0        3.6      4.4
+                 Resident
+                          PM               3              3.0        2.7      3.3
+    Smart Gate
+                          AM              35             35.0       31.5     38.5
+                  Visitor
+                          PM              35             35.0       31.5     38.5
+
+With all the above inputs, the ARENA model was run and model performance data such as average
+delay time, probability of equal or less than three queued vehicles, 90%, 95% and 98% percentile of
+queued vehicles were obtained based on a one hour operation averaged over 10 simulation runs.
+Table 7 shows a comparison between performance measurements of the two gate systems.
+
+                        Table 7. Simulation Performance Results of Gate Systems
+                                                                             Probability of
+                                                           Average                                90%           95%            98%
+                                                                               3 or less
+                                                        Delay (seconds)                        Percentile     Percentile     Percentile
+                                                                            queued vehicles
+                                             Resident          20.5              76%                7             8             10
+                             Typical Gate
+    Waterstone Way                            Visitor          54.6              92%                3             4              5
+                        PM
+  at SW 137th Avenue                         Resident           0.7             100%                0             1              1
+                             Smart Gate
+                                              Visitor          33.1              96%                2             3              5
+                                             Resident                                   Oversaturated
+                             Typical Gate
+   Waterstone Way                             Visitor                                   Oversaturated
+                        AM
+  at SW 312th Street                         Resident        4.1                 96%                2              3             4
+                             Smart Gate
+                                              Visitor       180.6                46%               14             17            20
+                                             Resident        2.2                100%                0              1             1
+                             Typical Gate
+ Waterstone Boulevard                         Visitor       11.9                100%                0              1             1
+                        PM
+  at SW 137th Avenue                         Resident        0.3                  0%                0              0             0
+                             Smart Gate
+                                              Visitor        8.2                100%                0              1             1
+
+
+
+
+                                                        Page 6
+    5.3. Alternatives Evaluation
+    According to the gated development requirements in Transportation and Land Development 2nd
+    Edition, ITE, 2002, the following recommendations should be met for a gated community:
+
+        · Community with more than 100 number of dwelling units, the minimum gate storage length is
+          100 feet.
+        · Also, storage distance in advance of the gate needs to be of sufficient length to have a very high
+          probability of storing all arriving vehicles. A 98% probability is suggested for gated access for a
+          major arterial. Peak 15-minute interval volume expressed in vehicles per hour should be used for
+          delay and queue analysis.
+
+    Based on the previous outlines, for the proposed gate system, minimum storage length and the
+    probability of storing arriving vehicles were revised with an assumption of 25 feet storage length per
+    vehicle. The results are listed in Table 8 for the three gates respectively.
+
+                                Table 8. Alternatives Storage Lengths Analysis
+                                            98% Percentile   Storage Length   Design Minimum   Proposed Minimum
+                                           Queued Vehicles      Required      Storage Length     Storage Length
+        Waterstone Way      Typical Gate         10               250'             100'               250'
+      at SW 137th Avenue    Smart Gate           5                125'             100'               125'
+        Waterstone Way      Typical Gate         44               1100'            100'                ---
+       at SW 312th Street   Smart Gate           20               500'             100'               500'
+     Waterstone Boulevard   Typical Gate          1                25'             100'               100'
+      at SW 137th Avenue    Smart Gate           1                 25'             100'               100'
+
+
+6. Conclusions and Recommendations
+Based on the gate operation analysis performed during the development of this report, the following
+conclusions and recommendations were determined. Also, Figure 3 shows the locations of the proposed
+gated facilities.
+
+    Waterstone Way at SW 137th Avenue Eastern Entrance:
+        A smart gate system is recommended with a minimum design storage length of 125 feet. Figure 4
+        presents a design layout of this entrance gate in conformance with the architectural plans. A review
+        of the architectural plans shows that the proposed location will provide enough storage capacity.
+
+    Waterstone Way at SW 312th Street Southern Entrance:
+        A smart gate system is proposed with a minimum design storage length of 500 feet. Due to the
+        long storage needed during the AM school hours, unrestricted operations are recommended for the
+        access through this gate during the referenced peak period. Figure 5 presents a design layout of
+        this entrance gate in conformance with the architectural plans. A review of the architectural plans
+        shows that the proposed location will provide enough storage capacity.
+
+    Waterstone Boulevard at SW 137th Avenue Eastern Entrance:
+        A smart gate system is recommended. Figure 6 presents a design layout of this entrance gate in
+        conformance with the architectural plans. A review of the architectural plans shows that the
+        proposed gate located beyond the recommended 100 feet minimum design storage will provide
+        enough capacity.
+
+
+
+
+                                                     Page 7
+                                                          North
+
+
+
+
+                             Waterstone Way
+                            at SW 137thAvenue
+                               Gated Facility
+                                 Figure 4
+
+
+
+
+                                   Waterstone Boulevard
+                                    At SW 137thAvenue
+                                       Gated Facility
+ Waterstone Way
+                                         Figure 6
+At SW 312th Street
+  Gated Facility
+    Figure 5
+
+
+
+
+                Figure 3. Location of Gated Facilities
+                                                             SW
+                                                             137
+                                                             Av.
+
+
+
+
+                Conceptual Design
+
+
+
+
+                                    Figure 4
+                                               End Project
+Begin Project
+Figure 5
+                                                          SW
+                                                          137
+                                                          Av.
+
+Waterstone Blvd.
+
+
+
+
+      Begin Project
+
+
+                      Conceptual Design
+                                            End Project
+
+
+
+
+                                          Figure 6
+APPENDIX A
+TRAFFIC DATA
+                                       FLORIDA TRANSPORTATION ENGINEERING, INC
+                                                                           7955 NW 12 STREET, SUITE 418
+                                                                                 DORAL, FL, 33126
+                                                                                                                                                                 File Name    : Not Named 2
+                                                                                                                                                                 Site Code    : 00000000
+                                                                                                                                                                 Start Date   : 5/30/2007
+                                                                                                                                                                 Page No      :1
+
+
+                                                                              Groups Printed- Vehicles - Trucks
+                            Waterstone Way                           SW 137 Avenue                           Waterstone Way                           Waterstone Way
+                              Northbound                               Southbound                               Eastbound                                Westbound
+     Start Time    Left   Thru Right Peds      App. Total   Left   Thru Right Peds App. Total       Left   Thru Right Peds      App. Total   Left   Thru Right Peds      App. Total   Int. Total
+      07:00 AM       1       0      0      0           1      0       0      9      0         9      79       0       1     0         80       0       0      0      0           0          90
+      07:15 AM       5       0      0      0           5      0       0      9      0         9      62       0       4     0         66       0       0      0      0           0          80
+      07:30 AM       3       0      0      0           3      0       0     18      0        18      91       0       4     0         95       0       0      0      0           0         116
+      07:45 AM       2       0      0      0           2      0       0     16      1        17      89       0       5     0         94       0       0      0      0           0         113
+           Total    11       0      0      0          11      0       0     52      1        53     321       0      14     0        335       0       0      0      0           0         399
+
+     08:00 AM        2      0      0      0            2      0      0      19      0        19     87       0      6      0          93       0      0      0       0           0         114
+     08:15 AM        2      0      0      0            2      0      1      28      0        29     69       0      2      0          71       0      0      0       0           0         102
+     08:30 AM        1      0      0      0            1      0      0      24      0        24     55       0      0      0          55       0      0      0       0           0          80
+     08:45 AM        2      0      0      0            2      0      0      16      0        16     69       0      3      0          72       0      0      0       0           0          90
+         Total       7      0      0      0            7      0      1      87      0        88    280       0     11      0         291       0      0      0       0           0         386
+
+*** BREAK ***
+
+     04:00 PM        3      0      0      0            3      0      0      56      1       57      41       0      6      1          48       0      1      0       0           1         109
+     04:15 PM        2      0      0      0            2      0      0      50      0       50      37       0      2      2          41       0      0      0       0           0          93
+     04:30 PM        2      0      0      0            2      0      0      60      0       60      26       0      2      0          28       0      0      0       0           0          90
+     04:45 PM        9      0      0      0            9      0      0      83      0       83      41       0      2      1          44       0      0      0       0           0         136
+         Total      16      0      0      0           16      0      0     249      1      250     145       0     12      4         161       0      1      0       0           1         428
+
+     05:00 PM        2      0      0      0            2      0      0      65      0       65      48       0      2      1          51       0      0      0       0           0         118
+     05:15 PM        7      0      0      0            7      0      0      74      0       74      46       0      6      0          52       0      0      0       0           0         133
+     05:30 PM        7      0      0      0            7      0      0      87      0       87      27       0      8      1          36       0      0      0       0           0         130
+     05:45 PM        5      0      0      0            5      0      0     109      1      110      44       0      4      0          48       0      0      0       0           0         163
+         Total      21      0      0      0           21      0      0     335      1      336     165       0     20      2         187       0      0      0       0           0         544
+
+   Grand Total       55     0      0      0           55      0      1     723       3     727    911        0    57        6        974       0       1     0       0           1        1757
+    Apprch %       100      0      0      0                   0    0.1    99.4     0.4            93.5       0    5.9     0.6                  0    100      0       0
+       Total %      3.1     0      0      0          3.1      0    0.1    41.1     0.2     41.4   51.8       0    3.2     0.3       55.4       0     0.1     0       0         0.1
+      Vehicles       55     0      0      0           55      0      1     719       3      723   902        0     56       6        964       0       1     0       0           1        1743
+   % Vehicles      100      0      0      0         100       0    100    99.4    100      99.4    99        0   98.2    100          99       0    100      0       0        100          99.2
+        Trucks        0     0      0      0            0      0      0        4      0        4      9       0      1       0         10       0       0     0       0           0          14
+     % Trucks         0     0      0      0            0      0      0      0.6      0      0.6      1       0    1.8       0          1       0       0     0       0           0          0.8
+FLORIDA TRANSPORTATION ENGINEERING, INC
+                                               7955 NW 12 STREET, SUITE 418
+                                                     DORAL, FL, 33126
+                                                                                                                             File Name    : Not Named 2
+                                                                                                                             Site Code    : 00000000
+                                                                                                                             Start Date   : 5/30/2007
+                                                                                                                             Page No      :2
+                                                          SW 137 Avenue
+                                                      Out      In      Total
+                                                       902      723     1625
+                                                          9       4       13
+                                                       911      727     1638
+
+
+                                                       719     1            0      3
+                                                         4     0            0      0
+                                                       723     1            0      3
+                                                     Right Thru      Left       Peds
+
+
+
+                    1739
+                       14
+                    1753
+
+
+
+
+                             911
+                                9
+                             902
+
+
+
+
+                                                                                       Right Thru
+                    Total
+
+
+
+
+                            Left
+
+
+
+
+                                                                                                     Out
+                                                                                           0
+                                                                                           0
+                                                                                           0
+     Waterstone Way
+
+
+
+
+                                                                                                        Waterstone Way
+                                                                                                     0
+                                                                                                     0
+                                                                                                     0
+                                                                 North
+                                           0
+                                           0
+                                           0
+
+                            Peds Right Thru
+              964
+               10
+              974
+
+
+
+
+                                                      5/30/2007 07:00 AM
+             In
+
+
+
+
+                                                                                                 1
+                                                                                                 0
+                                                                                                 1
+
+
+
+
+                                                                                                              In
+                                                      5/30/2007 05:45 PM
+                                    57
+                                    56
+                                     1
+
+
+
+
+                                                                                       Left Peds
+
+
+
+
+                                                                                                     1
+                                                                                                     0
+                                                                                                     1
+                                                      Vehicles
+
+
+
+
+                                                                                           0
+                                                                                           0
+                                                                                           0
+    775
+       4
+    779
+
+
+
+
+                                                      Trucks
+   Out
+
+
+
+
+                                                                                                                     Total
+                               6
+                               6
+                               0
+
+
+
+
+                                                                                                                         1
+                                                                                                                         0
+                                                                                                                         1
+                                                                                               0
+                                                                                               0
+                                                                                               0
+                                                     Left   Thru Right Peds
+                                                       55       0    0    0
+                                                          0     0    0    0
+                                                       55       0    0     0
+
+
+                                                        57        55      112
+                                                          1        0        1
+                                                        58        55      113
+                                                      Out       In      Total
+                                                          Waterstone Way
+                                      FLORIDA TRANSPORTATION ENGINEERING, INC
+                                                                            7955 NW 12 STREET, SUITE 418
+                                                                                  DORAL, FL, 33126
+                                                                                                                                                                       File Name     : Not Named 2
+                                                                                                                                                                       Site Code     : 00000000
+                                                                                                                                                                       Start Date    : 5/30/2007
+                                                                                                                                                                       Page No       :3
+
+
+                               Waterstone Way                         SW 137 Avenue                              Waterstone Way                            Waterstone Way
+                                 Northbound                             Southbound                                 Eastbound                                 Westbound
+     Start Time      Left   Thru Right Peds App. Total       Left   Thru Right Peds        App. Total   Left   Thru Right Peds       App. Total   Left   Thru Right Peds        App. Total   Int. Total
+Peak Hour Analysis From 07:00 AM to 08:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:30 AM
+      07:30 AM         3        0       0        0      3       0       0     18       0          18      91      0       4      0         95        0      0      0        0           0         116
+      07:45 AM         2        0       0        0      2       0       0     16       1          17      89      0       5      0         94        0      0      0        0           0         113
+      08:00 AM         2        0       0        0      2       0       0     19       0          19      87      0       6      0         93        0      0      0        0           0         114
+      08:15 AM         2        0       0        0      2       0       1     28       0          29      69      0       2      0         71        0      0      0        0           0         102
+  Total Volume         9        0       0        0      9       0       1     81       1          83     336      0     17       0        353        0      0      0        0           0         445
+  % App. Total       100        0       0        0              0     1.2   97.6     1.2                95.2      0     4.8      0                   0      0      0        0
+           PHF      .750    .000     .000     .000   .750    .000   .250    .723   .250        .716     .923   .000   .708    .000       .929     .000   .000   .000     .000       .000         .959
+FLORIDA TRANSPORTATION ENGINEERING, INC
+                                              7955 NW 12 STREET, SUITE 418
+                                                    DORAL, FL, 33126
+                                                                                                                               File Name    : Not Named 2
+                                                                                                                               Site Code    : 00000000
+                                                                                                                               Start Date   : 5/30/2007
+                                                                                                                               Page No      :4
+                                                           SW 137 Avenue
+                                                       Out      In      Total
+                                                        336       83      419
+
+
+                                                        81     1              0      1
+                                                     Right Thru        Left       Peds
+
+
+
+
+                                                   Peak Hour Data
+                    443
+
+
+                            336
+
+
+
+
+                                                                                         Right Thru
+                   Total
+
+
+
+
+                           Left
+
+
+
+
+                                                                                                       Out
+                                                                                             0
+    Waterstone Way
+
+
+
+
+                                                                                                          Waterstone Way
+                                                                                                           0
+                                                                   North
+                                          0
+                           Peds Right Thru
+             353
+            In
+
+
+
+
+                                                                                                   0
+
+
+
+                                                                                                                In
+                                                  Peak Hour Begins at 07:30 AM
+                                   17
+
+
+
+
+                                                                                         Left Peds
+
+
+
+                                                                                                                   0
+                                                  Vehicles
+
+
+
+
+                                                                                             0
+     90
+
+
+
+
+                                                  Trucks
+   Out
+
+
+
+
+                                                                                                                       Total
+                              0
+
+
+
+
+                                                                                                                           0
+                                                                                                 0
+                                                      Left       Thru Right Peds
+                                                             9       0    0    0
+
+
+                                                         18         9       27
+                                                       Out       In      Total
+                                                           Waterstone Way
+                                      FLORIDA TRANSPORTATION ENGINEERING, INC
+                                                                           7955 NW 12 STREET, SUITE 418
+                                                                                 DORAL, FL, 33126
+                                                                                                                                                                      File Name     : Not Named 2
+                                                                                                                                                                      Site Code     : 00000000
+                                                                                                                                                                      Start Date    : 5/30/2007
+                                                                                                                                                                      Page No       :5
+
+                               Waterstone Way                         SW 137 Avenue                             Waterstone Way                            Waterstone Way
+                                 Northbound                             Southbound                                Eastbound                                 Westbound
+     Start Time      Left   Thru Right Peds App. Total       Left   Thru Right Peds       App. Total   Left   Thru Right Peds       App. Total   Left   Thru Right Peds        App. Total   Int. Total
+Peak Hour Analysis From 04:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 05:00 PM
+      05:00 PM         2        0       0        0      2       0      0     65       0         65       48      0      2       1         51        0      0      0        0           0         118
+      05:15 PM         7        0       0        0      7       0      0     74       0         74       46      0      6       0         52        0      0      0        0           0         133
+      05:30 PM         7        0       0        0      7       0      0     87       0         87       27      0      8       1         36        0      0      0        0           0         130
+      05:45 PM         5        0       0        0      5       0      0    109       1        110       44      0      4       0         48        0      0      0        0           0         163
+  Total Volume        21        0       0        0     21       0      0    335       1        336      165      0     20       2        187        0      0      0        0           0         544
+  % App. Total       100        0       0        0              0      0   99.7     0.3                88.2      0   10.7     1.1                   0      0      0        0
+           PHF      .750    .000     .000     .000   .750    .000   .000   .768   .250        .764     .859   .000   .625   .500        .899     .000   .000   .000     .000       .000         .834
+FLORIDA TRANSPORTATION ENGINEERING, INC
+                                               7955 NW 12 STREET, SUITE 418
+                                                     DORAL, FL, 33126
+                                                                                                                             File Name    : Not Named 2
+                                                                                                                             Site Code    : 00000000
+                                                                                                                             Start Date   : 5/30/2007
+                                                                                                                             Page No      :6
+                                                            SW 137 Avenue
+                                                        Out      In      Total
+                                                         165      336      501
+
+
+                                                        335     0           0      1
+                                                      Right Thru     Left       Peds
+
+
+
+
+                                                    Peak Hour Data
+                     543
+
+
+                             165
+
+
+
+
+                                                                                       Right Thru
+                    Total
+
+
+
+
+                            Left
+
+
+
+
+                                                                                                     Out
+                                                                                           0
+     Waterstone Way
+
+
+
+
+                                                                                                        Waterstone Way
+                                                                                                         0
+                                                                 North
+                                           0
+                            Peds Right Thru
+              187
+             In
+
+
+
+
+                                                                                                 0
+
+
+
+                                                                                                              In
+                                                   Peak Hour Begins at 05:00 PM
+                                    20
+
+
+
+
+                                                                                       Left Peds
+
+
+
+                                                                                                                 0
+                                                   Vehicles
+
+
+
+
+                                                                                           0
+    356
+
+
+
+
+                                                   Trucks
+   Out
+
+
+
+
+                                                                                                                     Total
+                               2
+
+
+
+
+                                                                                                                         0
+                                                                                               0
+                                                       Left Thru Right Peds
+                                                         21     0    0    0
+
+
+                                                          20        21       41
+                                                        Out       In      Total
+                                                            Waterstone Way
+                        Waterstone Way / SW 312 Street                                             File Name         : Waterstone Way & SW 312 Street
+                                                                                                   Site Code         : 00000000
+                                                                                                   Start Date        : 10/29/2008
+                                                                                                   Page No           :1
+
+
+                                                                 Groups Printed- Cars - Buses/Trucks - Turns
+                         Waterstone Way                          Waterstone Way                    SW 312 Street                          SW 312 Street
+                          Northbound                                Southbound                       Eastbound                             Westbound
+Start Time        Left   Thru   Right   Peds   App. Total   Left Thru Right Peds App. Total Left Thru Right Peds     App. Total   Left   Thru   Right   Peds   App. Total   Int. Total
+  07:00 AM          0     15       0       0         15       0    23     0    0       23     0     0      0     0           0      0       0      0       0           0         38
+  07:15 AM          0     13       0       0         13       0    34     0    0       34     0     0      0     0           0      0       0      0       0           0         47
+  07:30 AM          0     21       0       0         21       0    47     0    0       47     0     0      0     0           0      0       0      0       0           0         68
+  07:45 AM          0     37       0       0         37       0    63     0    0       63     0     0      0     0           0      0       0      0       0           0        100
+       Total        0     86       0       0         86       0 167       0    0     167      0     0      0     0           0      0       0      0       0           0        253
+
+  08:00 AM          0    105       0       0      105         0   150     0     0     150     0     0     0     0            0      0       0      0       0           0        255
+  08:15 AM          0    158       0       0      158         0   180     0     0     180     0     0     0     0            0      0       0      0       0           0        338
+  08:30 AM          0    180       0       0      180         0   126     0     0     126     0     0     0     0            0      0       0      0       0           0        306
+  08:45 AM          0     43       0       0       43         0    44     0     0      44     0     0     0     0            0      0       0      0       0           0         87
+       Total        0    486       0       0      486         0   500     0     0     500     0     0     0     0            0      0       0      0       0           0        986
+
+*** BREAK ***
+
+  04:00 PM          0     58       0       0       58         0    48     0     0      48     0     0     0     0            0      0       0      0       0           0        106
+  04:15 PM          0     32       0       0       32         0    25     0     0      25     0     0     0     0            0      0       0      0       0           0         57
+  04:30 PM          0     32       0       0       32         0    25     0     0      25     0     0     0     0            0      0       0      0       0           0         57
+  04:45 PM          0     37       0       0       37         0    37     0     0      37     0     0     0     0            0      0       0      0       0           0         74
+       Total        0    159       0       0      159         0   135     0     0     135     0     0     0     0            0      0       0      0       0           0        294
+
+  05:00 PM          0     46       0       0       46         0    39     0     0      39     0     0     0     0            0      0       0      0       0           0         85
+  05:15 PM          0     42       0       0       42         0    33     0     0      33     0     0     0     0            0      0       0      0       0           0         75
+  05:30 PM          0     47       0       0       47         0    47     0     0      47     0     0     0     0            0      0       0      0       0           0         94
+  05:45 PM          0     34       0       0       34         0    28     0     0      28     0     0     0     0            0      0       0      0       0           0         62
+       Total        0    169       0       0      169         0   147     0     0     147     0     0     0     0            0      0       0      0       0           0        316
+
+Grand Total         0     900      0       0       900        0    949    0     0     949     0     0     0      0           0      0       0      0       0           0      1849
+  Apprch %          0     100      0       0                  0    100    0     0             0     0     0      0                  0       0      0       0
+    Total %         0    48.7      0       0      48.7        0   51.3    0     0    51.3     0     0     0      0           0      0       0      0       0           0
+       Cars         0     881      0       0       881        0    933    0     0     933     0     0     0      0           0      0       0      0       0           0      1814
+    % Cars          0    97.9      0       0      97.9        0   98.3    0     0    98.3     0     0     0      0           0      0       0      0       0           0       98.1
+Buses/Trucks
+ % Buses/Trucks     0     2.1      0       0       2.1        0    1.7    0     0     1.7     0     0     0     0            0      0       0      0       0           0         1.9
+   U-Turns          0       0      0       0         0        0      0    0     0       0     0     0     0     0            0      0       0      0       0           0           0
+ % U-Turns          0       0      0       0         0        0      0    0     0       0     0     0     0     0            0      0       0      0       0           0           0
+Waterstone Way / SW 312 Street                                                File Name      : Waterstone Way & SW 312 Street
+                                                                              Site Code      : 00000000
+                                                                              Start Date     : 10/29/2008
+                                                                              Page No        :2
+                                                    Waterstone Way
+                                                 Out       In    Total
+                                                  881       933    1814
+                                                   19        16      35
+                                                     0        0       0
+                                                  900       949    1849
+
+
+                                                    0  933             0      0
+                                                    0   16             0      0
+                                                    0     0            0      0
+                                                    0  949             0      0
+                                                Right Thru      Left       Peds
+                         0
+                         0
+                         0
+                         0
+
+
+
+
+                                  0
+                                 0
+                                 0
+                                 0
+
+
+
+
+                                                                                      Right Thru
+                     Total
+
+
+
+
+                             Left
+
+
+
+
+                                                                                                        Out
+                                                                                          0
+                                                                                          0
+                                                                                          0
+                                                                                          0
+                                                         North
+
+
+
+
+                                                                                                    0
+                                                                                                    0
+                                                                                                    0
+                                                                                                    0
+
+                                                                                                        SW 312 Street
+       SW 312 Street
+
+
+
+
+                                            0
+                                            0
+                                            0
+                                            0
+
+                             Peds Right Thru
+
+
+
+
+                                                10/29/2008 07:00 AM
+                0
+                0
+                0
+                0
+
+
+
+
+                                                10/29/2008 05:45 PM
+             In
+
+
+
+
+                                                                                                0
+                                                                                                0
+                                                                                                0
+                                                                                                0
+
+
+
+
+                                                                                                             In
+                                      0
+                                      0
+                                      0
+                                      0
+
+
+
+
+                                                                                      Left
+
+
+
+
+                                                                                                    0
+                                                                                                    0
+                                                                                                    0
+                                                                                                    0
+                                                Cars
+                                                Buses/Trucks
+
+
+
+
+                                                                                           0
+                                                                                           0
+                                                                                           0
+                                                                                           0
+        0
+        0
+        0
+        0
+    Out
+
+
+
+
+                                                U-Turns
+
+
+
+
+                                                                                                    Total
+                                0
+                                0
+                                0
+                                0
+
+
+
+
+                                                                                      Peds
+
+
+
+
+                                                                                                        0
+                                                                                                        0
+                                                                                                        0
+                                                                                                        0
+                                                                                         0
+                                                                                         0
+                                                                                         0
+                                                                                         0
+                                                Left       Thru Right Peds
+                                                       0    881     0    0
+                                                       0     19     0    0
+                                                       0       0    0    0
+                                                       0    900     0    0
+
+
+                                                  933       881    1814
+                                                   16        19      35
+                                                     0        0       0
+                                                  949       900    1849
+                                                 Out       In    Total
+                                                    Waterstone Way
+                   Waterstone Way / SW 312 Street                                                                          File Name            : Waterstone Way & SW 312 Street
+                                                                                                                           Site Code            : 00000000
+                                                                                                                           Start Date           : 10/29/2008
+                                                                                                                           Page No              :3
+
+                     Waterstone Way                                    Waterstone Way                                      SW 312 Street                                     SW 312 Street
+                      Northbound                                        Southbound                                          Eastbound                                         Westbound
+ Start Time    Left Thru Right Peds App. Total Left Thru                    Right   Peds        App. Total      Left      Thru   Right   Peds   App. Total     Left        Thru            Right   Peds   App. Total   Int. Total
+Peak Hour Analysis From 07:00 AM to 08:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:45 AM
+  07:45 AM         0     37       0      0       37    0   63                  0        0           63            0          0      0       0           0        0            0               0       0           0        100
+  08:00 AM         0 105          0      0      105    0 150                   0        0          150            0          0      0       0           0        0            0               0       0           0        255
+  08:15 AM         0 158          0      0      158    0 180                                       180            0          0      0       0           0        0            0               0       0           0        338
+  08:30 AM         0 180          0      0      180    0 126                   0       0           126            0          0      0       0           0        0            0               0       0           0        306
+ Total Volume      0 480          0      0      480    0 519                   0       0           519            0          0      0       0           0        0            0               0       0           0        999
+ % App. Total      0 100          0      0             0 100                   0       0                          0          0      0       0                    0            0               0       0
+         PHF .000 .667 .000 .000               .667 .000 .721               .000    .000          .721         .000       .000   .000    .000     .000        .000         .000            .000    .000     .000         .739
+
+                                                                                         Waterstone Way
+                                                                                      Out       In    Total
+                                                                                       480       519    999
+
+
+                                                                                        0  519                      0      0
+                                                                                    Right Thru               Left       Peds
+
+
+
+
+                                                                                    Peak Hour Data
+                                                0
+
+
+                                                        0
+
+
+
+
+                                                                                                                                                             Right Thru
+                                            Total
+
+
+
+
+                                                    Left
+
+
+
+
+                                                                                                                                                                                 Out
+                                                                                                                                                                 0
+                                                                                                    North
+
+
+
+
+                                                                                                                                                                            0
+
+                                                                                                                                                                            SW 312 Street
+                              SW 312 Street
+
+
+
+
+                                                                   0
+                                                    Peds Right Thru
+                                       0
+                                    In
+
+
+
+
+                                                                                                                                                                       0
+                                                                                Peak Hour Begins at 07:45 AM
+
+
+                                                                                                                                                                                 In
+                                                             0
+
+
+
+
+                                                                                                                                                             Left Peds
+
+
+
+                                                                                Cars                                                                                                0
+                                                                                                                                                                 0
+                                0
+
+
+
+
+                                                                                Buses/Trucks
+                            Out
+
+
+
+
+                                                                                                                                                                                          Total
+                                                       0
+
+
+
+
+                                                                                U-Turns
+                                                                                                                                                                                              0
+                                                                                                                                                                     0
+
+
+
+
+                                                                                     Left       Thru Right Peds
+                                                                                            0    480     0    0
+
+
+                                                                                       519       480    999
+                                                                                      Out       In    Total
+                                                                                         Waterstone Way
+                   Waterstone Way / SW 312 Street                                                                          File Name            : Waterstone Way & SW 312 Street
+                                                                                                                           Site Code            : 00000000
+                                                                                                                           Start Date           : 10/29/2008
+                                                                                                                           Page No              :4
+                     Waterstone Way                                    Waterstone Way                                      SW 312 Street                                     SW 312 Street
+                      Northbound                                        Southbound                                          Eastbound                                         Westbound
+ Start Time    Left Thru Right Peds App. Total Left Thru                    Right   Peds        App. Total      Left      Thru   Right   Peds   App. Total     Left        Thru            Right   Peds   App. Total   Int. Total
+Peak Hour Analysis From 04:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 04:45 PM
+  04:45 PM         0     37       0      0       37    0   37                  0        0           37            0          0      0       0           0        0            0               0       0           0         74
+  05:00 PM         0     46       0      0       46    0   39                  0        0           39            0          0      0       0           0        0            0               0       0           0         85
+  05:15 PM         0     42       0      0       42    0   33                  0        0           33            0          0      0       0           0        0            0               0       0           0         75
+  05:30 PM         0     47       0      0       47    0   47                                       47            0          0      0       0           0        0            0               0       0           0         94
+ Total Volume      0 172          0      0      172    0 156                   0       0           156            0          0      0       0           0        0            0               0       0           0        328
+ % App. Total      0 100          0      0             0 100                   0       0                          0          0      0       0                    0            0               0       0
+         PHF .000 .915 .000 .000               .915 .000 .830               .000    .000          .830         .000       .000   .000    .000     .000        .000         .000            .000    .000     .000         .872
+
+                                                                                         Waterstone Way
+                                                                                      Out       In    Total
+                                                                                       172       156    328
+
+
+                                                                                        0  156                      0      0
+                                                                                    Right Thru               Left       Peds
+
+
+
+
+                                                                                    Peak Hour Data
+                                                0
+
+
+                                                        0
+
+
+
+
+                                                                                                                                                             Right Thru
+                                            Total
+
+
+
+
+                                                    Left
+
+
+
+
+                                                                                                                                                                                 Out
+                                                                                                                                                                 0
+                                                                                                    North
+
+
+
+
+                                                                                                                                                                            0
+
+                                                                                                                                                                            SW 312 Street
+                              SW 312 Street
+
+
+
+
+                                                                   0
+                                                    Peds Right Thru
+                                       0
+                                    In
+
+
+
+
+                                                                                                                                                                       0
+                                                                                Peak Hour Begins at 04:45 PM
+
+
+
+
+                                                                                                                                                                                 In
+                                                             0
+
+
+
+
+                                                                                                                                                             Left Peds
+
+
+
+                                                                                                                                                                                    0
+                                                                                Cars
+                                                                                                                                                                 0
+                                0
+
+
+
+
+                                                                                Buses/Trucks
+                            Out
+
+
+
+
+                                                                                                                                                                                          Total
+                                                       0
+
+
+
+
+                                                                                U-Turns                                                                                                       0
+                                                                                                                                                                     0
+
+
+
+
+                                                                                     Left       Thru Right Peds
+                                                                                            0    172     0    0
+
+
+                                                                                       156       172    328
+                                                                                      Out       In    Total
+                                                                                         Waterstone Way
+                         Waterstone Blvd / SW 137 Avenue                                               File Name        : Waterstone Blvd & SW 137 Ave
+                                                                                                       Site Code        : 00000000
+                                                                                                       Start Date       : 10/29/2014
+                                                                                                       Page No          :1
+
+
+                                                                  Groups Printed- Cars - Buses/Trucks - Turns
+                         SW 137 AVE                                 SW 137 AVE                WATERSTONE BLVD                      WATERSTONE BLVD
+                            Northbound                              Southbound                        Eastbound                           Westbound
+Start Time        Left    Thru   Right   Peds   App. Total   Left Thru Right Peds App. Total Left Thru Right Peds    App. Total   Left Thru Right Peds   App. Total   Int. Total
+  07:00 AM          7        0      0       0          7       0     0    3     0         3   32     0      7   1        40         0     0    0     0           0         50
+  07:15 AM          3        0      0       0          3       0     0   10     0       10    37     0     15   1        53         0     0    0     0           0         66
+  07:30 AM          2        0      0       0          2       0     0    7     0         7   48     0     18   1        67         0     0    0     0           0         76
+  07:45 AM         11        0      0       0         11       0     0   11     0       11    41     0     20   1        62         0     0    0     0           0         84
+       Total       23        0      0       0         23       0     0   31     0       31 158       0     60   4       222         0     0    0     0           0        276
+
+  08:00 AM          4        0      0       0          4       0    0     13    0     13     32    0     28     1        61        0     0    0    0             0         78
+  08:15 AM          9        0      0       0          9       0    0     14    0     14     41    0     22     0        63        0     0    0    0             0         86
+  08:30 AM         14        0      0       0         14       0    0     13    0     13     27    0     21     0        48        0     0    0    0             0         75
+  08:45 AM          5        0      0       0          5       0    0     11    0     11     16    0     16     0        32        0     0    0    0             0         48
+       Total       32        0      0       0         32       0    0     51    0     51    116    0     87     1       204        0     0    0    0             0        287
+
+*** BREAK ***
+
+  04:00 PM         20        0      0       0         20       0    0     16    0     16     13    0     10     0        23        0     0    0    0             0         59
+  04:15 PM         14        0      0       0         14       0    0     22    0     22     15    0     15     0        30        0     0    0    0             0         66
+  04:30 PM         12        0      0       0         12       0    0     22    0     22     21    0      6     0        27        0     0    0    0             0         61
+  04:45 PM         11        0      0       0         11       0    0     32    0     32     15    0      8     0        23        0     0    0    0             0         66
+       Total       57        0      0       0         57       0    0     92    0     92     64    0     39     0       103        0     0    0    0             0        252
+
+  05:00 PM         12        0      0       0         12       0    0     23    0     23     17    0     14     0        31        0     0    0    0             0         66
+  05:15 PM         17        0      0       0         17       0    0     28    0     28     10    0      7     0        17        0     0    0    0             0         62
+  05:30 PM         10        0      0       0         10       0    0     22    0     22     18    0     10     0        28        0     0    0    0             0         60
+  05:45 PM         24        0      0       0         24       0    0     27    0     27     16    0     22     0        38        0     0    0    0             0         89
+       Total       63        0      0       0         63       0    0    100    0    100     61    0     53     0       114        0     0    0    0             0        277
+
+Grand Total        175       0      0       0       175        0     0    274   0    274     399   0     239     5       643        0    0    0    0             0      1092
+  Apprch %         100       0      0       0                  0     0    100   0           62.1   0    37.2   0.8                  0    0    0    0
+    Total %         16       0      0       0        16        0     0   25.1   0    25.1   36.5   0    21.9   0.5      58.9        0    0    0    0             0
+       Cars        166       0      0       0       166        0     0    265   0     265    387   0     228     2       617        0    0    0    0             0      1048
+    % Cars        94.9       0      0       0      94.9        0     0   96.7   0    96.7     97   0    95.4    40        96        0    0    0    0             0        96
+Buses/Trucks
+ % Buses/Trucks    5.1       0      0       0       5.1        0    0     3.3   0     3.3     3    0     4.6   60            4     0     0    0    0             0            4
+   U-Turns           0       0      0       0         0        0    0       0   0       0     0    0       0    0            0     0     0    0    0             0            0
+ % U-Turns           0       0      0       0         0        0    0       0   0       0     0    0       0    0            0     0     0    0    0             0            0
+Waterstone Blvd / SW 137 Avenue                                                 File Name    : Waterstone Blvd & SW 137 Ave
+                                                                                Site Code    : 00000000
+                                                                                Start Date   : 10/29/2014
+                                                                                Page No      :2
+                                                       SW 137 AVE
+                                               Out         In     Total
+                                                387         265    652
+                                                 12           9      21
+                                                   0          0       0
+                                                399         274    673
+
+
+                                                265     0           0      0
+                                                  9     0           0      0
+                                                  0     0           0      0
+                                                274     0           0      0
+                                              Right Thru     Left       Peds
+                       0
+                      44
+
+
+
+
+                            399
+                   1048
+
+
+                   1092
+
+
+
+
+                               0
+                             12
+                            387
+
+
+
+
+                                                                                                    WATERSTONE BLVD
+                                                                                      Right Thru
+                   Total
+
+
+
+
+                           Left
+
+
+
+
+                                                                                                     Out
+                                                                                          0
+                                                                                          0
+                                                                                          0
+                                                                                          0
+                                                       North
+   WATERSTONE BLVD
+
+
+
+
+                                                                                                    0
+                                                                                                    0
+                                                                                                    0
+                                                                                                    0
+                                          0
+                                          0
+                                          0
+                                          0
+
+                           Peds Right Thru
+
+
+
+
+                                              10/29/2014 07:00 AM
+              26
+             617
+
+
+             643
+               0
+
+
+
+
+                                              10/29/2014 05:45 PM
+            In
+
+
+
+
+                                                                                                0
+                                                                                                0
+                                                                                                0
+                                                                                                0
+
+
+
+
+                                                                                                            In
+                                  239
+                                   11
+                                  228
+
+                                    0
+
+
+
+
+                                                                                      Left
+
+
+
+
+                                                                                                    0
+                                                                                                    0
+                                                                                                    0
+                                                                                                    0
+                                              Cars
+                                              Buses/Trucks
+
+
+
+
+                                                                                         0
+                                                                                         0
+                                                                                         0
+                                                                                         0
+         0
+       18
+      431
+
+
+      449
+     Out
+
+
+
+
+                                              U-Turns
+
+
+
+
+                                                                                                                   Total
+                              5
+                              2
+                              3
+                              0
+
+
+
+
+                                                                                      Peds
+
+
+
+
+                                                                                                                       0
+                                                                                                                       0
+                                                                                                                       0
+                                                                                                                       0
+                                                                                         0
+                                                                                         0
+                                                                                         0
+                                                                                         0
+                                              Left   Thru Right Peds
+                                               166       0    0    0
+                                                   9     0    0    0
+                                                   0     0    0    0
+                                               175       0    0    0
+
+
+                                                228     166              394
+                                                 11       9                20
+                                                   0      0                 0
+                                                239     175              414
+                                               Out     In               Total
+                                               SW 137 AVE
+                   Waterstone Blvd / SW 137 Avenue                                                                           File Name          : Waterstone Blvd & SW 137 Ave
+                                                                                                                             Site Code          : 00000000
+                                                                                                                             Start Date         : 10/29/2014
+                                                                                                                             Page No            :3
+
+                   SW 137 AVE                                          SW 137 AVE                           WATERSTONE BLVD                                  WATERSTONE BLVD
+                      Northbound                                       Southbound                                  Eastbound                                        Westbound
+ Start Time    Left Thru Right Peds App. Total Left Thru                  Right   Peds     App. Total      Left Thru Right Peds              App. Total     Left Thru Right Peds                       App. Total   Int. Total
+Peak Hour Analysis From 07:00 AM to 08:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:30 AM
+  07:30 AM         2       0      0      0        2    0    0               7        0            7         48                           1       67           0            0               0       0           0         76
+  07:45 AM       11                              11    0    0              11        0           11         41           0      20       1       62           0            0               0       0           0         84
+  08:00 AM         4       0      0      0        4    0    0              13        0           13         32           0      28       1       61           0            0               0       0           0         78
+  08:15 AM         9       0      0      0        9    0    0              14                    14         41           0      22       0       63           0            0               0       0           0         86
+ Total Volume    26        0      0      0       26    0    0              45        0           45        162           0      88       3      253           0            0               0       0           0        324
+ % App. Total  100         0      0      0             0    0             100        0                      64           0    34.8     1.2                    0            0               0       0
+         PHF .591 .000 .000 .000               .591 .000 .000            .804     .000       .804         .844        .000    .786   .750      .944        .000         .000            .000    .000     .000         .942
+
+                                                                                           SW 137 AVE
+                                                                                    Out        In     Total
+                                                                                     162         45    207
+
+
+                                                                                     45     0                  0      0
+                                                                                  Right Thru            Left       Peds
+
+
+
+
+                                                                                  Peak Hour Data
+                                             324
+
+
+                                                     162
+
+
+
+
+                                                                                                                                                                         WATERSTONE BLVD
+                                                                                                                                                          Right Thru
+                                            Total
+
+
+
+
+                                                    Left
+
+
+
+
+                                                                                                                                                                          Out
+                                                                                                                                                              0
+                                                                                               North
+                            WATERSTONE BLVD
+
+
+
+
+                                                                                                                                                                              0
+                                                                   0
+                                                    Peds Right Thru
+                                      253
+                                     In
+
+
+
+
+                                                                                                                                                                    0
+                                                                              Peak Hour Begins at 07:30 AM
+
+
+                                                                                                                                                                                 In
+                                                            88
+
+
+
+
+                                                                                                                                                          Left Peds
+
+
+
+                                                                              Cars                                                                                                  0
+                                                                                                                                                              0
+                                71
+
+
+
+
+                                                                              Buses/Trucks
+                              Out
+
+
+
+
+                                                                                                                                                                                        Total
+                                                       3
+
+
+
+
+                                                                              U-Turns
+                                                                                                                                                                                            0
+                                                                                                                                                                  0
+
+
+
+
+                                                                                   Left Thru Right Peds
+                                                                                     26     0    0    0
+
+
+                                                                                      88      26                    114
+                                                                                    Out     In                     Total
+                                                                                    SW 137 AVE
+                   Waterstone Blvd / SW 137 Avenue                                                                             File Name         : Waterstone Blvd & SW 137 Ave
+                                                                                                                               Site Code         : 00000000
+                                                                                                                               Start Date        : 10/29/2014
+                                                                                                                               Page No           :4
+                   SW 137 AVE                                          SW 137 AVE                           WATERSTONE BLVD                                   WATERSTONE BLVD
+                      Northbound                                       Southbound                                  Eastbound                                         Westbound
+ Start Time    Left Thru Right Peds App. Total Left Thru                  Right   Peds     App. Total      Left Thru Right Peds               App. Total     Left Thru Right Peds                           App. Total   Int. Total
+Peak Hour Analysis From 04:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 05:00 PM
+  05:00 PM       12        0      0      0       12    0    0              23        0         23           17             0     14      0          31             0           0                 0     0            0          66
+  05:15 PM       17        0      0      0       17    0    0              28                  28           10             0      7      0          17             0           0                 0     0            0          62
+  05:30 PM       10        0      0      0       10    0    0              22        0         22           18
+  05:45 PM       24        0      0      0       24    0    0              27        0         27           16           0        22      0       38           0            0               0           0           0         89
+ Total Volume    63        0      0      0       63    0    0             100        0        100           61           0        53      0      114           0            0               0           0           0        277
+ % App. Total  100         0      0      0             0    0             100        0                    53.5           0      46.5      0                    0            0               0           0
+         PHF .656 .000 .000 .000               .656 .000 .000            .893     .000       .893         .847        .000      .602   .000     .750        .000         .000            .000        .000     .000         .778
+
+                                                                                           SW 137 AVE
+                                                                                    Out        In     Total
+                                                                                      61        100    161
+
+
+                                                                                    100     0                  0      0
+                                                                                  Right Thru            Left       Peds
+
+
+
+
+                                                                                  Peak Hour Data
+                                             277
+
+
+                                                      61
+
+
+
+
+                                                                                                                                                                          WATERSTONE BLVD
+                                                                                                                                                           Right Thru
+                                            Total
+
+
+
+
+                                                    Left
+
+
+
+
+                                                                                                                                                                           Out
+                                                                                                                                                               0
+                                                                                               North
+                            WATERSTONE BLVD
+
+
+
+
+                                                                                                                                                                               0
+                                                                   0
+                                                    Peds Right Thru
+                                      114
+                                     In
+
+
+
+
+                                                                                                                                                                     0
+                                                                              Peak Hour Begins at 05:00 PM
+
+
+
+
+                                                                                                                                                                                  In
+                                                            53
+
+
+
+
+                                                                                                                                                           Left Peds
+
+
+
+                                                                                                                                                                                     0
+                                                                              Cars
+                                                                                                                                                               0
+                               163
+
+
+
+
+                                                                              Buses/Trucks
+                              Out
+
+
+
+
+                                                                                                                                                                                         Total
+                                                       0
+
+
+
+
+                                                                              U-Turns                                                                                                        0
+                                                                                                                                                                   0
+
+
+
+
+                                                                                   Left Thru Right Peds
+                                                                                     63     0    0    0
+
+
+                                                                                      53      63                    116
+                                                                                    Out     In                     Total
+                                                                                    SW 137 AVE
+   APPENDIX B
+SPECIFICATIONS FOR
+SMART GATE SYSTEM
+                                       Sequence of Events
+                                      For Registering Guests
+                                     Entering the Community
+                                                Of
+                                           Waterstone
+
+When a guest approaches one of the proposed gatehouses in the community of Waterstone, the
+following is a sequence of events that will take place in registering the guest and vehicle into the
+visitor database system.
+
+Vehicle Arrives At Gatehouse
+
+Guard Acknowledges Visitor and Asks For Their Destination and Requests A Drivers License (5
+seconds)
+
+Driver Produces License (15 seconds)
+
+Guard Scans Driver's License and Prints Authorized Visitor Pass (at the same time, license plate
+capture system records vehicle license plate number and an overview camera captures make and
+model of vehicle) (15 seconds)
+
+Guard Issues Visitors Pass To Driver and Opens Gate (5 seconds)
+
+The total time for the visitor processing is between 35 to 40 seconds per vehicle.
+
+
+
+
+                Global Security Products, Inc. · 16115 S.W. 117 Avenue, Unit A-2,
+                                      Miami, Florida 33177
+                              Tel. 305-592-6970 · Fax 305-592-9366
+                                          EF-20000398
+               www.globalsecurityproducts.com · sales@globalsecurityproducts.com
+                                                                                                                                                 REG-D1
+                                                                       DHC-ImagingTM License Plate Capture with Color Overview
+                                                                                           (Definitive High-Contrast ImagingTM)
+
+
+
+ Key Features                                                                                Product Images
+
+ ·     Extreme's proprietary DHC-ImagingTM technology for definitive
+       high-contrast license plate capture
+ ·     Second camera provides overview vehicle images that show
+       shape, color and other vehicle details.
+ ·     Precision engineered optics captures plates from vehicles moving
+       up to 100mph (~160kph) for high speed applications
+ ·     Metaphase-LEDs deliver powerful infrared illumination for effective
+       license plate capture up to 75ft
+ ·     Advanced ambient rejection technology solves problems related to
+       glare from sunlight, headlights and high-beams
+ ·     600TVL 1/2" LXR CCD for excellent license plate capture under IR
+ ·     480TVL 1/3" LXR CCD for color overview vehicle image
+ ·     24/7 license plate capture in day or dark conditions                                      REG-D1 delivers definitive
+                                                                                                 high-contrast images of
+ ·     Energy efficient operation at 12VDC or 24VAC                                              license plates. Shown here
+ ·     Installer-friendly design suitable for harsh weather conditions                           with EXMB.028B and
+                                                                                                 EXMB.017B bracketry.
+ ·     Long-life LEDs save time and money by eliminating bulb changes
+ ·     High-contrast DHC-ImagingTM allows optimal DVR integration or
+       Automatic License Plate Recognition (ALPR) performance
+ ·     DHC-ImagingTM technology delivers images of both conventional
+       plates and Digital License Plates (DLPs)
+
+ Product Description
+
+ REG-D1 - featuring DHC-ImagingTM - delivers advanced performance
+ license plate capture for technical surveillance and represents the third
+ generation of license plate capture solutions from Extreme CCTV.
+                                                                                                  Conventional camera
+ Combining Extreme's latest proprietary technology, DHC-ImagingTM
+ integrates advances in optics, infrared illumination and Ambient Rejection                                                        The DHC-ImagingTM technology in
+ technology to produce high-contrast license plate images characterized                                                            REG-D1 captures plates from
+                                                                                                                                   vehicles moving at up to 100mph
+ by unmatched clarity. Simultaneously, a second camera captures color                                                              under any lighting conditions. A
+ overview images of vehicles for additional video evidence.                                                                        second color camera delivers an
+                                                                                                                                   overview image of the vehicle that
+ Using solid-state Metaphase-LEDs, REG-D1 achieves an operational                                                                  shows shape, color and other
+ range from 12ft to 75ft, previously unattainable for any LED-based                                                                vehicle details.
+ capture system. Combined with Extreme's Ambient Rejection
+ technology, REG-D1 provides high-contrast license plate capture across                           REG-L1 camera
+ the complete spectrum of ambient lighting conditions from total darkness
+ to direct glare from sunlight or high-beams.
+                                                                                             Applications
+ Consisting of a 1/2" LXR CCD, DHC-ImagingTM technology captures
+ plates from vehicles moving up to 100mph (160kph). REG-D1's                                 ·   Government buildings
+ breakthrough speed capability now enables effective license plate
+                                                                                             ·   Traffic monitoring
+ capture for highway and other high speed applications. Additionally,
+ DHC-ImagingTM has capture capability for not only conventional plates,                      ·   Borders
+ but also Digital License Plates (DLPs). A 1/3" LXR CCD equipped with a                      ·   Parkades
+ 5-50mm VF lens captures overview vehicle images in 480TVL color.                            ·   Toll Booths
+ REG-D1 is housed in a weather-sealed unit compliant to NEMA4, proven                        ·   Airports
+ for successful application in extreme environments. The high-efficiency                     ·   Hotels
+ Metaphase-LED array eliminates the need for routine bulb changes while                      ·   Highways
+ allowing REG-D1 to operate at either 12VDC or 24VAC.                                        ·   Private estates
+ REG-D1 integrates seamlessly with industry standard DVRs, IP video                          ·   Law enforcement
+ servers and wireless broadband equipment. The DHC-ImagingTM                                 ·   12VDC or 24VAC environments
+ technology is precision engineered to deliver high-contrast images for                      ·   Digital License Plates (DLP)
+ intelligent software platforms such as REG-ALERT for Automatic License                      Automatic License Plate Recognition (ALPR) applications
+ Plate Recognition (ALPR) applications.
+
+ Patent Pending. Specifications are subject to change without notice. © Extreme CCTV Inc 2008.                                                   REG-D1_080101.doc
+
+
+
+
+CORPORATE HEADQUARTERS                   EUROPEAN OPERATIONS                       EUROPEAN OPERATIONS                        INTERNATIONAL OPERATIONS
+EXTREME CCTV INC.                        DERWENT SYSTEMS LTD.                      FORWARD VISION CCTV LTD.                   EXTREME CCTV INTERNATIONAL INC.
+Toll Free:  1 888 409 2288               Tel:     +44 (0) 1670 730 187             Tel:     +44 (0) 1252 848 370              Tel:      +1 246 429 9527
+Tel:       +1 604 420 7711               Fax:     +44 (0) 1670 730 188             Fax:     +44 (0) 1252 849 672              Fax:      +1 246 429 5143
+Fax:       +1 604 420 3300               Email:   Sales@DerwentCCTV.com            Email:   Sales@FVCCTV.com
+Email:     Sales@ExtremeCCTV.com         Web:     www.DerwentCCTV.com              Web:     www.FVCCTV.com
+Web:       www.ExtremeCCTV.com
+                                                                                                                                                            REG-D1
+                                                                                   DHC-ImagingTM License Plate Capture with Color Overview
+                                                                                                       (Definitive High-Contrast ImagingTM)
+
+
+
+  Specifications
+
+
+                                                      REG-D1 License Plate Capture with DHC-ImagingTM
+      General Specifications
+         CCDs                                       License Plate Capture CCD                           Color Overview CCD
+              Sensor                               1/2" SX800 Interline LXR CCD                   1/3" CX600 Interline LXR CCD
+              Resolution                                       600 TVL                                       480 TVL
+              Effective Pixels                        EIA: 811 (H) x 508 (V)                         NTSC: 811 (H) x 508 (V)
+              S/N Ratio                                   Greater than 48dB                              Greater than 48dB
+              Video Output                     High-contrast, 1 V p-p @ 75 ohm                           1 V p-p @ 75 ohm
+              Sensitivity                      Zero lux - works in total darkness                         0.1 Lux at F1.2
+         Lens                                             Select from below                       Varifocal 5-50mm with auto-iris
+         Infrared Illumination                                                          850nm
+         LEDs                                                     Metaphase-type LEDs, high-efficiency array
+         Power Requirements                                              12VDC, 3.0A or 24VAC, 1.5A
+         Power Consumption                                     Maximum 27W (2.3A @ 12VDC or 1.2A @ 24VDC)
+         Color                                                                      Black standard
+         Construction                                       Robust cast and extruded aluminum, NEMA 4 compliant
+         Operating Temperature                                             -50ºC to 50ºC | -58ºF to 122ºF
+
+         Environmental                                                     Integral heater and sunshield
+         Weight                                                                    6.2 kg | 13.7 lbs
+         Dimensions                                      383mm L x 277mm W x 283mm H | 15.1" L x 10.9" W x 11.1" H
+         Bracketry                                               Not included. Select from optional accessories
+         Power Supply                                            Not included. Select from optional accessories
+      Lens Selection for License Plate Capture CCD
+         Monochrome Lens Options                16mm                25mm                35mm              50mm               75mm
+         Horizontal Field of View                  22º               14º                 10º                7º                4º
+         Operational Range                      12-22ft             20-34ft             27-48ft           40-68ft           55-80ft
+
+
+
+
+  Part Numbers                                                                                         Optional Accessories
+
+
+    Model                   REG-D1             8          16        X          E                       REG-PS1               Power Supply 120VAC to 12VDC or 24VAC
+    REG-D1                                                                                                                   (w/ auxiliary output for color overview camera)
+
+                                                                                                       EXMB.028                Cable Managed Wall Bracket
+                  Lens Selection                                                                       EXMB.029                U-Bracket
+                  16:    16mm |    22º H-FOV | 12ft to 22ft range                                      EXMB.015                Pole Mount Adapter
+                  25:    25mm |    14º H-FOV | 20ft to 34ft range                                      EXMB.017                Wall Mount Adapter
+                  35:    35mm |    10º H-FOV | 27ft to 48ft range
+                                                                                                       EXMB.061                Pole Top Bracket
+                  50:    50mm |    7º H-FOV    | 40ft to 68ft range
+                  75:    75mm |    4º H-FOV    | 55ft to 80ft range
+                                                                                                           Note:
+                                                                                                           Extreme CCTV power supply units for in-field REG-
+                                              Signal                                                       DCxxx, REG-SLxxx models and existing cabling
+                                              E: EIA       (North America)                                 may be used with REG-D1.
+                                              C: CCIR      (Europe)
+
+
+
+Patent Pending. Specifications are subject to change without notice. © Extreme CCTV Inc 2008.                                                             REG-D1_080101.doc
+
+
+  Dealer / Distributor
+EntryGUARD®
+In most organizations today, Visitor Management consists of visitors scribbling their name in a paper
+guest book. With EntryGuard®, visitors electronically scan their ID (driver's license or other form of
+identification), all relevant information about them is automatically captured in a database, and a
+professional quality visitor badge is printed.
+
+With EntryGuard®, you'll streamline the check-in process, enhance your Facilities security and
+image, and your visitors and employees will feel safer.
+Entry Guard® is a software solution for electronic visitor management. A suite of products provides
+complete, fast and secure visitor registration and pre-registration, recordkeeping, reporting and badging.
+Visitors and contractors electronically scan their ID (license, business card, etc.), and all relevant
+information about them is automatically read and captured in a secure database, including their photo
+and/or signature, the name of the person being visited.
+
+
+
+
+    ·   Streamlines guest access into your facility
+    ·   Powerful, easy-to-use software is a complete management solution
+    ·   Capture contact information from driver's license
+    ·   Print entry badges and special instructions. Including visit expiration and parking
+    ·   Supports multiple data entry stations
+    ·   Supports magnetic data entry stations
+    ·   Supports video integration
+    ·   Supports multiple print options including form dot matrix printers
+
+
+
+
+EnterGuard® Accessories
+
+
+
+
+EnterGuard® System requirements
+
+    ·   PC with a Pentium IV processor
+    ·   Windows XP or Vista
+    ·   2GB of RAM
+    ·   100MB of free hard disk space
+EntryGUARD® 
+
+
+
+
+The Entry Guard Software system includes both an Administrator and Guard interface screen. 
+
+This allows the administrator to have access to areas of the database that the guard would not typically 
+have access to. 
+
+Entry Guard Software is a sophisticated entry management system designed to assist security personnel 
+with validating the identity and access authorization of persons requesting access to your facility. 
+
+With Over 25 Standard Features Including: 
+
+                                     · User Defined Multi User 
+· Simple Point and Click Interface 
+                                     Passwords 
+· Audited Gate Control 
+                                     · Integrated Gate Control 
+· Permanent Guest Lists 
+                                     · Logbook 
+· Party Lists 
+                                     · Phone Number Lists 
+· Incident Report 
+                                     · User Defined Report Wizard 
+· Simple Guard Interface Screen 
+                                     · Open Database Architecture 
+· Resident Directions 
+                                     with ODBC 
+· Temporary Guest Lists 
+                                     · User Defined Query By 
+· Add New Guest Wizard 
+                                     Example Searching 
+· Resident Medical Information 
+                                     · User Selectable Auditing 
+· Intuitive Administrator Interface 
+                                     Features 
+Screen 
+                                     · EMail Lists 
+· Full Graphic Directional Maps 
+                                     · Resident Address Labels 
+· Automobile Lists 
+                                     · Supports Network 
+· Comprehensive Reporting 
+                                     Connectivity and Dialup 
+
+Key Benefits
+
+   ·    Comprehensive Reporting Capability
+   ·    Supports Network Connectivity & Dialup
+   ·    Microsoft Office Report Formats
+   ·    Intuitive Point and Click User Interface
+   ·    Open Database Architecture with ODBC
+   ·    Integrated Imaging
+   ·    Integrated Caller ID System
+   ·    Voice Messaging System
+   ·    Integrated Video Server
+Available Versions
+
+Barriers may be supplied with the barrier
+boom fitted to either the right or left hand
+side. In its standard configuration the main-
+tenance access door is positioned at the
+rear, although on request it can be any one
+of the other sides.
+
+The Round Barrier Boom MSB 4
+
+The round boom is made of highly stable
+aluminium Ø 3" x 1/18" profile, and finished
+with an RAL 9010 white powder coat then
+applied with bright red reflective tape strips.
+
+The Octagonal Barrier Boom MSB 5
+
+This boom is extruded from highly stable
+aluminium alloy to produce an octagonal
+profile of 4" x 21/8" x 1/16" and finished
+with an RAL 9010 white powder coat then
+applied with bright red reflective tape strips.
+
+The Control Device
+
+Both the MIB 10 and MIB 20 barriers may
+only be operated in conjunction with the
+respective MLC controllers especially deve-
+loped by Magnetic. Refer to the applicable
+MF data sheets for relevant details in each
+case.
+
+Safety
+
+The following safety instructions are to be                   Dimensional Diagram MIB
+observed for installation and operation of
+the barriers:
+
+1. The foundation must be produced in
+accordance with Magnetic data sheet
+MF 5115.
+                                                                                                                                                  flange
+2. The minimum required distance between                                                                                barrier boom
+the end of the barrier boom and the nearest                      right-hand version
+building (or wall etc.) is 24".
+                                                                                                          Road
+
+
+
+
+3. It is forbidden for persons or goods to be
+anywhere within the swing zone of the bar-
+rier boom while it is in operation.
+
+4. The closing and opening actions must be
+observed. The mounting of operating ele-                         left-hand version
+ments outside the field of view is not permis-                                                                          Swing Away System
+sible; there must be a line of visibility bet-
+ween the barrier and the control system.
+
+6. The barrier boom fixture can withstand
+winds of up to a maximum of force 10 on the                 The Electrical Connection
+Beaufort scale (= 10.44 Lb/sqft;500 N/m2).
+                                                            Electrical connections are carried out in
+                                                            accordance with factory circuit diagrams.
+                                                            Our control devices may necessitate the ap-
+                                                            plication of special connection diagrams for
+                                                            certain configurations. This can be supplied
+                                                            by us on request.
+
+
+
+
+Subject to technical modifications.   Magnetic Automation Corp. 3160 Murrell Road, Rockledge, FL 32955, USA Phone (321) 6358585 Telefax (321) 6359449 info@magnetic-usa.com
+                                                                                                                                     Barriers
+                                                                                                                                     MAGSTOP
+                                                                                                                                     (toll road barriers)
+
+
+
+
+                                                                                                                                     MIB 10 / MIB 20
+
+                      Technical data:                          Unit                       MIB 10                      MIB 20
+
+                      Maximum boom length                    feet
+                      Aluminium octagonal profile
+                                               4" x 21/8" x 1/16"                             8'                         8'
+                      Aluminium round profile        Ø 3" x 1/18"                            10'                       10'
+                      Opening and closing times                 s           adjustable 0.6 ­ 3.0                       0.9
+                      Voltage                                   V                           115                       115
+                      Frequency                                Hz                            60                         60
+                      Power consumption                 max. W                              400                       240
+                      Housing: width                     inches                         13 3/4"                     13 3/4"
+                      Depth                              inches                         13 3/4"                     13 3/4"
+                      Height                             inches                             42"                       42"
+                      Weight not including barrier boom       Lbs                           110                       110
+                      Drive                                                          DC motor                 Torque motor
+
+
+
+
+                      Technical Description
+
+                      The combination of our proven and reliable           MIB 10
+                      electric motor with a lever system represents
+                      a simple and extremely reliable drive solu-          The heart of the barrier is the combination              data concerning the position of the barrier
+                      tion. It permits short opening and closing           of the brushless maintenance free direct                 boom to the control unit. The optimum
+                      durations without the barrier boom boun-             current motor with its intelligent control               brake position of the barrier boom is always
+                      cing in the end positions. The lever system          mechanism. This combination, developed                   guaranteed as a result of the control mecha-
+                      locks the barrier boom at both end positions.        especially for this application, represents a            nism developed by Magnetic. The control
+                      In the event of a power failure, it can still be     substantial technological leap forward due               mechanism is equipped with self-learning
+                      moved easily by hand.                                to its flexible acceleration and deceleration            software which prevents any subsequent
+                      The complete drive system is attached to the         and its independently adjustable opening                  bounce of the barrier boom. The barrier is
+                      barrier housing as a single unit, and can easi-      and closing times. This further optimises the            factory wired and ready to connect, tested
+                      ly be removed from the housing by removing           movements achieving considerable service                 and supplied with mounting accessories.
+                      the mounting screws.                                 life with long maintenance-free intervals.
+                      A built-in spring mechanism provides a preci-        Hall sensors integrated into the motor pro-              The Housing
+                      se counterbalance for the barrier boom. The          vide precise data regarding the position of              The housing is manufactured from 14 gauge
+                      springs are factory set to correspond with the       the barrier boom at any particular instant,              zinc plated sheet steel on to a base frame of
+                      boom length prior to delivery. If necessary,         and they also provide the control system with            stainless steel, then phosphate and powder
+                      the springs can be easily reset in situ during       a way of verifying the optimum acceleration              coat finished for maximum protection
+                      assembly, for example if the barrier boom is         and braking characteristics.                             against corrosion.
+                      shortened or if signs are attached to the            By calculating the exact position of the                 Control units are mounted onto a removable
+                      boom.                                                boom, it is possible to make feedback direct-            zinc plated sheet steel panel. All of the com-
+                      It is also a simple matter to change the han-        ly available in any position in the form of zero         ponents within the barrier housing are rea-
+                      ding on-site from right-axial to left-axial.         potential signals. This removes the need for             dily accessible through the maintenance
+                                                                           mechanical limit switches which are prone                door and removable top cover. The housing
+                      The Drive Unit                                       to wear and tear.                                        is supplied in an RAL 2000 orange colour
+                                                                                                                                    finish as standard. Other colours are avail-
+                      The two barriers MIB 10 and MIB 20 differ in         MIB 20                                                   able on request, at extra cost.
+                      the type of motor drive they are fitted with.
+                      In the end positions, the motor remains with         The heart of this barrier is the special AC tor-
+                      voltage applied but at reduced power. This           que motor. The features of this motor are its
+                      power is dissipated in the form of heat,             long service life, freedom from maintenance,
+                      which prevents the occurrence of condensa-           and the fact that it is possible to stall it in any
+                      tion and corrosion. This guarantees consi-           position without risk of damage. Imprecise                     LISTED
+580US, 5123/0/04.02
+
+
+
+
+                      stent opening and closing times, even in cold        friction clutches and limit switches are not                 Barrier Gate
+                      climatic conditions.                                 necessary. The position sensor sends precise                    73F9
+
+                      Info number: MF 5123/US        Magnetic Automation Corp. 3160 Murrell Road, Rockledge, FL 32955, USA Phone (321) 6358585 Telefax (321) 6359449 info@magnetic-usa.com
+                                   MaX Pro
+                                             IDentity MaX Pro Reader
+                                             Integrated Automatic Vehicle Identification (AVI) Reader
+                                             Ultra High Frequency (UHF) 902 - 928 MHz Frequency Hopping
+
+Features                                     Overview
+· Integrated reader & antenna                Sirit's IDentity MaX Pro reader uses UHF radio frequency identification (RFID)
+  Designed for operation with UHF tags       technology to create an integrated automatic vehicle identification (AVI) system
+  yielding superior read range when          offering superior price/performance characteristics over traditional long range
+                                             transponder and card systems. Protected against the elements by a weather
+  compared to traditional long-range
+                                             resistant enclosure, this self-contained combined reader and antenna unit is
+  card systems
+                                             intended as a single read point in a pedestal, pole, wall or ceiling mounted
+                                             configuration. The integrated reader provides an economical solution for
+· Operation                                  automatic vehicle identification and access control applications alike.
+  Storage of tag list in reader using
+  IDentity Max Pro firmware enables          The IDentity MaX Pro reader is supported by four independent discrete TTL
+  either system based or stand-alone         capable inputs, which may be used for vehicle detecting loops, light curtains
+  functionality                              or other detection schemes required by the installation. Additionally, the
+                                             reader has four discrete 5V outputs which are current limited and electronically
+                                             configurable for either push pull or
+· Ethernet capability
+                                             external pull up resistors. These outputs
+  Allows network access through
+                                             can be used for gate vending control,
+  standard Ethernet connectivity and         vehicle stop-and-go light control or
+  unique Power over Ethernet (PoE)           other purposes. Sirit has optional relay
+  functionality                              modules for applications that require
+                                             output voltages greater than 5V.
+
+                                             Communication
+                                             The IDentity MaX Pro reader
+                                             communicates transponder activity to
+                                             a variety of established host systems
+                                             via Wiegand, RS-232, RS-422, RS-485 , or
+                                             Ethernet protocols.
+IDentity MaX Pro Reader
+902 - 928 MHz Integrated Access Control Reader
+
+Performance Characteristics
+Frequency:                                      FCC UHF band, 902 MHz to 928 MHz
+                                                                                                                                             SIRIT - CANADA
+Tag Protocols Supported:                        All Sirit IDentity MaX and ZiP transponders leveraging                                       372 Bay Street, Suite 1100
+                                                standard UHF protocol                                                                        Toronto, ON M5H 2W9 Canada
+Working Range:                                  Determined by Max Pro reader configuration; MaX Non                                          Tel:      416.367.1897
+                                                Transferrable Windshield Transponder Up to 6 m (20 ft);                                      Fax:      416.367.1435
+                                                MaX Pass Credit Card Transponder Up to 3 m (10 ft)
+Antenna Type:                                   Circular polarized                                                                           SIRIT - DALLAS
+                                                                                                                                             1321 Valwood Parkway, Suite 620
+Communications Protocol:                        Wiegand, RS-232, RS-422, RS-485, USB 2.0. 802.3af Power
+                                                                                                                                             Carrollton, Texas 75006 USA
+                                                over Ethernet. Serial interfaces support baud rates of up                                    Tel:     972.243.7208
+                                                to 115 Kbps                                                                                  Fax:     972.243.8034
+Data Format:                                    Configurable 26 to 34-bit (Wiegand); Forward compatible
+                                                for higher Wiegand configurations, up to 154-bit
+                                                                                                                                             SIRIT - SAN DIEGO
+External Inputs:                                Four                                                                                         901 Lane Avenue, Suite 100
+                                                                                                                                             Chula Vista, California 91914 USA
+External Outputs:                               Four
+                                                                                                                                             Tel:      619.656.2515
+Ethernet Compatible                             Yes                                                                                          Fax:      619.872-0662
+Tag Buffering:                                  Yes
+LED                                             Yes                                                                                          SIRIT - RALEIGH
+                                                                                                                                             1000 Perimeter Park Drive, Suite E
+Operation                                       3rd Party or Stand Alone                                                                     Morrisville, North Carolina 27560 USA
+                                                                                                                                             Tel:      919.281.1541
+Physical Characteristics                                                                                                                     Fax:      919.281.1551
+Dimensions (LxWxD):                             ~30.5 x 25.4 x 10.2 cm (12.00 x 10.00 x 4.00 in.)
+Packaging:                                      Weather proof integrated enclosure                                                           SIRIT - KNOXVILLE
+Mounting:                                       Pedestal, pole, wall or ceiling mounted                                                      9815 Cogdill Road, Suite 4
+                                                                                                                                             Knoxville, Tennessee 37932 USA
+Weight:                                         ~5.4 kg (~12 lb.)                                                                            Tel:      919.281.1541
+                                                                                                                                             Fax:      919.281.1551
+Environment
+Operating Temperature:                          -25ºC to +60ºC (-13ºF to 140ºF)
+Storage Temperature:                            -40ºC to +114ºC (-40ºF to 237ºF)
+Relative Humidity:                              85% non-condensing
+                                                                                                                                             For more information,
+Power:                                          85 to 264 VAC, 600mA or Power over Ethernet (+48VDC,                                         contact sales toll free
+                                                600 mA)
+                                                                                                                                             at 1.800.498.8760
+Regulatory:                                     FCC part 15
+                                                Industry Canada approval
+                                                                                                                                             E-mail: max@sirit.com
+Ordering Information:
+Part Number:Description:
+IDMAX-READER-PRO
+IDMAX-CABLE-20
+                 IDentity MaX Pro Reader
+                 20 ft., 30 pin cable with pre-assembled                                                                                     www.sirit.com
+                  cannon plug
+IDMAX - CMB      Ceiling mount bracket
+IDMAX - WMB      Pole/wall mount bracket
+IDMAX-REL-01     Relay kit with one relay
+IDMAX-REL-02     Relay kit with two relays
+
+
+
+
+About Sirit Inc.                                                                                                                                            The "RFID by Sirit" symbol signifies that
+Sirit Inc. (TSX: SI) is a leading provider of Radio Frequency Identification (RFID) reader technology to OEMs and solution                                  Sirit Inc.'s high quality RFID reader
+providers worldwide. Harnessing the power of Sirit's enabling-RFID technology, customers are able to more rapidly bring                                     technology resides within this product.
+high quality RFID solutions to the market with reduced initial engineering costs. Sirit's products are built on more than          © 2006 Sirit Inc., all rights reserved. "Sirit"
+                                                                                                                                                                                 , the Sirit Design,"RFID by Sirit"
+                                                                                                                                                                                                                  ,
+14 years of RF domain expertise addressing multiple frequencies (LF/HF/UHF), multiple protocols and are compliant with             the RFID by Sirit Design and "vision beyond sight" are all trademarks of
+                                                                                                                                   Sirit Inc. All other trademarks are the property of their respective owners.
+global standards. Sirit's broad portfolio of products and capabilities are easily customized to address new and traditional RFID
+                                                                                                                                   Specifications subject to change without notice.
+market applications including Supply Chain & Logistics, Cashless Payment, Access Control, Automatic Vehicle Identification,
+Inventory Control & Management, Asset Tracking and Product Authentication. For more information, visit www.sirit.com.                                                                  IDMAX_05-08 rev03
+                                   MaX Pro
+                                             IDentity MaX Transponders
+                                             Ultra High Frequency 865 - 960 MHz
+                                             Transponders for Automatic Vehicle Identification
+
+Features                                     Overview
+· Passive operation                          IDentity MaX transponders are small radio frequency (RF) tags designed for
+  Transponder is powered by                  Sirit's Automatic Vehicle Identification systems. Each transponder contains a
+  the integrated reader/antenna              unique identification code and utilizes energy from the IDentity Max Pro reader
+  device                                     for power, eliminating the requirement for a battery. Transponders are available
+                                             in either a non-transferrable windshield mount or a credit card form factor for
+· Ideal for wide range of
+                                             sidefire installations. Both form factors provide convenient access control by
+                                             eliminating tedious lineups and delays associated with manual systems.
+  applications
+  - Commercial Parking
+ - Gated communities
+                                             How It Works
+ - University campuses                       Sirit's IDentity MaX transponders use RF backscatter modulation technology
+ - Hospitals and many more                   to respond to signals emitted by an IDentity MaX Pro reader by reflecting and
+                                             modulating the reader's RF signal. As a transponder approaches the read
+· Worldwide compliant tags                   zone, the presence of an RF field "wakes" the transponder. Once activated, the
+  available in a variety of form             transponder returns a pre-programmed code to the IDentity MaX Pro reader.
+  factors.
+                                             The IDentity MaX Pro transponder's wireless link uses comprehensive error
+                                             detection methods to ensure a high accuracy rate even under the most
+                                             adverse environmental conditions. Error detection and correction also ensures
+                                             information is transferred accurately between the transponder and reader.
+IDentity MaX Transponders
+865 - 960 MHz Global, Passive Transponders
+
+  Performance Characteristics
+  Operating Frequency:                            865 MHz to 960 MHz                                                                          SIRIT - CANADA
+  Working Range:                                  Determined by Max Pro reader configuration;                                                 372 Bay Street, Suite 1100
+                                                                                                                                              Toronto, ON M5H 2W9 Canada
+                                                  MaX Non Transferrable Windshield Transponder                                                Tel:      416.367.1897
+                                                   Up to 6 m (20 ft);                                                                         Fax:      416.367.1435
+                                                  MaX Pass Credit Card Transponder
+                                                   Up to 3 m (10 ft)                                                                          SIRIT - DALLAS
+                                                                                                                                              1321 Valwood Parkway, Suite 620
+  Data Storage:                                   240 bit                                                                                     Carrollton, Texas 75006 USA
+                                                                                                                                              Tel:     972.243.7208
+  Physical Characteristics                                                                                                                    Fax:     972.243.8034
+  Dimensions (LxW):                               MaX Non Transferrable Windshield Transponder
+                                                   25.4mm x 67.31mm (2.65 in x 1.0 in.)                                                       SIRIT - SAN DIEGO
+                                                  MaX Pass Card Transponder                                                                   901 Lane Avenue, Suite 100
+                                                                                                                                              Chula Vista, California 91914 USA
+                                                   85.72mm x 53.97 mm (3.375 x 2.125 in.)                                                     Tel:      619.656.2515
+                                                                                                                                              Fax:      619.872-0662
+  Weight                                          MaX Non Transferrable Windshield Transponder
+                                                   1.2g (0.04 oz.)
+                                                  MaX Pass Card Transponder                                                                   SIRIT - RALEIGH
+                                                                                                                                              1000 Perimeter Park Drive, Suite E
+                                                   6 g (0.2 oz.)                                                                              Morrisville, North Carolina 27560 USA
+                                                                                                                                              Tel:      919.281.1541
+  Environment                                                                                                                                 Fax:      919.281.1551
+  Operating Temperature:                          -40ºC to +85ºC (-40ºF to 185ºF)
+  Storage Temperature:                            -55ºC to +125ºC (-67ºF to 257ºF)                                                            SIRIT - KNOXVILLE
+  Relative Humidity:                              30% - 70% non-condensing                                                                    9815 Cogdill Road, Suite 4
+                                                                                                                                              Knoxville, Tennessee 37932 USA
+  Power:                                          RF beam powered by Max Pro reader, no battery required                                      Tel:      919.281.1541
+                                                                                                                                              Fax:      919.281.1551
+  Ordering Information
+  Part Number:                                    Description:
+  IDMAX-TAG-01                                    IDentity MaX Windshield Transponder (Non-Transferrable)
+                                                                                                                                              For more information,
+  IDMAX-PASS                                      IDentity MaX Pass Card Transponder                                                          contact sales toll free
+                                                                                                                                              at 1.800.498.8760
+
+                                                                                                                                              E-mail: max@sirit.com
+
+
+
+
+                                                                                                                                              www.sirit.com
+
+         IDentity MaX Pass Card Transponder                          IDentity MaX Windshield Transponder
+                                                                              (Non-Transferrable)
+
+
+
+About Sirit Inc.                                                                                                                                            The "RFID by Sirit" symbol signifies that
+Sirit Inc. (TSX: SI) is a leading provider of Radio Frequency Identification (RFID) reader technology to OEMs and solution                                  Sirit Inc.'s high quality RFID reader
+providers worldwide. Harnessing the power of Sirit's enabling-RFID technology, customers are able to more rapidly bring                                     technology resides within this product.
+high quality RFID solutions to the market with reduced initial engineering costs. Sirit's products are built on more than          © 2007 Sirit Inc., all rights reserved. "Sirit"
+                                                                                                                                                                                 , the Sirit Design,"RFID by Sirit"
+                                                                                                                                                                                                                  ,
+14 years of RF domain expertise addressing multiple frequencies (LF/HF/UHF), multiple protocols and are compliant with             the RFID by Sirit Design and "vision beyond sight" are all trademarks of
+                                                                                                                                   Sirit Inc. All other trademarks are the property of their respective owners.
+global standards. Sirit's broad portfolio of products and capabilities are easily customized to address new and traditional RFID
+                                                                                                                                   Specifications subject to change without notice.
+market applications including Supply Chain & Logistics, Cashless Payment, Access Control, Automatic Vehicle Identification,
+Inventory Control & Management, Asset Tracking and Product Authentication. For more information, visit www.sirit.com.                                                                    IDMT_05_08 rev01
+   APPENDIX C
+ARENA SIMULATION
+11:19:39AM                                Category Overview                                  November 25, 2008
+                                                Values Across All Replications
+
+Waterstone
+
+ Replications:     10   Time Units:    Minutes
+
+Entity
+
+ Other
+
+ Number In                                                             Minimum    Maximum
+                                      Average         Half Width       Average     Average
+Dummy                                 61.0000              0.00        61.0000    61.0000
+Vehicle                               31.7000              4.36        24.0000    43.0000
+
+          64.000
+          60.000
+          56.000
+          52.000
+          48.000                                                                                           Dummy
+          44.000                                                                                           Vehicle
+
+          40.000
+          36.000
+          32.000
+          28.000
+
+
+
+ Number Out                                                            Minimum    Maximum
+                                      Average         Half Width       Average     Average
+Dummy                                 61.0000              0.00        61.0000    61.0000
+Vehicle                               31.6000              4.35        24.0000    43.0000
+
+ WIP                                                                   Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+Dummy                                    0.00              0.00            0.00      0.00        0.00         1.0000
+Vehicle                                0.3856              0.07          0.2633    0.5465        0.00         4.0000
+
+
+Queue
+
+ Time
+
+ Waiting Time                                                          Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+GateQueue                              0.1368              0.04    0.05397928      0.2185        0.00         1.4993
+ Other
+
+ Number Waiting                                                        Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+GateQueue                        0.07628897                0.03    0.02429068      0.1285        0.00         3.0000
+
+
+
+
+  Model Filename: C:\Documents and Settings\Administrator\Desktop\207006\Arena-Gate Simulation\CommunityGate_11
+                                                                                             Page   2     of    3
+12:02:31AM                                 Category Overview                                    November 18, 2008
+                                                 Values Across All Replications
+
+Waterstone
+
+ Replications:      10   Time Units:    Minutes
+
+Entity
+
+ Other
+
+ Number In                                                              Minimum      Maximum
+                                       Average         Half Width       Average       Average
+Dummy                                  61.0000              0.00        61.0000       61.0000
+Vehicle                                 178.60              9.89         153.00        203.00
+
+          180.000
+
+          160.000
+
+          140.000
+                                                                                                            Dummy
+          120.000                                                                                           Vehicle
+
+          100.000
+
+           80.000
+
+           60.000
+
+
+
+ Number Out                                                             Minimum      Maximum
+                                       Average         Half Width       Average       Average
+Dummy                                  61.0000              0.00        61.0000       61.0000
+Vehicle                                 178.60              9.89         153.00        203.00
+
+ WIP                                                                    Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+Dummy                                     0.00              0.00            0.00         0.00      0.00        1.0000
+Vehicle                                 0.1627              0.01          0.1379       0.1867      0.00        4.0000
+
+
+Queue
+
+ Time
+
+ Waiting Time                                                           Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+GateQueue                         0.00458805                0.00    0.00310949     0.00566385      0.00        0.1088
+ Other
+
+ Number Waiting                                                         Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+GateQueue                         0.01374958                0.00    0.00881021     0.01792036      0.00        3.0000
+
+
+
+
+  Model Filename: C:\Documents and Settings\Administrator\Desktop\207006\Arena-Gate Simulation\CommunityGate_11
+                                                                                             Page   2     of    3
+11:58:43PM                                Category Overview                                  November 17, 2008
+                                                Values Across All Replications
+
+Waterstone
+
+ Replications:     10   Time Units:    Minutes
+
+Entity
+
+ Other
+
+ Number In                                                             Minimum    Maximum
+                                      Average         Half Width       Average     Average
+Dummy                                 61.0000              0.00        61.0000    61.0000
+Vehicle                               32.2000              4.91        24.0000    47.0000
+
+          64.000
+          60.000
+          56.000
+          52.000
+                                                                                                           Dummy
+          48.000                                                                                           Vehicle
+          44.000
+          40.000
+          36.000
+          32.000
+
+
+
+ Number Out                                                            Minimum    Maximum
+                                      Average         Half Width       Average     Average
+Dummy                                 61.0000              0.00        61.0000    61.0000
+Vehicle                               31.9000              4.69        24.0000    46.0000
+
+ WIP                                                                   Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+Dummy                                    0.00              0.00            0.00      0.00        0.00         1.0000
+Vehicle                                0.4819              0.10          0.3177    0.7740        0.00         4.0000
+
+
+Queue
+
+ Time
+
+ Waiting Time                                                          Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+GateQueue                              0.1978              0.06    0.08330378      0.3400        0.00         1.9218
+ Other
+
+ Number Waiting                                                        Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+GateQueue                              0.1128              0.05    0.03748670      0.2373        0.00         3.0000
+
+
+
+
+  Model Filename: C:\Documents and Settings\Administrator\Desktop\207006\Arena-Gate Simulation\CommunityGate_11
+                                                                                             Page   2     of    3
+11:41:39PM                                 Category Overview                                    November 17, 2008
+                                                 Values Across All Replications
+
+Waterstone
+
+ Replications:      10   Time Units:    Minutes
+
+Entity
+
+ Other
+
+ Number In                                                              Minimum      Maximum
+                                       Average         Half Width       Average       Average
+Dummy                                  61.0000              0.00        61.0000       61.0000
+Vehicle                                 177.60              7.82         164.00        195.00
+
+          180.000
+
+          160.000
+
+          140.000
+                                                                                                            Dummy
+          120.000                                                                                           Vehicle
+
+          100.000
+
+           80.000
+
+           60.000
+
+
+
+ Number Out                                                             Minimum      Maximum
+                                       Average         Half Width       Average       Average
+Dummy                                  61.0000              0.00        61.0000       61.0000
+Vehicle                                 176.80              7.86         163.00        193.00
+
+ WIP                                                                    Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+Dummy                                     0.00              0.00            0.00         0.00      0.00        1.0000
+Vehicle                                 0.4896              0.03          0.4227       0.5584      0.00        5.0000
+
+
+Queue
+
+ Time
+
+ Waiting Time                                                           Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+GateQueue                         0.03559927                0.01    0.01990657     0.04453072      0.00        0.4319
+ Other
+
+ Number Waiting                                                         Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+GateQueue                               0.1059              0.02    0.05607018         0.1404      0.00        4.0000
+
+
+
+
+  Model Filename: C:\Documents and Settings\Administrator\Desktop\207006\Arena-Gate Simulation\CommunityGate_11
+                                                                                             Page   2     of    3
+11:08:34AM                                 Category Overview                                  November 25, 2008
+                                                 Values Across All Replications
+
+Waterstone
+
+ Replications:      10   Time Units:    Minutes
+
+Entity
+
+ Other
+
+ Number In                                                              Minimum    Maximum
+                                       Average         Half Width       Average     Average
+Dummy                                  61.0000              0.00        61.0000    61.0000
+Vehicle                                 110.60              6.06         100.00     126.00
+
+          120.000
+
+          110.000
+
+          100.000
+                                                                                                           Dummy
+           90.000                                                                                          Vehicle
+
+           80.000
+
+           70.000
+
+           60.000
+
+
+
+ Number Out                                                             Minimum    Maximum
+                                       Average         Half Width       Average     Average
+Dummy                                  61.0000              0.00        61.0000    61.0000
+Vehicle                                97.4000              2.57        92.0000     103.00
+
+ WIP                                                                    Minimum    Maximum    Minimum      Maximum
+                                       Average         Half Width       Average     Average      Value        Value
+Dummy                                     0.00              0.00            0.00      0.00       0.00        1.0000
+Vehicle                                 6.7213              1.96          3.4894   10.3292       0.00       27.0000
+
+
+Queue
+
+ Time
+
+ Waiting Time                                                           Minimum    Maximum    Minimum      Maximum
+                                       Average         Half Width       Average     Average      Value        Value
+GateQueue                               3.0093              1.00          1.3814    4.9660       0.00       11.3061
+ Other
+
+ Number Waiting                                                         Minimum    Maximum    Minimum      Maximum
+                                       Average         Half Width       Average     Average      Value        Value
+GateQueue                               5.7688              1.95          2.5642    9.3358       0.00       26.0000
+
+
+
+
+  Model Filename: C:\Documents and Settings\Administrator\Desktop\207006\Arena-Gate Simulation\CommunityGate_11
+                                                                                             Page   2     of    3
+11:55:12PM                                 Category Overview                                    November 17, 2008
+                                                 Values Across All Replications
+
+Waterstone
+
+ Replications:      10   Time Units:    Minutes
+
+Entity
+
+ Other
+
+ Number In                                                              Minimum      Maximum
+                                       Average         Half Width       Average       Average
+Dummy                                  61.0000              0.00        61.0000       61.0000
+Vehicle                                 625.10             17.55         593.00        679.00
+
+          700.000
+
+          600.000
+
+          500.000
+
+          400.000                                                                                           Dummy
+                                                                                                            Vehicle
+          300.000
+
+          200.000
+
+          100.000
+
+            0.000
+
+
+
+ Number Out                                                             Minimum      Maximum
+                                       Average         Half Width       Average       Average
+Dummy                                  61.0000              0.00        61.0000       61.0000
+Vehicle                                 623.00             17.87         592.00        678.00
+
+ WIP                                                                    Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+Dummy                                     0.00              0.00            0.00         0.00      0.00        1.0000
+Vehicle                                 1.4104              0.11          1.2384       1.6723      0.00        9.0000
+
+
+Queue
+
+ Time
+
+ Waiting Time                                                           Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+GateQueue                         0.06865395                0.01    0.05696588     0.08563533      0.00        0.5151
+ Other
+
+ Number Waiting                                                         Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+GateQueue                               0.7199              0.09          0.5706       0.9213      0.00        8.0000
+
+
+
+
+  Model Filename: C:\Documents and Settings\Administrator\Desktop\207006\Arena-Gate Simulation\CommunityGate_11
+                                                                                             Page   2     of    3
+11:17:30AM                                Category Overview                                  November 25, 2008
+                                                Values Across All Replications
+
+Waterstone
+
+ Replications:     10   Time Units:    Minutes
+
+Entity
+
+ Other
+
+ Number In                                                             Minimum    Maximum
+                                      Average         Half Width       Average     Average
+Dummy                                 61.0000              0.00        61.0000    61.0000
+Vehicle                               69.9000              6.65        55.0000    87.0000
+
+          70.000
+
+          68.000
+
+          66.000
+                                                                                                           Dummy
+                                                                                                           Vehicle
+          64.000
+
+          62.000
+
+          60.000
+
+
+
+ Number Out                                                            Minimum    Maximum
+                                      Average         Half Width       Average     Average
+Dummy                                 61.0000              0.00        61.0000    61.0000
+Vehicle                               68.5000              6.94        54.0000    87.0000
+
+ WIP                                                                   Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+Dummy                                    0.00              0.00            0.00      0.00        0.00        1.0000
+Vehicle                                1.3576              0.52          0.7534    3.3266        0.00       10.0000
+
+
+Queue
+
+ Time
+
+ Waiting Time                                                          Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+GateQueue                              0.5512              0.31          0.2420    1.7060        0.00         4.6391
+ Other
+
+ Number Waiting                                                        Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+GateQueue                              0.6876              0.47          0.2219    2.4737        0.00         9.0000
+
+
+
+
+  Model Filename: C:\Documents and Settings\Administrator\Desktop\207006\Arena-Gate Simulation\CommunityGate_11
+                                                                                             Page   2     of    3
+11:51:16PM                                 Category Overview                                    November 17, 2008
+                                                 Values Across All Replications
+
+Waterstone
+
+ Replications:      10   Time Units:    Minutes
+
+Entity
+
+ Other
+
+ Number In                                                              Minimum      Maximum
+                                       Average         Half Width       Average       Average
+Dummy                                  61.0000              0.00        61.0000       61.0000
+Vehicle                                 396.20             13.98         374.00        435.00
+
+          400.000
+
+          350.000
+
+          300.000
+
+          250.000                                                                                           Dummy
+                                                                                                            Vehicle
+          200.000
+
+          150.000
+
+          100.000
+
+           50.000
+
+
+
+ Number Out                                                             Minimum      Maximum
+                                       Average         Half Width       Average       Average
+Dummy                                  61.0000              0.00        61.0000       61.0000
+Vehicle                                 395.80             13.71         374.00        434.00
+
+ WIP                                                                    Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+Dummy                                     0.00              0.00            0.00         0.00      0.00        1.0000
+Vehicle                                 0.4068              0.02          0.3797       0.4679      0.00        5.0000
+
+
+Queue
+
+ Time
+
+ Waiting Time                                                           Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+GateQueue                         0.01159141                0.00    0.00929132     0.01483380      0.00        0.1629
+ Other
+
+ Number Waiting                                                         Minimum      Maximum    Minimum     Maximum
+                                       Average         Half Width       Average       Average      Value       Value
+GateQueue                         0.07683996                0.01    0.06085817         0.1075      0.00        4.0000
+
+
+
+
+  Model Filename: C:\Documents and Settings\Administrator\Desktop\207006\Arena-Gate Simulation\CommunityGate_11
+                                                                                             Page   2     of    3
+11:46:48PM                                Category Overview                                  November 17, 2008
+                                                Values Across All Replications
+
+Waterstone
+
+ Replications:     10   Time Units:    Minutes
+
+Entity
+
+ Other
+
+ Number In                                                             Minimum    Maximum
+                                      Average         Half Width       Average     Average
+Dummy                                 61.0000              0.00        61.0000    61.0000
+Vehicle                               68.5000              5.97        52.0000    85.0000
+
+          69.000
+          68.000
+          67.000
+          66.000
+                                                                                                           Dummy
+          65.000                                                                                           Vehicle
+          64.000
+          63.000
+          62.000
+          61.000
+
+
+
+ Number Out                                                            Minimum    Maximum
+                                      Average         Half Width       Average     Average
+Dummy                                 61.0000              0.00        61.0000    61.0000
+Vehicle                               66.8000              5.67        51.0000    82.0000
+
+ WIP                                                                   Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+Dummy                                    0.00              0.00            0.00      0.00        0.00        1.0000
+Vehicle                                1.8420              0.49          0.8564    2.7715        0.00       11.0000
+
+
+Queue
+
+ Time
+
+ Waiting Time                                                          Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+GateQueue                              0.9102              0.34          0.3101    1.6167        0.00         6.0709
+ Other
+
+ Number Waiting                                                        Minimum    Maximum    Minimum       Maximum
+                                      Average         Half Width       Average     Average      Value         Value
+GateQueue                              1.0740              0.44          0.2688    1.9444        0.00       10.0000
+
+
+
+
+  Model Filename: C:\Documents and Settings\Administrator\Desktop\207006\Arena-Gate Simulation\CommunityGate_11
+                                                                                             Page   2     of    3
+11:44:23PM                                 Category Overview                                  November 17, 2008
+                                                 Values Across All Replications
+
+Waterstone
+
+ Replications:      10   Time Units:    Minutes
+
+Entity
+
+ Other
+
+ Number In                                                              Minimum    Maximum
+                                       Average         Half Width       Average     Average
+Dummy                                  61.0000              0.00        61.0000    61.0000
+Vehicle                                 534.80             24.24         505.00     602.00
+
+          600.000
+
+          500.000
+
+          400.000
+                                                                                                           Dummy
+          300.000                                                                                          Vehicle
+
+          200.000
+
+          100.000
+
+            0.000
+
+
+
+ Number Out                                                             Minimum    Maximum
+                                       Average         Half Width       Average     Average
+Dummy                                  61.0000              0.00        61.0000    61.0000
+Vehicle                                 458.00              3.18         448.00     463.00
+
+ WIP                                                                    Minimum    Maximum    Minimum      Maximum
+                                       Average         Half Width       Average     Average      Value        Value
+Dummy                                     0.00              0.00            0.00      0.00       0.00         1.0000
+Vehicle                                38.7031             10.70         20.8010   64.7635       0.00         144.00
+
+
+Queue
+
+ Time
+
+ Waiting Time                                                           Minimum    Maximum    Minimum      Maximum
+                                       Average         Half Width       Average     Average      Value        Value
+GateQueue                               4.1619              0.99          2.3536    6.3887       0.00       14.3741
+ Other
+
+ Number Waiting                                                         Minimum    Maximum    Minimum      Maximum
+                                       Average         Half Width       Average     Average      Value        Value
+GateQueue                              37.7103             10.70         19.8037   63.7695       0.00         143.00
+
+
+
+
+  Model Filename: C:\Documents and Settings\Administrator\Desktop\207006\Arena-Gate Simulation\CommunityGate_11
+                                                                                             Page   2     of    3
+
