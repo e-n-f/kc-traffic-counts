@@ -21,3 +21,5 @@ find ccrpcvt -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xa
 find misc -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-misc.csv
 find corvallis -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-corvallis.csv
 find dc -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-dc.csv
+find boston -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-boston.csv
+find oakland -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-oakland.csv
