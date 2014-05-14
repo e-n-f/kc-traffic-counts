@@ -18,7 +18,7 @@ my $turns = "";
 
 my $i;
 for ($i = 0; $i <= $#lines; $i++) {
-	if ($lines[$i] =~ /Start Date:\s*(.*)/) {
+	if ($lines[$i] =~ /Start Date\s*:\s*(.*)/) {
 		$date = $1;
 		$date =~ s/,/ /g;
 	}
@@ -56,29 +56,47 @@ for ($i = 0; $i <= $#lines; $i++) {
 				    $lines[$i] =~ /^(Northeast|Southeast|Northwest|Southwest)bound$/ ||
 				    $lines[$i] =~ /^From (North|South|East|West)$/ ||
 				    $lines[$i] =~ /^From (Northeast|Southeast|Northwest|Southwest)$/) {
+					$lines[$i] =~ s/^From North$/Southbound/;
+					$lines[$i] =~ s/^From East$/Westbound/;
+					$lines[$i] =~ s/^From South$/Northbound/;
+					$lines[$i] =~ s/^From West$/Eastbound/;
+
 					push @directions, $lines[$i];
 				} else {
-					$street{$lines[$i]} = 1;
+					if (!defined($street{$lines[$i]})) {
+						if ($street eq "") {
+							$street = $lines[$i];
+						} else {
+							$street .= " / $lines[$i]";
+						}
+						$street{$lines[$i]} = 1;
+					}
 				}
-			}
-
-			for (keys(%street)) {
-				$street .= "$_ ";
 			}
 		}
 
 		$turns = $lines[$i];
-		$turns =~ s/^Start Time //;
 		$i++;
 		while (! ($lines[$i] =~ /\d+/)) {
 			$turns .= " $lines[$i]";
 			$i++;
 		}
-		$turns =~ s/App. Total/App.Total/g;
-		$turns =~ s/Int. Total/Int.Total/g;
-		$turns =~ s/Exclu. Total/Exc.Total/g;
-		$turns =~ s/Inclu. Total/Inc.Total/g;
-		my @turns = split(/ /, $turns);
+		$turns =~ s/App *. *Total/App.Total/gi;
+		$turns =~ s/Int *. *Total/Int.Total/gi;
+		$turns =~ s/Exclu *. *Total/Exc.Total/gi;
+		$turns =~ s/Inclu *. *Total/Inc.Total/gi;
+		$turns =~ s/R *i *g *h *t/Right/gi;
+		$turns =~ s/L *e *f *t/Left/gi;
+		$turns =~ s/P *e *d *s/Peds/gi;
+		$turns =~ s/T *h *r *u/Thru/gi;
+		$turns =~ s/H *a *r *d */Hard/gi;
+		$turns =~ s/S *o *f *t */Soft/gi;
+		$turns =~ s/B *e *a *r */Bear/gi;
+		$turns =~ s/U *- *T *u *r *n/U-Turn/gi;
+		$turns =~ s/([NSEW]) *S *i *d *e /\1Side/gi;
+		$turns =~ s/ *Xing *([NSEW])B/Xing\1B/gi;
+		$turns =~ s/Start *Time *//g;
+		my @turns = split(/ +/, $turns);
 
 		# print "street $street\n";
 		# print "directions $directions\n";
@@ -99,11 +117,17 @@ for ($i = 0; $i <= $#lines; $i++) {
 
 				last if defined($count{$when});
 
+				my $line = $lines[$i];
+				while ($lines[$i + 1] =~ /^\d+$/ || $lines[$i + 1] =~ /^\d+\s/) {
+					$line .= " $lines[$i + 1]";
+					$i++;
+				}
+
 				my @fields = split(/ +/, $lines[$i]);
 				if ($#fields != $#turns) {
 					print STDERR "$argv[$i]: Mismatched fields ($#fields) and turns ($#turns)\n";
-					print STDERR "$argv[$i]: turns are $turns\n";
 					print STDERR "$argv[$i]: fields are $lines[$i]\n";
+					print STDERR "$argv[$i]: turns are $turns\n";
 				} else {
 					my $state = 0;
 					my $direction = 0;
@@ -123,7 +147,8 @@ for ($i = 0; $i <= $#lines; $i++) {
 						$count{$when}{$directions[$direction]}{$turns[$j]} = $fields[$j];
 					}
 				}
-			} elsif ($lines[$i] =~ /Hourly Total/) {
+			} elsif ($lines[$i] =~ /Hourly Total/ ||
+			         $lines[$i] =~ /^Total/) {
 				;
 			} else {
 				last;
@@ -148,14 +173,14 @@ for ($i = 0; $i <= $#lines; $i++) {
 				}
 			}
 
-			print ",,";
+			print ",";  # XXX
 
 			for my $direction (keys(%{$count{$when}})) {
 				for my $turn (keys(%{$count{$when}{$direction}})) {
 					next if $turn =~ /Total/;
 					next if $turn =~ /U-Turn/;
 
-					print "$direction:$turn:$count{$when}{$direction}{$turn},";
+					print ",$direction:$turn:$count{$when}{$direction}{$turn}";
 				}
 			}
 
