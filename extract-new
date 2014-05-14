@@ -77,7 +77,7 @@ for ($i = 0; $i <= $#lines; $i++) {
 
 		$turns = $lines[$i];
 		$i++;
-		while (! ($lines[$i] =~ /\d+/)) {
+		while (! ($lines[$i] =~ /\d+:\d/ || $lines[$i] =~ /\d\.\d/)) {
 			$turns .= " $lines[$i]";
 			$i++;
 		}
@@ -97,6 +97,20 @@ for ($i = 0; $i <= $#lines; $i++) {
 		$turns =~ s/ *Xing *([NSEW])B/Xing\1B/gi;
 		$turns =~ s/Start *Time *//g;
 		my @turns = split(/ +/, $turns);
+
+		if ($group eq "BIKES" ||
+		    $group eq "Bikes" ||
+		    $group eq "BIKES PEDS") {
+			for (my $x = 0; $x <= $#turns; $x++) {
+				if ($turns[$x] eq "Right") {
+					$turns[$x] = "RightBikes";
+				} elsif ($turns[$x] eq "Left") {
+					$turns[$x] = "LeftBikes";
+				} elsif ($turns[$x] eq "Thru") {
+					$turns[$x] = "ThruBikes";
+				}
+			}
+		}
 
 		# print "street $street\n";
 		# print "directions $directions\n";
@@ -148,9 +162,12 @@ for ($i = 0; $i <= $#lines; $i++) {
 					}
 				}
 			} elsif ($lines[$i] =~ /Hourly Total/ ||
-			         $lines[$i] =~ /^Total/) {
+			         $lines[$i] =~ /^Total/ ||
+				 $lines[$i] =~ /^Factor/ ||
+				 $lines[$i] eq "*** BREAK ***") {
 				;
 			} else {
+				# print "skipping out $lines[$i]\n";
 				last;
 			}
 		}
@@ -158,6 +175,20 @@ for ($i = 0; $i <= $#lines; $i++) {
 		for my $when (sort {$a <=> $b } (keys(%count))) {
 			print "$argv[$i],$street,$group,$date,";
 			printf("%02d:%02d-%02d:%02d,", $when / 60, $when % 60, ($when + 15) / 60, ($when + 15) % 60);
+
+			# Directions to intersection legs
+			my %bikemap = ( "Northbound" => "Westbound",
+			                "Southbound" => "Eastbound",
+			                "Eastbound" => "Northbound",
+			                "Westbound" => "Southbound");
+
+			for my $direction (keys(%bikemap)) {
+				if (defined($count{$when}{$direction}{"ThruBikes"})) {
+					$count{$when}{$bikemap{$direction}}{"Bikes"} =
+						$count{$when}{$direction}{"ThruBikes"};
+					delete $count{$when}{$direction}{"ThruBikes"};
+				}
+			}
 
 			for my $direction ('Southbound', 'Westbound', 'Northbound', 'Eastbound') {
 				for my $turn ('Right', 'Thru', 'Left') {
@@ -179,6 +210,8 @@ for ($i = 0; $i <= $#lines; $i++) {
 				for my $turn (keys(%{$count{$when}{$direction}})) {
 					next if $turn =~ /Total/;
 					next if $turn =~ /U-Turn/;
+					next if $turn =~ /RightBikes/;
+					next if $turn =~ /LeftBikes/;
 
 					print ",$direction:$turn:$count{$when}{$direction}{$turn}";
 				}
