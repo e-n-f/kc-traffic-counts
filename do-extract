@@ -15,7 +15,6 @@ find wenatchee -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | 
 find perimetercid -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-perimetercid.csv
 find rcrpc -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-rcrpc.csv
 find mndot -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-mndot.csv
-find portland -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-portland.csv
 find ccrpcvt -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-ccrpcvt.csv
 find misc -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-misc.csv
 find corvallis -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-corvallis.csv
@@ -25,3 +24,4 @@ find oakland -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xa
 find arkansas -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-arkansas.csv
 
 find auburn -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-new > counts-auburn.csv
+find portland -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-new > counts-portland.csv

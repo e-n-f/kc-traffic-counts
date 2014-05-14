@@ -1,31 +1,35 @@
-                                                                         City of Portland
-                                                                               Office of Transportation
-                                                                              1120 SW 5th Ave Rm 800
-                                                                                 Portland, OR 97204
-                                                                                "The City That Works"                                                       File Name          : 50105TPB
-Wx: Cldy 40f By: CDB                                                                                                                                        Site Code          : 00000000
-                                                                                                                                                            Start Date         : 1/5/2005
-NE 112TH AVE @ NE SANDY BLV                                                                                                                                 Page No            :1
-
-
-                                                                           Groups Printed- BIKES
-                          NE 112TH AVE                          NE SANDY BLV                                NE 112TH AVE                              NE SANDY BLV
-                           Southbound                            Westbound                                   Northbound                                 Eastbound
-Start Time       Left   Thru Right Peds    App. Total   Left   Thru   Right     Peds   App. Total   Left   Thru   Right   Peds   App. Total   Left   Thru   Right   Peds   App. Total   Int. Total
-       Factor    1.0     1.0   1.0   1.0                1.0    1.0     1.0       1.0                1.0    1.0     1.0     1.0                1.0    1.0     1.0     1.0
-        16:00      0       0     1     0           1      0      0       0         0           0      0      0       0       0           0      0      1       0       0           1            2
-        16:15      0       0     0     0           0      0      0       0         0           0      0      0       0       0           0      0      1       0       0           1            1
-        16:30      0       0     0     0           0      0      0       0         0           0      0      0       0       0           0      0      1       0       0           1            1
-        16:45      0       0     0     0           0      0      0       0         0           0      0      0       0       0           0      0      0       0       0           0            0
-         Total     0       0     1     0           1      0      0       0         0           0      0      0       0       0           0      0      3       0       0           3            4
-
-       17:00       0      0      0    0            0      0      1       0        0            1      0      0       0      0            0      0      0       0      0            0            1
-       17:15       0      0      0    0            0      0      0       0        0            0      0      0       0      0            0      0      0       0      0            0            0
-       17:30       0      0      0    0            0      0      0       0        0            0      0      0       0      0            0      0      0       0      0            0            0
-       17:45       0      0      0    0            0      0      0       0        0            0      0      0       0      0            0      0      0       0      0            0            0
-        Total      0      0      0    0            0      0      1       0        0            1      0      0       0      0            0      0      0       0      0            0            1
-
-  Grand Total      0      0      1    0            1      0      1       0        0            1      0      0       0      0            0      0      3       0      0            3            5
-   Apprch %        0      0    100    0                   0    100       0        0                   0      0       0      0                   0    100       0      0
-     Total %       0      0     20    0           20      0     20       0        0           20      0      0       0      0            0      0     60       0      0           60
+City of Portland
+Office of Transportation
+1120 SW 5th Ave Rm 800
+Portland, OR 97204
+"The City That Works" File Name : 50105TPB
+Site Code : 00000000
+Start Date : 1/5/2005
+Page No : 1
+Wx: Cldy 40f By: CDB
+NE 112TH AVE @ NE SANDY BLV
+Groups Printed- BIKES
+NE 112TH AVE
+Southbound
+NE SANDY BLV
+Westbound
+NE 112TH AVE
+Northbound
+NE SANDY BLV
+Eastbound
+Start Time Left Thru Right Peds App. Total Left Thru Right Peds App. Total Left Thru Right Peds App. Total Left Thru Right Peds App. Total Int. Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+16:00 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 2
+16:15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1
+16:30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1
+16:45 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 3 0 0 3 4
+17:00 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1
+17:15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+17:30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+17:45 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1
+Grand Total 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 3 0 0 3 5
+Apprch % 0 0 100 0 0 100 0 0 0 0 0 0 0 100 0 0
+Total % 0 0 20 0 20 0 20 0 0 20 0 0 0 0 0 0 60 0 0 60
 
