@@ -1,45 +1,49 @@
-                                                                        4500 Central Park Avenue, Suite 500
-                                                                             Virginia Beach, VA 23462
-                                                                                                                                                             File Name              : Main & 25th PM
-                                                                                                                                                             Site Code              : 00000000
-                                                                                                                                                             Start Date             : 10/30/2007
-                                                                                                                                                             Page No                :1
-
-
-                                                                                              Groups Printed- Vehicles
-                                25th St.                                        Main St.                                         25th St.                                        Main St.
-                              Southbound                                       Westbound                                        Northbound                                      Eastbound
-  Start Time    Left   Thru Right      Peds        App. Total   Left    Thru Right      Peds       App. Total   Left     Thru Right      Peds       App. Total   Left    Thru Right         Peds    App. Total   Int. Total
-      Factor     1.0    1.0  1.0           1.0                   1.0      1.0 1.0          1.0                   1.0      1.0  1.0           1.0                  1.0      1.0 1.0           1.0
-   04:00 PM       42      7    9             0          58         1     108   24            0         133         4        6    0             0          10       24     123    6             2        155        356
-   04:15 PM       35     13   14             3          65         0     131   27            0         158         3        7    7             1          18       15     180    3             1        199        440
-   04:30 PM       57      7    7             1          72         0     107   34            1         142         2        6    5             1          14       22     179    2             1        204        432
-   04:45 PM       56      8   14             5          83         1     104   23            1         129         3        8    2             1          14       29     213    1             2        245        471
-       Total    190      35   44             9         278         2     450 108             2         562        12       27   14             3          56       90     695   12             6        803       1699
-
-   05:00 PM      57     11         6          0         74        2      94       41          1        138         2      12         5         2          21      22     225        2         2         251        484
-   05:15 PM      81      6        13          1        101        1     131       32          0        164         1      11         9         2          23      20     235        5         4         264        552
-   05:30 PM      58     10        14          2         84        4     103       25          0        132         0      18         8         0          26      20     215        2         0         237        479
-   05:45 PM      52      4        14          2         72        3      95       27          0        125         2      12         8         0          22      12     170        4         4         190        409
-       Total    248     31        47          5        331       10     423      125          1        559         5      53        30         4          92      74     845       13        10         942       1924
-
- Grand Total    438      66       91        14         609       12      873     233         3       1121         17       80       44         7        148      164     1540      25         16      1745        3623
-  Apprch %      71.9   10.8     14.9       2.3                  1.1     77.9    20.8       0.3                  11.5     54.1     29.7       4.7                 9.4     88.3     1.4        0.9
-    Total %     12.1    1.8      2.5       0.4        16.8      0.3     24.1      6.4      0.1        30.9       0.5      2.2      1.2       0.2         4.1     4.5     42.5     0.7        0.4       48.2
-
-
-
-
-                                25th St.                                        Main St.                                         25th St.                                        Main St.
-                              Southbound                                       Westbound                                        Northbound                                      Eastbound
-  Start Time Left Thru Right Peds App. Total Left Thru Right                            Peds       App. Total   Left     Thru Right      Peds       App. Total   Left    Thru Right         Peds    App. Total   Int. Total
+4500 Central Park Avenue, Suite 500
+Virginia Beach, VA 23462
+File Name : Main & 25th PM
+Site Code : 00000000
+Start Date : 10/30/2007
+Page No : 1
+Groups Printed- Vehicles
+25th St.
+Southbound
+Main St.
+Westbound
+25th St.
+Northbound
+Main St.
+Eastbound
+Start Time Left Thru Right Peds App. Total Left Thru Right Peds App. Total Left Thru Right Peds App. Total Left Thru Right Peds App. Total Int. Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 42 7 9 0 58 1 108 24 0 133 4 6 0 0 10 24 123 6 2 155 356
+04:15 PM 35 13 14 3 65 0 131 27 0 158 3 7 7 1 18 15 180 3 1 199 440
+04:30 PM 57 7 7 1 72 0 107 34 1 142 2 6 5 1 14 22 179 2 1 204 432
+04:45 PM 56 8 14 5 83 1 104 23 1 129 3 8 2 1 14 29 213 1 2 245 471
+Total 190 35 44 9 278 2 450 108 2 562 12 27 14 3 56 90 695 12 6 803 1699
+05:00 PM 57 11 6 0 74 2 94 41 1 138 2 12 5 2 21 22 225 2 2 251 484
+05:15 PM 81 6 13 1 101 1 131 32 0 164 1 11 9 2 23 20 235 5 4 264 552
+05:30 PM 58 10 14 2 84 4 103 25 0 132 0 18 8 0 26 20 215 2 0 237 479
+05:45 PM 52 4 14 2 72 3 95 27 0 125 2 12 8 0 22 12 170 4 4 190 409
+Total 248 31 47 5 331 10 423 125 1 559 5 53 30 4 92 74 845 13 10 942 1924
+Grand Total 438 66 91 14 609 12 873 233 3 1121 17 80 44 7 148 164 1540 25 16 1745 3623
+Apprch % 71.9 10.8 14.9 2.3 1.1 77.9 20.8 0.3 11.5 54.1 29.7 4.7 9.4 88.3 1.4 0.9
+Total % 12.1 1.8 2.5 0.4 16.8 0.3 24.1 6.4 0.1 30.9 0.5 2.2 1.2 0.2 4.1 4.5 42.5 0.7 0.4 48.2
+25th St.
+Southbound
+Main St.
+Westbound
+25th St.
+Northbound
+Main St.
+Eastbound
+Start Time Left Thru Right Peds App. Total Left Thru Right Peds App. Total Left Thru Right Peds App. Total Left Thru Right Peds App. Total Int. Total
 Peak Hour Analysis From 04:00 PM to 05:45 PM - Peak 1 of 1
 Peak Hour for Entire Intersection Begins at 04:45 PM
-   04:45 PM      56        8     14      5       83  1 104    23                              1        129         3       8         2         1          14      29     213        1          2        245        471
-   05:00 PM      57      11       6       0      74  2     94 41                              1        138         2      12         5         2          21      22     225        2          2        251        484
-   05:15 PM      81        6     13       1     101  1 131    32                              0        164         1      11         9         2          23      20     235        5          4        264        552
-   05:30 PM      58       10     14       2      84  4 103    25                              0        132         0      18         8         0          26      20     215        2          0        237        479
- Total Volume   252       35     47       8     342  8 432 121                                2        563         6      49        24         5          84      91     888       10          8        997       1986
- % App. Total   73.7   10.2     13.7         2.3                  1.4   76.7     21.5        0.4                  7.1    58.3     28.6          6                  9.1   89.1        1        0.8
-        PHF     .778   .795     .839       .400        .847     .500    .824     .738      .500        .858     .500     .681     .667       .625       .808     .784    .945     .500      .500        .944        .899
+04:45 PM 56 8 14 5 83 1 104 23 1 129 3 8 2 1 14 29 213 1 2 245 471
+05:00 PM 57 11 6 0 74 2 94 41 1 138 2 12 5 2 21 22 225 2 2 251 484
+05:15 PM 81 6 13 1 101 1 131 32 0 164 1 11 9 2 23 20 235 5 4 264 552
+05:30 PM 58 10 14 2 84 4 103 25 0 132 0 18 8 0 26 20 215 2 0 237 479
+Total Volume 252 35 47 8 342 8 432 121 2 563 6 49 24 5 84 91 888 10 8 997 1986
+% App. Total 73.7 10.2 13.7 2.3 1.4 76.7 21.5 0.4 7.1 58.3 28.6 6 9.1 89.1 1 0.8
+PHF .778 .795 .839 .400 .847 .500 .824 .738 .500 .858 .500 .681 .667 .625 .808 .784 .945 .500 .500 .944 .899
 

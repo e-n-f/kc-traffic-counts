@@ -1,48 +1,51 @@
-                                                                   Your Company Name Here
-                                                                                     This is your address
-                                                                                   Your City, State ZipCode
-                                                                                    File
-                                                                                      YourName
-                                                                                            Tagline:Here
-                                                                                                     Site 1 Hull                              St Rd & Chippenham Plaza Ent AM
-                                                                                         Site Code : 00003349
-                                                                                         Start Date : 1/18/2007
-                                                                                         Page No : 1
-
-                                                                                              Groups Printed- Vehicles
-                                  Hull St.                                      Driveway                                          Hull St.                                 Chippenham Plaza
-                                From North                                      From East                                       From South                                    From West
-  Start Time     Right   Thru     Left       Peds   App. Total   Right   Thru     Left      Peds   App. Total   Right    Thru     Left       Peds   App. Total   Right   Thru   Left   Peds       App. Total   Int. Total
-        Factor     1.0    1.0      1.0        1.0                  1.0    1.0      1.0       1.0                  1.0     1.0      1.0        1.0                  1.0    1.0    1.0    1.0
-    06:30 AM         4    184        1          0        189         0      0        0         0           0        0     223        8          0        231         4      0      0      0               4         424
-    06:45 AM         3    189        0          0        192         0      0        0         0           0        0     262       15          0        277         3      0      0      0               3         472
-         Total       7    373        1          0        381         0      0        0         0           0        0     485       23          0        508         7      0      0      0               7         896
-
-    07:00 AM        0     186        0         0         186        0      0         0        0            0       0      287        5         0        292         0      0       0          0          0         478
-    07:15 AM        1     224        0         0         225        0      0         0        0            0       0      346       18         0        364         7      0       0          0          7         596
-    07:30 AM        7     244        0         0         251        0      0         0        0            0       0      399       20         0        419        11      0       0          0         11         681
-    07:45 AM        4     211        0         0         215        0      0         0        0            0       0      405       22         0        427         6      0       0          0          6         648
-        Total      12     865        0         0         877        0      0         0        0            0       0     1437       65         0       1502        24      0       0          0         24        2403
-
-    08:00 AM         6    205        0         0        211         0      0         0        0            0       0      367       18         0        385         7      0       0          0          7         603
-    08:15 AM         1    203        0         0        204         0      0         0        0            0       0      324       14         0        338        17      0       0          0         17         559
-   Grand Total      26   1646        1         0       1673         0      0         0        0            0       0     2613      120         0       2733        55      0       0          0         55        4461
-    Apprch %       1.6   98.4      0.1         0                    0      0         0        0                    0     95.6      4.4         0                  100      0       0          0
-      Total %      0.6   36.9        0         0        37.5        0      0         0        0            0       0     58.6      2.7         0        61.3      1.2      0       0          0        1.2
-
-
-
-
-                                  Hull St.                                      Driveway                                          Hull St.                                 Chippenham Plaza
-                                From North                                      From East                                       From South                                    From West
-    Start Time Right Thru           Left Peds App. Total Right           Thru     Left      Peds   App. Total   Right    Thru     Left       Peds   App. Total   Right   Thru   Left   Peds       App. Total   Int. Total
+Your Company Name Here
+This is your address
+Your City, State ZipCode
+Your Tagline Here
+File Name : Site 1 Hull St Rd & Chippenham Plaza Ent AM
+Site Code : 00003349
+Start Date : 1/18/2007
+Page No : 1
+Groups Printed- Vehicles
+Hull St.
+From North
+Driveway
+From East
+Hull St.
+From South
+Chippenham Plaza
+From West
+Start Time Right Thru Left Peds App. Total Right Thru Left Peds App. Total Right Thru Left Peds App. Total Right Thru Left Peds App. Total Int. Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+06:30 AM 4 184 1 0 189 0 0 0 0 0 0 223 8 0 231 4 0 0 0 4 424
+06:45 AM 3 189 0 0 192 0 0 0 0 0 0 262 15 0 277 3 0 0 0 3 472
+Total 7 373 1 0 381 0 0 0 0 0 0 485 23 0 508 7 0 0 0 7 896
+07:00 AM 0 186 0 0 186 0 0 0 0 0 0 287 5 0 292 0 0 0 0 0 478
+07:15 AM 1 224 0 0 225 0 0 0 0 0 0 346 18 0 364 7 0 0 0 7 596
+07:30 AM 7 244 0 0 251 0 0 0 0 0 0 399 20 0 419 11 0 0 0 11 681
+07:45 AM 4 211 0 0 215 0 0 0 0 0 0 405 22 0 427 6 0 0 0 6 648
+Total 12 865 0 0 877 0 0 0 0 0 0 1437 65 0 1502 24 0 0 0 24 2403
+08:00 AM 6 205 0 0 211 0 0 0 0 0 0 367 18 0 385 7 0 0 0 7 603
+08:15 AM 1 203 0 0 204 0 0 0 0 0 0 324 14 0 338 17 0 0 0 17 559
+Grand Total 26 1646 1 0 1673 0 0 0 0 0 0 2613 120 0 2733 55 0 0 0 55 4461
+Apprch % 1.6 98.4 0.1 0 0 0 0 0 0 95.6 4.4 0 100 0 0 0
+Total % 0.6 36.9 0 0 37.5 0 0 0 0 0 0 58.6 2.7 0 61.3 1.2 0 0 0 1.2
+Hull St.
+From North
+Driveway
+From East
+Hull St.
+From South
+Chippenham Plaza
+From West
+Start Time Right Thru Left Peds App. Total Right Thru Left Peds App. Total Right Thru Left Peds App. Total Right Thru Left Peds App. Total Int. Total
 Peak Hour Analysis From 06:30 AM to 08:15 AM - Peak 1 of 1
 Peak Hour for Entire Intersection Begins at 07:15 AM
-     07:15 AM         1      224       0        0     225     0             0        0         0           0       0      346       18          0       364         7       0      0       0             7         596
-     07:30 AM         7      244       0        0     251     0             0        0         0           0       0      399       20          0       419        11       0      0       0            11         681
-     07:45 AM         4      211       0        0     215     0             0        0         0           0       0      405       22          0       427         6       0      0       0             6         648
-     08:00 AM         6      205       0        0     211     0             0        0         0           0       0      367       18          0       385         7       0      0       0             7         603
- Total Volume        18      884       0        0     902     0             0        0         0           0       0     1517       78          0      1595        31       0      0       0            31        2528
-  % App. Total        2       98       0        0             0             0        0         0                   0     95.1      4.9          0                 100       0      0       0
-           PHF     .643     .906    .000     .000    .898  .000          .000     .000      .000       .000     .000     .936     .886       .000       .934     .705    .000   .000    .000          .705         .928
+07:15 AM 1 224 0 0 225 0 0 0 0 0 0 346 18 0 364 7 0 0 0 7 596
+07:30 AM 7 244 0 0 251 0 0 0 0 0 0 399 20 0 419 11 0 0 0 11 681
+07:45 AM 4 211 0 0 215 0 0 0 0 0 0 405 22 0 427 6 0 0 0 6 648
+08:00 AM 6 205 0 0 211 0 0 0 0 0 0 367 18 0 385 7 0 0 0 7 603
+Total Volume 18 884 0 0 902 0 0 0 0 0 0 1517 78 0 1595 31 0 0 0 31 2528
+% App. Total 2 98 0 0 0 0 0 0 0 95.1 4.9 0 100 0 0 0
+PHF .643 .906 .000 .000 .898 .000 .000 .000 .000 .000 .000 .936 .886 .000 .934 .705 .000 .000 .000 .705 .928
 

@@ -1,45 +1,50 @@
-                                                                Your Company Name Here
-                                                                                 This is your address
-                                                                               Your City, State ZipCode
-                                                                                  Your Tagline Here File                          Name                  : 10-B Maple & Patterson AM
-                                                                                                                             Site Code                  : 00003001
-                                                                                                                             Start Date                 : 5/31/2006
-                                                                                                                             Page No                    :1
-
-                                                                                          Groups Printed- Vehicles
-                                Maple Ave.                               Patterson Ave.                                     Maple Ave.                                  Patterson Ave.
-                                From North                                 From East                                        From South                                   From West
-  Start Time     Right   Thru     Left   Peds    App. Total   Right   Thru   Left    Peds     App. Total   Right     Thru     Left   Peds       App. Total   Right   Thru   Left    Peds     App. Total   Int. Total
-        Factor     1.0    1.0      1.0    1.0                   1.0    1.0    1.0     1.0                    1.0      1.0      1.0    1.0                      1.0    1.0    1.0     1.0
-    06:30 AM         0      0        0      0            0        2     28      0       0           30         2       14        1      0             17         3     58      1       0           62          109
-    06:45 AM         1      0        3      0            4        6     49      0       0           55         1       11        2      0             14         1     67      1       0           69          142
-         Total       1      0        3      0            4        8     77      0       0           85         3       25        3      0             31         4    125      2       0          131          251
-
-    07:00 AM        0       1        0       0           1       6     43       1         0         50        1        7         0         0           8        3     96       1         0        100         159
-    07:15 AM        0       0        2       0           2       3     38       2         0         43        2        5         7         0          14        4    141       2         0        147         206
-    07:30 AM        0       1        1       0           2       2     99       1         0        102        6        7        11         1          25       13    191       3         0        207         336
-    07:45 AM        1       2        0       0           3       6    143       0         0        149       22        9        23         0          54       42    222       3         0        267         473
-        Total       1       4        3       0           8      17    323       4         0        344       31       28        41         1         101       62    650       9         0        721        1174
-
-    08:00 AM         1      2        2       0          5         3    109      1         0        113        4         9        3          0         16        19    216      2         0       237          371
-    08:15 AM         1      1        0       0          2         7     98      1         0        106        0         5        7          0         12        11    233      6         0       250          370
-   Grand Total       4      7        8       0         19        35    607      6         0        648       38        67       54          1        160        96   1224     19         0      1339         2166
-    Apprch %      21.1   36.8     42.1       0                  5.4   93.7    0.9         0                23.8      41.9     33.8        0.6                  7.2   91.4    1.4         0
-      Total %      0.2    0.3      0.4       0        0.9       1.6     28    0.3         0       29.9      1.8       3.1      2.5          0        7.4       4.4   56.5    0.9         0       61.8
-
-
-
-
-                                Maple Ave.                               Patterson Ave.                                     Maple Ave.                                  Patterson Ave.
-                                From North                                 From East                                        From South                                   From West
-    Start Time Right Thru           Left Peds App. Total Right        Thru   Left    Peds     App. Total   Right     Thru     Left   Peds       App. Total   Right   Thru   Left    Peds     App. Total   Int. Total
+Your Company Name Here
+This is your address
+Your City, State ZipCode
+Your Tagline Here File Name : 10-B Maple & Patterson AM
+Site Code : 00003001
+Start Date : 5/31/2006
+Page No : 1
+Groups Printed- Vehicles
+Maple Ave.
+From North
+Patterson Ave.
+From East
+Maple Ave.
+From South
+Patterson Ave.
+From West
+Start Time Right Thru Left Peds App. Total Right Thru Left Peds App. Total Right Thru Left Peds App. Total Right Thru Left Peds App. Total Int. Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+06:30 AM 0 0 0 0 0 2 28 0 0 30 2 14 1 0 17 3 58 1 0 62 109
+06:45 AM 1 0 3 0 4 6 49 0 0 55 1 11 2 0 14 1 67 1 0 69 142
+Total 1 0 3 0 4 8 77 0 0 85 3 25 3 0 31 4 125 2 0 131 251
+07:00 AM 0 1 0 0 1 6 43 1 0 50 1 7 0 0 8 3 96 1 0 100 159
+07:15 AM 0 0 2 0 2 3 38 2 0 43 2 5 7 0 14 4 141 2 0 147 206
+07:30 AM 0 1 1 0 2 2 99 1 0 102 6 7 11 1 25 13 191 3 0 207 336
+07:45 AM 1 2 0 0 3 6 143 0 0 149 22 9 23 0 54 42 222 3 0 267 473
+Total 1 4 3 0 8 17 323 4 0 344 31 28 41 1 101 62 650 9 0 721 1174
+08:00 AM 1 2 2 0 5 3 109 1 0 113 4 9 3 0 16 19 216 2 0 237 371
+08:15 AM 1 1 0 0 2 7 98 1 0 106 0 5 7 0 12 11 233 6 0 250 370
+Grand Total 4 7 8 0 19 35 607 6 0 648 38 67 54 1 160 96 1224 19 0 1339 2166
+Apprch % 21.1 36.8 42.1 0 5.4 93.7 0.9 0 23.8 41.9 33.8 0.6 7.2 91.4 1.4 0
+Total % 0.2 0.3 0.4 0 0.9 1.6 28 0.3 0 29.9 1.8 3.1 2.5 0 7.4 4.4 56.5 0.9 0 61.8
+Maple Ave.
+From North
+Patterson Ave.
+From East
+Maple Ave.
+From South
+Patterson Ave.
+From West
+Start Time Right Thru Left Peds App. Total Right Thru Left Peds App. Total Right Thru Left Peds App. Total Right Thru Left Peds App. Total Int. Total
 Peak Hour Analysis From 06:30 AM to 08:15 AM - Peak 1 of 1
 Peak Hour for Entire Intersection Begins at 07:30 AM
-     07:30 AM         0        1       1        0       2     2         99      1        0         102        6         7       11          1         25       13     191      3        0         207         336
-     07:45 AM         1        2       0        0       3     6        143      0        0         149       22         9       23          0         54       42     222      3        0         267         473
-     08:00 AM         1        2       2        0       5     3        109      1        0         113        4         9        3          0         16       19     216      2        0         237         371
-     08:15 AM         1        1       0        0       2     7         98      1        0         106        0         5        7          0         12       11     233      6        0         250         370
- Total Volume         3        6       3        0      12    18        449      3        0         470       32        30       44          1        107       85     862     14        0         961        1550
-  % App. Total       25       50      25        0           3.8       95.5    0.6        0                 29.9        28     41.1        0.9                 8.8    89.7    1.5        0
-           PHF     .750     .750    .375     .000    .600  .643       .785   .750     .000        .789     .364      .833     .478       .250       .495     .506    .925   .583     .000        .900         .819
+07:30 AM 0 1 1 0 2 2 99 1 0 102 6 7 11 1 25 13 191 3 0 207 336
+07:45 AM 1 2 0 0 3 6 143 0 0 149 22 9 23 0 54 42 222 3 0 267 473
+08:00 AM 1 2 2 0 5 3 109 1 0 113 4 9 3 0 16 19 216 2 0 237 371
+08:15 AM 1 1 0 0 2 7 98 1 0 106 0 5 7 0 12 11 233 6 0 250 370
+Total Volume 3 6 3 0 12 18 449 3 0 470 32 30 44 1 107 85 862 14 0 961 1550
+% App. Total 25 50 25 0 3.8 95.5 0.6 0 29.9 28 41.1 0.9 8.8 89.7 1.5 0
+PHF .750 .750 .375 .000 .600 .643 .785 .750 .000 .789 .364 .833 .478 .250 .495 .506 .925 .583 .000 .900 .819
 

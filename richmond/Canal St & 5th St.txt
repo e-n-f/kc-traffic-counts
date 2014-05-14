@@ -1,253 +1,367 @@
-                                                                                Peggy Malone & Associates, Inc.
-                                                                                       (888) 247-8602
-                                                                                                                                                                      File Name                    : 84 5th St & Canal St
-                                                                                                                                                                      Site Code                    : 00003000
-                                                                                                                                                                      Start Date                   : 7/24/2008
-                                                                                                                                                                      Page No                      :1
-                                                                                                     Groups Printed- 1 - Vehicles
-                               5th St.                                     Canal St.                                     5th St.
-                             Southbound                                    Westbound                                  Northbound                                              Eastbound
-                                                         App.                                           App.                                         App.                                                App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left    Peds                 Right   Thru      Left     Peds                 Right       Thru      Left   Peds            Right     Thru        Left    Peds
-                                                         Total                                          Total                                        Total                                               Total       Total      Total       Total
-        Factor     1.0      1.0     1.0      1.0                   1.0    1.0       1.0      1.0                   1.0        1.0       1.0    1.0              1.0      1.0         1.0     1.0
-   07:00 AM            0     10       0      15            10       9     29        24           1        62         0         3         1      0       4        0            0       0        1            0            17       76          93
-   07:15 AM            1     15       0       7            16      10     40        33           0        83         0        11         3      1      14        0            0       0        0            0             8      113         121
-   07:30 AM            4     29       0       9            33      14     66        33           2       113         0         7        12      2      19        0            0       0        0            0            13      165         178
-   07:45 AM           12     28       0       9            40      10     71        48           4       129         0         6         8      1      14        0            0       0        2            0            16      183         199
-       Total          17     82       0      40            99      43    206       138           7       387         0        27        24      4      51        0            0       0        3            0            54      537         591
-
-   08:00 AM           10     23       0      14            33      15     65        33        2          113         0        12        13      1      25        0            0       0        1            0            18      171         189
-   08:15 AM           13     25       0      10            38      10     60        28        4           98         0        17        17      2      34        0            0       0        0            0            16      170         186
-   08:30 AM            6     12       0       7            18      13     52        21        3           86         0         5        14      2      19        0            0       0        1            0            13      123         136
-   08:45 AM           12     23       0       7            35      12     59        15        1           86         0        10         9     21      19        0            0       0        0            0            29      140         169
-       Total          41     83       0      38           124      50    236        97       10          383         0        44        53     26      97        0            0       0        2            0            76      604         680
-
-  Grand Total      58       165       0      78           223     93      442       235      17          770         0         71       77     30     148        0         0          0        5            0           130     1141        1271
-   Apprch %      26.0      74.0     0.0                          12.1    57.4      30.5                            0.0       48.0     52.0                     0.0       0.0        0.0
-     Total %      5.1      14.5     0.0                  19.5     8.2    38.7      20.6                  67.5      0.0        6.2      6.7           13.0      0.0       0.0        0.0                   0.0           10.2    89.8
-
-
-                                      5th St.                                             Canal St.                                             5th St.
-                                    Southbound                                            Westbound                                           Northbound                                       Eastbound
-          Start Time   Right      Thru        Left          App. Total     Right          Thru          Left    App. Total          Right     Thru     Left    App. Total           Right      Thru              Left    App. Total      Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 84 5th St & Canal St
+Site Code : 00003000
+Start Date : 7/24/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 10 0 15 10 9 29 24 1 62 0 3 1 0 4 0 0 0 1 0 17 76 93
+07:15 AM 1 15 0 7 16 10 40 33 0 83 0 11 3 1 14 0 0 0 0 0 8 113 121
+07:30 AM 4 29 0 9 33 14 66 33 2 113 0 7 12 2 19 0 0 0 0 0 13 165 178
+07:45 AM 12 28 0 9 40 10 71 48 4 129 0 6 8 1 14 0 0 0 2 0 16 183 199
+Total 17 82 0 40 99 43 206 138 7 387 0 27 24 4 51 0 0 0 3 0 54 537 591
+08:00 AM 10 23 0 14 33 15 65 33 2 113 0 12 13 1 25 0 0 0 1 0 18 171 189
+08:15 AM 13 25 0 10 38 10 60 28 4 98 0 17 17 2 34 0 0 0 0 0 16 170 186
+08:30 AM 6 12 0 7 18 13 52 21 3 86 0 5 14 2 19 0 0 0 1 0 13 123 136
+08:45 AM 12 23 0 7 35 12 59 15 1 86 0 10 9 21 19 0 0 0 0 0 29 140 169
+Total 41 83 0 38 124 50 236 97 10 383 0 44 53 26 97 0 0 0 2 0 76 604 680
+Grand Total 58 165 0 78 223 93 442 235 17 770 0 71 77 30 148 0 0 0 5 0 130 1141 1271
+Apprch % 26.0 74.0 0.0 12.1 57.4 30.5 0.0 48.0 52.0 0.0 0.0 0.0
+Total % 5.1 14.5 0.0 19.5 8.2 38.7 20.6 67.5 0.0 6.2 6.7 13.0 0.0 0.0 0.0 0.0 10.2 89.8
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:30 AM
-           Volume             39      105            0            144       49             262          142           453              0       42      50               92             0             0             0             0            689
-           Percent          27.1     72.9          0.0                     10.8           57.8         31.3                          0.0      45.7    54.3                           0.0           0.0           0.0
-     07:45 Volume             12       28            0             40       10              71           48           129              0         6       8              14             0             0             0             0           183
-       Peak Factor                                                                                                                                                                                                                          0.941
-          High Int.      07:45 AM                                        07:45 AM                                              08:15 AM                                           6:45:00 AM
-           Volume             12       28           0               40        10           71            48           129            0          17      17               34
-       Peak Factor                                               0.900                                              0.878                                             0.676
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                                                                            File Name                  : 84 5th St & Canal St
-                                                                                                                                                                            Site Code                  : 00003000
-                                                                                                                                                                            Start Date                 : 7/24/2008
-                                                                                                                                                                            Page No                    :1
-                                                                                                       Groups Printed- 2 - Bicycles
-                               5th St.                                       Canal St.                                     5th St.
-                             Southbound                                      Westbound                                  Northbound                                                Eastbound
-                                                           App.                                           App.                                             App.                                              App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left      Peds                 Right   Thru      Left     Peds                   Right       Thru      Left     Peds            Right    Thru       Left    Peds
-                                                           Total                                          Total                                            Total                                             Total       Total       Total        Total
-        Factor     1.0       1.0      1.0      1.0                   1.0    1.0      1.0       1.0                     1.0        1.0       1.0      1.0              1.0     1.0        1.0     1.0
-   07:00 AM           0       0        0        0             0       0      0         0           0            0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   07:15 AM           0       0        0        0             0       0      0         0           1            0        0         0            0     0       0        0          0       0        0            0              1           0          1
-   07:30 AM           0       0        0        0             0       0      0         0           0            0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   07:45 AM           0       0        0        0             0       0      0         0           0            0        0         0            0     0       0        0          0       0        0            0              0           0          0
-       Total          0       0        0        0             0       0      0         0           1            0        0         0            0     0       0        0          0       0        0            0              1           0          1
-
-   08:00 AM           0       0        0        0             0       0      0         0           1            0        0         0            0     0       0        0          0       0        0            0              1           0          1
-   08:15 AM           0       0        0        0             0       0      0         0           0            0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:30 AM           0       0        0        0             0       0      0         0           0            0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:45 AM           0       0        0        0             0       0      0         0           0            0        0         0            0     0       0        0          0       0        0            0              0           0          0
-       Total          0       0        0        0             0       0      0         0           1            0        0         0            0     0       0        0          0       0        0            0              1           0          1
-
-  Grand Total       0         0         0       0             0       0       0        0           2            0        0          0        0        0       0        0        0         0        0            0              2           0          2
-   Apprch %       0.0       0.0       0.0                           0.0     0.0      0.0                               0.0        0.0      0.0                       0.0      0.0       0.0
-     Total %                                                                                                                                                                                                                100.0      0.0
-
-
-                                        5th St.                                             Canal St.                                                 5th St.
-                                      Southbound                                            Westbound                                               Northbound                                     Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru         Left       App. Total          Right       Thru     Left    App. Total         Right      Thru              Left     App. Total       Int. Total
+Intersection 07:30 AM
+Volume 39 105 0 144 49 262 142 453 0 42 50 92 0 0 0 0 689
+Percent 27.1 72.9 0.0 10.8 57.8 31.3 0.0 45.7 54.3 0.0 0.0 0.0
+07:45 Volume 12 28 0 40 10 71 48 129 0 6 8 14 0 0 0 0 183
+Peak Factor 0.941
+High Int. 07:45 AM 07:45 AM 08:15 AM 6:45:00 AM
+Volume 12 28 0 40 10 71 48 129 0 17 17 34
+Peak Factor 0.900 0.878 0.676
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 84 5th St & Canal St
+Site Code : 00003000
+Start Date : 7/24/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:15 AM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+08:00 AM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+08:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+Grand Total 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:00 AM
-           Volume              0          0            0               0        0              0            0                0             0           0       0              0            0             0             0              0                0
-           Percent           0.0        0.0          0.0                      0.0            0.0          0.0                            0.0         0.0     0.0                         0.0           0.0           0.0
-     07:45 Volume              0          0            0               0        0              0            0                0             0           0       0              0            0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                                0.000
-          High Int.      6:45:00 AM                                        6:45:00 AM                                              6:45:00 AM                                         6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                Peggy Malone & Associates, Inc.
-                                                                                       (888) 247-8602
-                                                                                                                                                                       File Name                 : 84 5th St & Canal St
-                                                                                                                                                                       Site Code                 : 00003000
-                                                                                                                                                                       Start Date                : 7/24/2008
-                                                                                                                                                                       Page No                   :1
-                                                                                                     Groups Printed- 1 - Vehicles
-                               5th St.                                     Canal St.                                     5th St.
-                             Southbound                                    Westbound                                  Northbound                                               Eastbound
-                                                         App.                                           App.                                          App.                                              App.       Exclu.     Inclu.       Int.
-    Start Time   Right     Thru     Left    Peds                 Right   Thru      Left     Peds                 Right        Thru      Left   Peds            Right     Thru      Left    Peds
-                                                         Total                                          Total                                         Total                                             Total       Total     Total       Total
-        Factor     1.0       1.0    1.0      1.0                   1.0    1.0       1.0      1.0                   1.0         1.0       1.0    1.0              1.0      1.0       1.0     1.0
-    11:00 AM          10      7       0       0            17       3     30         7        2           40         0          7        13      0      20        0            0     0       1             0            3       77          80
-    11:15 AM           7      4       0       2            11      13     50         7        2           70         0         12        12      0      24        0            0     0       3             0            7      105         112
-    11:30 AM          20      7       0       7            27      13     54         8        6           75         0          6        19      2      25        0            0     0       2             0           17      127         144
-    11:45 AM          12      8       0       1            20      10     69        11        0           90         0          7        20      0      27        0            0     0       8             0            9      137         146
-        Total         49     26       0      10            75      39    203        33       10          275         0         32        64      2      96        0            0     0      14             0           36      446         482
-
-    12:00 PM          22     28       0       3            50       4     72        11           2        87         0         10        21      0      31        0            0     0       2             0            7      168         175
-    12:15 PM           9      9       0       1            18       9     55        17           1        81         0         20        16      1      36        0            0     0      10             0           13      135         148
-    12:30 PM          16     13       0       6            29      10     67        19           0        96         0          6        13      2      19        0            0     0       7             0           15      144         159
-    12:45 PM          16     13       0       3            29       8     61        11           1        80         0          9        12      4      21        0            0     0       6             0           14      130         144
-        Total         63     63       0      13           126      31    255        58           4       344         0         45        62      7     107        0            0     0      25             0           49      577         626
-
-  Grand Total    112         89       0      23           201     70      458        91      14          619         0          77      126      9     203        0         0        0      39             0           85     1023        1108
-   Apprch %      55.7      44.3     0.0                          11.3    74.0      14.7                            0.0        37.9     62.1                     0.0       0.0      0.0
-     Total %     10.9       8.7     0.0                  19.6     6.8    44.8       8.9                  60.5      0.0         7.5     12.3           19.8      0.0       0.0      0.0                   0.0           7.7    92.3
-
-
-                                      5th St.                                             Canal St.                                              5th St.
-                                    Southbound                                            Westbound                                            Northbound                                    Eastbound
-          Start Time   Right       Thru        Left         App. Total     Right          Thru          Left    App. Total           Right     Thru     Left    App. Total         Right      Thru              Left   App. Total      Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 84 5th St & Canal St
+Site Code : 00003000
+Start Date : 7/24/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 10 7 0 0 17 3 30 7 2 40 0 7 13 0 20 0 0 0 1 0 3 77 80
+11:15 AM 7 4 0 2 11 13 50 7 2 70 0 12 12 0 24 0 0 0 3 0 7 105 112
+11:30 AM 20 7 0 7 27 13 54 8 6 75 0 6 19 2 25 0 0 0 2 0 17 127 144
+11:45 AM 12 8 0 1 20 10 69 11 0 90 0 7 20 0 27 0 0 0 8 0 9 137 146
+Total 49 26 0 10 75 39 203 33 10 275 0 32 64 2 96 0 0 0 14 0 36 446 482
+12:00 PM 22 28 0 3 50 4 72 11 2 87 0 10 21 0 31 0 0 0 2 0 7 168 175
+12:15 PM 9 9 0 1 18 9 55 17 1 81 0 20 16 1 36 0 0 0 10 0 13 135 148
+12:30 PM 16 13 0 6 29 10 67 19 0 96 0 6 13 2 19 0 0 0 7 0 15 144 159
+12:45 PM 16 13 0 3 29 8 61 11 1 80 0 9 12 4 21 0 0 0 6 0 14 130 144
+Total 63 63 0 13 126 31 255 58 4 344 0 45 62 7 107 0 0 0 25 0 49 577 626
+Grand Total 112 89 0 23 201 70 458 91 14 619 0 77 126 9 203 0 0 0 39 0 85 1023 1108
+Apprch % 55.7 44.3 0.0 11.3 74.0 14.7 0.0 37.9 62.1 0.0 0.0 0.0
+Total % 10.9 8.7 0.0 19.6 6.8 44.8 8.9 60.5 0.0 7.5 12.3 19.8 0.0 0.0 0.0 0.0 7.7 92.3
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:45 AM
-           Volume             59       58            0            117       33             263           58           354               0       43      70              113           0             0             0            0            584
-           Percent          50.4     49.6          0.0                      9.3           74.3         16.4                           0.0      38.1    61.9                         0.0           0.0           0.0
-     12:00 Volume             22       28            0             50         4             72          11               87             0       10      21               31           0             0             0            0           168
-       Peak Factor                                                                                                                                                                                                                        0.869
-          High Int.      12:00 PM                                        12:30 PM                                               12:15 PM
-           Volume             22       28           0               50        10           67            19            96             0          20      16               36
-       Peak Factor                                               0.585                                              0.922                                              0.785
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                           File Name               : 84 5th St & Canal St
-                                                                                                                                                                           Site Code               : 00003000
-                                                                                                                                                                           Start Date              : 7/24/2008
-                                                                                                                                                                           Page No                 :1
-                                                                                                      Groups Printed- 2 - Bicycles
-                               5th St.                                      Canal St.                                     5th St.
-                             Southbound                                     Westbound                                  Northbound                                                Eastbound
-                                                          App.                                           App.                                             App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                   Right       Thru      Left     Peds            Right    Thru     Left    Peds
-                                                          Total                                          Total                                            Total                                           Total       Total       Total        Total
-        Factor     1.0      1.0     1.0       1.0                   1.0    1.0      1.0       1.0                     1.0        1.0       1.0      1.0              1.0     1.0      1.0     1.0
-    11:00 AM          0       0       0        0             0       0      0         0           0            0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    11:15 AM          0       0       0        0             0       0      0         0           0            0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    11:30 AM          0       0       0        0             0       0      0         0           0            0        0         0            0     1       0        0          0     0       0             0              1           0          1
-    11:45 AM          0       0       0        0             0       0      0         0           0            0        0         0            0     0       0        0          0     0       1             0              1           0          1
-        Total         0       0       0        0             0       0      0         0           0            0        0         0            0     1       0        0          0     0       1             0              2           0          2
-
-    12:00 PM          0       0       0        0             0       0      0         0           0            0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:15 PM          0       0       0        0             0       0      0         0           0            0        0         0            0     1       0        0          0     0       0             0              1           0          1
-    12:30 PM          0       0       0        0             0       0      0         0           0            0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:45 PM          0       0       0        0             0       0      0         0           0            0        0         0            0     0       0        0          0     0       0             0              0           0          0
-        Total         0       0       0        0             0       0      0         0           0            0        0         0            0     1       0        0          0     0       0             0              1           0          1
-
-  Grand Total        0        0       0        0             0       0       0        0           0            0        0          0        0        2       0        0        0       0       1             0              3           0          3
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                               0.0        0.0      0.0                       0.0      0.0     0.0
-     Total %                                                                                                                                                                                                             100.0      0.0
-
-
-                                      5th St.                                              Canal St.                                                 5th St.
-                                    Southbound                                             Westbound                                               Northbound                                  Eastbound
-          Start Time   Right       Thru        Left          App. Total     Right          Thru         Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 11:45 AM
+Volume 59 58 0 117 33 263 58 354 0 43 70 113 0 0 0 0 584
+Percent 50.4 49.6 0.0 9.3 74.3 16.4 0.0 38.1 61.9 0.0 0.0 0.0
+12:00 Volume 22 28 0 50 4 72 11 87 0 10 21 31 0 0 0 0 168
+Peak Factor 0.869
+High Int. 12:00 PM 12:30 PM 12:15 PM
+Volume 22 28 0 50 10 67 19 96 0 20 16 36
+Peak Factor 0.585 0.922 0.785
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 84 5th St & Canal St
+Site Code : 00003000
+Start Date : 7/24/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+11:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 2 0 2
+12:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+12:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+Grand Total 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 0 3 0 3
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:00 AM
-           Volume              0         0            0               0        0              0            0                0             0           0       0              0          0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0          0.0                            0.0         0.0     0.0                       0.0           0.0           0.0
-     11:45 Volume              0         0            0               0        0              0            0                0             0           0       0              0          0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                             0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                Peggy Malone & Associates, Inc.
-                                                                                       (888) 247-8602
-                                                                                                                                                                      File Name                 : 84 5th St & Canal St
-                                                                                                                                                                      Site Code                 : 00003000
-                                                                                                                                                                      Start Date                : 7/24/2008
-                                                                                                                                                                      Page No                   :1
-                                                                                                     Groups Printed- 1 - Vehicles
-                               5th St.                                     Canal St.                                     5th St.
-                             Southbound                                    Westbound                                  Northbound                                              Eastbound
-                                                         App.                                           App.                                         App.                                              App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left    Peds                 Right   Thru      Left     Peds                 Right       Thru      Left   Peds            Right     Thru      Left    Peds
-                                                         Total                                          Total                                        Total                                             Total       Total      Total       Total
-        Factor     1.0       1.0    1.0      1.0                   1.0    1.0      1.0       1.0                   1.0        1.0       1.0    1.0              1.0      1.0       1.0     1.0
-    04:00 PM          17     11       0      12            28       9     81         7        1           97         0        15        37      5      52        0            0     0       0             0            18      177         195
-    04:15 PM          20      7       0       2            27       5     93        12        3          110         0        11        34      4      45        0            0     0       5             0            14      182         196
-    04:30 PM          15     22       0      17            37       9    107        21        3          137         0        14        96     12     110        0            0     0       3             0            35      284         319
-    04:45 PM          29     14       0       4            43       5    129        15        3          149         0        14       107     32     121        0            0     0       1             0            40      313         353
-        Total         81     54       0      35           135      28    410        55       10          493         0        54       274     53     328        0            0     0       9             0           107      956        1063
-
-    05:00 PM       34        20       0      15            54       7    151        14           0       172         0        14        97      4     111        0            0     0       3             0            22      337         359
-    05:15 PM       20        13       0       9            33       5    154        13           1       172         0        16        76      9      92        0            0     0       1             0            20      297         317
-    05:30 PM       27        22       0       8            49       8    154        13           1       175         0        11        64      0      75        0            0     0       0             0             9      299         308
-    05:45 PM       20        11       0       4            31       9    103         9           0       121         0        30        52      0      82        0            0     0       1             0             5      234         239
-        Total     101        66       0      36           167      29    562        49           2       640         0        71       289     13     360        0            0     0       5             0            56     1167        1223
-
-  Grand Total    182        120       0      71           302     57      972      104       12         1133         0        125      563     66     688        0         0        0      14             0           163     2123        2286
-   Apprch %      60.3      39.7     0.0                           5.0    85.8      9.2                             0.0       18.2     81.8                     0.0       0.0      0.0
-     Total %      8.6       5.7     0.0                  14.2     2.7    45.8      4.9                   53.4      0.0        5.9     26.5           32.4      0.0       0.0      0.0                   0.0           7.1     92.9
-
-
-                                      5th St.                                             Canal St.                                             5th St.
-                                    Southbound                                            Westbound                                           Northbound                                    Eastbound
-          Start Time    Right      Thru        Left         App. Total     Right          Thru          Left    App. Total          Right     Thru     Left    App. Total         Right      Thru              Left    App. Total      Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 84 5th St & Canal St
+Site Code : 00003000
+Start Date : 7/24/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 17 11 0 12 28 9 81 7 1 97 0 15 37 5 52 0 0 0 0 0 18 177 195
+04:15 PM 20 7 0 2 27 5 93 12 3 110 0 11 34 4 45 0 0 0 5 0 14 182 196
+04:30 PM 15 22 0 17 37 9 107 21 3 137 0 14 96 12 110 0 0 0 3 0 35 284 319
+04:45 PM 29 14 0 4 43 5 129 15 3 149 0 14 107 32 121 0 0 0 1 0 40 313 353
+Total 81 54 0 35 135 28 410 55 10 493 0 54 274 53 328 0 0 0 9 0 107 956 1063
+05:00 PM 34 20 0 15 54 7 151 14 0 172 0 14 97 4 111 0 0 0 3 0 22 337 359
+05:15 PM 20 13 0 9 33 5 154 13 1 172 0 16 76 9 92 0 0 0 1 0 20 297 317
+05:30 PM 27 22 0 8 49 8 154 13 1 175 0 11 64 0 75 0 0 0 0 0 9 299 308
+05:45 PM 20 11 0 4 31 9 103 9 0 121 0 30 52 0 82 0 0 0 1 0 5 234 239
+Total 101 66 0 36 167 29 562 49 2 640 0 71 289 13 360 0 0 0 5 0 56 1167 1223
+Grand Total 182 120 0 71 302 57 972 104 12 1133 0 125 563 66 688 0 0 0 14 0 163 2123 2286
+Apprch % 60.3 39.7 0.0 5.0 85.8 9.2 0.0 18.2 81.8 0.0 0.0 0.0
+Total % 8.6 5.7 0.0 14.2 2.7 45.8 4.9 53.4 0.0 5.9 26.5 32.4 0.0 0.0 0.0 0.0 7.1 92.9
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:45 PM
-           Volume            110       69            0            179       25             588           55           668              0       55      344             399           0             0             0             0           1246
-           Percent          61.5     38.5          0.0                      3.7           88.0          8.2                          0.0      13.8    86.2                         0.0           0.0           0.0
-     05:00 Volume             34       20            0             54         7            151           14           172              0       14       97             111           0             0             0             0           337
-       Peak Factor                                                                                                                                                                                                                        0.924
-          High Int.      05:00 PM                                        05:30 PM                                              04:45 PM
-           Volume             34       20           0               54         8          154            13           175            0          14     107              121
-       Peak Factor                                               0.829                                              0.954                                             0.824
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                           File Name               : 84 5th St & Canal St
-                                                                                                                                                                           Site Code               : 00003000
-                                                                                                                                                                           Start Date              : 7/24/2008
-                                                                                                                                                                           Page No                 :1
-                                                                                                      Groups Printed- 2 - Bicycles
-                               5th St.                                      Canal St.                                     5th St.
-                             Southbound                                     Westbound                                  Northbound                                                Eastbound
-                                                          App.                                           App.                                             App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                   Right       Thru      Left     Peds            Right    Thru     Left    Peds
-                                                          Total                                          Total                                            Total                                           Total       Total       Total        Total
-        Factor     1.0       1.0    1.0       1.0                   1.0    1.0      1.0       1.0                     1.0        1.0       1.0      1.0              1.0     1.0      1.0     1.0
-    04:00 PM          0       0       0        0             0       0      0         0           0            0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    04:15 PM          0       0       0        0             0       0      0         0           1            0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    04:30 PM          0       0       0        1             0       0      0         0           0            0        0         0            0     0       0        0          0     0       1             0              2           0          2
-    04:45 PM          0       0       0        0             0       0      0         0           0            0        0         0            0     0       0        0          0     0       0             0              0           0          0
-        Total         0       0       0        1             0       0      0         0           1            0        0         0            0     0       0        0          0     0       1             0              3           0          3
-
-    05:00 PM          0       0       0        4             0       0      0         0           2            0        0         0            0     0       0        0          0     0       2             0              8           0          8
-    05:15 PM          0       0       0        1             0       0      0         0           0            0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    05:30 PM          0       0       0        0             0       0      0         0           0            0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    05:45 PM          0       0       0        0             0       0      0         0           0            0        0         0            0     0       0        0          0     0       0             0              0           0          0
-        Total         0       0       0        5             0       0      0         0           2            0        0         0            0     0       0        0          0     0       2             0              9           0          9
-
-  Grand Total        0        0       0        6             0       0       0        0           3            0        0          0        0        0       0        0        0       0       3             0             12           0         12
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                               0.0        0.0      0.0                       0.0      0.0     0.0
-     Total %                                                                                                                                                                                                             100.0      0.0
-
-
-                                      5th St.                                              Canal St.                                                 5th St.
-                                    Southbound                                             Westbound                                               Northbound                                  Eastbound
-          Start Time    Right      Thru        Left          App. Total     Right          Thru         Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 04:45 PM
+Volume 110 69 0 179 25 588 55 668 0 55 344 399 0 0 0 0 1246
+Percent 61.5 38.5 0.0 3.7 88.0 8.2 0.0 13.8 86.2 0.0 0.0 0.0
+05:00 Volume 34 20 0 54 7 151 14 172 0 14 97 111 0 0 0 0 337
+Peak Factor 0.924
+High Int. 05:00 PM 05:30 PM 04:45 PM
+Volume 34 20 0 54 8 154 13 175 0 14 107 121
+Peak Factor 0.829 0.954 0.824
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 84 5th St & Canal St
+Site Code : 00003000
+Start Date : 7/24/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+04:15 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+04:30 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 2
+04:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 3 0 3
+05:00 PM 0 0 0 4 0 0 0 0 2 0 0 0 0 0 0 0 0 0 2 0 8 0 8
+05:15 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+05:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+05:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 5 0 0 0 0 2 0 0 0 0 0 0 0 0 0 2 0 9 0 9
+Grand Total 0 0 0 6 0 0 0 0 3 0 0 0 0 0 0 0 0 0 3 0 12 0 12
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+5th St.
+Southbound
+Canal St.
+Westbound
+5th St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              0         0            0               0        0              0            0                0             0           0       0              0          0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0          0.0                            0.0         0.0     0.0                       0.0           0.0           0.0
-     04:45 Volume              0         0            0               0        0              0            0                0             0           0       0              0          0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                             0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

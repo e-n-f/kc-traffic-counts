@@ -1,255 +1,394 @@
-                                                                                    Peggy Malone & Associates, Inc.
-                                                                                           (888) 247-8602
-                                                                                                                   File Name                                                               : 28 7th St. & Jackson St.
-                                                                                                                   Site Code                                                               : 00003158
-                                                                                                                   Start Date                                                              : 8/12/2008
-                                                                                                                   Page No                                                                 :1
-                                                                                                         Groups Printed- Vehicles
-                              N. 7th St.                                       Jackson St.                               N. 7th St.                                          Jackson St.
-                             Southbound                                        Westbound                                Northbound                                           Eastbound
-                                                             App.                                         App.                                          App.                                            App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left        Peds                 Right   Thru      Left     Peds               Right        Thru      Left   Peds            Right     Thru     Left    Peds
-                                                             Total                                        Total                                         Total                                           Total       Total      Total       Total
-        Factor     1.0       1.0      1.0        1.0                   1.0    1.0      1.0       1.0                 1.0         1.0       1.0    1.0              1.0      1.0      1.0     1.0
-   07:00 AM           0       0        0          3             0      13      2         0           1      15        4          36         1      3      41        0       73       30       2          103             9      159         168
-   07:15 AM           0       0        0          6             0      15      8         0           1      23       20          45         6      3      71        0       95       49       1          144            11      238         249
-   07:30 AM           0       0        0          7             0      22      6         0           0      28       26          52        11      8      89        0      117       52       0          169            15      286         301
-   07:45 AM           0       0        0          6             0      25      9         0           0      34       23          57         7      4      87        0      126       45       3          171            13      292         305
-       Total          0       0        0         22             0      75     25         0           2     100       73         190        25     18     288        0      411      176       6          587            48      975        1023
-
-   08:00 AM           0       0        0          9             0      20      8         0           4      28       16          55         9      5      80        0      106       38       1          144            19      252         271
-   08:15 AM           0       0        0         12             0      21      5         0           2      26       10          53         7      9      70        0       79       42       1          121            24      217         241
-   08:30 AM           0       0        0         12             0      27      7         0           1      34       13          60         2      6      75        0       98       32       2          130            21      239         260
-   08:45 AM           0       0        0          8             0      17      7         0           1      24        9          33         5      1      47        0       74       29       1          103            11      174         185
-       Total          0       0        0         41             0      85     27         0           8     112       48         201        23     21     272        0      357      141       5          498            75      882         957
-
-  Grand Total       0         0         0        63             0    160       52        0       10        212      121          391       48     39     560        0       768     317      11         1085           123     1857        1980
-   Apprch %       0.0       0.0       0.0                            75.5    24.5      0.0                          21.6        69.8      8.6                     0.0      70.8    29.2
-     Total %      0.0       0.0       0.0                     0.0     8.6     2.8      0.0                 11.4      6.5        21.1      2.6           30.2      0.0      41.4    17.1                 58.4           6.2      93.8
-
-
-                                       N. 7th St.                                             Jackson St.                                         N. 7th St.                                  Jackson St.
-                                      Southbound                                              Westbound                                          Northbound                                   Eastbound
-          Start Time   Right      Thru        Left              App. Total     Right          Thru        Left    App. Total           Right     Thru     Left    App. Total        Right      Thru             Left    App. Total      Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 28 7th St. & Jackson St.
+Site Code : 00003158
+Start Date : 8/12/2008
+Page No : 1
+Groups Printed- Vehicles
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 3 0 13 2 0 1 15 4 36 1 3 41 0 73 30 2 103 9 159 168
+07:15 AM 0 0 0 6 0 15 8 0 1 23 20 45 6 3 71 0 95 49 1 144 11 238 249
+07:30 AM 0 0 0 7 0 22 6 0 0 28 26 52 11 8 89 0 117 52 0 169 15 286 301
+07:45 AM 0 0 0 6 0 25 9 0 0 34 23 57 7 4 87 0 126 45 3 171 13 292 305
+Total 0 0 0 22 0 75 25 0 2 100 73 190 25 18 288 0 411 176 6 587 48 975 1023
+08:00 AM 0 0 0 9 0 20 8 0 4 28 16 55 9 5 80 0 106 38 1 144 19 252 271
+08:15 AM 0 0 0 12 0 21 5 0 2 26 10 53 7 9 70 0 79 42 1 121 24 217 241
+08:30 AM 0 0 0 12 0 27 7 0 1 34 13 60 2 6 75 0 98 32 2 130 21 239 260
+08:45 AM 0 0 0 8 0 17 7 0 1 24 9 33 5 1 47 0 74 29 1 103 11 174 185
+Total 0 0 0 41 0 85 27 0 8 112 48 201 23 21 272 0 357 141 5 498 75 882 957
+Grand Total 0 0 0 63 0 160 52 0 10 212 121 391 48 39 560 0 768 317 11 1085 123 1857 1980
+Apprch % 0.0 0.0 0.0 75.5 24.5 0.0 21.6 69.8 8.6 0.0 70.8 29.2
+Total % 0.0 0.0 0.0 0.0 8.6 2.8 0.0 11.4 6.5 21.1 2.6 30.2 0.0 41.4 17.1 58.4 6.2 93.8
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:15 AM
-           Volume              0          0              0               0      82             31           0           113             85        209      33             327          0        444          184              628           1068
-           Percent           0.0        0.0            0.0                     72.6           27.4        0.0                          26.0      63.9    10.1                        0.0       70.7         29.3
-     07:45 Volume              0          0              0               0      25               9          0              34           23         57       7              87          0        126           45              171           292
-       Peak Factor                                                                                                                                                                                                                         0.914
-          High Int.      6:45:00 AM                                          07:45 AM                                             07:30 AM                                        07:45 AM
-           Volume              0            0           0                0        25            9           0            34            26          52      11               89          0         126            45            171
-       Peak Factor                                                                                                    0.831                                              0.919                                               0.918
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                 File Name                                                                    : 28 7th St. & Jackson St.
-                                                                                                                 Site Code                                                                    : 00003158
-                                                                                                                 Start Date                                                                   : 8/12/2008
-                                                                                                                 Page No                                                                      :1
-                                                                                                       Groups Printed- Bicycles
-                              N. 7th St.                                     Jackson St.                               N. 7th St.                                            Jackson St.
-                             Southbound                                      Westbound                                Northbound                                             Eastbound
-                                                           App.                                         App.                                              App.                                              App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left      Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru        Left    Peds
-                                                           Total                                        Total                                             Total                                             Total       Total       Total        Total
-        Factor     1.0       1.0      1.0      1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0         1.0     1.0
-   07:00 AM           0       0        0        1             0       0      0         0           1           0        0         0            0     0       0        0          0       0        0            0              2           0          2
-   07:15 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     1       0        0          0       0        0            0              1           0          1
-   07:30 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   07:45 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     1       0        0          0       0        0            0              1           0          1
-       Total          0       0        0        1             0       0      0         0           1           0        0         0            0     2       0        0          0       0        0            0              4           0          4
-
-   08:00 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:15 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:30 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:45 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-       Total          0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-
-  Grand Total       0         0         0       1             0       0       0        0           1           0        0          0        0        2       0        0       0          0        0            0              4           0          4
-   Apprch %       0.0       0.0       0.0                           0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0        0.0
-     Total %                                                                                                                                                                                                               100.0      0.0
-
-
-                                       N. 7th St.                                           Jackson St.                                             N. 7th St.                                    Jackson St.
-                                      Southbound                                            Westbound                                              Northbound                                     Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total         Right      Thru              Left     App. Total       Int. Total
+Intersection 07:15 AM
+Volume 0 0 0 0 82 31 0 113 85 209 33 327 0 444 184 628 1068
+Percent 0.0 0.0 0.0 72.6 27.4 0.0 26.0 63.9 10.1 0.0 70.7 29.3
+07:45 Volume 0 0 0 0 25 9 0 34 23 57 7 87 0 126 45 171 292
+Peak Factor 0.914
+High Int. 6:45:00 AM 07:45 AM 07:30 AM 07:45 AM
+Volume 0 0 0 0 25 9 0 34 26 52 11 89 0 126 45 171
+Peak Factor 0.831 0.919 0.918
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 28 7th St. & Jackson St.
+Site Code : 00003158
+Start Date : 8/12/2008
+Page No : 1
+Groups Printed- Bicycles
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+07:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+Total 0 0 0 1 0 0 0 0 1 0 0 0 0 2 0 0 0 0 0 0 4 0 4
+08:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Grand Total 0 0 0 1 0 0 0 0 1 0 0 0 0 2 0 0 0 0 0 0 4 0 4
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:00 AM
-           Volume              0          0            0               0        0              0          0                 0             0           0       0             0             0             0             0              0                0
-           Percent           0.0        0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                         0.0           0.0           0.0
-     07:45 Volume              0          0            0               0        0              0          0                 0             0           0       0             0             0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                               0.000
-          High Int.      6:45:00 AM                                        6:45:00 AM                                             6:45:00 AM                                         6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                  File Name                                                               : 28 7th St. & Jackson St.
-                                                                                                                  Site Code                                                               : 00003158
-                                                                                                                  Start Date                                                              : 8/12/2008
-                                                                                                                  Page No                                                                 :1
-                                                                                                        Groups Printed- Vehicles
-                              N. 7th St.                                      Jackson St.                               N. 7th St.                                          Jackson St.
-                             Southbound                                       Westbound                                Northbound                                           Eastbound
-                                                            App.                                         App.                                          App.                                            App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds               Right        Thru      Left   Peds            Right     Thru     Left    Peds
-                                                            Total                                        Total                                         Total                                           Total       Total      Total       Total
-        Factor     1.0      1.0      1.0        1.0                   1.0    1.0      1.0       1.0                 1.0         1.0       1.0    1.0              1.0      1.0      1.0     1.0
-    11:00 AM          0       0       0          5             0      19     15         0           3      34        7          38        14      3      59        0       33        9       0           42            11      135         146
-    11:15 AM          0       0       1          4             1      30      5         0           2      35       13          47        15      0      75        0       20       17       1           37             7      148         155
-    11:30 AM          0       0       0          4             0      23     16         0           3      39        6          70         6      5      82        0       28       24       0           52            12      173         185
-    11:45 AM          0       0       0          6             0      41     12         0           0      53        6          51         8      1      65        0       31       15       0           46             7      164         171
-        Total         0       0       1         19             1     113     48         0           8     161       32         206        43      9     281        0      112       65       1          177            37      620         657
-
-    12:00 PM          0       0       0          4             0      40     12         0        2         52       10          63        13      6      86        0       22       24       1           46            13      184         197
-    12:15 PM          0       0       0         11             0      19     15         0        3         34        6          54        12      2      72        0       32       12       0           44            16      150         166
-    12:30 PM          0       0       0          2             0      39      9         0        3         48        5          60        10      1      75        0       32       14       2           46             8      169         177
-    12:45 PM          0       0       0         14             0      33     12         0        2         45        6          52        10      8      68        0       26       23       6           49            30      162         192
-        Total         0       0       0         31             0     131     48         0       10        179       27         229        45     17     301        0      112       73       9          185            67      665         732
-
-  Grand Total         0       0        1        50             1     244     96         0       18        340       59         435        88     26     582        0      224      138      10          362           104     1285        1389
-                                    100.
-    Apprch %       0.0      0.0                                     71.8    28.2      0.0                          10.1        74.7     15.1                     0.0      61.9    38.1
-                                       0
-      Total %      0.0      0.0      0.1                     0.1    19.0     7.5      0.0                 26.5      4.6        33.9      6.8           45.3      0.0      17.4    10.7                 28.2           7.5      92.5
-
-
-                                      N. 7th St.                                             Jackson St.                                         N. 7th St.                                  Jackson St.
-                                     Southbound                                              Westbound                                          Northbound                                   Eastbound
-          Start Time   Right       Thru        Left            App. Total     Right          Thru        Left    App. Total           Right     Thru     Left    App. Total        Right      Thru             Left    App. Total      Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 28 7th St. & Jackson St.
+Site Code : 00003158
+Start Date : 8/12/2008
+Page No : 1
+Groups Printed- Vehicles
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 5 0 19 15 0 3 34 7 38 14 3 59 0 33 9 0 42 11 135 146
+11:15 AM 0 0 1 4 1 30 5 0 2 35 13 47 15 0 75 0 20 17 1 37 7 148 155
+11:30 AM 0 0 0 4 0 23 16 0 3 39 6 70 6 5 82 0 28 24 0 52 12 173 185
+11:45 AM 0 0 0 6 0 41 12 0 0 53 6 51 8 1 65 0 31 15 0 46 7 164 171
+Total 0 0 1 19 1 113 48 0 8 161 32 206 43 9 281 0 112 65 1 177 37 620 657
+12:00 PM 0 0 0 4 0 40 12 0 2 52 10 63 13 6 86 0 22 24 1 46 13 184 197
+12:15 PM 0 0 0 11 0 19 15 0 3 34 6 54 12 2 72 0 32 12 0 44 16 150 166
+12:30 PM 0 0 0 2 0 39 9 0 3 48 5 60 10 1 75 0 32 14 2 46 8 169 177
+12:45 PM 0 0 0 14 0 33 12 0 2 45 6 52 10 8 68 0 26 23 6 49 30 162 192
+Total 0 0 0 31 0 131 48 0 10 179 27 229 45 17 301 0 112 73 9 185 67 665 732
+Grand Total 0 0 1 50 1 244 96 0 18 340 59 435 88 26 582 0 224 138 10 362 104 1285 1389
+Apprch % 0.0 0.0
+100.
+0
+71.8 28.2 0.0 10.1 74.7 15.1 0.0 61.9 38.1
+Total % 0.0 0.0 0.1 0.1 19.0 7.5 0.0 26.5 4.6 33.9 6.8 45.3 0.0 17.4 10.7 28.2 7.5 92.5
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:30 AM
-           Volume              0         0              0               0     123             55           0           178             28        238      39             305          0        113           75              188            671
-           Percent           0.0       0.0            0.0                     69.1           30.9        0.0                           9.2      78.0    12.8                        0.0       60.1         39.9
-     12:00 Volume              0         0              0               0      40             12           0              52           10         63     13               86          0         22          24                46           184
-       Peak Factor                                                                                                                                                                                                                        0.912
-          High Int.                                                         11:45 AM                                             12:00 PM                                        11:30 AM
-           Volume             0            0           0                0        41            12          0            53            10          63      13               86          0          28            24             52
-       Peak Factor                                                                                                   0.840                                              0.887                                               0.904
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                File Name                                                                  : 28 7th St. & Jackson St.
-                                                                                                                Site Code                                                                  : 00003158
-                                                                                                                Start Date                                                                 : 8/12/2008
-                                                                                                                Page No                                                                    :1
-                                                                                                      Groups Printed- Bicycles
-                              N. 7th St.                                    Jackson St.                               N. 7th St.                                            Jackson St.
-                             Southbound                                     Westbound                                Northbound                                             Eastbound
-                                                          App.                                         App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                        Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0      1.0     1.0       1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    11:00 AM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    11:15 AM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    11:30 AM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    11:45 AM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-        Total         0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-
-    12:00 PM          0       0       0        1             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    12:15 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:30 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:45 PM          0       0       0        1             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-        Total         0       0       0        2             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              2           0          2
-
-  Grand Total        0        0       0        2             0       0       0        0           0           0        0          0        0        0       0        0       0        0       0             0              2           0          2
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                            100.0      0.0
-
-
-                                     N. 7th St.                                            Jackson St.                                             N. 7th St.                                 Jackson St.
-                                    Southbound                                             Westbound                                              Northbound                                  Eastbound
-          Start Time   Right       Thru        Left          App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 11:30 AM
+Volume 0 0 0 0 123 55 0 178 28 238 39 305 0 113 75 188 671
+Percent 0.0 0.0 0.0 69.1 30.9 0.0 9.2 78.0 12.8 0.0 60.1 39.9
+12:00 Volume 0 0 0 0 40 12 0 52 10 63 13 86 0 22 24 46 184
+Peak Factor 0.912
+High Int. 11:45 AM 12:00 PM 11:30 AM
+Volume 0 0 0 0 41 12 0 53 10 63 13 86 0 28 24 52
+Peak Factor 0.840 0.887 0.904
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 28 7th St. & Jackson St.
+Site Code : 00003158
+Start Date : 8/12/2008
+Page No : 1
+Groups Printed- Bicycles
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:00 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+12:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:45 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+Total 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+Grand Total 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:00 AM
-           Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     11:45 Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                            0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                  File Name                                                              : 28 7th St. & Jackson St.
-                                                                                                                  Site Code                                                              : 00003158
-                                                                                                                  Start Date                                                             : 8/12/2008
-                                                                                                                  Page No                                                                :1
-                                                                                                      Groups Printed- Vehicles
-                              N. 7th St.                                      Jackson St.                             N. 7th St.                                           Jackson St.
-                             Southbound                                       Westbound                              Northbound                                            Eastbound
-                                                            App.                                       App.                                           App.                                             App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds             Right        Thru      Left   Peds             Right     Thru     Left     Peds
-                                                            Total                                      Total                                          Total                                            Total       Total      Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0      1.0       1.0               1.0         1.0       1.0    1.0               1.0      1.0      1.0      1.0
-    04:00 PM          0       0       0         10             0      51     13         0        5       64        8         176        15      2      199        0       22       28        0           50            17      313         330
-    04:15 PM          0       0       0          7             0      58     17         0        1       75        9         160        12      0      181        0       35       38        2           73            10      329         339
-    04:30 PM          0       0       0          4             0      72     21         0        5       93        7         248        14      8      269        0       37       55        0           92            17      454         471
-    04:45 PM          0       0       0          5             0      67     17         0        0       84        6         246        19     10      271        1       65       44        0          110            15      465         480
-        Total         0       0       0         26             0     248     68         0       11      316       30         830        60     20      920        1      159      165        2          325            59     1561        1620
-
-    05:00 PM          0       0       0         21             0      59     23         0        4       82        4         316        27      2      347        0       28       49        3           77            30      506         536
-    05:15 PM          0       0       0         12             0      61     15         0        3       76        6         289        20      1      315        0       39       36        1           75            17      466         483
-    05:30 PM          0       0       0         11             0      58     11         0        2       69        1         221        25      7      247        0       25       39        0           64            20      380         400
-    05:45 PM          0       0       0          4             0      40      6         0        1       46        3         170        10      2      183        0       10       38        1           48             8      277         285
-        Total         0       0       0         48             0     218     55         0       10      273       14         996        82     12     1092        0      102      162        5          264            75     1629        1704
-
-  Grand Total        0        0       0         74             0    466      123        0       21      589       44     1826          142     32     2012        1       261     327        7          589           134     3190        3324
-   Apprch %        0.0      0.0     0.0                             79.1    20.9      0.0                         2.2     90.8         7.1                      0.2      44.3    55.5
-     Total %       0.0      0.0     0.0                      0.0    14.6     3.9      0.0               18.5      1.4     57.2         4.5            63.1      0.0       8.2    10.3                  18.5           4.0      96.0
-
-
-                                     N. 7th St.                                              Jackson St.                                       N. 7th St.                                    Jackson St.
-                                    Southbound                                               Westbound                                        Northbound                                     Eastbound
-          Start Time    Right      Thru        Left            App. Total     Right          Thru      Left    App. Total           Right     Thru      Left    App. Total        Right       Thru             Left    App. Total      Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 28 7th St. & Jackson St.
+Site Code : 00003158
+Start Date : 8/12/2008
+Page No : 1
+Groups Printed- Vehicles
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 10 0 51 13 0 5 64 8 176 15 2 199 0 22 28 0 50 17 313 330
+04:15 PM 0 0 0 7 0 58 17 0 1 75 9 160 12 0 181 0 35 38 2 73 10 329 339
+04:30 PM 0 0 0 4 0 72 21 0 5 93 7 248 14 8 269 0 37 55 0 92 17 454 471
+04:45 PM 0 0 0 5 0 67 17 0 0 84 6 246 19 10 271 1 65 44 0 110 15 465 480
+Total 0 0 0 26 0 248 68 0 11 316 30 830 60 20 920 1 159 165 2 325 59 1561 1620
+05:00 PM 0 0 0 21 0 59 23 0 4 82 4 316 27 2 347 0 28 49 3 77 30 506 536
+05:15 PM 0 0 0 12 0 61 15 0 3 76 6 289 20 1 315 0 39 36 1 75 17 466 483
+05:30 PM 0 0 0 11 0 58 11 0 2 69 1 221 25 7 247 0 25 39 0 64 20 380 400
+05:45 PM 0 0 0 4 0 40 6 0 1 46 3 170 10 2 183 0 10 38 1 48 8 277 285
+Total 0 0 0 48 0 218 55 0 10 273 14 996 82 12 1092 0 102 162 5 264 75 1629 1704
+Grand Total 0 0 0 74 0 466 123 0 21 589 44 1826 142 32 2012 1 261 327 7 589 134 3190 3324
+Apprch % 0.0 0.0 0.0 79.1 20.9 0.0 2.2 90.8 7.1 0.2 44.3 55.5
+Total % 0.0 0.0 0.0 0.0 14.6 3.9 0.0 18.5 1.4 57.2 4.5 63.1 0.0 8.2 10.3 18.5 4.0 96.0
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:30 PM
-           Volume              0         0              0               0     259             76         0           335             23       1099      80             1202          1         169          184              354           1891
-           Percent           0.0       0.0            0.0                     77.3           22.7      0.0                           1.9       91.4     6.7                        0.3        47.7         52.0
-     05:00 Volume              0         0              0               0      59             23         0              82             4        316     27              347          0          28           49               77           506
-       Peak Factor                                                                                                                                                                                                                        0.934
-          High Int.                                                         04:30 PM                                           05:00 PM                                         04:45 PM
-           Volume             0            0           0                0        72            21        0            93             4         316       27              347          1           65            44            110
-       Peak Factor                                                                                                 0.901                                               0.866                                                0.805
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                File Name                                                                  : 28 7th St. & Jackson St.
-                                                                                                                Site Code                                                                  : 00003158
-                                                                                                                Start Date                                                                 : 8/12/2008
-                                                                                                                Page No                                                                    :1
-                                                                                                      Groups Printed- Bicycles
-                              N. 7th St.                                    Jackson St.                               N. 7th St.                                            Jackson St.
-                             Southbound                                     Westbound                                Northbound                                             Eastbound
-                                                          App.                                         App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                        Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0       1.0    1.0       1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    04:00 PM          0       0       0        1             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    04:15 PM          0       0       0        1             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    04:30 PM          0       0       0        1             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    04:45 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-        Total         0       0       0        3             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              3           0          3
-
-    05:00 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    05:15 PM          0       0       0        0             0       0      0         0           1           0        0         0            0     1       0        0          0     0       0             0              2           0          2
-    05:30 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    05:45 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-        Total         0       0       0        0             0       0      0         0           1           0        0         0            0     1       0        0          0     0       0             0              2           0          2
-
-  Grand Total        0        0       0        3             0       0       0        0           1           0        0          0        0        1       0        0       0        0       0             0              5           0          5
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                            100.0      0.0
-
-
-                                     N. 7th St.                                            Jackson St.                                             N. 7th St.                                 Jackson St.
-                                    Southbound                                             Westbound                                              Northbound                                  Eastbound
-          Start Time    Right      Thru        Left          App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 04:30 PM
+Volume 0 0 0 0 259 76 0 335 23 1099 80 1202 1 169 184 354 1891
+Percent 0.0 0.0 0.0 77.3 22.7 0.0 1.9 91.4 6.7 0.3 47.7 52.0
+05:00 Volume 0 0 0 0 59 23 0 82 4 316 27 347 0 28 49 77 506
+Peak Factor 0.934
+High Int. 04:30 PM 05:00 PM 04:45 PM
+Volume 0 0 0 0 72 21 0 93 4 316 27 347 1 65 44 110
+Peak Factor 0.901 0.866 0.805
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 28 7th St. & Jackson St.
+Site Code : 00003158
+Start Date : 8/12/2008
+Page No : 1
+Groups Printed- Bicycles
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+04:15 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+04:30 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+04:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 3
+05:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+05:15 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 2 0 2
+05:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+05:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 2 0 2
+Grand Total 0 0 0 3 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 5 0 5
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+N. 7th St.
+Southbound
+Jackson St.
+Westbound
+N. 7th St.
+Northbound
+Jackson St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     04:45 Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                            0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

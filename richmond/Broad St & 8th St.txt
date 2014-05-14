@@ -1,253 +1,367 @@
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                               File Name                : 10 8th St. & Broad StR.
-                                                                                                                                                               Site Code                : 00003398
-                                                                                                                                                               Start Date               : 8/13/2008
-                                                                                                                                                               Page No                  :1
-                                                                                                    Groups Printed- 1 - Vehicles
-                              N. 8th St.                                     E. Broad St.                                                                                E. Broad St.
-                             Southbound                                      Westbound                                        Northbound                                 Eastbound
-                                                           App.                                        App.                                           App.                                          App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru      Left     Peds              Right       Thru      Left     Peds            Right   Thru     Left    Peds
-                                                           Total                                       Total                                          Total                                         Total       Total       Total       Total
-        Factor     1.0      1.0      1.0      1.0                    1.0     1.0      1.0      1.0                1.0        1.0       1.0      1.0              1.0    1.0      1.0     1.0
-   07:00 AM        18        60      12       16             90       0     100       36        6       136         0         0            0    14       0       64     44        0      14          108            50       334         384
-   07:15 AM        20        90      13       28            123       0     117       53       16       170         0         0            0     3       0       88     55        0      11          143            58       436         494
-   07:30 AM        41        84      14       36            139       0     143       63        2       206         0         0            0     4       0       81     95        0       8          176            50       521         571
-   07:45 AM        27       104      22       37            153       0     171       55       17       226         0         0            0     5       0       93     67        0      19          160            78       539         617
-       Total      106       338      61      117            505       0     531      207       41       738         0         0            0    26       0      326    261        0      52          587           236      1830        2066
-
-   08:00 AM        31       115      17       47            163       0     158       60       14       218         0         0            0     6       0       90     78        0      11          168            78       549         627
-   08:15 AM        44       101      13       31            158       0     154       64        7       218         0         0            0     7       0       85    104        0      12          189            57       565         622
-   08:30 AM        24       101       8       50            133       0     132       48       10       180         0         0            0     2       0       83    103        0       5          186            67       499         566
-   08:45 AM        32        95      12       45            139       0     120       46        8       166         0         0            0     2       0       69     89        0      15          158            70       463         533
-       Total      131       412      50      173            593       0     564      218       39       782         0         0            0    17       0      327    374        0      43          701           272      2076        2348
-
-  Grand Total    237        750      111     290       1098           0    1095      425       80      1520         0          0        0       43       0     653      635       0      95         1288           508      3906        4414
-   Apprch %      21.6      68.3     10.1                            0.0     72.0     28.0                         0.0        0.0      0.0                      50.7    49.3     0.0
-     Total %      6.1      19.2      2.8                   28.1     0.0     28.0     10.9               38.9      0.0        0.0      0.0              0.0     16.7    16.3     0.0                 33.0           11.5      88.5
-
-
-                                      N. 8th St.                                        E. Broad St.                                                                                      E. Broad St.
-                                     Southbound                                         Westbound                                              Northbound                                 Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru       Left    App. Total          Right       Thru     Left    App. Total      Right      Thru             Left    App. Total       Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 10 8th St. & Broad StR.
+Site Code : 00003398
+Start Date : 8/13/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 18 60 12 16 90 0 100 36 6 136 0 0 0 14 0 64 44 0 14 108 50 334 384
+07:15 AM 20 90 13 28 123 0 117 53 16 170 0 0 0 3 0 88 55 0 11 143 58 436 494
+07:30 AM 41 84 14 36 139 0 143 63 2 206 0 0 0 4 0 81 95 0 8 176 50 521 571
+07:45 AM 27 104 22 37 153 0 171 55 17 226 0 0 0 5 0 93 67 0 19 160 78 539 617
+Total 106 338 61 117 505 0 531 207 41 738 0 0 0 26 0 326 261 0 52 587 236 1830 2066
+08:00 AM 31 115 17 47 163 0 158 60 14 218 0 0 0 6 0 90 78 0 11 168 78 549 627
+08:15 AM 44 101 13 31 158 0 154 64 7 218 0 0 0 7 0 85 104 0 12 189 57 565 622
+08:30 AM 24 101 8 50 133 0 132 48 10 180 0 0 0 2 0 83 103 0 5 186 67 499 566
+08:45 AM 32 95 12 45 139 0 120 46 8 166 0 0 0 2 0 69 89 0 15 158 70 463 533
+Total 131 412 50 173 593 0 564 218 39 782 0 0 0 17 0 327 374 0 43 701 272 2076 2348
+Grand Total 237 750 111 290 1098 0 1095 425 80 1520 0 0 0 43 0 653 635 0 95 1288 508 3906 4414
+Apprch % 21.6 68.3 10.1 0.0 72.0 28.0 0.0 0.0 0.0 50.7 49.3 0.0
+Total % 6.1 19.2 2.8 28.1 0.0 28.0 10.9 38.9 0.0 0.0 0.0 0.0 16.7 16.3 0.0 33.0 11.5 88.5
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:30 AM
-           Volume            143       404            66            613          0           626       242           868              0           0       0             0       349         344               0            693           2174
-           Percent          23.3      65.9          10.8                       0.0          72.1      27.9                          0.0         0.0     0.0                     50.4       49.6             0.0
-     08:15 Volume             44       101           13             158          0           154        64           218              0           0       0             0        85         104               0            189           565
-       Peak Factor                                                                                                                                                                                                                      0.962
-          High Int.      08:00 AM                                          07:45 AM                                           6:45:00 AM                                      08:15 AM
-           Volume             31      115            17              163         0          171         55           226            0             0       0             0          85         104             0             189
-       Peak Factor                                                 0.940                                           0.960                                                                                                  0.917
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                                                                     File Name                   : 10 8th St. & Broad StR.
-                                                                                                                                                                     Site Code                   : 00003398
-                                                                                                                                                                     Start Date                  : 8/13/2008
-                                                                                                                                                                     Page No                     :1
-                                                                                                       Groups Printed- 2 - Bicycles
-                              N. 8th St.                                     E. Broad St.                                                                                      E. Broad St.
-                             Southbound                                      Westbound                                              Northbound                                 Eastbound
-                                                           App.                                           App.                                              App.                                              App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left      Peds                 Right   Thru      Left     Peds                    Right       Thru      Left     Peds            Right   Thru        Left    Peds
-                                                           Total                                          Total                                             Total                                             Total       Total       Total        Total
-        Factor     1.0       1.0      1.0      1.0                   1.0    1.0      1.0       1.0                      1.0        1.0       1.0      1.0              1.0    1.0         1.0     1.0
-   07:00 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     1       0        0          0       0        1            0              2           0          2
-   07:15 AM           0       0        0        0             0       0      0         0           1             0        0         0            0     0       0        0          0       0        1            0              2           0          2
-   07:30 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   07:45 AM           0       0        0        1             0       0      0         0           0             0        0         0            0     1       0        0          0       0        0            0              2           0          2
-       Total          0       0        0        1             0       0      0         0           1             0        0         0            0     2       0        0          0       0        2            0              6           0          6
-
-   08:00 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:15 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     2       0        0          0       0        1            0              3           0          3
-   08:30 AM           0       0        0        1             0       0      0         0           0             0        0         0            0     0       0        0          0       0        0            0              1           0          1
-   08:45 AM           0       0        0        1             0       0      0         0           0             0        0         0            0     2       0        0          0       0        0            0              3           0          3
-       Total          0       0        0        2             0       0      0         0           0             0        0         0            0     4       0        0          0       0        1            0              7           0          7
-
-  Grand Total       0         0         0       3             0       0       0        0           1             0        0          0        0        6       0        0       0          0        3            0             13           0         13
-   Apprch %       0.0       0.0       0.0                           0.0     0.0      0.0                                0.0        0.0      0.0                       0.0     0.0        0.0
-     Total %                                                                                                                                                                                                                 100.0      0.0
-
-
-                                       N. 8th St.                                       E. Broad St.                                                                                                E. Broad St.
-                                      Southbound                                        Westbound                                                    Northbound                                     Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru          Left       App. Total          Right       Thru     Left    App. Total         Right      Thru              Left     App. Total       Int. Total
+Intersection 07:30 AM
+Volume 143 404 66 613 0 626 242 868 0 0 0 0 349 344 0 693 2174
+Percent 23.3 65.9 10.8 0.0 72.1 27.9 0.0 0.0 0.0 50.4 49.6 0.0
+08:15 Volume 44 101 13 158 0 154 64 218 0 0 0 0 85 104 0 189 565
+Peak Factor 0.962
+High Int. 08:00 AM 07:45 AM 6:45:00 AM 08:15 AM
+Volume 31 115 17 163 0 171 55 226 0 0 0 0 85 104 0 189
+Peak Factor 0.940 0.960 0.917
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 10 8th St. & Broad StR.
+Site Code : 00003398
+Start Date : 8/13/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 2 0 2
+07:15 AM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 2 0 2
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:45 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2 0 2
+Total 0 0 0 1 0 0 0 0 1 0 0 0 0 2 0 0 0 0 2 0 6 0 6
+08:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 0 3 0 3
+08:30 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+08:45 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 3 0 3
+Total 0 0 0 2 0 0 0 0 0 0 0 0 0 4 0 0 0 0 1 0 7 0 7
+Grand Total 0 0 0 3 0 0 0 0 1 0 0 0 0 6 0 0 0 0 3 0 13 0 13
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:00 AM
-           Volume              0          0            0               0        0              0            0                 0             0           0       0             0             0             0             0              0                0
-           Percent           0.0        0.0          0.0                      0.0            0.0          0.0                             0.0         0.0     0.0                         0.0           0.0           0.0
-     07:45 Volume              0          0            0               0        0              0            0                 0             0           0       0             0             0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                                 0.000
-          High Int.      6:45:00 AM                                        6:45:00 AM                                               6:45:00 AM                                         6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                               File Name                 : 10 8th St. & Broad StR.
-                                                                                                                                                               Site Code                 : 00003398
-                                                                                                                                                               Start Date                : 8/13/2008
-                                                                                                                                                               Page No                   :1
-                                                                                                    Groups Printed- 1 - Vehicles
-                              N. 8th St.                                     E. Broad St.                                                                                E. Broad St.
-                             Southbound                                      Westbound                                        Northbound                                 Eastbound
-                                                           App.                                        App.                                           App.                                            App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru      Left     Peds              Right       Thru      Left     Peds            Right   Thru      Left     Peds
-                                                           Total                                       Total                                          Total                                           Total       Total       Total       Total
-        Factor     1.0       1.0     1.0      1.0                    1.0     1.0      1.0      1.0                1.0        1.0       1.0      1.0              1.0     1.0      1.0      1.0
-    11:00 AM       22        55      18       17             95       0     113       34        3       147         0         0            0     7       0       58      97        0       15          155            42       397         439
-    11:15 AM       33        60      11       44            104       0     112       50        6       162         0         0            0     2       0       42     106        0        8          148            60       414         474
-    11:30 AM       34        52      15       34            101       0     137       53        9       190         0         0            0     3       0       51     123        0       22          174            68       465         533
-    11:45 AM       30        77      17       41            124       0     150       47       10       197         0         0            0     4       0       40     130        0       18          170            73       491         564
-        Total     119       244      61      136            424       0     512      184       28       696         0         0            0    16       0      191     456        0       63          647           243      1767        2010
-
-    12:00 PM       40        82      16       62            138       0     156       54        8       210         0         0            0     5       0       54     148        0        8          202            83       550         633
-    12:15 PM       35        67      12       30            114       0     128       64        6       192         0         0            0     2       0       79     143        0        9          222            47       528         575
-    12:30 PM       31        69      19       28            119       0     123       56       11       179         0         0            0     7       0       69     134        0       16          203            62       501         563
-    12:45 PM        9        74      15       21             98       0     125       59        9       184         0         0            0    12       0       76     145        0        5          221            47       503         550
-        Total     115       292      62      141            469       0     532      233       34       765         0         0            0    26       0      278     570        0       38          848           239      2082        2321
-
-  Grand Total    234        536      123     277            893       0    1044      417       62      1461         0          0        0       42       0     469     1026        0      101         1495           482      3849        4331
-   Apprch %      26.2      60.0     13.8                            0.0     71.5     28.5                         0.0        0.0      0.0                      31.4     68.6     0.0
-     Total %      6.1      13.9      3.2                   23.2     0.0     27.1     10.8               38.0      0.0        0.0      0.0              0.0     12.2     26.7     0.0                  38.8           11.1      88.9
-
-
-                                      N. 8th St.                                        E. Broad St.                                                                                        E. Broad St.
-                                     Southbound                                         Westbound                                              Northbound                                   Eastbound
-          Start Time   Right       Thru        Left           App. Total     Right          Thru       Left    App. Total          Right       Thru     Left    App. Total       Right       Thru             Left    App. Total       Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 10 8th St. & Broad StR.
+Site Code : 00003398
+Start Date : 8/13/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 22 55 18 17 95 0 113 34 3 147 0 0 0 7 0 58 97 0 15 155 42 397 439
+11:15 AM 33 60 11 44 104 0 112 50 6 162 0 0 0 2 0 42 106 0 8 148 60 414 474
+11:30 AM 34 52 15 34 101 0 137 53 9 190 0 0 0 3 0 51 123 0 22 174 68 465 533
+11:45 AM 30 77 17 41 124 0 150 47 10 197 0 0 0 4 0 40 130 0 18 170 73 491 564
+Total 119 244 61 136 424 0 512 184 28 696 0 0 0 16 0 191 456 0 63 647 243 1767 2010
+12:00 PM 40 82 16 62 138 0 156 54 8 210 0 0 0 5 0 54 148 0 8 202 83 550 633
+12:15 PM 35 67 12 30 114 0 128 64 6 192 0 0 0 2 0 79 143 0 9 222 47 528 575
+12:30 PM 31 69 19 28 119 0 123 56 11 179 0 0 0 7 0 69 134 0 16 203 62 501 563
+12:45 PM 9 74 15 21 98 0 125 59 9 184 0 0 0 12 0 76 145 0 5 221 47 503 550
+Total 115 292 62 141 469 0 532 233 34 765 0 0 0 26 0 278 570 0 38 848 239 2082 2321
+Grand Total 234 536 123 277 893 0 1044 417 62 1461 0 0 0 42 0 469 1026 0 101 1495 482 3849 4331
+Apprch % 26.2 60.0 13.8 0.0 71.5 28.5 0.0 0.0 0.0 31.4 68.6 0.0
+Total % 6.1 13.9 3.2 23.2 0.0 27.1 10.8 38.0 0.0 0.0 0.0 0.0 12.2 26.7 0.0 38.8 11.1 88.9
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume            115       292            62            469          0           532       233           765              0           0       0              0       278          570               0            848           2082
-           Percent          24.5      62.3          13.2                       0.0          69.5      30.5                          0.0         0.0     0.0                      32.8        67.2             0.0
-     12:00 Volume             40        82           16             138          0           156        54           210              0           0       0              0        54          148               0            202           550
-       Peak Factor                                                                                                                                                                                                                        0.946
-          High Int.      12:00 PM                                          12:00 PM                                                                                            12:15 PM
-           Volume             40       82            16              138         0          156         54           210              0           0       0              0          79          143             0             222
-       Peak Factor                                                 0.850                                           0.911                                                                                                    0.955
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                    File Name                 : 10 8th St. & Broad StR.
-                                                                                                                                                                    Site Code                 : 00003398
-                                                                                                                                                                    Start Date                : 8/13/2008
-                                                                                                                                                                    Page No                   :1
-                                                                                                      Groups Printed- 2 - Bicycles
-                              N. 8th St.                                    E. Broad St.                                                                                      E. Broad St.
-                             Southbound                                     Westbound                                              Northbound                                 Eastbound
-                                                          App.                                           App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                    Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                          Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0      1.0     1.0       1.0                   1.0    1.0      1.0       1.0                      1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    11:00 AM          0       0       0        1             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    11:15 AM          0       0       0        2             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              2           0          2
-    11:30 AM          0       0       0        0             0       0      0         0           0             0        0         0            0     1       0        0          0     0       0             0              1           0          1
-    11:45 AM          0       0       0        1             0       0      0         0           1             0        0         0            0     0       0        0          0     0       1             0              3           0          3
-        Total         0       0       0        4             0       0      0         0           1             0        0         0            0     1       0        0          0     0       1             0              7           0          7
-
-    12:00 PM          0       0       0        0             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:15 PM          0       0       0        0             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:30 PM          0       0       0        0             0       0      0         0           0             0        0         0            0     2       0        0          0     0       0             0              2           0          2
-    12:45 PM          0       0       0        1             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              1           0          1
-        Total         0       0       0        1             0       0      0         0           0             0        0         0            0     2       0        0          0     0       0             0              3           0          3
-
-  Grand Total        0        0       0        5             0       0       0        0           1             0        0          0        0        3       0        0       0        0       1             0             10           0         10
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                                0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                              100.0      0.0
-
-
-                                     N. 8th St.                                        E. Broad St.                                                                                             E. Broad St.
-                                    Southbound                                         Westbound                                                    Northbound                                  Eastbound
-          Start Time   Right       Thru        Left          App. Total     Right          Thru          Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 12:00 PM
+Volume 115 292 62 469 0 532 233 765 0 0 0 0 278 570 0 848 2082
+Percent 24.5 62.3 13.2 0.0 69.5 30.5 0.0 0.0 0.0 32.8 67.2 0.0
+12:00 Volume 40 82 16 138 0 156 54 210 0 0 0 0 54 148 0 202 550
+Peak Factor 0.946
+High Int. 12:00 PM 12:00 PM 12:15 PM
+Volume 40 82 16 138 0 156 54 210 0 0 0 0 79 143 0 222
+Peak Factor 0.850 0.911 0.955
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 10 8th St. & Broad StR.
+Site Code : 00003398
+Start Date : 8/13/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+11:15 AM 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+11:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+11:45 AM 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 3 0 3
+Total 0 0 0 4 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 7 0 7
+12:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 2
+12:45 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+Total 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 3 0 3
+Grand Total 0 0 0 5 0 0 0 0 1 0 0 0 0 3 0 0 0 0 1 0 10 0 10
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:00 AM
-           Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0          0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     11:45 Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                              0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                               File Name                 : 10 8th St. & Broad StR.
-                                                                                                                                                               Site Code                 : 00003398
-                                                                                                                                                               Start Date                : 8/13/2008
-                                                                                                                                                               Page No                   :1
-                                                                                                    Groups Printed- 1 - Vehicles
-                              N. 8th St.                                     E. Broad St.                                                                                E. Broad St.
-                             Southbound                                      Westbound                                        Northbound                                 Eastbound
-                                                           App.                                        App.                                           App.                                            App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru      Left     Peds              Right       Thru      Left     Peds            Right   Thru      Left     Peds
-                                                           Total                                       Total                                          Total                                           Total       Total      Total       Total
-        Factor     1.0       1.0     1.0      1.0                    1.0     1.0      1.0      1.0                1.0        1.0       1.0      1.0              1.0     1.0      1.0      1.0
-    04:00 PM       41       110      27       20            178       0     154       74       10       228         0         0            0     4       0       42     105        0        6          147            40      553         593
-    04:15 PM       31       102      12       35            145       0     193       61       17       254         0         0            0     5       0       47     108        0       13          155            70      554         624
-    04:30 PM       37       169      17       44            223       0     158       76       15       234         0         0            0     9       0       48     128        0       16          176            84      633         717
-    04:45 PM       48       176      33       51            257       0     209       59       16       268         0         0            0    12       0       50     130        0       15          180            94      705         799
-        Total     157       557      89      150            803       0     714      270       58       984         0         0            0    30       0      187     471        0       50          658           288     2445        2733
-
-    05:00 PM       37       198      33       26            268       0     176       67        5       243         0         0            0     4       0       46     144        0       10          190            45      701         746
-    05:15 PM       37       155      15       22            207       0     187       68        5       255         0         0            0     4       0       77     159        0        6          236            37      698         735
-    05:30 PM       24       138      21       20            183       0     148       41       10       189         0         0            0     6       0       44     129        0        6          173            42      545         587
-    05:45 PM       22       130      16       17            168       0     136       43        4       179         0         0            0     0       0       39     123        0        2          162            23      509         532
-        Total     120       621      85       85            826       0     647      219       24       866         0         0            0    14       0      206     555        0       24          761           147     2453        2600
-
-  Grand Total    277       1178     174      235       1629           0    1361      489       82      1850         0          0        0       44       0     393     1026        0       74         1419           435     4898        5333
-   Apprch %      17.0       72.3    10.7                            0.0     73.6     26.4                         0.0        0.0      0.0                      27.7     72.3     0.0
-     Total %      5.7       24.1     3.6                   33.3     0.0     27.8     10.0               37.8      0.0        0.0      0.0              0.0      8.0     20.9     0.0                  29.0           8.2      91.8
-
-
-                                      N. 8th St.                                        E. Broad St.                                                                                        E. Broad St.
-                                     Southbound                                         Westbound                                              Northbound                                   Eastbound
-          Start Time    Right      Thru        Left           App. Total     Right          Thru       Left    App. Total          Right       Thru     Left    App. Total       Right       Thru             Left    App. Total      Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 10 8th St. & Broad StR.
+Site Code : 00003398
+Start Date : 8/13/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 41 110 27 20 178 0 154 74 10 228 0 0 0 4 0 42 105 0 6 147 40 553 593
+04:15 PM 31 102 12 35 145 0 193 61 17 254 0 0 0 5 0 47 108 0 13 155 70 554 624
+04:30 PM 37 169 17 44 223 0 158 76 15 234 0 0 0 9 0 48 128 0 16 176 84 633 717
+04:45 PM 48 176 33 51 257 0 209 59 16 268 0 0 0 12 0 50 130 0 15 180 94 705 799
+Total 157 557 89 150 803 0 714 270 58 984 0 0 0 30 0 187 471 0 50 658 288 2445 2733
+05:00 PM 37 198 33 26 268 0 176 67 5 243 0 0 0 4 0 46 144 0 10 190 45 701 746
+05:15 PM 37 155 15 22 207 0 187 68 5 255 0 0 0 4 0 77 159 0 6 236 37 698 735
+05:30 PM 24 138 21 20 183 0 148 41 10 189 0 0 0 6 0 44 129 0 6 173 42 545 587
+05:45 PM 22 130 16 17 168 0 136 43 4 179 0 0 0 0 0 39 123 0 2 162 23 509 532
+Total 120 621 85 85 826 0 647 219 24 866 0 0 0 14 0 206 555 0 24 761 147 2453 2600
+Grand Total 277 1178 174 235 1629 0 1361 489 82 1850 0 0 0 44 0 393 1026 0 74 1419 435 4898 5333
+Apprch % 17.0 72.3 10.7 0.0 73.6 26.4 0.0 0.0 0.0 27.7 72.3 0.0
+Total % 5.7 24.1 3.6 33.3 0.0 27.8 10.0 37.8 0.0 0.0 0.0 0.0 8.0 20.9 0.0 29.0 8.2 91.8
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:30 PM
-           Volume            159       698            98            955          0           730       270         1000               0           0       0              0       221          561               0           782           2737
-           Percent          16.6      73.1          10.3                       0.0          73.0      27.0                          0.0         0.0     0.0                      28.3        71.7             0.0
-     04:45 Volume             48       176           33             257          0           209        59           268              0           0       0              0        50          130               0           180           705
-       Peak Factor                                                                                                                                                                                                                       0.971
-          High Int.      05:00 PM                                          04:45 PM                                                                                            05:15 PM
-           Volume             37      198            33              268         0          209         59           268              0           0       0              0          77          159             0            236
-       Peak Factor                                                 0.891                                           0.933                                                                                                   0.828
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                    File Name                 : 10 8th St. & Broad StR.
-                                                                                                                                                                    Site Code                 : 00003398
-                                                                                                                                                                    Start Date                : 8/13/2008
-                                                                                                                                                                    Page No                   :1
-                                                                                                      Groups Printed- 2 - Bicycles
-                              N. 8th St.                                    E. Broad St.                                                                                      E. Broad St.
-                             Southbound                                     Westbound                                              Northbound                                 Eastbound
-                                                          App.                                           App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                    Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                          Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0       1.0    1.0       1.0                   1.0    1.0      1.0       1.0                      1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    04:00 PM          0       0       0        4             0       0      0         0           0             0        0         0            0     1       0        0          0     0       0             0              5           0          5
-    04:15 PM          0       0       0        2             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              2           0          2
-    04:30 PM          0       0       0        1             0       0      0         0           0             0        0         0            0     0       0        0          0     0       1             0              2           0          2
-    04:45 PM          0       0       0        4             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              4           0          4
-        Total         0       0       0       11             0       0      0         0           0             0        0         0            0     1       0        0          0     0       1             0             13           0         13
-
-    05:00 PM          0       0       0        3             0       0      0         0           0             0        0         0            0     2       0        0          0     0       3             0              8           0          8
-    05:15 PM          0       0       0        0             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    05:30 PM          0       0       0        0             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    05:45 PM          0       0       0        1             0       0      0         0           1             0        0         0            0     0       0        0          0     0       0             0              2           0          2
-        Total         0       0       0        4             0       0      0         0           1             0        0         0            0     2       0        0          0     0       3             0             10           0         10
-
-  Grand Total        0        0       0       15             0       0       0        0           1             0        0          0        0        3       0        0       0        0       4             0             23           0         23
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                                0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                              100.0      0.0
-
-
-                                     N. 8th St.                                        E. Broad St.                                                                                             E. Broad St.
-                                    Southbound                                         Westbound                                                    Northbound                                  Eastbound
-          Start Time    Right      Thru        Left          App. Total     Right          Thru          Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 04:30 PM
+Volume 159 698 98 955 0 730 270 1000 0 0 0 0 221 561 0 782 2737
+Percent 16.6 73.1 10.3 0.0 73.0 27.0 0.0 0.0 0.0 28.3 71.7 0.0
+04:45 Volume 48 176 33 257 0 209 59 268 0 0 0 0 50 130 0 180 705
+Peak Factor 0.971
+High Int. 05:00 PM 04:45 PM 05:15 PM
+Volume 37 198 33 268 0 209 59 268 0 0 0 0 77 159 0 236
+Peak Factor 0.891 0.933 0.828
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 10 8th St. & Broad StR.
+Site Code : 00003398
+Start Date : 8/13/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 4 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 5 0 5
+04:15 PM 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+04:30 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 2
+04:45 PM 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 4
+Total 0 0 0 11 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 13 0 13
+05:00 PM 0 0 0 3 0 0 0 0 0 0 0 0 0 2 0 0 0 0 3 0 8 0 8
+05:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+05:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+05:45 PM 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+Total 0 0 0 4 0 0 0 0 1 0 0 0 0 2 0 0 0 0 3 0 10 0 10
+Grand Total 0 0 0 15 0 0 0 0 1 0 0 0 0 3 0 0 0 0 4 0 23 0 23
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+N. 8th St.
+Southbound
+E. Broad St.
+Westbound Northbound
+E. Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0          0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     04:45 Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                              0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

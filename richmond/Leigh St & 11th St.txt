@@ -1,265 +1,421 @@
-                                                                                     Peggy Malone & Associates, Inc.
-                                                                                            (888) 247-8602
-                                                                                                                                                                 File Name                 : 111 11th St & Leigh St
-                                                                                                                                                                 Site Code                 : 00003013
-                                                                                                                                                                 Start Date                : 8/5/2008
-                                                                                                                                                                 Page No                   :1
-                                                                                                         Groups Printed- Vehicles
-                                                                                 Leigh St.                                11th St.                                               Leigh St.
-                             Southbound                                         Westbound                               Northbound                                              Eastbound
-                                                             App.                                         App.                                         App.                                            App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left        Peds                 Right   Thru      Left     Peds               Right       Thru      Left   Peds            Right     Thru     Left    Peds
-                                                             Total                                        Total                                        Total                                           Total       Total       Total       Total
-        Factor     1.0       1.0      1.0        1.0                   1.0     1.0     1.0       1.0                 1.0        1.0       1.0    1.0              1.0      1.0      1.0     1.0
-   07:00 AM           0       0        0          0             0       0      94        0           0      94       18          0        65      1      83        0       32        0       6           32             7       209         216
-   07:15 AM           0       0        0          0             0       0     130        0           0     130       21          0        67      0      88        0       40        0      11           40            11       258         269
-   07:30 AM           0       0        0          0             0       0     162        0           0     162       19          0       109      0     128        0       53        0      65           53            65       343         408
-   07:45 AM           0       0        0          0             0       0     182        0           0     182       23          0        98      2     121        0       51        0      98           51           100       354         454
-       Total          0       0        0          0             0       0     568        0           0     568       81          0       339      3     420        0      176        0     180          176           183      1164        1347
-
-   08:00 AM           0       0        0          0             0       0     134        0           0     134       38          0        74      0     112        0       60        0      24           60            24       306         330
-   08:15 AM           0       0        0          0             0       0     139        0           0     139       36          0        76      0     112        0       57        0      20           57            20       308         328
-   08:30 AM           0       0        0          0             0       0     106        0           0     106       26          0        65      0      91        0       64        0      11           64            11       261         272
-   08:45 AM           0       0        0          0             0       0      69        0           0      69       42          0        63      0     105        0       69        0      22           69            22       243         265
-       Total          0       0        0          0             0       0     448        0           0     448      142          0       278      0     420        0      250        0      77          250            77      1118        1195
-
-  Grand Total         0       0        0          0             0       0    1016        0           0    1016      223          0       617      3     840        0       426       0     257          426           260      2282        2542
-                                                                              100.                                                                                        100.
-    Apprch %      0.0       0.0       0.0                             0.0              0.0                          26.5        0.0     73.5                     0.0               0.0
-                                                                                 0                                                                                           0
-      Total %     0.0       0.0       0.0                     0.0     0.0     44.5     0.0                 44.5      9.8        0.0     27.0           36.8      0.0      18.7     0.0                 18.7           10.2      89.8
-
-
-                                                                                               Leigh St.                                         11th St.                                     Leigh St.
-                                      Southbound                                              Westbound                                         Northbound                                   Eastbound
-          Start Time   Right      Thru        Left              App. Total     Right          Thru        Left    App. Total          Right     Thru     Left    App. Total        Right      Thru             Left    App. Total       Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 111 11th St & Leigh St
+Site Code : 00003013
+Start Date : 8/5/2008
+Page No : 1
+Groups Printed- Vehicles
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 94 0 0 94 18 0 65 1 83 0 32 0 6 32 7 209 216
+07:15 AM 0 0 0 0 0 0 130 0 0 130 21 0 67 0 88 0 40 0 11 40 11 258 269
+07:30 AM 0 0 0 0 0 0 162 0 0 162 19 0 109 0 128 0 53 0 65 53 65 343 408
+07:45 AM 0 0 0 0 0 0 182 0 0 182 23 0 98 2 121 0 51 0 98 51 100 354 454
+Total 0 0 0 0 0 0 568 0 0 568 81 0 339 3 420 0 176 0 180 176 183 1164 1347
+08:00 AM 0 0 0 0 0 0 134 0 0 134 38 0 74 0 112 0 60 0 24 60 24 306 330
+08:15 AM 0 0 0 0 0 0 139 0 0 139 36 0 76 0 112 0 57 0 20 57 20 308 328
+08:30 AM 0 0 0 0 0 0 106 0 0 106 26 0 65 0 91 0 64 0 11 64 11 261 272
+08:45 AM 0 0 0 0 0 0 69 0 0 69 42 0 63 0 105 0 69 0 22 69 22 243 265
+Total 0 0 0 0 0 0 448 0 0 448 142 0 278 0 420 0 250 0 77 250 77 1118 1195
+Grand Total 0 0 0 0 0 0 1016 0 0 1016 223 0 617 3 840 0 426 0 257 426 260 2282 2542
+Apprch % 0.0 0.0 0.0 0.0
+100.
+0
+0.0 26.5 0.0 73.5 0.0
+100.
+0
+0.0
+Total % 0.0 0.0 0.0 0.0 0.0 44.5 0.0 44.5 9.8 0.0 27.0 36.8 0.0 18.7 0.0 18.7 10.2 89.8
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:30 AM
-           Volume              0          0              0               0         0       617              0           617           116          0     357             473          0       221                0            221           1311
-           Percent           0.0        0.0            0.0                       0.0      100.0           0.0                         24.5       0.0    75.5                        0.0      100.0             0.0
-     07:45 Volume              0          0              0               0         0       182              0           182            23          0      98             121          0        51                0             51           354
-       Peak Factor                                                                                                                                                                                                                         0.926
-          High Int.      6:45:00 AM                                          07:45 AM                                            07:30 AM                                        08:00 AM
-           Volume              0            0           0                0         0          182           0           182           19           0     109              128          0          60             0              60
-       Peak Factor                                                                                                    0.848                                             0.924                                                0.921
-                                                                                    Peggy Malone & Associates, Inc.
-                                                                                           (888) 247-8602
-                                                                                                                                                                      File Name                  : 111 11th St & Leigh St
-                                                                                                                                                                      Site Code                  : 00003013
-                                                                                                                                                                      Start Date                 : 8/5/2008
-                                                                                                                                                                      Page No                    :1
-                                                                                                         Groups Printed- Bicycles
-                                                                                Leigh St.                                 11th St.                                                  Leigh St.
-                             Southbound                                        Westbound                                Northbound                                                 Eastbound
-                                                             App.                                         App.                                              App.                                            App.       Exclu.      Inclu.        Int.
-    Start Time   Right     Thru     Left        Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru        Left    Peds
-                                                             Total                                        Total                                             Total                                           Total       Total      Total        Total
-        Factor     1.0       1.0      1.0        1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0         1.0     1.0
-   07:00 AM           0       0        0          0             0       0      0         0           0           0        0         0            0     0       0        0          0       0       0           0            0            0          0
-   07:15 AM           0       0        0          0             0       0      3         0           0           3        0         0            0     0       0        0          0       0       0           0            0            3          3
-   07:30 AM           0       0        0          0             0       0      1         0           0           1        0         0            0     0       0        0          0       0       0           0            0            1          1
-   07:45 AM           0       0        0          0             0       0      2         0           0           2        0         0            0     0       0        0          0       0       0           0            0            2          2
-       Total          0       0        0          0             0       0      6         0           0           6        0         0            0     0       0        0          0       0       0           0            0            6          6
-
-   08:00 AM           0       0        0          0             0       0      0         0           0           0        0         0            0     0       0        0          0       0       0           0            0            0          0
-   08:15 AM           0       0        0          0             0       0      0         0           0           0        0         0            0     0       0        0          2       0       0           2            0            2          2
-   08:30 AM           0       0        0          0             0       0      0         0           0           0        0         0            0     0       0        0          2       0       0           2            0            2          2
-   08:45 AM           0       0        0          0             0       0      4         0           0           4        0         0            0     0       0        0          1       0       0           1            0            5          5
-       Total          0       0        0          0             0       0      4         0           0           4        0         0            0     0       0        0          5       0       0           5            0            9          9
-
-  Grand Total         0       0        0          0             0       0      10        0           0       10           0         0            0     0       0        0       5          0       0           5            0        15            15
-                                                                             100.                                                                                            100.
-    Apprch %      0.0       0.0       0.0                             0.0              0.0                              0.0        0.0      0.0                       0.0                0.0
-                                                                                0                                                                                               0
-      Total %     0.0       0.0       0.0                     0.0     0.0    66.7      0.0                 66.7         0.0        0.0      0.0              0.0      0.0    33.3        0.0                33.3           0.0     100.0
-
-
-                                                                                               Leigh St.                                              11th St.                                      Leigh St.
-                                      Southbound                                              Westbound                                              Northbound                                    Eastbound
-          Start Time   Right      Thru        Left              App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total         Right      Thru            Left   App. Total        Int. Total
+Intersection 07:30 AM
+Volume 0 0 0 0 0 617 0 617 116 0 357 473 0 221 0 221 1311
+Percent 0.0 0.0 0.0 0.0 100.0 0.0 24.5 0.0 75.5 0.0 100.0 0.0
+07:45 Volume 0 0 0 0 0 182 0 182 23 0 98 121 0 51 0 51 354
+Peak Factor 0.926
+High Int. 6:45:00 AM 07:45 AM 07:30 AM 08:00 AM
+Volume 0 0 0 0 0 182 0 182 19 0 109 128 0 60 0 60
+Peak Factor 0.848 0.924 0.921
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 111 11th St & Leigh St
+Site Code : 00003013
+Start Date : 8/5/2008
+Page No : 1
+Groups Printed- Bicycles
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:15 AM 0 0 0 0 0 0 3 0 0 3 0 0 0 0 0 0 0 0 0 0 0 3 3
+07:30 AM 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1
+07:45 AM 0 0 0 0 0 0 2 0 0 2 0 0 0 0 0 0 0 0 0 0 0 2 2
+Total 0 0 0 0 0 0 6 0 0 6 0 0 0 0 0 0 0 0 0 0 0 6 6
+08:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 2 0 2 2
+08:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 2 0 2 2
+08:45 AM 0 0 0 0 0 0 4 0 0 4 0 0 0 0 0 0 1 0 0 1 0 5 5
+Total 0 0 0 0 0 0 4 0 0 4 0 0 0 0 0 0 5 0 0 5 0 9 9
+Grand Total 0 0 0 0 0 0 10 0 0 10 0 0 0 0 0 0 5 0 0 5 0 15 15
+Apprch % 0.0 0.0 0.0 0.0
+100.
+0
+0.0 0.0 0.0 0.0 0.0
+100.
+0
+0.0
+Total % 0.0 0.0 0.0 0.0 0.0 66.7 0.0 66.7 0.0 0.0 0.0 0.0 0.0 33.3 0.0 33.3 0.0 100.0
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      08:00 AM
-           Volume              0          0              0               0        0           4             0                 4             0           0       0             0             0          5              0             5                9
-           Percent           0.0        0.0            0.0                      0.0       100.0           0.0                             0.0         0.0     0.0                         0.0      100.0            0.0
-     08:45 Volume              0          0              0               0        0           4             0                 4             0           0       0             0             0          1              0             1               5
-       Peak Factor                                                                                                                                                                                                                              0.450
-          High Int.      6:45:00 AM                                          08:45 AM                                               6:45:00 AM                                         08:15 AM
-           Volume              0            0           0                0         0            4           0                4            0             0       0             0              0          2             0              2
-       Peak Factor                                                                                                       0.250                                                                                                   0.625
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                 File Name                  : 111 11th St & Leigh St
-                                                                                                                                                                 Site Code                  : 00003013
-                                                                                                                                                                 Start Date                 : 8/5/2008
-                                                                                                                                                                 Page No                    :1
-                                                                                                        Groups Printed- Vehicles
-                                                                               Leigh St.                                 11th St.                                                Leigh St.
-                             Southbound                                       Westbound                                Northbound                                               Eastbound
-                                                            App.                                         App.                                          App.                                             App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds               Right        Thru      Left   Peds            Right     Thru     Left     Peds
-                                                            Total                                        Total                                         Total                                            Total       Total      Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0      1.0       1.0                 1.0         1.0       1.0    1.0              1.0      1.0      1.0      1.0
-    11:00 AM          0       0       0          0             0       0     46         0           0      46       34           0        37      0      71        0       76        0        7           76             7      193         200
-    11:15 AM          0       0       0          0             0       0     41         0           2      41       27           0        43      0      70        0       63        0       11           63            13      174         187
-    11:30 AM          0       0       0          0             0       0     51         0           0      51       28           0        39      2      67        0       55        0       19           55            21      173         194
-    11:45 AM          0       0       0          0             0       0     49         0           0      49       23           0        41      1      64        0       65        0       26           65            27      178         205
-        Total         0       0       0          0             0       0    187         0           2     187      112           0       160      3     272        0      259        0       63          259            68      718         786
-
-    12:00 PM          0       0       0          0             0       0     53         0           0      53       27           0        35      2      62        0       72        0       18           72            20      187         207
-    12:15 PM          0       0       0          0             0       0     59         0           0      59       34           0        46      3      80        0       63        0       20           63            23      202         225
-    12:30 PM          0       0       0          0             0       0     57         0           0      57       28           0        40      0      68        0       73        0        9           73             9      198         207
-    12:45 PM          0       0       0          0             0       0     62         0           0      62       31           0        36      0      67        0       72        0       20           72            20      201         221
-        Total         0       0       0          0             0       0    231         0           0     231      120           0       157      5     277        0      280        0       67          280            72      788         860
-
-  Grand Total         0       0       0          0             0       0     418        0           2     418      232           0       317      8     549        0       539       0      130          539           140     1506        1646
-                                                                            100.                                                                                          100.
-    Apprch %       0.0      0.0     0.0                              0.0              0.0                          42.3         0.0     57.7                     0.0               0.0
-                                                                               0                                                                                             0
-      Total %      0.0      0.0     0.0                      0.0     0.0    27.8      0.0                 27.8     15.4         0.0     21.0           36.5      0.0      35.8     0.0                  35.8           8.5      91.5
-
-
-                                                                                              Leigh St.                                          11th St.                                      Leigh St.
-                                    Southbound                                               Westbound                                          Northbound                                    Eastbound
-          Start Time   Right       Thru        Left            App. Total     Right          Thru        Left    App. Total           Right     Thru     Left    App. Total        Right       Thru             Left    App. Total      Int. Total
+Intersection 08:00 AM
+Volume 0 0 0 0 0 4 0 4 0 0 0 0 0 5 0 5 9
+Percent 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0
+08:45 Volume 0 0 0 0 0 4 0 4 0 0 0 0 0 1 0 1 5
+Peak Factor 0.450
+High Int. 6:45:00 AM 08:45 AM 6:45:00 AM 08:15 AM
+Volume 0 0 0 0 0 4 0 4 0 0 0 0 0 2 0 2
+Peak Factor 0.250 0.625
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 111 11th St & Leigh St
+Site Code : 00003013
+Start Date : 8/5/2008
+Page No : 1
+Groups Printed- Vehicles
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 0 0 0 46 0 0 46 34 0 37 0 71 0 76 0 7 76 7 193 200
+11:15 AM 0 0 0 0 0 0 41 0 2 41 27 0 43 0 70 0 63 0 11 63 13 174 187
+11:30 AM 0 0 0 0 0 0 51 0 0 51 28 0 39 2 67 0 55 0 19 55 21 173 194
+11:45 AM 0 0 0 0 0 0 49 0 0 49 23 0 41 1 64 0 65 0 26 65 27 178 205
+Total 0 0 0 0 0 0 187 0 2 187 112 0 160 3 272 0 259 0 63 259 68 718 786
+12:00 PM 0 0 0 0 0 0 53 0 0 53 27 0 35 2 62 0 72 0 18 72 20 187 207
+12:15 PM 0 0 0 0 0 0 59 0 0 59 34 0 46 3 80 0 63 0 20 63 23 202 225
+12:30 PM 0 0 0 0 0 0 57 0 0 57 28 0 40 0 68 0 73 0 9 73 9 198 207
+12:45 PM 0 0 0 0 0 0 62 0 0 62 31 0 36 0 67 0 72 0 20 72 20 201 221
+Total 0 0 0 0 0 0 231 0 0 231 120 0 157 5 277 0 280 0 67 280 72 788 860
+Grand Total 0 0 0 0 0 0 418 0 2 418 232 0 317 8 549 0 539 0 130 539 140 1506 1646
+Apprch % 0.0 0.0 0.0 0.0
+100.
+0
+0.0 42.3 0.0 57.7 0.0
+100.
+0
+0.0
+Total % 0.0 0.0 0.0 0.0 0.0 27.8 0.0 27.8 15.4 0.0 21.0 36.5 0.0 35.8 0.0 35.8 8.5 91.5
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume              0         0              0               0        0        231              0           231            120          0     157             277          0        280                0           280            788
-           Percent           0.0       0.0            0.0                      0.0       100.0           0.0                          43.3       0.0    56.7                        0.0       100.0             0.0
-     12:15 Volume              0         0              0               0        0         59              0              59           34          0      46              80          0         63                0            63           202
-       Peak Factor                                                                                                                                                                                                                         0.975
-          High Int.                                                         12:45 PM                                             12:15 PM                                        12:30 PM
-           Volume             0            0           0                0         0           62           0            62            34           0      46               80          0           73             0             73
-       Peak Factor                                                                                                   0.931                                              0.866                                                0.959
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                     File Name                    : 111 11th St & Leigh St
-                                                                                                                                                                     Site Code                    : 00003013
-                                                                                                                                                                     Start Date                   : 8/5/2008
-                                                                                                                                                                     Page No                      :1
-                                                                                                        Groups Printed- Bicycles
-                                                                               Leigh St.                                 11th St.                                                    Leigh St.
-                             Southbound                                       Westbound                                Northbound                                                   Eastbound
-                                                            App.                                         App.                                              App.                                              App.       Exclu.      Inclu.        Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right     Thru        Left    Peds
-                                                            Total                                        Total                                             Total                                             Total       Total      Total        Total
-        Factor     1.0      1.0     1.0         1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0      1.0         1.0     1.0
-    11:00 AM          0       0       0          0             0       0      0         0           0           0        0         0            0     0       0        0            0       0       0           0            0         0             0
-    11:15 AM          0       0       0          0             0       0      3         0           0           3        1         0            0     0       1        0            0       0       0           0            0         4             4
-    11:30 AM          0       0       0          0             0       0      1         0           0           1        1         0            0     0       1        0            0       0       0           0            0         2             2
-    11:45 AM          0       0       0          0             0       0      2         0           0           2        1         0            0     0       1        0            1       0       0           1            0         4             4
-        Total         0       0       0          0             0       0      6         0           0           6        3         0            0     0       3        0            1       0       0           1            0        10            10
-
-    12:00 PM          0       0       0          0             0       0      3         0           0           3        0         0            0     0       0        0            1       0       0           1            0            4          4
-    12:15 PM          0       0       0          0             0       0      2         0           0           2        0         0            0     0       0        0            0       0       0           0            0            2          2
-    12:30 PM          0       0       0          0             0       0      0         0           0           0        0         0            0     0       0        0            0       0       0           0            0            0          0
-    12:45 PM          0       0       0          0             0       0      0         0           0           0        0         0            0     0       0        0            0       0       0           0            0            0          0
-        Total         0       0       0          0             0       0      5         0           0           5        0         0            0     0       0        0            1       0       0           1            0            6          6
-
-  Grand Total         0       0       0          0             0       0      11        0           0       11           3         0            0     0       3        0         2          0       0           2            0        16            16
-                                                                            100.                                      100.                                                    100.
-    Apprch %       0.0      0.0     0.0                              0.0              0.0                                         0.0      0.0                       0.0                  0.0
-                                                                               0                                         0                                                       0
-      Total %      0.0      0.0     0.0                      0.0     0.0    68.8      0.0                 68.8        18.8        0.0      0.0             18.8      0.0      12.5        0.0                12.5           0.0     100.0
-
-
-                                                                                              Leigh St.                                              11th St.                                        Leigh St.
-                                    Southbound                                               Westbound                                              Northbound                                      Eastbound
-          Start Time   Right       Thru        Left            App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total           Right      Thru            Left   App. Total        Int. Total
+Intersection 12:00 PM
+Volume 0 0 0 0 0 231 0 231 120 0 157 277 0 280 0 280 788
+Percent 0.0 0.0 0.0 0.0 100.0 0.0 43.3 0.0 56.7 0.0 100.0 0.0
+12:15 Volume 0 0 0 0 0 59 0 59 34 0 46 80 0 63 0 63 202
+Peak Factor 0.975
+High Int. 12:45 PM 12:15 PM 12:30 PM
+Volume 0 0 0 0 0 62 0 62 34 0 46 80 0 73 0 73
+Peak Factor 0.931 0.866 0.959
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 111 11th St & Leigh St
+Site Code : 00003013
+Start Date : 8/5/2008
+Page No : 1
+Groups Printed- Bicycles
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:15 AM 0 0 0 0 0 0 3 0 0 3 1 0 0 0 1 0 0 0 0 0 0 4 4
+11:30 AM 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 2 2
+11:45 AM 0 0 0 0 0 0 2 0 0 2 1 0 0 0 1 0 1 0 0 1 0 4 4
+Total 0 0 0 0 0 0 6 0 0 6 3 0 0 0 3 0 1 0 0 1 0 10 10
+12:00 PM 0 0 0 0 0 0 3 0 0 3 0 0 0 0 0 0 1 0 0 1 0 4 4
+12:15 PM 0 0 0 0 0 0 2 0 0 2 0 0 0 0 0 0 0 0 0 0 0 2 2
+12:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 5 0 0 5 0 0 0 0 0 0 1 0 0 1 0 6 6
+Grand Total 0 0 0 0 0 0 11 0 0 11 3 0 0 0 3 0 2 0 0 2 0 16 16
+Apprch % 0.0 0.0 0.0 0.0
+100.
+0
+0.0
+100.
+0
+0.0 0.0 0.0
+100.
+0
+0.0
+Total % 0.0 0.0 0.0 0.0 0.0 68.8 0.0 68.8 18.8 0.0 0.0 18.8 0.0 12.5 0.0 12.5 0.0 100.0
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:15 AM
-           Volume              0         0              0               0        0           9             0                 9              3          0       0               3             0          2              0             2              14
-           Percent           0.0       0.0            0.0                      0.0       100.0           0.0                            100.0        0.0     0.0                           0.0      100.0            0.0
-     12:00 Volume              0         0              0               0        0           3             0                 3              0          0       0               0             0          1              0             1               4
-       Peak Factor                                                                                                                                                                                                                               0.875
-          High Int.                                                         11:15 AM                                               11:15 AM                                             11:45 AM
-           Volume             0            0           0                0         0            3           0                3            1             0       0                1             0          1             0              1
-       Peak Factor                                                                                                      0.750                                               0.750                                                 0.500
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                 File Name                  : 111 11th St & Leigh St
-                                                                                                                                                                 Site Code                  : 00003013
-                                                                                                                                                                 Start Date                 : 8/5/2008
-                                                                                                                                                                 Page No                    :1
-                                                                                                        Groups Printed- Vehicles
-                                                                               Leigh St.                                 11th St.                                                Leigh St.
-                             Southbound                                       Westbound                                Northbound                                               Eastbound
-                                                            App.                                         App.                                          App.                                             App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds               Right        Thru      Left   Peds            Right     Thru     Left     Peds
-                                                            Total                                        Total                                         Total                                            Total       Total       Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0      1.0       1.0                 1.0         1.0       1.0    1.0              1.0      1.0      1.0      1.0
-    04:00 PM          0       0       0          0             0       0     51         0           0      51       34           0        49      0      83        0      101        0       47          101            47       235         282
-    04:15 PM          0       0       0          0             0       0     57         0           0      57       32           0        49      1      81        0       96        0       56           96            57       234         291
-    04:30 PM          0       0       0          0             0       0     67         0           0      67       36           0        61      0      97        0      152        0       83          152            83       316         399
-    04:45 PM          0       0       0          0             0       0     75         0           0      75       36           0        40      1      76        0      153        0       88          153            89       304         393
-        Total         0       0       0          0             0       0    250         0           0     250      138           0       199      2     337        0      502        0      274          502           276      1089        1365
-
-    05:00 PM          0       0       0          0             0       0     85         0           0      85       47           0        46      0      93        0      161        0       91          161            91       339         430
-    05:15 PM          0       0       0          0             0       0     71         0           0      71       40           0        50      0      90        0      169        0       83          169            83       330         413
-    05:30 PM          0       0       0          0             0       0     56         0           0      56       29           0        38      0      67        0      115        0       64          115            64       238         302
-    05:45 PM          0       0       0          0             0       0     55         0           0      55       34           0        28      1      62        0      105        0       32          105            33       222         255
-        Total         0       0       0          0             0       0    267         0           0     267      150           0       162      1     312        0      550        0      270          550           271      1129        1400
-
-  Grand Total         0       0       0          0             0       0     517        0           0     517      288           0       361      3     649        0     1052        0      544         1052           547      2218        2765
-                                                                            100.                                                                                          100.
-    Apprch %       0.0      0.0     0.0                              0.0              0.0                          44.4         0.0     55.6                     0.0               0.0
-                                                                               0                                                                                             0
-      Total %      0.0      0.0     0.0                      0.0     0.0    23.3      0.0                 23.3     13.0         0.0     16.3           29.3      0.0      47.4     0.0                  47.4           19.8      80.2
-
-
-                                                                                              Leigh St.                                          11th St.                                      Leigh St.
-                                    Southbound                                               Westbound                                          Northbound                                    Eastbound
-          Start Time    Right      Thru        Left            App. Total     Right          Thru        Left    App. Total           Right     Thru     Left    App. Total        Right       Thru             Left    App. Total       Int. Total
+Intersection 11:15 AM
+Volume 0 0 0 0 0 9 0 9 3 0 0 3 0 2 0 2 14
+Percent 0.0 0.0 0.0 0.0 100.0 0.0 100.0 0.0 0.0 0.0 100.0 0.0
+12:00 Volume 0 0 0 0 0 3 0 3 0 0 0 0 0 1 0 1 4
+Peak Factor 0.875
+High Int. 11:15 AM 11:15 AM 11:45 AM
+Volume 0 0 0 0 0 3 0 3 1 0 0 1 0 1 0 1
+Peak Factor 0.750 0.750 0.500
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 111 11th St & Leigh St
+Site Code : 00003013
+Start Date : 8/5/2008
+Page No : 1
+Groups Printed- Vehicles
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 0 0 0 51 0 0 51 34 0 49 0 83 0 101 0 47 101 47 235 282
+04:15 PM 0 0 0 0 0 0 57 0 0 57 32 0 49 1 81 0 96 0 56 96 57 234 291
+04:30 PM 0 0 0 0 0 0 67 0 0 67 36 0 61 0 97 0 152 0 83 152 83 316 399
+04:45 PM 0 0 0 0 0 0 75 0 0 75 36 0 40 1 76 0 153 0 88 153 89 304 393
+Total 0 0 0 0 0 0 250 0 0 250 138 0 199 2 337 0 502 0 274 502 276 1089 1365
+05:00 PM 0 0 0 0 0 0 85 0 0 85 47 0 46 0 93 0 161 0 91 161 91 339 430
+05:15 PM 0 0 0 0 0 0 71 0 0 71 40 0 50 0 90 0 169 0 83 169 83 330 413
+05:30 PM 0 0 0 0 0 0 56 0 0 56 29 0 38 0 67 0 115 0 64 115 64 238 302
+05:45 PM 0 0 0 0 0 0 55 0 0 55 34 0 28 1 62 0 105 0 32 105 33 222 255
+Total 0 0 0 0 0 0 267 0 0 267 150 0 162 1 312 0 550 0 270 550 271 1129 1400
+Grand Total 0 0 0 0 0 0 517 0 0 517 288 0 361 3 649 0 1052 0 544 1052 547 2218 2765
+Apprch % 0.0 0.0 0.0 0.0
+100.
+0
+0.0 44.4 0.0 55.6 0.0
+100.
+0
+0.0
+Total % 0.0 0.0 0.0 0.0 0.0 23.3 0.0 23.3 13.0 0.0 16.3 29.3 0.0 47.4 0.0 47.4 19.8 80.2
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:30 PM
-           Volume              0         0              0               0        0        298              0           298            159          0     197             356          0        635                0            635           1289
-           Percent           0.0       0.0            0.0                      0.0       100.0           0.0                          44.7       0.0    55.3                        0.0       100.0             0.0
-     05:00 Volume              0         0              0               0        0         85              0              85           47          0      46              93          0        161                0            161           339
-       Peak Factor                                                                                                                                                                                                                          0.951
-          High Int.                                                         05:00 PM                                             04:30 PM                                        05:15 PM
-           Volume             0            0           0                0         0           85           0            85            36           0      61               97          0          169             0             169
-       Peak Factor                                                                                                   0.876                                              0.918                                                 0.939
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                     File Name                     : 111 11th St & Leigh St
-                                                                                                                                                                     Site Code                     : 00003013
-                                                                                                                                                                     Start Date                    : 8/5/2008
-                                                                                                                                                                     Page No                       :1
-                                                                                                        Groups Printed- Bicycles
-                                                                               Leigh St.                                 11th St.                                                    Leigh St.
-                             Southbound                                       Westbound                                Northbound                                                   Eastbound
-                                                            App.                                         App.                                              App.                                               App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right     Thru        Left     Peds
-                                                            Total                                        Total                                             Total                                              Total       Total      Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0      1.0         1.0      1.0
-    04:00 PM          0       0       0          0             0       0      1         0           0           1        0         0            0     0       0        0            1       0        0           1            0         2            2
-    04:15 PM          0       0       0          0             0       0      0         0           0           0        0         0            0     0       0        0            2       0        0           2            0         2            2
-    04:30 PM          0       0       0          0             0       0      1         0           0           1        0         0            0     0       0        0            4       0        0           4            0         5            5
-    04:45 PM          0       0       0          0             0       0      0         0           0           0        0         0            1     0       1        0            0       0        0           0            0         1            1
-        Total         0       0       0          0             0       0      2         0           0           2        0         0            1     0       1        0            7       0        0           7            0        10           10
-
-    05:00 PM          0       0       0          0             0       0      0         0           0           0        0         0            0     0       0        0            3       0        0           3            0         3            3
-    05:15 PM          0       0       0          0             0       0      1         0           0           1        0         0            0     0       0        0            2       0        0           2            0         3            3
-    05:30 PM          0       0       0          0             0       0      1         0           0           1        0         0            0     0       0        0            2       0        0           2            0         3            3
-    05:45 PM          0       0       0          0             0       0      3         0           0           3        0         0            0     0       0        0            0       0        0           0            0         3            3
-        Total         0       0       0          0             0       0      5         0           0           5        0         0            0     0       0        0            7       0        0           7            0        12           12
-
-  Grand Total         0       0       0          0             0       0       7        0           0           7        0         0         1        0       1        0        14          0        0          14            0        22           22
-                                                                            100.                                                          100.                                100.
-    Apprch %       0.0      0.0     0.0                              0.0              0.0                              0.0        0.0                                0.0                  0.0
-                                                                               0                                                             0                                   0
-      Total %      0.0      0.0     0.0                      0.0     0.0    31.8      0.0                 31.8         0.0        0.0      4.5              4.5      0.0      63.6        0.0                 63.6           0.0     100.0
-
-
-                                                                                              Leigh St.                                              11th St.                                         Leigh St.
-                                    Southbound                                               Westbound                                              Northbound                                       Eastbound
-          Start Time    Right      Thru        Left            App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total           Right       Thru            Left   App. Total       Int. Total
+Intersection 04:30 PM
+Volume 0 0 0 0 0 298 0 298 159 0 197 356 0 635 0 635 1289
+Percent 0.0 0.0 0.0 0.0 100.0 0.0 44.7 0.0 55.3 0.0 100.0 0.0
+05:00 Volume 0 0 0 0 0 85 0 85 47 0 46 93 0 161 0 161 339
+Peak Factor 0.951
+High Int. 05:00 PM 04:30 PM 05:15 PM
+Volume 0 0 0 0 0 85 0 85 36 0 61 97 0 169 0 169
+Peak Factor 0.876 0.918 0.939
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 111 11th St & Leigh St
+Site Code : 00003013
+Start Date : 8/5/2008
+Page No : 1
+Groups Printed- Bicycles
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 1 0 2 2
+04:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 2 0 2 2
+04:30 PM 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 4 0 0 4 0 5 5
+04:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1
+Total 0 0 0 0 0 0 2 0 0 2 0 0 1 0 1 0 7 0 0 7 0 10 10
+05:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 3 0 3 3
+05:15 PM 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 2 0 0 2 0 3 3
+05:30 PM 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 2 0 0 2 0 3 3
+05:45 PM 0 0 0 0 0 0 3 0 0 3 0 0 0 0 0 0 0 0 0 0 0 3 3
+Total 0 0 0 0 0 0 5 0 0 5 0 0 0 0 0 0 7 0 0 7 0 12 12
+Grand Total 0 0 0 0 0 0 7 0 0 7 0 0 1 0 1 0 14 0 0 14 0 22 22
+Apprch % 0.0 0.0 0.0 0.0
+100.
+0
+0.0 0.0 0.0
+100.
+0
+0.0
+100.
+0
+0.0
+Total % 0.0 0.0 0.0 0.0 0.0 31.8 0.0 31.8 0.0 0.0 4.5 4.5 0.0 63.6 0.0 63.6 0.0 100.0
+Southbound
+Leigh St.
+Westbound
+11th St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:30 PM
-           Volume              0         0              0               0        0           2             0                 2             0           0       1               1             0           9              0             9             12
-           Percent           0.0       0.0            0.0                      0.0       100.0           0.0                             0.0         0.0   100.0                           0.0       100.0            0.0
-     04:30 Volume              0         0              0               0        0           1             0                 1             0           0       0               0             0           4              0             4              5
-       Peak Factor                                                                                                                                                                                                                               0.600
-          High Int.                                                         04:30 PM                                               04:45 PM                                             04:30 PM
-           Volume             0            0           0                0         0            1           0                1            0             0       1                1             0           4             0              4
-       Peak Factor                                                                                                      0.500                                               0.250                                                  0.563
+Intersection 04:30 PM
+Volume 0 0 0 0 0 2 0 2 0 0 1 1 0 9 0 9 12
+Percent 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0 0.0 100.0 0.0
+04:30 Volume 0 0 0 0 0 1 0 1 0 0 0 0 0 4 0 4 5
+Peak Factor 0.600
+High Int. 04:30 PM 04:45 PM 04:30 PM
+Volume 0 0 0 0 0 1 0 1 0 0 1 1 0 4 0 4
+Peak Factor 0.500 0.250 0.563
 

@@ -1,263 +1,433 @@
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                         File Name                                                      : Belvidere and Main St.(Original)
-                                                                                                         Site Code                                                      : 00003013
-                                                                                                         Start Date                                                     : 9/16/2008
-                                                                                                         Page No                                                        :1
-                                                                                          Groups Printed- 1 - Vehicles
-                             S. Belvidere                                 W. Main St. (1 Way)              S. Belvidere                                                 W. Main St. (1 Way)
-                             Southbound                                      Westbound                     Northbound                                                       Eastbound
-                                                          App.                                         App.                                            App.                                                 App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                 Right     Thru      Left     Peds             Right       Thru      Left     Peds             Right     Thru        Left     Peds
-                                                          Total                                        Total                                           Total                                                Total       Total      Total       Total
-        Factor     1.0      1.0     1.0       1.0                   1.0      1.0       1.0      1.0               1.0        1.0       1.0      1.0               1.0      1.0         1.0      1.0
-   07:00 AM        37       171       0        2       208          13       40         6        4       59         0       157            0     4      157        0            0       0        0             0            10      424         434
-   07:15 AM        62       236       0        4       298          16       51        17        8       84         0       238            0     9      238        0            0       0        1             0            22      620         642
-   07:30 AM        70       285       0        6       355          22       82        20        8      124         0       248            0     9      248        1            0       0        3             1            26      728         754
-   07:45 AM        84       327       0        7       411          24       85        13        9      122         0       322            0    25      322        0            0       0        3             0            44      855         899
-       Total      253      1019       0       19      1272          75      258        56       29      389         0       965            0    47      965        1            0       0        7             1           102     2627        2729
-
-   08:00 AM        54       259       0        1       313          19       82        19        7      120         0    275               0    25      275        0            0       0        1             0            34      708         742
-   08:15 AM        56       278       0        4       334          23       68        18        4      109         0    274               0     8      274        0            0       0        0             0            16      717         733
-   08:30 AM        46       237       0        7       283          25       85        21       12      131         0    230               0    31      230        0            0       0        0             0            50      644         694
-   08:45 AM        86       226       0        9       312          21       84        16       10      121         0    256               0    22      256        0            0       0        4             0            45      689         734
-       Total      242      1000       0       21      1242          88      319        74       33      481         0   1035               0    86     1035        0            0       0        5             0           145     2758        2903
-
-  Grand Total     495      2019       0       40      2514         163      577       130       62      870         0   2000               0   133     2000        1            0       0       12             1           247     5385        5632
-                                                                                                                         100.                                   100.
-    Apprch %     19.7      80.3     0.0                           18.7      66.3      14.9                        0.0                 0.0                                  0.0        0.0
-                                                                                                                            0                                      0
-      Total %     9.2      37.5     0.0                   46.7     3.0      10.7       2.4             16.2       0.0    37.1         0.0              37.1      0.0       0.0        0.0                    0.0           4.4      95.6
-
-
-                                    S. Belvidere                                   W. Main St. (1 Way)                                         S. Belvidere                                  W. Main St. (1 Way)
-                                    Southbound                                        Westbound                                                Northbound                                        Eastbound
-          Start Time   Right      Thru        Left           App. Total       Right          Thru     Left     App. Total          Right        Thru     Left    App. Total           Right       Thru              Left    App. Total      Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Belvidere and Main St.(Original)
+Site Code : 00003013
+Start Date : 9/16/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 37 171 0 2 208 13 40 6 4 59 0 157 0 4 157 0 0 0 0 0 10 424 434
+07:15 AM 62 236 0 4 298 16 51 17 8 84 0 238 0 9 238 0 0 0 1 0 22 620 642
+07:30 AM 70 285 0 6 355 22 82 20 8 124 0 248 0 9 248 1 0 0 3 1 26 728 754
+07:45 AM 84 327 0 7 411 24 85 13 9 122 0 322 0 25 322 0 0 0 3 0 44 855 899
+Total 253 1019 0 19 1272 75 258 56 29 389 0 965 0 47 965 1 0 0 7 1 102 2627 2729
+08:00 AM 54 259 0 1 313 19 82 19 7 120 0 275 0 25 275 0 0 0 1 0 34 708 742
+08:15 AM 56 278 0 4 334 23 68 18 4 109 0 274 0 8 274 0 0 0 0 0 16 717 733
+08:30 AM 46 237 0 7 283 25 85 21 12 131 0 230 0 31 230 0 0 0 0 0 50 644 694
+08:45 AM 86 226 0 9 312 21 84 16 10 121 0 256 0 22 256 0 0 0 4 0 45 689 734
+Total 242 1000 0 21 1242 88 319 74 33 481 0 1035 0 86 1035 0 0 0 5 0 145 2758 2903
+Grand Total 495 2019 0 40 2514 163 577 130 62 870 0 2000 0 133 2000 1 0 0 12 1 247 5385 5632
+Apprch % 19.7 80.3 0.0 18.7 66.3 14.9 0.0
+100.
+0
+0.0
+100.
+0
+0.0 0.0
+Total % 9.2 37.5 0.0 46.7 3.0 10.7 2.4 16.2 0.0 37.1 0.0 37.1 0.0 0.0 0.0 0.0 4.4 95.6
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:30 AM
-           Volume            264     1149             0           1413         88             317       70           475              0        1119        0            1119             1              0             0             1           3008
-           Percent          18.7      81.3          0.0                       18.5           66.7     14.7                          0.0        100.0     0.0                         100.0            0.0           0.0
-     07:45 Volume             84       327            0            411         24              85      13            122              0         322        0             322             0              0             0             0           855
-       Peak Factor                                                                                                                                                                                                                             0.880
-          High Int.      07:45 AM                                          07:30 AM                                           07:45 AM                                              07:30 AM
-           Volume             84      327            0              411         22            82       20            124            0           322        0              322             1            0              0              1
-       Peak Factor                                                0.859                                            0.958                                                0.869                                                    0.250
-                                                                                     Peggy Malone & Associates, Inc.
-                                                                                            (888) 247-8602
-                                                                                                           File Name                                                          : Belvidere and Main St.(Original)
-                                                                                                           Site Code                                                          : 00003013
-                                                                                                           Start Date                                                         : 9/16/2008
-                                                                                                           Page No                                                            :1
-                                                                                            Groups Printed- 2 - Bicycles
-                             S. Belvidere                                   W. Main St. (1 Way)             S. Belvidere                                                      W. Main St. (1 Way)
-                             Southbound                                        Westbound                     Northbound                                                           Eastbound
-                                                            App.                                          App.                                               App.                                                 App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left       Peds                 Right     Thru      Left     Peds                 Right       Thru      Left     Peds             Right     Thru        Left     Peds
-                                                            Total                                         Total                                              Total                                                Total       Total       Total        Total
-        Factor     1.0      1.0     1.0         1.0                   1.0      1.0      1.0       1.0                   1.0        1.0       1.0      1.0               1.0      1.0         1.0      1.0
-   07:00 AM           0       0       0          1             0       0        1         0           0          1        0         0            0     0        0        0            0       0        1             0             2            1          3
-   07:15 AM           0       0       0          1             0       0        0         0           0          0        0         0            0     0        0        0            0       0        0             0             1            0          1
-   07:30 AM           0       0       0          0             0       0        0         0           0          0        0         2            0     0        2        1            0       0        1             1             1            3          4
-   07:45 AM           0       0       0          0             0       0        2         0           0          2        0         0            0     0        0        0            0       0        2             0             2            2          4
-       Total          0       0       0          2             0       0        3         0           0          3        0         2            0     0        2        1            0       0        4             1             6            6         12
-
-   08:00 AM           0       1       0          0             1       0        1         0           0          1        0         1            0     0        1        0            0       0        0             0             0            3          3
-   08:15 AM           0       0       0          1             0       0        0         0           0          0        0         1            0     0        1        0            0       0        1             0             2            1          3
-   08:30 AM           0       0       0          0             0       0        2         0           0          2        0         0            0     0        0        0            0       0        0             0             0            2          2
-   08:45 AM           0       0       0          2             0       0        2         0           0          2        0         0            0     0        0        0            0       0        1             0             3            2          5
-       Total          0       1       0          3             1       0        5         0           0          5        0         2            0     0        2        0            0       0        2             0             5            8         13
-
-  Grand Total         0       1       0          5             1       0         8        0           0          8        0          4           0     0        4        1            0       0        6             1            11        14            25
-                           100.                                               100.                                                100.                                100.
-    Apprch %      0.0               0.0                              0.0                0.0                             0.0                 0.0                                  0.0        0.0
-                              0                                                  0                                                   0                                   0
-      Total %     0.0       7.1     0.0                      7.1     0.0      57.1      0.0                57.1         0.0       28.6      0.0              28.6      7.1       0.0        0.0                    7.1           44.0      56.0
-
-
-                                    S. Belvidere                                     W. Main St. (1 Way)                                             S. Belvidere                                  W. Main St. (1 Way)
-                                    Southbound                                          Westbound                                                    Northbound                                        Eastbound
-          Start Time   Right      Thru        Left             App. Total       Right          Thru       Left       App. Total          Right        Thru     Left    App. Total           Right       Thru              Left    App. Total        Int. Total
+Intersection 07:30 AM
+Volume 264 1149 0 1413 88 317 70 475 0 1119 0 1119 1 0 0 1 3008
+Percent 18.7 81.3 0.0 18.5 66.7 14.7 0.0 100.0 0.0 100.0 0.0 0.0
+07:45 Volume 84 327 0 411 24 85 13 122 0 322 0 322 0 0 0 0 855
+Peak Factor 0.880
+High Int. 07:45 AM 07:30 AM 07:45 AM 07:30 AM
+Volume 84 327 0 411 22 82 20 124 0 322 0 322 1 0 0 1
+Peak Factor 0.859 0.958 0.869 0.250
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Belvidere and Main St.(Original)
+Site Code : 00003013
+Start Date : 9/16/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 2 1 3
+07:15 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 2 0 0 2 1 0 0 1 1 1 3 4
+07:45 AM 0 0 0 0 0 0 2 0 0 2 0 0 0 0 0 0 0 0 2 0 2 2 4
+Total 0 0 0 2 0 0 3 0 0 3 0 2 0 0 2 1 0 0 4 1 6 6 12
+08:00 AM 0 1 0 0 1 0 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 3 3
+08:15 AM 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 2 1 3
+08:30 AM 0 0 0 0 0 0 2 0 0 2 0 0 0 0 0 0 0 0 0 0 0 2 2
+08:45 AM 0 0 0 2 0 0 2 0 0 2 0 0 0 0 0 0 0 0 1 0 3 2 5
+Total 0 1 0 3 1 0 5 0 0 5 0 2 0 0 2 0 0 0 2 0 5 8 13
+Grand Total 0 1 0 5 1 0 8 0 0 8 0 4 0 0 4 1 0 0 6 1 11 14 25
+Apprch % 0.0
+100.
+0
+0.0 0.0
+100.
+0
+0.0 0.0
+100.
+0
+0.0
+100.
+0
+0.0 0.0
+Total % 0.0 7.1 0.0 7.1 0.0 57.1 0.0 57.1 0.0 28.6 0.0 28.6 7.1 0.0 0.0 7.1 44.0 56.0
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:30 AM
-           Volume              0      1                 0               1          0           3            0                 3             0            4       0               4             1              0             0              1                9
-           Percent           0.0  100.0               0.0                        0.0       100.0          0.0                             0.0        100.0     0.0                         100.0            0.0           0.0
-     08:00 Volume              0      1                 0               1          0           1            0                 1             0            1       0               1             0              0             0              0               3
-       Peak Factor                                                                                                                                                                                                                                     0.750
-          High Int.      08:00 AM                                            07:45 AM                                               07:30 AM                                              07:30 AM
-           Volume              0           1           0                1          0             2          0                2            0             2        0                2             1            0              0               1
-       Peak Factor                                                  0.250                                                0.375                                                0.500                                                     0.250
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                        File Name                                                     : Belvidere and Main St.(Original)
-                                                                                                        Site Code                                                     : 00003013
-                                                                                                        Start Date                                                    : 9/16/2008
-                                                                                                        Page No                                                       :1
-                                                                                         Groups Printed- 1 - Vehicles
-                             S. Belvidere                                W. Main St. (1 Way)              S. Belvidere                                                W. Main St. (1 Way)
-                             Southbound                                     Westbound                     Northbound                                                      Eastbound
-                                                         App.                                        App.                                            App.                                               App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left    Peds                 Right     Thru      Left     Peds            Right       Thru      Left     Peds             Right     Thru      Left     Peds
-                                                         Total                                       Total                                           Total                                              Total       Total      Total       Total
-        Factor     1.0       1.0    1.0      1.0                   1.0      1.0      1.0       1.0              1.0        1.0       1.0      1.0               1.0      1.0       1.0      1.0
-    11:00 AM       57       210       0      11           267      30       81        21       11     132         0       210            0    38      210        0            0     0        4             0            64      609         673
-    11:15 AM       34       166       0       5           200      31       81        10        3     122         0       166            0    35      166        0            0     0        3             0            46      488         534
-    11:30 AM       46       189       0      12           235      26       77         2        7     105         0       190            0    40      190        0            0     0       10             0            69      530         599
-    11:45 AM       74       163       0      11           237      59       98        11       11     168         0       178            0    41      178        0            0     0        9             0            72      583         655
-        Total     211       728       0      39           939     146      337        44       32     527         0       744            0   154      744        0            0     0       26             0           251     2210        2461
-
-    12:00 PM       80       219       0      12       299          43      118        16       18     177         0       215            0   138      215        0            0     0       12             0           180      691         871
-    12:15 PM       83       184       0      51       267          49      160        23       32     232         0       218            0   212      218        0            0     0       54             0           349      717        1066
-    12:30 PM       65       224       0      10       289          35      100        14       12     149         0       264            0    44      264        0            0     0        5             0            71      702         773
-    12:45 PM       54       155       0      11       209          52       97         9       11     158         0       175            2    39      177        0            0     0       18             0            79      544         623
-        Total     282       782       0      84      1064         179      475        62       73     716         0       872            2   433      874        0            0     0       89             0           679     2654        3333
-
-  Grand Total    493       1510       0     123      2003        325        812      106      105    1243         0   1616            2      587     1618        0         0        0      115             0           930     4864        5794
-   Apprch %      24.6       75.4    0.0                          26.1      65.3      8.5                        0.0    99.9         0.1                        0.0       0.0      0.0
-     Total %     10.1       31.0    0.0                  41.2     6.7      16.7      2.2              25.6      0.0    33.2         0.0              33.3      0.0       0.0      0.0                    0.0           16.1    83.9
-
-
-                                    S. Belvidere                                  W. Main St. (1 Way)                                        S. Belvidere                                W. Main St. (1 Way)
-                                    Southbound                                       Westbound                                               Northbound                                      Eastbound
-          Start Time   Right       Thru        Left         App. Total       Right          Thru     Left    App. Total          Right        Thru     Left    App. Total         Right       Thru              Left    App. Total      Int. Total
+Intersection 07:30 AM
+Volume 0 1 0 1 0 3 0 3 0 4 0 4 1 0 0 1 9
+Percent 0.0 100.0 0.0 0.0 100.0 0.0 0.0 100.0 0.0 100.0 0.0 0.0
+08:00 Volume 0 1 0 1 0 1 0 1 0 1 0 1 0 0 0 0 3
+Peak Factor 0.750
+High Int. 08:00 AM 07:45 AM 07:30 AM 07:30 AM
+Volume 0 1 0 1 0 2 0 2 0 2 0 2 1 0 0 1
+Peak Factor 0.250 0.375 0.500 0.250
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Belvidere and Main St.(Original)
+Site Code : 00003013
+Start Date : 9/16/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 57 210 0 11 267 30 81 21 11 132 0 210 0 38 210 0 0 0 4 0 64 609 673
+11:15 AM 34 166 0 5 200 31 81 10 3 122 0 166 0 35 166 0 0 0 3 0 46 488 534
+11:30 AM 46 189 0 12 235 26 77 2 7 105 0 190 0 40 190 0 0 0 10 0 69 530 599
+11:45 AM 74 163 0 11 237 59 98 11 11 168 0 178 0 41 178 0 0 0 9 0 72 583 655
+Total 211 728 0 39 939 146 337 44 32 527 0 744 0 154 744 0 0 0 26 0 251 2210 2461
+12:00 PM 80 219 0 12 299 43 118 16 18 177 0 215 0 138 215 0 0 0 12 0 180 691 871
+12:15 PM 83 184 0 51 267 49 160 23 32 232 0 218 0 212 218 0 0 0 54 0 349 717 1066
+12:30 PM 65 224 0 10 289 35 100 14 12 149 0 264 0 44 264 0 0 0 5 0 71 702 773
+12:45 PM 54 155 0 11 209 52 97 9 11 158 0 175 2 39 177 0 0 0 18 0 79 544 623
+Total 282 782 0 84 1064 179 475 62 73 716 0 872 2 433 874 0 0 0 89 0 679 2654 3333
+Grand Total 493 1510 0 123 2003 325 812 106 105 1243 0 1616 2 587 1618 0 0 0 115 0 930 4864 5794
+Apprch % 24.6 75.4 0.0 26.1 65.3 8.5 0.0 99.9 0.1 0.0 0.0 0.0
+Total % 10.1 31.0 0.0 41.2 6.7 16.7 2.2 25.6 0.0 33.2 0.0 33.3 0.0 0.0 0.0 0.0 16.1 83.9
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:45 AM
-           Volume            302      790            0           1092        186             476      64           726              0         875        0             875           0              0             0             0           2693
-           Percent          27.7     72.3          0.0                       25.6           65.6     8.8                          0.0        100.0     0.0                         0.0            0.0           0.0
-     12:15 Volume             83      184            0            267         49             160      23           232              0         218        0             218           0              0             0             0           717
-       Peak Factor                                                                                                                                                                                                                         0.939
-          High Int.      12:00 PM                                         12:15 PM                                          12:30 PM
-           Volume             80      219           0              299         49           160       23           232            0           264        0              264
-       Peak Factor                                               0.913                                           0.782                                                0.829
-                                                                                     Peggy Malone & Associates, Inc.
-                                                                                            (888) 247-8602
-                                                                                                           File Name                                                           : Belvidere and Main St.(Original)
-                                                                                                           Site Code                                                           : 00003013
-                                                                                                           Start Date                                                          : 9/16/2008
-                                                                                                           Page No                                                             :1
-                                                                                            Groups Printed- 2 - Bicycles
-                             S. Belvidere                                   W. Main St. (1 Way)             S. Belvidere                                                       W. Main St. (1 Way)
-                             Southbound                                        Westbound                     Northbound                                                            Eastbound
-                                                            App.                                          App.                                                App.                                               App.       Exclu.      Inclu.        Int.
-    Start Time   Right     Thru     Left       Peds                 Right     Thru      Left     Peds                 Right        Thru      Left     Peds             Right     Thru      Left     Peds
-                                                            Total                                         Total                                               Total                                              Total       Total      Total        Total
-        Factor     1.0       1.0    1.0         1.0                   1.0      1.0      1.0       1.0                   1.0         1.0       1.0      1.0               1.0      1.0       1.0      1.0
-    11:00 AM          0       0       0          1             0       0        0         0           0          0        0          0            0     0        0        0            0     0        1             0             2           0          2
-    11:15 AM          0       0       0          2             0       0        1         0           0          1        0          0            0     0        0        0            0     0        0             0             2           1          3
-    11:30 AM          0       0       0          1             0       0        0         0           0          0        0          1            0     0        1        0            0     0        0             0             1           1          2
-    11:45 AM          0       0       0          0             0       0        0         0           0          0        0          0            0     0        0        0            0     0        1             0             1           0          1
-        Total         0       0       0          4             0       0        1         0           0          1        0          1            0     0        1        0            0     0        2             0             6           2          8
-
-    12:00 PM          1       0       0          2             1       0        1         0           0       1           0          0            0     0        0        0            0     0        0             0             2        2             4
-    12:15 PM          0       0       0          2             0       0       10         0           0      10           0          2            0     0        2        0            0     0        0             0             2       12            14
-    12:30 PM          1       0       0          2             1       0        5         0           0       5           0          0            0     0        0        0            0     0        2             0             4        6            10
-    12:45 PM          0       0       0          0             0       0        4         0           0       4           0          2            0     0        2        0            0     0        0             0             0        6             6
-        Total         2       0       0          6             2       0       20         0           0      20           0          4            0     0        4        0            0     0        2             0             8       26            34
-
-  Grand Total       2         0       0         10             2       0        21        0           0      21           0           5           0     0        5        0            0     0        4             0            14       28            42
-                 100.                                                         100.                                                 100.
-    Apprch %                0.0     0.0                              0.0                0.0                             0.0                  0.0                        0.0       0.0      0.0
-                    0                                                            0                                                    0
-      Total %     7.1       0.0     0.0                      7.1     0.0      75.0      0.0                75.0         0.0        17.9      0.0              17.9      0.0       0.0      0.0                    0.0           33.3    66.7
-
-
-                                    S. Belvidere                                     W. Main St. (1 Way)                                              S. Belvidere                                W. Main St. (1 Way)
-                                    Southbound                                          Westbound                                                     Northbound                                      Eastbound
-          Start Time   Right       Thru        Left            App. Total       Right          Thru       Left       App. Total           Right        Thru     Left    App. Total         Right       Thru              Left    App. Total       Int. Total
+Intersection 11:45 AM
+Volume 302 790 0 1092 186 476 64 726 0 875 0 875 0 0 0 0 2693
+Percent 27.7 72.3 0.0 25.6 65.6 8.8 0.0 100.0 0.0 0.0 0.0 0.0
+12:15 Volume 83 184 0 267 49 160 23 232 0 218 0 218 0 0 0 0 717
+Peak Factor 0.939
+High Int. 12:00 PM 12:15 PM 12:30 PM
+Volume 80 219 0 299 49 160 23 232 0 264 0 264
+Peak Factor 0.913 0.782 0.829
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Belvidere and Main St.(Original)
+Site Code : 00003013
+Start Date : 9/16/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 2
+11:15 AM 0 0 0 2 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 2 1 3
+11:30 AM 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 2
+11:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1
+Total 0 0 0 4 0 0 1 0 0 1 0 1 0 0 1 0 0 0 2 0 6 2 8
+12:00 PM 1 0 0 2 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 2 2 4
+12:15 PM 0 0 0 2 0 0 10 0 0 10 0 2 0 0 2 0 0 0 0 0 2 12 14
+12:30 PM 1 0 0 2 1 0 5 0 0 5 0 0 0 0 0 0 0 0 2 0 4 6 10
+12:45 PM 0 0 0 0 0 0 4 0 0 4 0 2 0 0 2 0 0 0 0 0 0 6 6
+Total 2 0 0 6 2 0 20 0 0 20 0 4 0 0 4 0 0 0 2 0 8 26 34
+Grand Total 2 0 0 10 2 0 21 0 0 21 0 5 0 0 5 0 0 0 4 0 14 28 42
+Apprch %
+100.
+0
+0.0 0.0 0.0
+100.
+0
+0.0 0.0
+100.
+0
+0.0 0.0 0.0 0.0
+Total % 7.1 0.0 0.0 7.1 0.0 75.0 0.0 75.0 0.0 17.9 0.0 17.9 0.0 0.0 0.0 0.0 33.3 66.7
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume              2         0              0               2          0         20             0                 20             0            4       0               4           0              0             0             0              26
-           Percent         100.0       0.0            0.0                        0.0       100.0          0.0                              0.0        100.0     0.0                         0.0            0.0           0.0
-     12:15 Volume              0         0              0               0          0         10             0                 10             0            2       0               2           0              0             0             0              12
-       Peak Factor                                                                                                                                                                                                                                   0.542
-          High Int.      12:00 PM                                            12:15 PM                                                12:15 PM
-           Volume              1           0           0                1          0            10          0               10             0             2        0                2
-       Peak Factor                                                  0.500                                                0.500                                                 0.500
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                         File Name                                                     : Belvidere and Main St.(Original)
-                                                                                                         Site Code                                                     : 00003013
-                                                                                                         Start Date                                                    : 9/16/2008
-                                                                                                         Page No                                                       :1
-                                                                                          Groups Printed- 1 - Vehicles
-                             S. Belvidere                                 W. Main St. (1 Way)              S. Belvidere                                                W. Main St. (1 Way)
-                             Southbound                                      Westbound                     Northbound                                                      Eastbound
-                                                          App.                                        App.                                            App.                                                 App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                 Right     Thru      Left     Peds            Right       Thru      Left     Peds             Right     Thru        Left     Peds
-                                                          Total                                       Total                                           Total                                                Total       Total      Total       Total
-        Factor     1.0       1.0    1.0       1.0                   1.0      1.0      1.0       1.0              1.0        1.0       1.0      1.0               1.0      1.0         1.0      1.0
-    04:00 PM       54       275       0        8       329          36      137        21       14     194         0    271               0    35      271        0            0       0       10             0            67      794         861
-    04:15 PM       38       302       0       11       340          44      128        23        8     195         0    287               0    32      287        0            0       0        6             0            57      822         879
-    04:30 PM       45       280       0       22       325          61      174        14       20     249         0    271               0    54      271        0            0       0       10             0           106      845         951
-    04:45 PM       69       327       0       18       396          92      151        22       25     265         0    315               0    63      315        0            0       0        9             0           115      976        1091
-        Total     206      1184       0       59      1390         233      590        80       67     903         0   1144               0   184     1144        0            0       0       35             0           345     3437        3782
-
-    05:00 PM       61       326       3        6       390          83      200        42       20     325         0    324               0    71      324        0            0       0        9             0           106     1039        1145
-    05:15 PM       73       319       0       18       392          53      239        14       16     306         0    282               0   111      282        0            0       0        8             0           153      980        1133
-    05:30 PM       48       308       0       15       356          61      196        23       19     280         0    286               0    39      286        1            0       0        5             1            78      923        1001
-    05:45 PM       59       255       0        8       314          50      147        11        7     208         0    283               0    16      283        0            0       0        4             0            35      805         840
-        Total     241      1208       3       47      1452         247      782        90       62    1119         0   1175               0   237     1175        1            0       0       26             1           372     3747        4119
-
-  Grand Total     447      2392       3      106      2842         480     1372       170      129    2022         0   2319               0   421     2319        1            0       0       61             1           717     7184        7901
-                                                                                                                        100.                                   100.
-    Apprch %     15.7      84.2     0.1                           23.7      67.9      8.4                        0.0                 0.0                                  0.0        0.0
-                                                                                                                           0                                      0
-      Total %      6.2     33.3     0.0                   39.6     6.7      19.1      2.4              28.1      0.0    32.3         0.0              32.3      0.0       0.0        0.0                    0.0           9.1      90.9
-
-
-                                    S. Belvidere                                   W. Main St. (1 Way)                                        S. Belvidere                                  W. Main St. (1 Way)
-                                    Southbound                                        Westbound                                               Northbound                                        Eastbound
-          Start Time    Right      Thru        Left          App. Total       Right          Thru     Left    App. Total          Right        Thru     Left    App. Total           Right       Thru              Left    App. Total      Int. Total
+Intersection 12:00 PM
+Volume 2 0 0 2 0 20 0 20 0 4 0 4 0 0 0 0 26
+Percent 100.0 0.0 0.0 0.0 100.0 0.0 0.0 100.0 0.0 0.0 0.0 0.0
+12:15 Volume 0 0 0 0 0 10 0 10 0 2 0 2 0 0 0 0 12
+Peak Factor 0.542
+High Int. 12:00 PM 12:15 PM 12:15 PM
+Volume 1 0 0 1 0 10 0 10 0 2 0 2
+Peak Factor 0.500 0.500 0.500
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Belvidere and Main St.(Original)
+Site Code : 00003013
+Start Date : 9/16/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 54 275 0 8 329 36 137 21 14 194 0 271 0 35 271 0 0 0 10 0 67 794 861
+04:15 PM 38 302 0 11 340 44 128 23 8 195 0 287 0 32 287 0 0 0 6 0 57 822 879
+04:30 PM 45 280 0 22 325 61 174 14 20 249 0 271 0 54 271 0 0 0 10 0 106 845 951
+04:45 PM 69 327 0 18 396 92 151 22 25 265 0 315 0 63 315 0 0 0 9 0 115 976 1091
+Total 206 1184 0 59 1390 233 590 80 67 903 0 1144 0 184 1144 0 0 0 35 0 345 3437 3782
+05:00 PM 61 326 3 6 390 83 200 42 20 325 0 324 0 71 324 0 0 0 9 0 106 1039 1145
+05:15 PM 73 319 0 18 392 53 239 14 16 306 0 282 0 111 282 0 0 0 8 0 153 980 1133
+05:30 PM 48 308 0 15 356 61 196 23 19 280 0 286 0 39 286 1 0 0 5 1 78 923 1001
+05:45 PM 59 255 0 8 314 50 147 11 7 208 0 283 0 16 283 0 0 0 4 0 35 805 840
+Total 241 1208 3 47 1452 247 782 90 62 1119 0 1175 0 237 1175 1 0 0 26 1 372 3747 4119
+Grand Total 447 2392 3 106 2842 480 1372 170 129 2022 0 2319 0 421 2319 1 0 0 61 1 717 7184 7901
+Apprch % 15.7 84.2 0.1 23.7 67.9 8.4 0.0
+100.
+0
+0.0
+100.
+0
+0.0 0.0
+Total % 6.2 33.3 0.0 39.6 6.7 19.1 2.4 28.1 0.0 32.3 0.0 32.3 0.0 0.0 0.0 0.0 9.1 90.9
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:45 PM
-           Volume            251     1280             3           1534        289             786     101         1176               0        1207        0            1207             1              0             0             1           3918
-           Percent          16.4      83.4          0.2                       24.6           66.8     8.6                          0.0        100.0     0.0                         100.0            0.0           0.0
-     05:00 Volume             61       326            3            390         83             200      42           325              0         324        0             324             0              0             0             0          1039
-       Peak Factor                                                                                                                                                                                                                            0.943
-          High Int.      04:45 PM                                          05:00 PM                                          05:00 PM                                              05:30 PM
-           Volume             69      327            0              396         83           200       42           325            0           324        0              324             1            0              0              1
-       Peak Factor                                                0.968                                           0.905                                                0.931                                                    0.250
-                                                                                     Peggy Malone & Associates, Inc.
-                                                                                            (888) 247-8602
-                                                                                                           File Name                                                        : Belvidere and Main St.(Original)
-                                                                                                           Site Code                                                        : 00003013
-                                                                                                           Start Date                                                       : 9/16/2008
-                                                                                                           Page No                                                          :1
-                                                                                            Groups Printed- 2 - Bicycles
-                             S. Belvidere                                   W. Main St. (1 Way)             S. Belvidere                                                    W. Main St. (1 Way)
-                             Southbound                                        Westbound                     Northbound                                                         Eastbound
-                                                            App.                                          App.                                             App.                                               App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right     Thru      Left     Peds              Right        Thru      Left     Peds             Right     Thru      Left     Peds
-                                                            Total                                         Total                                            Total                                              Total       Total      Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0      1.0      1.0       1.0                1.0         1.0       1.0      1.0               1.0      1.0       1.0      1.0
-    04:00 PM          0       0       0          2             0       0        5         0           0       5        0          1            0     0        1        0            0     0        0             0             2        6            8
-    04:15 PM          0       0       0          2             0       0        4         0           0       4        0          0            0     0        0        0            0     0        2             0             4        4            8
-    04:30 PM          1       0       0          3             1       0        8         0           0       8        0          0            0     0        0        0            0     0        1             0             4        9           13
-    04:45 PM          0       0       0          4             0       0        9         0           0       9        0          1            0     0        1        0            0     0        0             0             4       10           14
-        Total         1       0       0         11             1       0       26         0           0      26        0          2            0     0        2        0            0     0        3             0            14       29           43
-
-    05:00 PM          0       0       0          0             0       0        4         0           0       4        0          0            0     0        0        0            0     0        2             0             2        4            6
-    05:15 PM          0       0       0          2             0       0        4         0           0       4        0          0            0     0        0        0            0     0        2             0             4        4            8
-    05:30 PM          0       0       0          5             0       0        3         0           0       3        0          0            0     0        0        0            0     0        2             0             7        3           10
-    05:45 PM          1       0       0          1             1       0        4         0           0       4        0          2            0     0        2        0            0     0        1             0             2        7            9
-        Total         1       0       0          8             1       0       15         0           0      15        0          2            0     0        2        0            0     0        7             0            15       18           33
-
-  Grand Total       2         0       0         19             2       0        41        0           0      41        0           4           0     0        4        0            0     0       10             0            29       47           76
-                 100.                                                         100.                                              100.
-    Apprch %                0.0     0.0                              0.0                0.0                          0.0                  0.0                        0.0       0.0      0.0
-                    0                                                            0                                                 0
-      Total %     4.3       0.0     0.0                      4.3     0.0      87.2      0.0                87.2      0.0         8.5      0.0               8.5      0.0       0.0      0.0                    0.0           38.2    61.8
-
-
-                                    S. Belvidere                                     W. Main St. (1 Way)                                           S. Belvidere                                W. Main St. (1 Way)
-                                    Southbound                                          Westbound                                                  Northbound                                      Eastbound
-          Start Time    Right      Thru        Left            App. Total       Right          Thru       Left    App. Total           Right        Thru     Left    App. Total         Right       Thru              Left    App. Total      Int. Total
+Intersection 04:45 PM
+Volume 251 1280 3 1534 289 786 101 1176 0 1207 0 1207 1 0 0 1 3918
+Percent 16.4 83.4 0.2 24.6 66.8 8.6 0.0 100.0 0.0 100.0 0.0 0.0
+05:00 Volume 61 326 3 390 83 200 42 325 0 324 0 324 0 0 0 0 1039
+Peak Factor 0.943
+High Int. 04:45 PM 05:00 PM 05:00 PM 05:30 PM
+Volume 69 327 0 396 83 200 42 325 0 324 0 324 1 0 0 1
+Peak Factor 0.968 0.905 0.931 0.250
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Belvidere and Main St.(Original)
+Site Code : 00003013
+Start Date : 9/16/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 2 0 0 5 0 0 5 0 1 0 0 1 0 0 0 0 0 2 6 8
+04:15 PM 0 0 0 2 0 0 4 0 0 4 0 0 0 0 0 0 0 0 2 0 4 4 8
+04:30 PM 1 0 0 3 1 0 8 0 0 8 0 0 0 0 0 0 0 0 1 0 4 9 13
+04:45 PM 0 0 0 4 0 0 9 0 0 9 0 1 0 0 1 0 0 0 0 0 4 10 14
+Total 1 0 0 11 1 0 26 0 0 26 0 2 0 0 2 0 0 0 3 0 14 29 43
+05:00 PM 0 0 0 0 0 0 4 0 0 4 0 0 0 0 0 0 0 0 2 0 2 4 6
+05:15 PM 0 0 0 2 0 0 4 0 0 4 0 0 0 0 0 0 0 0 2 0 4 4 8
+05:30 PM 0 0 0 5 0 0 3 0 0 3 0 0 0 0 0 0 0 0 2 0 7 3 10
+05:45 PM 1 0 0 1 1 0 4 0 0 4 0 2 0 0 2 0 0 0 1 0 2 7 9
+Total 1 0 0 8 1 0 15 0 0 15 0 2 0 0 2 0 0 0 7 0 15 18 33
+Grand Total 2 0 0 19 2 0 41 0 0 41 0 4 0 0 4 0 0 0 10 0 29 47 76
+Apprch %
+100.
+0
+0.0 0.0 0.0
+100.
+0
+0.0 0.0
+100.
+0
+0.0 0.0 0.0 0.0
+Total % 4.3 0.0 0.0 4.3 0.0 87.2 0.0 87.2 0.0 8.5 0.0 8.5 0.0 0.0 0.0 0.0 38.2 61.8
+S. Belvidere
+Southbound
+W. Main St. (1 Way)
+Westbound
+S. Belvidere
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              1         0              0               1          0         26             0              26             0            2       0               2           0              0             0             0             29
-           Percent         100.0       0.0            0.0                        0.0       100.0          0.0                           0.0        100.0     0.0                         0.0            0.0           0.0
-     04:45 Volume              0         0              0               0          0           9            0               9             0            1       0               1           0              0             0             0             10
-       Peak Factor                                                                                                                                                                                                                               0.725
-          High Int.      04:30 PM                                            04:45 PM                                             04:00 PM
-           Volume              1           0           0                1          0             9          0             9             0             1        0                1
-       Peak Factor                                                  0.250                                             0.722                                                 0.500
+Intersection 04:00 PM
+Volume 1 0 0 1 0 26 0 26 0 2 0 2 0 0 0 0 29
+Percent 100.0 0.0 0.0 0.0 100.0 0.0 0.0 100.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 9 0 9 0 1 0 1 0 0 0 0 10
+Peak Factor 0.725
+High Int. 04:30 PM 04:45 PM 04:00 PM
+Volume 1 0 0 1 0 9 0 9 0 1 0 1
+Peak Factor 0.250 0.722 0.500
 

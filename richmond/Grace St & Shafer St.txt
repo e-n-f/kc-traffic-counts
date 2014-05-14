@@ -1,255 +1,395 @@
-                                                                                        Peggy Malone & Associates, Inc.
-                                                                                               (888) 247-8602
-                                                                                                                                                                          File Name                   : Shafer St. and Grace St.
-                                                                                                                                                                          Site Code                   : 00003371
-                                                                                                                                                                          Start Date                  : 9/23/2008
-                                                                                                                                                                          Page No                     :1
-                                                                                                            Groups Printed- 1 - Vehicles
-                                Shafer St.                                      Grace St.                                      Shafer St.                                                Grace St.
-                               Southbound                                       Westbound                                     Northbound                                                 Eastbound
-                                                             App.                                              App.                                             App.                                              App.           Exclu.      Inclu.        Int.
-      Start Time   Right     Thru   Left       Peds                  Right    Thru      Left     Peds                   Right        Thru      Left      Peds            Right     Thru       Left    Peds
-                                                             Total                                             Total                                            Total                                             Total           Total      Total        Total
-         Factor        1.0    1.0    1.0        1.0                    1.0     1.0      1.0           1.0                 1.0         1.0       1.0       1.0              1.0       1.0      1.0      1.0
-     07:00 AM           0      0       1         1              1       6      19         0        4             25         1          0             2     2       3        0         8         0       5            8              12         37           49
-     07:15 AM           0      0       1         2              1       2      19         0        5             21         1          3             1     3       5        0         6         0      16            6              26         33           59
-     07:30 AM           0      0       1         4              1       5      32         0        4             37         1          3             3     4       7        0        12         2      34           14              46         59          105
-     07:45 AM           2      0       1         0              3      11      31         0        6             42         2          5             4     3      11        0        10         1      51           11              60         67          127
-         Total          2      0       4         7              6      24     101         0       19            125         5         11            10    12      26        0        36         3     106           39             144        196          340
-
-     08:00 AM           8      0       3         0             11       9      29         0        9             38         0          5             1     2       6        0        12         0      23           12              34         67          101
-     08:15 AM           1      0       2         0              3      11      29         0        5             40         2          8             3     4      13        0        12         1      45           13              54         69          123
-     08:30 AM           0      0       4        10              4      12      45         0       17             57         1          8             0    11       9        0        11         4      64           15             102         85          187
-     08:45 AM           4      0       1         6              5       4      47         0       32             51         2          7             4    11      13        0        11         0      93           11             142         80          222
-         Total         13      0      10        16             23      36     150         0       63            186         5         28             8    28      41        0        46         5     225           51             332        301          633
-
-   Grand Total      15          0     14        23             29     60     251          0       82            311       10           39        18       40      67        0       82          8     331           90             476        497          973
-    Apprch %       51.7       0.0   48.3                             19.3    80.7       0.0                              14.9        58.2      26.9                       0.0      91.1       8.9
-      Total %       3.0       0.0    2.8                      5.8    12.1    50.5       0.0                    62.6       2.0         7.8       3.6             13.5      0.0      16.5       1.6                 18.1            48.9       51.1
-
-
-                                      Shafer St.                                               Grace St.                                                  Shafer St.                                    Grace St.
-                                     Southbound                                                Westbound                                                 Northbound                                     Eastbound
-           Start Time     Right       Thru        Left          App. Total      Right          Thru           Left     App. Total           Right        Thru     Left    App. Total         Right       Thru             Left      App. Total        Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Shafer St. and Grace St.
+Site Code : 00003371
+Start Date : 9/23/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 1 1 1 6 19 0 4 25 1 0 2 2 3 0 8 0 5 8 12 37 49
+07:15 AM 0 0 1 2 1 2 19 0 5 21 1 3 1 3 5 0 6 0 16 6 26 33 59
+07:30 AM 0 0 1 4 1 5 32 0 4 37 1 3 3 4 7 0 12 2 34 14 46 59 105
+07:45 AM 2 0 1 0 3 11 31 0 6 42 2 5 4 3 11 0 10 1 51 11 60 67 127
+Total 2 0 4 7 6 24 101 0 19 125 5 11 10 12 26 0 36 3 106 39 144 196 340
+08:00 AM 8 0 3 0 11 9 29 0 9 38 0 5 1 2 6 0 12 0 23 12 34 67 101
+08:15 AM 1 0 2 0 3 11 29 0 5 40 2 8 3 4 13 0 12 1 45 13 54 69 123
+08:30 AM 0 0 4 10 4 12 45 0 17 57 1 8 0 11 9 0 11 4 64 15 102 85 187
+08:45 AM 4 0 1 6 5 4 47 0 32 51 2 7 4 11 13 0 11 0 93 11 142 80 222
+Total 13 0 10 16 23 36 150 0 63 186 5 28 8 28 41 0 46 5 225 51 332 301 633
+Grand Total 15 0 14 23 29 60 251 0 82 311 10 39 18 40 67 0 82 8 331 90 476 497 973
+Apprch % 51.7 0.0 48.3 19.3 80.7 0.0 14.9 58.2 26.9 0.0 91.1 8.9
+Total % 3.0 0.0 2.8 5.8 12.1 50.5 0.0 62.6 2.0 7.8 3.6 13.5 0.0 16.5 1.6 18.1 48.9 51.1
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-        Intersection     08:00 AM
-            Volume             13        0             10              23        36             150             0            186               5          28        8              41            0        46                5               51             301
-            Percent          56.5      0.0            43.5                      19.4           80.6           0.0                           12.2         68.3    19.5                          0.0       90.2             9.8
-      08:30 Volume              0        0               4              4        12              45             0               57             1            8       0               9            0        11                4               15             85
-        Peak Factor                                                                                                                                                                                                                                     0.885
-           High Int.     08:00 AM                                            08:30 AM                                                 08:15 AM                                             08:30 AM
-            Volume              8          0            3               11         12           45              0             57             2              8       3               13            0          11             4                15
-        Peak Factor                                                  0.523                                                 0.816                                                 0.788                                                    0.850
-                                                                                       Peggy Malone & Associates, Inc.
-                                                                                              (888) 247-8602
-                                                                                                                                                                         File Name                  : Shafer St. and Grace St.
-                                                                                                                                                                         Site Code                  : 00003371
-                                                                                                                                                                         Start Date                 : 9/23/2008
-                                                                                                                                                                         Page No                    :1
-                                                                                                           Groups Printed- 2 - Bicycles
-                                Shafer St.                                     Grace St.                                      Shafer St.                                              Grace St.
-                               Southbound                                      Westbound                                     Northbound                                               Eastbound
-                                                            App.                                              App.                                             App.                                                App.           Exclu.    Inclu.          Int.
-      Start Time   Right     Thru     Left     Peds                 Right    Thru      Left     Peds                     Right       Thru      Left     Peds            Right   Thru         Left   Peds
-                                                            Total                                             Total                                            Total                                               Total           Total    Total          Total
-         Factor        1.0    1.0     1.0       1.0                   1.0     1.0      1.0           1.0                   1.0        1.0       1.0      1.0              1.0     1.0         1.0      1.0
-     07:00 AM           0      0        0        0             0       0       0         0            0             0        0         0            0     0       0        0          0        0        0             0               0           0            0
-     07:15 AM           0      0        0        0             0       0       0         0            0             0        0         0            0     0       0        0          0        0        0             0               0           0            0
-     07:30 AM           0      0        0        0             0       0       0         0            0             0        0         0            0     0       0        0          0        0        1             0               1           0            1
-     07:45 AM           0      0        0        0             0       0       0         0            0             0        0         0            0     2       0        0          0        0        0             0               2           0            2
-         Total          0      0        0        0             0       0       0         0            0             0        0         0            0     2       0        0          0        0        1             0               3           0            3
-
-     08:00 AM           0      0        0        1             0       0       0         0            0             0        0         0            0     1       0        0          0        0        0             0               2           0           2
-     08:15 AM           0      0        0        1             0       0       0         0            0             0        0         0            0     0       0        0          0        0        0             0               1           0           1
-     08:30 AM           0      0        0        1             0       0       0         0            0             0        0         0            0     0       0        0          0        0        1             0               2           0           2
-     08:45 AM           0      0        0        1             0       0       0         0            4             0        0         0            0     2       0        0          0        0        1             0               8           0           8
-         Total          0      0        0        4             0       0       0         0            4             0        0         0            0     3       0        0          0        0        2             0              13           0          13
-
-   Grand Total        0         0       0        4             0       0        0        0            4             0        0          0         0       5       0        0       0           0        3             0              16           0          16
-    Apprch %        0.0       0.0     0.0                            0.0      0.0      0.0                                 0.0        0.0       0.0                      0.0     0.0         0.0
-      Total %                                                                                                                                                                                                                     100.0          0.0
-
-
-                                       Shafer St.                                             Grace St.                                                  Shafer St.                                     Grace St.
-                                      Southbound                                              Westbound                                                 Northbound                                      Eastbound
-           Start Time     Right       Thru        Left         App. Total      Right          Thru           Left       App. Total          Right       Thru     Left    App. Total         Right        Thru              Left      App. Total        Int. Total
+Intersection 08:00 AM
+Volume 13 0 10 23 36 150 0 186 5 28 8 41 0 46 5 51 301
+Percent 56.5 0.0 43.5 19.4 80.6 0.0 12.2 68.3 19.5 0.0 90.2 9.8
+08:30 Volume 0 0 4 4 12 45 0 57 1 8 0 9 0 11 4 15 85
+Peak Factor 0.885
+High Int. 08:00 AM 08:30 AM 08:15 AM 08:30 AM
+Volume 8 0 3 11 12 45 0 57 2 8 3 13 0 11 4 15
+Peak Factor 0.523 0.816 0.788 0.850
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Shafer St. and Grace St.
+Site Code : 00003371
+Start Date : 9/23/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1
+07:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 2
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 0 3 0 3
+08:00 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2 0 2
+08:15 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+08:30 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 2
+08:45 AM 0 0 0 1 0 0 0 0 4 0 0 0 0 2 0 0 0 0 1 0 8 0 8
+Total 0 0 0 4 0 0 0 0 4 0 0 0 0 3 0 0 0 0 2 0 13 0 13
+Grand Total 0 0 0 4 0 0 0 0 4 0 0 0 0 5 0 0 0 0 3 0 16 0 16
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-        Intersection     07:00 AM
-            Volume              0          0            0              0          0              0             0                 0             0           0       0             0              0              0             0               0                 0
-            Percent           0.0        0.0          0.0                       0.0            0.0           0.0                             0.0         0.0     0.0                          0.0            0.0           0.0
-      07:45 Volume              0          0            0              0          0              0             0                 0             0           0       0             0              0              0             0               0               0
-        Peak Factor                                                                                                                                                                                                                                      0.000
-           High Int.     6:45:00 AM                                         6:45:00 AM                                                6:45:00 AM                                          6:45:00 AM
-            Volume
-        Peak Factor
-                                                                                        Peggy Malone & Associates, Inc.
-                                                                                               (888) 247-8602
-                                                                                                                                                                          File Name                   : Shafer St. and Grace St.
-                                                                                                                                                                          Site Code                   : 00003371
-                                                                                                                                                                          Start Date                  : 9/23/2008
-                                                                                                                                                                          Page No                     :1
-                                                                                                            Groups Printed- 1 - Vehicles
-                                Shafer St.                                      Grace St.                                      Shafer St.                                                Grace St.
-                               Southbound                                       Westbound                                     Northbound                                                 Eastbound
-                                                             App.                                              App.                                             App.                                               App.           Exclu.      Inclu.        Int.
-      Start Time   Right     Thru   Left       Peds                  Right    Thru      Left     Peds                   Right        Thru      Left      Peds            Right     Thru       Left     Peds
-                                                             Total                                             Total                                            Total                                              Total           Total      Total        Total
-         Factor        1.0    1.0    1.0        1.0                    1.0     1.0      1.0           1.0                 1.0         1.0       1.0       1.0              1.0       1.0       1.0      1.0
-     11:00 AM           9      0       1        31             10       7      42         0       31             49         1          3             5    15       9        0        15         4      123           19             200         87         287
-     11:15 AM           6      0       4        16             10       4      40         0       30             44         0         10             5    16      15        0        12         6       76           18             138         87         225
-     11:30 AM           9      0       8        12             17      11      45         0       39             56         1          5             6    25      12        0         5         3       99            8             175         93         268
-     11:45 AM           9      0       4         3             13      11      63         0       70             74         2          6             5    25      13        0        20         3      241           23             339        123         462
-         Total         33      0      17        62             50      33     190         0      170            223         4         24            21    81      49        0        52        16      539           68             852        390        1242
-
-     12:00 PM          13      0       7        15             20      11      68         0       77             79         6         10            10     7      26        0        20         5      148           25             247        150         397
-     12:15 PM           8      0       4        13             12      11      43         0       34             54         0          3             8    12      11        0        13         5       92           18             151         95         246
-     12:30 PM          16      0      10         9             26      13      56         0       68             69         4          5             3    10      12        0        26         6      116           32             203        139         342
-     12:45 PM          19      0      13         6             32       9      62         0      107             71         3          9             4    17      16        0        26         4      181           30             311        149         460
-         Total         56      0      34        43             90      44     229         0      286            273        13         27            25    46      65        0        85        20      537          105             912        533        1445
-
-   Grand Total         89      0      51       105            140      77     419         0      456            496        17         51            46   127     114        0       137        36                   173           1764         923        2687
-                                                                                                                                                                                                      1076
-     Apprch %      63.6       0.0   36.4                             15.5     84.5      0.0                              14.9        44.7      40.4                       0.0      79.2      20.8
-      Total %       9.6       0.0    5.5                     15.2     8.3     45.4      0.0                    53.7       1.8         5.5       5.0             12.4      0.0      14.8       3.9                  18.7            65.6       34.4
-
-
-                                      Shafer St.                                               Grace St.                                                  Shafer St.                                     Grace St.
-                                     Southbound                                                Westbound                                                 Northbound                                      Eastbound
-           Start Time     Right       Thru        Left          App. Total      Right          Thru           Left     App. Total           Right        Thru     Left    App. Total         Right        Thru             Left      App. Total        Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Shafer St. and Grace St.
+Site Code : 00003371
+Start Date : 9/23/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 9 0 1 31 10 7 42 0 31 49 1 3 5 15 9 0 15 4 123 19 200 87 287
+11:15 AM 6 0 4 16 10 4 40 0 30 44 0 10 5 16 15 0 12 6 76 18 138 87 225
+11:30 AM 9 0 8 12 17 11 45 0 39 56 1 5 6 25 12 0 5 3 99 8 175 93 268
+11:45 AM 9 0 4 3 13 11 63 0 70 74 2 6 5 25 13 0 20 3 241 23 339 123 462
+Total 33 0 17 62 50 33 190 0 170 223 4 24 21 81 49 0 52 16 539 68 852 390 1242
+12:00 PM 13 0 7 15 20 11 68 0 77 79 6 10 10 7 26 0 20 5 148 25 247 150 397
+12:15 PM 8 0 4 13 12 11 43 0 34 54 0 3 8 12 11 0 13 5 92 18 151 95 246
+12:30 PM 16 0 10 9 26 13 56 0 68 69 4 5 3 10 12 0 26 6 116 32 203 139 342
+12:45 PM 19 0 13 6 32 9 62 0 107 71 3 9 4 17 16 0 26 4 181 30 311 149 460
+Total 56 0 34 43 90 44 229 0 286 273 13 27 25 46 65 0 85 20 537 105 912 533 1445
+Grand Total 89 0 51 105 140 77 419 0 456 496 17 51 46 127 114 0 137 36
+1076
+173 1764 923 2687
+Apprch % 63.6 0.0 36.4 15.5 84.5 0.0 14.9 44.7 40.4 0.0 79.2 20.8
+Total % 9.6 0.0 5.5 15.2 8.3 45.4 0.0 53.7 1.8 5.5 5.0 12.4 0.0 14.8 3.9 18.7 65.6 34.4
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-        Intersection     12:00 PM
-            Volume             56        0             34              90        44             229             0            273             13           27      25               65            0         85           20                  105             533
-            Percent          62.2      0.0            37.8                      16.1           83.9           0.0                           20.0         41.5    38.5                          0.0        81.0         19.0
-      12:00 Volume             13        0               7             20        11              68             0               79             6          10      10               26            0         20             5                  25            150
-        Peak Factor                                                                                                                                                                                                                                      0.888
-           High Int.     12:45 PM                                            12:00 PM                                                 12:00 PM                                             12:30 PM
-            Volume             19          0           13               32         11           68              0             79             6            10       10               26            0           26             6                32
-        Peak Factor                                                  0.703                                                 0.864                                                 0.625                                                     0.820
-                                                                                    Peggy Malone & Associates, Inc.
-                                                                                           (888) 247-8602
-                                                                                                                                                                      File Name                : Shafer St. and Grace St.
-                                                                                                                                                                      Site Code                : 00003371
-                                                                                                                                                                      Start Date               : 9/23/2008
-                                                                                                                                                                      Page No                  :1
-                                                                                                        Groups Printed- 2 - Bicycles
-                                Shafer St.                                  Grace St.                                      Shafer St.                                              Grace St.
-                               Southbound                                   Westbound                                     Northbound                                               Eastbound
-                                                          App.                                             App.                                             App.                                            App.           Exclu.    Inclu.          Int.
-      Start Time   Right     Thru   Left     Peds                 Right   Thru      Left     Peds                     Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                            Total                                            Total                                           Total           Total    Total          Total
-         Factor        1.0    1.0    1.0      1.0                   1.0    1.0      1.0           1.0                   1.0        1.0       1.0      1.0              1.0     1.0      1.0     1.0
-     11:00 AM           0      0       0       3             0       0      0         0        5                 0        0         0            0     1       0        0          0      0      3             0              12           0          12
-     11:15 AM           0      0       0       8             0       0      0         0        4                 0        0         0            0     5       0        0          0      0      3             0              20           0          20
-     11:30 AM           0      0       0      13             0       0      0         0        2                 0        0         0            0     0       0        0          0      0      5             0              20           0          20
-     11:45 AM           0      0       0       3             0       0      0         0       11                 0        0         0            0     3       0        0          0      0     17             0              34           0          34
-         Total          0      0       0      27             0       0      0         0       22                 0        0         0            0     9       0        0          0      0     28             0              86           0          86
-
-     12:00 PM           0      0       0       9             0       0      0         0        4                 0        0         0            0     1       0        0          0      0      5             0              19           0          19
-     12:15 PM           0      0       0       2             0       0      0         0        5                 0        0         0            0     2       0        0          0      0      5             0              14           0          14
-     12:30 PM           0      0       0       2             0       0      0         0        4                 0        0         0            0     2       0        0          0      0      7             0              15           0          15
-     12:45 PM           0      0       0       5             0       0      0         0        8                 0        0         0            0     4       0        0          0      0      9             0              26           0          26
-         Total          0      0       0      18             0       0      0         0       21                 0        0         0            0     9       0        0          0      0     26             0              74           0          74
-
-   Grand Total        0         0      0      45             0       0       0        0       43                 0        0          0         0      18       0        0       0         0     54             0             160           0         160
-    Apprch %        0.0       0.0    0.0                           0.0     0.0      0.0                                 0.0        0.0       0.0                      0.0     0.0       0.0
-      Total %                                                                                                                                                                                                              100.0          0.0
-
-
-                                      Shafer St.                                           Grace St.                                                  Shafer St.                                 Grace St.
-                                     Southbound                                            Westbound                                                 Northbound                                  Eastbound
-           Start Time     Right       Thru        Left       App. Total     Right          Thru           Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left      App. Total        Int. Total
+Intersection 12:00 PM
+Volume 56 0 34 90 44 229 0 273 13 27 25 65 0 85 20 105 533
+Percent 62.2 0.0 37.8 16.1 83.9 0.0 20.0 41.5 38.5 0.0 81.0 19.0
+12:00 Volume 13 0 7 20 11 68 0 79 6 10 10 26 0 20 5 25 150
+Peak Factor 0.888
+High Int. 12:45 PM 12:00 PM 12:00 PM 12:30 PM
+Volume 19 0 13 32 11 68 0 79 6 10 10 26 0 26 6 32
+Peak Factor 0.703 0.864 0.625 0.820
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Shafer St. and Grace St.
+Site Code : 00003371
+Start Date : 9/23/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 3 0 0 0 0 5 0 0 0 0 1 0 0 0 0 3 0 12 0 12
+11:15 AM 0 0 0 8 0 0 0 0 4 0 0 0 0 5 0 0 0 0 3 0 20 0 20
+11:30 AM 0 0 0 13 0 0 0 0 2 0 0 0 0 0 0 0 0 0 5 0 20 0 20
+11:45 AM 0 0 0 3 0 0 0 0 11 0 0 0 0 3 0 0 0 0 17 0 34 0 34
+Total 0 0 0 27 0 0 0 0 22 0 0 0 0 9 0 0 0 0 28 0 86 0 86
+12:00 PM 0 0 0 9 0 0 0 0 4 0 0 0 0 1 0 0 0 0 5 0 19 0 19
+12:15 PM 0 0 0 2 0 0 0 0 5 0 0 0 0 2 0 0 0 0 5 0 14 0 14
+12:30 PM 0 0 0 2 0 0 0 0 4 0 0 0 0 2 0 0 0 0 7 0 15 0 15
+12:45 PM 0 0 0 5 0 0 0 0 8 0 0 0 0 4 0 0 0 0 9 0 26 0 26
+Total 0 0 0 18 0 0 0 0 21 0 0 0 0 9 0 0 0 0 26 0 74 0 74
+Grand Total 0 0 0 45 0 0 0 0 43 0 0 0 0 18 0 0 0 0 54 0 160 0 160
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-        Intersection     11:00 AM
-            Volume              0        0            0              0         0              0             0                 0             0           0       0             0           0             0             0               0                 0
-            Percent           0.0      0.0          0.0                      0.0            0.0           0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-      11:45 Volume              0        0            0              0         0              0             0                 0             0           0       0             0           0             0             0               0               0
-        Peak Factor                                                                                                                                                                                                                               0.000
-           High Int.
-            Volume
-        Peak Factor
-                                                                                         Peggy Malone & Associates, Inc.
-                                                                                                (888) 247-8602
-                                                                                                                                                                          File Name                   : Shafer St. and Grace St.
-                                                                                                                                                                          Site Code                   : 00003371
-                                                                                                                                                                          Start Date                  : 9/23/2008
-                                                                                                                                                                          Page No                     :1
-                                                                                                             Groups Printed- 1 - Vehicles
-                                Shafer St.                                       Grace St.                                      Shafer St.                                               Grace St.
-                               Southbound                                        Westbound                                     Northbound                                                Eastbound
-                                                              App.                                              App.                                            App.                                               App.           Exclu.      Inclu.        Int.
-      Start Time   Right     Thru    Left       Peds                  Right    Thru      Left     Peds                   Right       Thru      Left      Peds            Right     Thru       Left     Peds
-                                                              Total                                             Total                                           Total                                              Total           Total      Total        Total
-         Factor        1.0    1.0     1.0        1.0                    1.0     1.0      1.0           1.0                 1.0        1.0       1.0       1.0              1.0       1.0       1.0      1.0
-     04:00 PM           5      0       6         15             11      10      66         0       45             76         2         4             9    19      15        0        20         4      121           24             200        126         326
-     04:15 PM          12      0       5         12             17      15      68         0       35             83         2         2             6    15      10        0        19         5       94           24             156        134         290
-     04:30 PM          11      0       7         11             18       7      61         0       25             68         2         7             5    11      14        0        28         6       96           34             143        134         277
-     04:45 PM          18      0      20         15             38       8      75         0       58             83         3         6            10    23      19        0        25         7      119           32             215        172         387
-         Total         46      0      38         53             84      40     270         0      163            310         9        19            30    68      58        0        92        22      430          114             714        566        1280
-
-     05:00 PM          17      0      14          7             31       8      98         0       69            106         2        10             6    12      18        0        17         8      192           25             280        180         460
-     05:15 PM           8      0      11         17             19       7     117         0       69            124         2         8            10    19      20        0        27         1      173           28             278        191         469
-     05:30 PM          20      0      12         14             32       7     104         0       43            111         3         1             8    11      12        0        15         9       96           24             164        179         343
-     05:45 PM           7      0      10         23             17       5      69         0       39             74         3         9            11    18      23        0        19         1      115           20             195        134         329
-         Total         52      0      47         61             99      27     388         0      220            415        10        28            35    60      73        0        78        19      576           97             917        684        1601
-
-   Grand Total         98      0      85        114            183      67     658         0      383            725        19        47            65   128     131        0       170        41                   211           1631        1250        2881
-                                                                                                                                                                                                      1006
-     Apprch %      53.6       0.0   46.4                                9.2    90.8      0.0                              14.5       35.9      49.6                       0.0      80.6      19.4
-      Total %       7.8       0.0    6.8                      14.6      5.4    52.6      0.0                    58.0       1.5        3.8       5.2             10.5      0.0      13.6       3.3                  16.9            56.6       43.4
-
-
-                                       Shafer St.                                               Grace St.                                                 Shafer St.                                     Grace St.
-                                      Southbound                                                Westbound                                                Northbound                                      Eastbound
-           Start Time      Right       Thru            Left      App. Total      Right          Thru           Left     App. Total          Right        Thru     Left    App. Total         Right        Thru             Left      App. Total        Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Shafer St. and Grace St.
+Site Code : 00003371
+Start Date : 9/23/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 5 0 6 15 11 10 66 0 45 76 2 4 9 19 15 0 20 4 121 24 200 126 326
+04:15 PM 12 0 5 12 17 15 68 0 35 83 2 2 6 15 10 0 19 5 94 24 156 134 290
+04:30 PM 11 0 7 11 18 7 61 0 25 68 2 7 5 11 14 0 28 6 96 34 143 134 277
+04:45 PM 18 0 20 15 38 8 75 0 58 83 3 6 10 23 19 0 25 7 119 32 215 172 387
+Total 46 0 38 53 84 40 270 0 163 310 9 19 30 68 58 0 92 22 430 114 714 566 1280
+05:00 PM 17 0 14 7 31 8 98 0 69 106 2 10 6 12 18 0 17 8 192 25 280 180 460
+05:15 PM 8 0 11 17 19 7 117 0 69 124 2 8 10 19 20 0 27 1 173 28 278 191 469
+05:30 PM 20 0 12 14 32 7 104 0 43 111 3 1 8 11 12 0 15 9 96 24 164 179 343
+05:45 PM 7 0 10 23 17 5 69 0 39 74 3 9 11 18 23 0 19 1 115 20 195 134 329
+Total 52 0 47 61 99 27 388 0 220 415 10 28 35 60 73 0 78 19 576 97 917 684 1601
+Grand Total 98 0 85 114 183 67 658 0 383 725 19 47 65 128 131 0 170 41
+1006
+211 1631 1250 2881
+Apprch % 53.6 0.0 46.4 9.2 90.8 0.0 14.5 35.9 49.6 0.0 80.6 19.4
+Total % 7.8 0.0 6.8 14.6 5.4 52.6 0.0 58.0 1.5 3.8 5.2 10.5 0.0 13.6 3.3 16.9 56.6 43.4
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-        Intersection     04:45 PM
-            Volume             63         0             57             120        30             394             0            424            10           25      34               69            0         84           25                  109             722
-            Percent          52.5       0.0            47.5                       7.1           92.9           0.0                          14.5         36.2    49.3                          0.0        77.1         22.9
-      05:15 Volume              8         0             11              19          7            117             0            124              2            8     10               20            0         27             1                  28            191
-        Peak Factor                                                                                                                                                                                                                                      0.945
-           High Int.     04:45 PM                                             05:15 PM                                                05:15 PM                                             04:45 PM
-            Volume             18           0           20               38          7          117              0            124            2              8      10               20            0           25             7                32
-        Peak Factor                                                   0.789                                                 0.855                                                0.863                                                     0.852
-                                                                                      Peggy Malone & Associates, Inc.
-                                                                                             (888) 247-8602
-                                                                                                                                                                        File Name                : Shafer St. and Grace St.
-                                                                                                                                                                        Site Code                : 00003371
-                                                                                                                                                                        Start Date               : 9/23/2008
-                                                                                                                                                                        Page No                  :1
-                                                                                                          Groups Printed- 2 - Bicycles
-                                Shafer St.                                    Grace St.                                      Shafer St.                                              Grace St.
-                               Southbound                                     Westbound                                     Northbound                                               Eastbound
-                                                            App.                                             App.                                             App.                                            App.           Exclu.    Inclu.          Int.
-      Start Time   Right     Thru    Left     Peds                  Right   Thru      Left     Peds                     Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                            Total                                            Total                                            Total                                           Total           Total    Total          Total
-         Factor        1.0    1.0     1.0      1.0                    1.0    1.0      1.0           1.0                   1.0        1.0       1.0      1.0              1.0     1.0      1.0     1.0
-     04:00 PM           0      0        0       5              0       0      0         0        6                 0        0         0            0     3       0        0          0      0      5             0              19           0          19
-     04:15 PM           0      0        0       2              0       0      0         0        5                 0        0         0            0     3       0        0          0      0      8             0              18           0          18
-     04:30 PM           0      0        0       4              0       0      0         0        1                 0        0         0            0     4       0        0          0      0      8             0              17           0          17
-     04:45 PM           0      0        0       5              0       0      0         0        7                 0        0         0            0     4       0        0          0      0     13             0              29           0          29
-         Total          0      0        0      16              0       0      0         0       19                 0        0         0            0    14       0        0          0      0     34             0              83           0          83
-
-     05:00 PM           0      0        0       6              0       0      0         0        9                 0        0         0            0     4       0        0          0      0      7             0              26           0          26
-     05:15 PM           0      0        0      11              0       0      0         0        8                 0        0         0            0     2       0        0          0      0      2             0              23           0          23
-     05:30 PM           0      0        0       9              0       0      0         0       10                 0        0         0            0     4       0        0          0      0      6             0              29           0          29
-     05:45 PM           0      0        0      10              0       0      0         0       10                 0        0         0            0     7       0        0          0      0      4             0              31           0          31
-         Total          0      0        0      36              0       0      0         0       37                 0        0         0            0    17       0        0          0      0     19             0             109           0         109
-
-   Grand Total         0        0       0      52              0       0       0        0       56                 0        0          0         0      31       0        0       0         0     53             0             192           0         192
-    Apprch %         0.0      0.0     0.0                            0.0     0.0      0.0                                 0.0        0.0       0.0                      0.0     0.0       0.0
-      Total %                                                                                                                                                                                                                100.0          0.0
-
-
-                                       Shafer St.                                            Grace St.                                                  Shafer St.                                 Grace St.
-                                      Southbound                                             Westbound                                                 Northbound                                  Eastbound
-           Start Time      Right       Thru          Left      App. Total     Right          Thru           Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left      App. Total        Int. Total
+Intersection 04:45 PM
+Volume 63 0 57 120 30 394 0 424 10 25 34 69 0 84 25 109 722
+Percent 52.5 0.0 47.5 7.1 92.9 0.0 14.5 36.2 49.3 0.0 77.1 22.9
+05:15 Volume 8 0 11 19 7 117 0 124 2 8 10 20 0 27 1 28 191
+Peak Factor 0.945
+High Int. 04:45 PM 05:15 PM 05:15 PM 04:45 PM
+Volume 18 0 20 38 7 117 0 124 2 8 10 20 0 25 7 32
+Peak Factor 0.789 0.855 0.863 0.852
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : Shafer St. and Grace St.
+Site Code : 00003371
+Start Date : 9/23/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 5 0 0 0 0 6 0 0 0 0 3 0 0 0 0 5 0 19 0 19
+04:15 PM 0 0 0 2 0 0 0 0 5 0 0 0 0 3 0 0 0 0 8 0 18 0 18
+04:30 PM 0 0 0 4 0 0 0 0 1 0 0 0 0 4 0 0 0 0 8 0 17 0 17
+04:45 PM 0 0 0 5 0 0 0 0 7 0 0 0 0 4 0 0 0 0 13 0 29 0 29
+Total 0 0 0 16 0 0 0 0 19 0 0 0 0 14 0 0 0 0 34 0 83 0 83
+05:00 PM 0 0 0 6 0 0 0 0 9 0 0 0 0 4 0 0 0 0 7 0 26 0 26
+05:15 PM 0 0 0 11 0 0 0 0 8 0 0 0 0 2 0 0 0 0 2 0 23 0 23
+05:30 PM 0 0 0 9 0 0 0 0 10 0 0 0 0 4 0 0 0 0 6 0 29 0 29
+05:45 PM 0 0 0 10 0 0 0 0 10 0 0 0 0 7 0 0 0 0 4 0 31 0 31
+Total 0 0 0 36 0 0 0 0 37 0 0 0 0 17 0 0 0 0 19 0 109 0 109
+Grand Total 0 0 0 52 0 0 0 0 56 0 0 0 0 31 0 0 0 0 53 0 192 0 192
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Shafer St.
+Southbound
+Grace St.
+Westbound
+Shafer St.
+Northbound
+Grace St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-        Intersection     04:00 PM
-            Volume              0         0            0               0         0              0             0                 0             0           0       0             0           0             0             0               0                 0
-            Percent           0.0       0.0          0.0                       0.0            0.0           0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-      04:45 Volume              0         0            0               0         0              0             0                 0             0           0       0             0           0             0             0               0               0
-        Peak Factor                                                                                                                                                                                                                                 0.000
-           High Int.
-            Volume
-        Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

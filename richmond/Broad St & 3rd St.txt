@@ -1,253 +1,367 @@
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                     File Name               : 5 3rd St & Broad St
-                                                                                                                                                                     Site Code               : 00003004
-                                                                                                                                                                     Start Date              : 8/7/2008
-                                                                                                                                                                     Page No                 :1
-                                                                                                  Groups Printed- 1 - Vehicles
-                               3rd St.                                      Broad St.                                                                                      Broad St.
-                             Southbound                                     Westbound                                       Northbound                                     Eastbound
-                                                         App.                                        App.                                           App.                                          App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left    Peds                 Right   Thru      Left     Peds              Right       Thru      Left     Peds            Right   Thru     Left    Peds
-                                                         Total                                       Total                                          Total                                         Total       Total      Total       Total
-        Factor     1.0       1.0    1.0      1.0                   1.0     1.0     1.0       1.0                1.0        1.0       1.0      1.0              1.0    1.0      1.0     1.0
-   07:00 AM            2     68       4      20            74      23      96        1        2       120         0         0            0     4       0        4     35        0       2           39            28      233         261
-   07:15 AM            5    125       9      17           139      31     116        0        7       147         0         0            0     2       0        7     51        0       3           58            29      344         373
-   07:30 AM            7    143       6      24           156      37     125        2        6       164         0         0            0     5       0       13     66        0       3           79            38      399         437
-   07:45 AM            5    147      15      18           167      27     142        2        4       171         0         0            0     2       0       10     61        0       4           71            28      409         437
-       Total          19    483      34      79           536     118     479        5       19       602         0         0            0    13       0       34    213        0      12          247           123     1385        1508
-
-   08:00 AM            7    188       7      23           202      37     145        3       11       185         0         0            0     9       0       12     71        0      16           83            59      470         529
-   08:15 AM            7    162      11      19           180      23     128        1        7       152         0         0            0     5       0       16     84        0       3          100            34      432         466
-   08:30 AM            6    157       9      27           172      25     133        2       10       160         0         0            0    15       0       10     71        0       7           81            59      413         472
-   08:45 AM           15    138       7      23           160      19     127        1        4       147         0         0            0     2       0       10     92        0      10          102            39      409         448
-       Total          35    645      34      92           714     104     533        7       32       644         0         0            0    31       0       48    318        0      36          366           191     1724        1915
-
-  Grand Total     54       1128     68      171      1250        222     1012       12       51      1246         0          0        0       44       0      82      531       0      48          613           314     3109        3423
-   Apprch %       4.3       90.2    5.4                          17.8     81.2     1.0                          0.0        0.0      0.0                      13.4    86.6     0.0
-     Total %      1.7       36.3    2.2                  40.2     7.1     32.6     0.4                40.1      0.0        0.0      0.0              0.0      2.6    17.1     0.0                 19.7           9.2      90.8
-
-
-                                      3rd St.                                             Broad St.                                                                                     Broad St.
-                                    Southbound                                            Westbound                                          Northbound                                 Eastbound
-          Start Time   Right      Thru        Left          App. Total     Right          Thru       Left    App. Total          Right       Thru     Left    App. Total      Right      Thru             Left    App. Total      Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 5 3rd St & Broad St
+Site Code : 00003004
+Start Date : 8/7/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 2 68 4 20 74 23 96 1 2 120 0 0 0 4 0 4 35 0 2 39 28 233 261
+07:15 AM 5 125 9 17 139 31 116 0 7 147 0 0 0 2 0 7 51 0 3 58 29 344 373
+07:30 AM 7 143 6 24 156 37 125 2 6 164 0 0 0 5 0 13 66 0 3 79 38 399 437
+07:45 AM 5 147 15 18 167 27 142 2 4 171 0 0 0 2 0 10 61 0 4 71 28 409 437
+Total 19 483 34 79 536 118 479 5 19 602 0 0 0 13 0 34 213 0 12 247 123 1385 1508
+08:00 AM 7 188 7 23 202 37 145 3 11 185 0 0 0 9 0 12 71 0 16 83 59 470 529
+08:15 AM 7 162 11 19 180 23 128 1 7 152 0 0 0 5 0 16 84 0 3 100 34 432 466
+08:30 AM 6 157 9 27 172 25 133 2 10 160 0 0 0 15 0 10 71 0 7 81 59 413 472
+08:45 AM 15 138 7 23 160 19 127 1 4 147 0 0 0 2 0 10 92 0 10 102 39 409 448
+Total 35 645 34 92 714 104 533 7 32 644 0 0 0 31 0 48 318 0 36 366 191 1724 1915
+Grand Total 54 1128 68 171 1250 222 1012 12 51 1246 0 0 0 44 0 82 531 0 48 613 314 3109 3423
+Apprch % 4.3 90.2 5.4 17.8 81.2 1.0 0.0 0.0 0.0 13.4 86.6 0.0
+Total % 1.7 36.3 2.2 40.2 7.1 32.6 0.4 40.1 0.0 0.0 0.0 0.0 2.6 17.1 0.0 19.7 9.2 90.8
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:45 AM
-           Volume             25      654           42            721       112            548         8           668              0           0       0             0        48         287               0           335           1724
-           Percent           3.5     90.7          5.8                      16.8          82.0       1.2                          0.0         0.0     0.0                     14.3       85.7             0.0
-     08:00 Volume              7      188            7            202        37            145         3           185              0           0       0             0        12          71               0            83           470
-       Peak Factor                                                                                                                                                                                                                   0.917
-          High Int.      08:00 AM                                        08:00 AM                                           6:45:00 AM                                      08:15 AM
-           Volume              7      188           7              202        37          145          3           185            0             0       0             0          16          84             0            100
-       Peak Factor                                               0.892                                           0.903                                                                                                 0.838
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                                                                             File Name                   : 5 3rd St & Broad St
-                                                                                                                                                                             Site Code                   : 00003004
-                                                                                                                                                                             Start Date                  : 8/7/2008
-                                                                                                                                                                             Page No                     :1
-                                                                                                       Groups Printed- 2 - Bicycles
-                               3rd St.                                       Broad St.                                                                                             Broad St.
-                             Southbound                                      Westbound                                              Northbound                                     Eastbound
-                                                           App.                                           App.                                              App.                                              App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left      Peds                 Right   Thru      Left     Peds                    Right       Thru      Left     Peds            Right   Thru        Left    Peds
-                                                           Total                                          Total                                             Total                                             Total       Total       Total        Total
-        Factor     1.0       1.0      1.0      1.0                   1.0    1.0      1.0       1.0                      1.0        1.0       1.0      1.0              1.0    1.0         1.0     1.0
-   07:00 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     0       0        0          0       0        1            0              1           0          1
-   07:15 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   07:30 AM           0       0        0        1             0       0      0         0           0             0        0         0            0     2       0        0          0       0        2            0              5           0          5
-   07:45 AM           0       0        0        0             0       0      0         0           1             0        0         0            0     1       0        0          0       0        0            0              2           0          2
-       Total          0       0        0        1             0       0      0         0           1             0        0         0            0     3       0        0          0       0        3            0              8           0          8
-
-   08:00 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:15 AM           0       0        0        1             0       0      0         0           0             0        0         0            0     1       0        0          0       0        0            0              2           0          2
-   08:30 AM           0       0        0        2             0       0      0         0           1             0        0         0            0     3       0        0          0       0        0            0              6           0          6
-   08:45 AM           0       0        0        1             0       0      0         0           0             0        0         0            0     3       0        0          0       0        1            0              5           0          5
-       Total          0       0        0        4             0       0      0         0           1             0        0         0            0     7       0        0          0       0        1            0             13           0         13
-
-  Grand Total       0         0         0       5             0       0       0        0           2             0        0          0        0       10       0        0       0          0        4            0             21           0         21
-   Apprch %       0.0       0.0       0.0                           0.0     0.0      0.0                                0.0        0.0      0.0                       0.0     0.0        0.0
-     Total %                                                                                                                                                                                                                 100.0      0.0
-
-
-                                        3rd St.                                             Broad St.                                                                                               Broad St.
-                                      Southbound                                            Westbound                                                Northbound                                     Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru          Left       App. Total          Right       Thru     Left    App. Total         Right      Thru              Left     App. Total       Int. Total
+Intersection 07:45 AM
+Volume 25 654 42 721 112 548 8 668 0 0 0 0 48 287 0 335 1724
+Percent 3.5 90.7 5.8 16.8 82.0 1.2 0.0 0.0 0.0 14.3 85.7 0.0
+08:00 Volume 7 188 7 202 37 145 3 185 0 0 0 0 12 71 0 83 470
+Peak Factor 0.917
+High Int. 08:00 AM 08:00 AM 6:45:00 AM 08:15 AM
+Volume 7 188 7 202 37 145 3 185 0 0 0 0 16 84 0 100
+Peak Factor 0.892 0.903 0.838
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 5 3rd St & Broad St
+Site Code : 00003004
+Start Date : 8/7/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1
+07:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:30 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 2 0 5 0 5
+07:45 AM 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 2 0 2
+Total 0 0 0 1 0 0 0 0 1 0 0 0 0 3 0 0 0 0 3 0 8 0 8
+08:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:15 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2 0 2
+08:30 AM 0 0 0 2 0 0 0 0 1 0 0 0 0 3 0 0 0 0 0 0 6 0 6
+08:45 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 3 0 0 0 0 1 0 5 0 5
+Total 0 0 0 4 0 0 0 0 1 0 0 0 0 7 0 0 0 0 1 0 13 0 13
+Grand Total 0 0 0 5 0 0 0 0 2 0 0 0 0 10 0 0 0 0 4 0 21 0 21
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:00 AM
-           Volume              0          0            0               0        0              0            0                 0             0           0       0             0             0             0             0              0                0
-           Percent           0.0        0.0          0.0                      0.0            0.0          0.0                             0.0         0.0     0.0                         0.0           0.0           0.0
-     07:45 Volume              0          0            0               0        0              0            0                 0             0           0       0             0             0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                                 0.000
-          High Int.      6:45:00 AM                                        6:45:00 AM                                               6:45:00 AM                                         6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                       File Name                : 5 3rd St & Broad St
-                                                                                                                                                                       Site Code                : 00003004
-                                                                                                                                                                       Start Date               : 8/7/2008
-                                                                                                                                                                       Page No                  :1
-                                                                                                    Groups Printed- 1 - Vehicles
-                               3rd St.                                        Broad St.                                                                                      Broad St.
-                             Southbound                                       Westbound                                       Northbound                                     Eastbound
-                                                           App.                                        App.                                           App.                                           App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru      Left     Peds              Right       Thru      Left     Peds            Right   Thru     Left     Peds
-                                                           Total                                       Total                                          Total                                          Total       Total       Total       Total
-        Factor     1.0       1.0     1.0      1.0                    1.0     1.0     1.0       1.0                1.0        1.0       1.0      1.0              1.0    1.0      1.0      1.0
-    11:00 AM          13     35      11       44             59      19     147        0       16       166         0         0            0    11       0       12    104        3        9          119            80       344         424
-    11:15 AM          17     43       9       41             69      19     153        0        8       172         0         0            0    19       0       17    110        3       16          130            84       371         455
-    11:30 AM          12     42       5       28             59      34     170        1        9       205         0         0            0    11       0       20    102        1        7          123            55       387         442
-    11:45 AM          17     54       6       47             77      23     161        0       16       184         0         0            0    10       0       20    109        1       15          130            88       391         479
-        Total         59    174      31      160            264      95     631        1       49       727         0         0            0    51       0       69    425        8       47          502           307      1493        1800
-
-    12:00 PM           7     54      11       46             72      25     178        1       31       204         0         0            0    19       0       21    109        0       16          130           112       406         518
-    12:15 PM          17     50       6       46             73      18     195        0       15       213         0         0            0    24       0       17    110        0        8          127            93       413         506
-    12:30 PM          13     32       7       46             52      20     190        1       10       211         0         0            0    13       0       22     96        0       11          118            80       381         461
-    12:45 PM           7     42       5       43             54      26     193        4       20       223         0         0            0    19       0       25    128        3       11          156            93       433         526
-        Total         44    178      29      181            251      89     756        6       76       851         0         0            0    75       0       85    443        3       46          531           378      1633        2011
-
-  Grand Total    103        352       60     341            515    184     1387        7      125      1578         0          0        0      126       0     154      868      11       93         1033           685      3126        3811
-   Apprch %      20.0      68.3     11.7                           11.7     87.9     0.4                          0.0        0.0      0.0                      14.9    84.0     1.1
-     Total %      3.3      11.3      1.9                   16.5     5.9     44.4     0.2                50.5      0.0        0.0      0.0              0.0      4.9    27.8     0.4                  33.0           18.0      82.0
-
-
-                                       3rd St.                                              Broad St.                                                                                      Broad St.
-                                     Southbound                                             Westbound                                          Northbound                                  Eastbound
-          Start Time   Right       Thru        Left           App. Total     Right          Thru       Left    App. Total          Right       Thru     Left    App. Total      Right       Thru             Left    App. Total       Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 5 3rd St & Broad St
+Site Code : 00003004
+Start Date : 8/7/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 13 35 11 44 59 19 147 0 16 166 0 0 0 11 0 12 104 3 9 119 80 344 424
+11:15 AM 17 43 9 41 69 19 153 0 8 172 0 0 0 19 0 17 110 3 16 130 84 371 455
+11:30 AM 12 42 5 28 59 34 170 1 9 205 0 0 0 11 0 20 102 1 7 123 55 387 442
+11:45 AM 17 54 6 47 77 23 161 0 16 184 0 0 0 10 0 20 109 1 15 130 88 391 479
+Total 59 174 31 160 264 95 631 1 49 727 0 0 0 51 0 69 425 8 47 502 307 1493 1800
+12:00 PM 7 54 11 46 72 25 178 1 31 204 0 0 0 19 0 21 109 0 16 130 112 406 518
+12:15 PM 17 50 6 46 73 18 195 0 15 213 0 0 0 24 0 17 110 0 8 127 93 413 506
+12:30 PM 13 32 7 46 52 20 190 1 10 211 0 0 0 13 0 22 96 0 11 118 80 381 461
+12:45 PM 7 42 5 43 54 26 193 4 20 223 0 0 0 19 0 25 128 3 11 156 93 433 526
+Total 44 178 29 181 251 89 756 6 76 851 0 0 0 75 0 85 443 3 46 531 378 1633 2011
+Grand Total 103 352 60 341 515 184 1387 7 125 1578 0 0 0 126 0 154 868 11 93 1033 685 3126 3811
+Apprch % 20.0 68.3 11.7 11.7 87.9 0.4 0.0 0.0 0.0 14.9 84.0 1.1
+Total % 3.3 11.3 1.9 16.5 5.9 44.4 0.2 50.5 0.0 0.0 0.0 0.0 4.9 27.8 0.4 33.0 18.0 82.0
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume             44       178           29             251        89            756         6           851              0           0       0             0        85          443               3            531           1633
-           Percent          17.5      70.9          11.6                      10.5          88.8       0.7                          0.0         0.0     0.0                     16.0        83.4             0.6
-     12:45 Volume              7        42             5             54        26            193         4           223              0           0       0             0        25          128               3            156           433
-       Peak Factor                                                                                                                                                                                                                       0.943
-          High Int.      12:15 PM                                          12:45 PM                                                                                           12:45 PM
-           Volume             17       50             6               73        26          193          4           223              0           0       0             0          25          128             3             156
-       Peak Factor                                                 0.860                                           0.954                                                                                                   0.851
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                            File Name                 : 5 3rd St & Broad St
-                                                                                                                                                                            Site Code                 : 00003004
-                                                                                                                                                                            Start Date                : 8/7/2008
-                                                                                                                                                                            Page No                   :1
-                                                                                                      Groups Printed- 2 - Bicycles
-                               3rd St.                                      Broad St.                                                                                             Broad St.
-                             Southbound                                     Westbound                                              Northbound                                     Eastbound
-                                                          App.                                           App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                    Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                          Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0      1.0     1.0       1.0                   1.0    1.0      1.0       1.0                      1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    11:00 AM          0       0       0        2             0       0      0         0           1             0        0         0            0     1       0        0          0     0       1             0              5           0          5
-    11:15 AM          0       0       0        4             0       0      0         0           0             0        0         0            0     2       0        0          0     0       1             0              7           0          7
-    11:30 AM          0       0       0        0             0       0      0         0           0             0        0         0            0     0       0        0          0     0       2             0              2           0          2
-    11:45 AM          0       0       0        3             0       0      0         0           1             0        0         0            0     2       0        0          0     0       0             0              6           0          6
-        Total         0       0       0        9             0       0      0         0           2             0        0         0            0     5       0        0          0     0       4             0             20           0         20
-
-    12:00 PM          0       0       0        5             0       0      0         0           0             0        0         0            0     0       0        0          0     0       3             0              8           0          8
-    12:15 PM          0       0       0        3             0       0      0         0           1             0        0         0            0     5       0        0          0     0       0             0              9           0          9
-    12:30 PM          0       0       0        4             0       0      0         0           2             0        0         0            0     1       0        0          0     0       0             0              7           0          7
-    12:45 PM          0       0       0        4             0       0      0         0           1             0        0         0            0     0       0        0          0     0       2             0              7           0          7
-        Total         0       0       0       16             0       0      0         0           4             0        0         0            0     6       0        0          0     0       5             0             31           0         31
-
-  Grand Total        0        0       0       25             0       0       0        0           6             0        0          0        0       11       0        0       0        0       9             0             51           0         51
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                                0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                              100.0      0.0
-
-
-                                      3rd St.                                              Broad St.                                                                                            Broad St.
-                                    Southbound                                             Westbound                                                Northbound                                  Eastbound
-          Start Time   Right       Thru        Left          App. Total     Right          Thru          Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 12:00 PM
+Volume 44 178 29 251 89 756 6 851 0 0 0 0 85 443 3 531 1633
+Percent 17.5 70.9 11.6 10.5 88.8 0.7 0.0 0.0 0.0 16.0 83.4 0.6
+12:45 Volume 7 42 5 54 26 193 4 223 0 0 0 0 25 128 3 156 433
+Peak Factor 0.943
+High Int. 12:15 PM 12:45 PM 12:45 PM
+Volume 17 50 6 73 26 193 4 223 0 0 0 0 25 128 3 156
+Peak Factor 0.860 0.954 0.851
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 5 3rd St & Broad St
+Site Code : 00003004
+Start Date : 8/7/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 2 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 5 0 5
+11:15 AM 0 0 0 4 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 0 7 0 7
+11:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2 0 2
+11:45 AM 0 0 0 3 0 0 0 0 1 0 0 0 0 2 0 0 0 0 0 0 6 0 6
+Total 0 0 0 9 0 0 0 0 2 0 0 0 0 5 0 0 0 0 4 0 20 0 20
+12:00 PM 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 8 0 8
+12:15 PM 0 0 0 3 0 0 0 0 1 0 0 0 0 5 0 0 0 0 0 0 9 0 9
+12:30 PM 0 0 0 4 0 0 0 0 2 0 0 0 0 1 0 0 0 0 0 0 7 0 7
+12:45 PM 0 0 0 4 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 7 0 7
+Total 0 0 0 16 0 0 0 0 4 0 0 0 0 6 0 0 0 0 5 0 31 0 31
+Grand Total 0 0 0 25 0 0 0 0 6 0 0 0 0 11 0 0 0 0 9 0 51 0 51
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:00 AM
-           Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0          0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     11:45 Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                              0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                       File Name                : 5 3rd St & Broad St
-                                                                                                                                                                       Site Code                : 00003004
-                                                                                                                                                                       Start Date               : 8/7/2008
-                                                                                                                                                                       Page No                  :1
-                                                                                                    Groups Printed- 1 - Vehicles
-                               3rd St.                                        Broad St.                                                                                      Broad St.
-                             Southbound                                       Westbound                                       Northbound                                     Eastbound
-                                                           App.                                        App.                                           App.                                           App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru      Left     Peds              Right       Thru      Left     Peds            Right   Thru     Left     Peds
-                                                           Total                                       Total                                          Total                                          Total       Total       Total       Total
-        Factor     1.0       1.0     1.0      1.0                    1.0     1.0     1.0       1.0                1.0        1.0       1.0      1.0              1.0    1.0      1.0      1.0
-    04:00 PM          10     50       4       31             64      30     168        3       23       201         0         0            0    38       0       14    103        0       12          117           104       382         486
-    04:15 PM          16     60       7       27             83      26     158        2       26       186         0         0            0    27       0       15    107        0        8          122            88       391         479
-    04:30 PM          13     70      13       38             96      25     157        3       40       185         0         0            0    22       0       22    116        0       15          138           115       419         534
-    04:45 PM           8     76       6       30             90      34     170        3       12       207         0         0            0    32       0       23    109        0        9          132            83       429         512
-        Total         47    256      30      126            333     115     653       11      101       779         0         0            0   119       0       74    435        0       44          509           390      1621        2011
-
-    05:00 PM          10     66       8       16             84      41     174        3       26       218         0         0            0    35       0       13    108        0       16          121            93       423         516
-    05:15 PM           8     81      17       23            106      39     171        7       16       217         0         0            0    32       0       13    114        0       16          127            87       450         537
-    05:30 PM          13     77      18       34            108      27     164        2        8       193         0         0            0    33       0       11     98        0        5          109            80       410         490
-    05:45 PM          10     54      12       29             76      35     179        3        8       217         0         0            0    32       0       13    113        0        4          126            73       419         492
-        Total         41    278      55      102            374     142     688       15       58       845         0         0            0   132       0       50    433        0       41          483           333      1702        2035
-
-  Grand Total      88       534       85     228            707    257     1341       26      159      1624         0          0        0      251       0     124      868       0       85          992           723      3323        4046
-   Apprch %      12.4      75.5     12.0                           15.8     82.6     1.6                          0.0        0.0      0.0                      12.5    87.5     0.0
-     Total %      2.6      16.1      2.6                   21.3     7.7     40.4     0.8                48.9      0.0        0.0      0.0              0.0      3.7    26.1     0.0                  29.9           17.9      82.1
-
-
-                                       3rd St.                                              Broad St.                                                                                      Broad St.
-                                     Southbound                                             Westbound                                          Northbound                                  Eastbound
-          Start Time    Right      Thru        Left           App. Total     Right          Thru       Left    App. Total          Right       Thru     Left    App. Total      Right       Thru             Left    App. Total       Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 5 3rd St & Broad St
+Site Code : 00003004
+Start Date : 8/7/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 10 50 4 31 64 30 168 3 23 201 0 0 0 38 0 14 103 0 12 117 104 382 486
+04:15 PM 16 60 7 27 83 26 158 2 26 186 0 0 0 27 0 15 107 0 8 122 88 391 479
+04:30 PM 13 70 13 38 96 25 157 3 40 185 0 0 0 22 0 22 116 0 15 138 115 419 534
+04:45 PM 8 76 6 30 90 34 170 3 12 207 0 0 0 32 0 23 109 0 9 132 83 429 512
+Total 47 256 30 126 333 115 653 11 101 779 0 0 0 119 0 74 435 0 44 509 390 1621 2011
+05:00 PM 10 66 8 16 84 41 174 3 26 218 0 0 0 35 0 13 108 0 16 121 93 423 516
+05:15 PM 8 81 17 23 106 39 171 7 16 217 0 0 0 32 0 13 114 0 16 127 87 450 537
+05:30 PM 13 77 18 34 108 27 164 2 8 193 0 0 0 33 0 11 98 0 5 109 80 410 490
+05:45 PM 10 54 12 29 76 35 179 3 8 217 0 0 0 32 0 13 113 0 4 126 73 419 492
+Total 41 278 55 102 374 142 688 15 58 845 0 0 0 132 0 50 433 0 41 483 333 1702 2035
+Grand Total 88 534 85 228 707 257 1341 26 159 1624 0 0 0 251 0 124 868 0 85 992 723 3323 4046
+Apprch % 12.4 75.5 12.0 15.8 82.6 1.6 0.0 0.0 0.0 12.5 87.5 0.0
+Total % 2.6 16.1 2.6 21.3 7.7 40.4 0.8 48.9 0.0 0.0 0.0 0.0 3.7 26.1 0.0 29.9 17.9 82.1
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:30 PM
-           Volume             39       293           44             376       139            672        16           827              0           0       0             0        71          447               0            518           1721
-           Percent          10.4      77.9          11.7                      16.8          81.3       1.9                          0.0         0.0     0.0                     13.7        86.3             0.0
-     05:15 Volume              8        81           17             106        39            171         7           217              0           0       0             0        13          114               0            127           450
-       Peak Factor                                                                                                                                                                                                                       0.956
-          High Int.      05:15 PM                                          05:00 PM                                                                                           04:30 PM
-           Volume              8       81            17              106        41          174          3           218              0           0       0             0          22          116             0             138
-       Peak Factor                                                 0.887                                           0.948                                                                                                   0.938
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                            File Name                 : 5 3rd St & Broad St
-                                                                                                                                                                            Site Code                 : 00003004
-                                                                                                                                                                            Start Date                : 8/7/2008
-                                                                                                                                                                            Page No                   :1
-                                                                                                      Groups Printed- 2 - Bicycles
-                               3rd St.                                      Broad St.                                                                                             Broad St.
-                             Southbound                                     Westbound                                              Northbound                                     Eastbound
-                                                          App.                                           App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                    Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                          Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0       1.0    1.0       1.0                   1.0    1.0      1.0       1.0                      1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    04:00 PM          0       0       0        4             0       0      0         0           1             0        0         0            0     3       0        0          0     0       0             0              8           0          8
-    04:15 PM          0       0       0        1             0       0      0         0           2             0        0         0            0     2       0        0          0     0       1             0              6           0          6
-    04:30 PM          0       0       0        3             0       0      0         0           0             0        0         0            0     2       0        0          0     0       0             0              5           0          5
-    04:45 PM          0       0       0        2             0       0      0         0           1             0        0         0            0     4       0        0          0     0       0             0              7           0          7
-        Total         0       0       0       10             0       0      0         0           4             0        0         0            0    11       0        0          0     0       1             0             26           0         26
-
-    05:00 PM          0       0       0        1             0       0      0         0           3             0        0         0            0     5       0        0          0     0       0             0              9           0          9
-    05:15 PM          0       0       0        3             0       0      0         0           1             0        0         0            0     6       0        0          0     0       2             0             12           0         12
-    05:30 PM          0       0       0        4             0       0      0         0           1             0        0         0            0     3       0        0          0     0       0             0              8           0          8
-    05:45 PM          0       0       0        2             0       0      0         0           0             0        0         0            0     2       0        0          0     0       1             0              5           0          5
-        Total         0       0       0       10             0       0      0         0           5             0        0         0            0    16       0        0          0     0       3             0             34           0         34
-
-  Grand Total        0        0       0       20             0       0       0        0           9             0        0          0        0       27       0        0       0        0       4             0             60           0         60
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                                0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                              100.0      0.0
-
-
-                                      3rd St.                                              Broad St.                                                                                            Broad St.
-                                    Southbound                                             Westbound                                                Northbound                                  Eastbound
-          Start Time    Right      Thru        Left          App. Total     Right          Thru          Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 04:30 PM
+Volume 39 293 44 376 139 672 16 827 0 0 0 0 71 447 0 518 1721
+Percent 10.4 77.9 11.7 16.8 81.3 1.9 0.0 0.0 0.0 13.7 86.3 0.0
+05:15 Volume 8 81 17 106 39 171 7 217 0 0 0 0 13 114 0 127 450
+Peak Factor 0.956
+High Int. 05:15 PM 05:00 PM 04:30 PM
+Volume 8 81 17 106 41 174 3 218 0 0 0 0 22 116 0 138
+Peak Factor 0.887 0.948 0.938
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 5 3rd St & Broad St
+Site Code : 00003004
+Start Date : 8/7/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 4 0 0 0 0 1 0 0 0 0 3 0 0 0 0 0 0 8 0 8
+04:15 PM 0 0 0 1 0 0 0 0 2 0 0 0 0 2 0 0 0 0 1 0 6 0 6
+04:30 PM 0 0 0 3 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 5 0 5
+04:45 PM 0 0 0 2 0 0 0 0 1 0 0 0 0 4 0 0 0 0 0 0 7 0 7
+Total 0 0 0 10 0 0 0 0 4 0 0 0 0 11 0 0 0 0 1 0 26 0 26
+05:00 PM 0 0 0 1 0 0 0 0 3 0 0 0 0 5 0 0 0 0 0 0 9 0 9
+05:15 PM 0 0 0 3 0 0 0 0 1 0 0 0 0 6 0 0 0 0 2 0 12 0 12
+05:30 PM 0 0 0 4 0 0 0 0 1 0 0 0 0 3 0 0 0 0 0 0 8 0 8
+05:45 PM 0 0 0 2 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 0 5 0 5
+Total 0 0 0 10 0 0 0 0 5 0 0 0 0 16 0 0 0 0 3 0 34 0 34
+Grand Total 0 0 0 20 0 0 0 0 9 0 0 0 0 27 0 0 0 0 4 0 60 0 60
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+3rd St.
+Southbound
+Broad St.
+Westbound Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0          0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     04:45 Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                              0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

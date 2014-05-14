@@ -1,257 +1,382 @@
-                                                                                             Peggy Malone and Associates
-                                                                                                    904-992-8072
-                                                                                                                                                      File Name                   : Laurel St. and W. Main St.
-                                                                                                                                                      Site Code                   : 00003003
-                                                                                                                                                      Start Date                  : 9/18/2008
-                                                                                                                                                      Page No                     :1
-                                                                                          Groups Printed- Vehicles
-                              Laurel St.                                 W. Main St. (1 Way)              Laurel St.                                                  W. Main St. (1 Way)
-                             Southbound                                     Westbound                    Northbound                                                       Eastbound
-                                                         App.                                         App.                                           App.                                                App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left    Peds                 Right     Thru      Left     Peds             Right       Thru      Left     Peds            Right     Thru       Left     Peds
-                                                         Total                                        Total                                          Total                                               Total       Total      Total       Total
-        Factor     1.0      1.0     1.0      1.0                   1.0      1.0       1.0      1.0               1.0        1.0       1.0      1.0              1.0      1.0        1.0      1.0
-   07:00 AM            4     10       0       0            14       8       51        12        3       71         0         0            0     5       0        0           0       0        2             0            10       85          95
-   07:15 AM            0      6       0       2             6       8       64        30        0      102         0         0            0     8       0        0           0       0        4             0            14      108         122
-   07:30 AM            4     13       0      17            17      15       89        52        7      156         0         0            0    31       0        0           0       0       18             0            73      173         246
-   07:45 AM            5     22       0      32            27      18      119        41       33      178         0         0            0   116       0        0           0       0       30             0           211      205         416
-       Total          13     51       0      51            64      49      323       135       43      507         0         0            0   160       0        0           0       0       54             0           308      571         879
-
-   08:00 AM           11     14       0       9            25      18      105        21        9      144         0         0            0    14       0        0           0       0       17             0            49      169         218
-   08:15 AM            9     20       0       8            29      18       91        18       16      127         0         0            0    26       0        0           0       0       12             0            62      156         218
-   08:30 AM            5     15       0       6            20      22       95        20       18      137         0         0            0    29       0        0           0       0       12             0            65      157         222
-   08:45 AM            9     24       0      11            33      29      107        38       26      174         0         0            0    81       0        0           0       0       21             0           139      207         346
-       Total          34     73       0      34           107      87      398        97       69      582         0         0            0   150       0        0           0       0       62             0           315      689        1004
-
-  Grand Total      47       124       0      85           171    136        721       232     112     1089         0          0        0      310       0        0         0         0      116             0           623     1260        1883
-   Apprch %      27.5      72.5     0.0                          12.5      66.2      21.3                        0.0        0.0      0.0                       0.0       0.0       0.0
-     Total %      3.7       9.8     0.0                  13.6    10.8      57.2      18.4             86.4       0.0        0.0      0.0              0.0      0.0       0.0       0.0                    0.0           33.1    66.9
-
-
-                                     Laurel St.                                   W. Main St. (1 Way)                                          Laurel St.                                 W. Main St. (1 Way)
-                                    Southbound                                       Westbound                                                Northbound                                      Eastbound
-          Start Time   Right      Thru        Left          App. Total       Right          Thru     Left     App. Total          Right       Thru     Left    App. Total          Right       Thru              Left    App. Total      Int. Total
+Peggy Malone and Associates
+904-992-8072
+File Name : Laurel St. and W. Main St.
+Site Code : 00003003
+Start Date : 9/18/2008
+Page No : 1
+Groups Printed- Vehicles
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 4 10 0 0 14 8 51 12 3 71 0 0 0 5 0 0 0 0 2 0 10 85 95
+07:15 AM 0 6 0 2 6 8 64 30 0 102 0 0 0 8 0 0 0 0 4 0 14 108 122
+07:30 AM 4 13 0 17 17 15 89 52 7 156 0 0 0 31 0 0 0 0 18 0 73 173 246
+07:45 AM 5 22 0 32 27 18 119 41 33 178 0 0 0 116 0 0 0 0 30 0 211 205 416
+Total 13 51 0 51 64 49 323 135 43 507 0 0 0 160 0 0 0 0 54 0 308 571 879
+08:00 AM 11 14 0 9 25 18 105 21 9 144 0 0 0 14 0 0 0 0 17 0 49 169 218
+08:15 AM 9 20 0 8 29 18 91 18 16 127 0 0 0 26 0 0 0 0 12 0 62 156 218
+08:30 AM 5 15 0 6 20 22 95 20 18 137 0 0 0 29 0 0 0 0 12 0 65 157 222
+08:45 AM 9 24 0 11 33 29 107 38 26 174 0 0 0 81 0 0 0 0 21 0 139 207 346
+Total 34 73 0 34 107 87 398 97 69 582 0 0 0 150 0 0 0 0 62 0 315 689 1004
+Grand Total 47 124 0 85 171 136 721 232 112 1089 0 0 0 310 0 0 0 0 116 0 623 1260 1883
+Apprch % 27.5 72.5 0.0 12.5 66.2 21.3 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 3.7 9.8 0.0 13.6 10.8 57.2 18.4 86.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 33.1 66.9
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:30 AM
-           Volume             29       69            0             98         69             404      132           605              0           0       0               0            0              0             0             0            703
-           Percent          29.6     70.4          0.0                       11.4           66.8     21.8                          0.0         0.0     0.0                          0.0            0.0           0.0
-     07:45 Volume              5       22            0             27         18             119       41           178              0           0       0               0            0              0             0             0           205
-       Peak Factor                                                                                                                                                                                                                          0.857
-          High Int.      08:15 AM                                         07:45 AM                                           6:45:00 AM                                          6:45:00 AM
-           Volume              9       20           0               29         18           119       41            178
-       Peak Factor                                               0.845                                            0.850
-                                                                                            Peggy Malone and Associates
-                                                                                                   904-992-8072
-                                                                                                                                                               File Name                : Laurel St. and W. Main St.
-                                                                                                                                                               Site Code                : 00003003
-                                                                                                                                                               Start Date               : 9/18/2008
-                                                                                                                                                               Page No                  :1
-                                                                                           Groups Printed- Bicycles
-                                 Laurel St.                                   W. Main St. (1 Way)                   Laurel St.                                                                   W. Main St. (1 Way)
-                                Southbound                                       Westbound                         Northbound                                                                        Eastbound
-                                                          App.                                                         App.                                                    App.                                              App.           Int.
-      Start Time      Right   Thru     Left      Peds                 Right         Thru      Left       Peds                   Right     Thru          Left     Peds                   Right     Thru     Left      Peds
-                                                          Total                                                        Total                                                   Total                                             Total         Total
-          Factor        1.0    1.0      1.0       1.0                   1.0          1.0          1.0     1.0                     1.0      1.0          1.0       1.0                     1.0      1.0     1.0           1.0
-     07:00 AM            0      0           0      1          1          0            0            0           0          0        0         0            0           0            0       0        0        0            0             0          1
-     07:15 AM            0      0           0      0          0          0            0            0           4          4        0         0            0           0            0       0        0        0            0             0          4
-     07:30 AM            0      0           0      0          0          0            0            0           1          1        0         0            0           0            0       0        0        0            1             1          2
-     07:45 AM            0      0           0      3          3          0            0            0           4          4        0         0            0           1            1       0        0        0            0             0          8
-         Total           0      0           0      4          4          0            0            0           9          9        0         0            0           1            1       0        0        0            1             1         15
-
-     08:00 AM            0      0           0      5          5          0            0            0       1              1        0         0            0           1            1       0        0        0            0             0          7
-     08:15 AM            0      0           0      2          2          0            0            0       2              2        0         0            0           1            1       0        0        0            0             0          5
-     08:30 AM            0      0           0      5          5          0            0            0       7              7        0         0            0           1            1       0        0        0            2             2         15
-     08:45 AM            0      0           0      8          8          0            0            0       6              6        0         0            0           3            3       0        0        0            2             2         19
-         Total           0      0           0     20         20          0            0            0      16             16        0         0            0           6            6       0        0        0            4             4         46
-
-   Grand Total           0       0       0        24         24          0             0        0         25             25        0         0            0        7               7       0         0       0          5               5         61
-    Apprch %           0.0     0.0     0.0      100.0                  0.0           0.0      0.0       100.0                    0.0       0.0          0.0    100.0                     0.0       0.0     0.0      100.0
-      Total %          0.0     0.0     0.0       39.3      39.3        0.0           0.0      0.0        41.0          41.0      0.0       0.0          0.0     11.5           11.5      0.0       0.0     0.0        8.2          8.2
-
-
-                                      Laurel St.                                W. Main St. (1 Way)                                           Laurel St.                                        W. Main St. (1 Way)
-                                     Southbound                                    Westbound                                                 Northbound                                             Eastbound
-          Start Time   Right      Thru        Left      App. Total        Right            Thru         Left       App. Total     Right          Thru          Left       App. Total     Right      Thru          Left     App. Total       Int. Total
+Intersection 07:30 AM
+Volume 29 69 0 98 69 404 132 605 0 0 0 0 0 0 0 0 703
+Percent 29.6 70.4 0.0 11.4 66.8 21.8 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 5 22 0 27 18 119 41 178 0 0 0 0 0 0 0 0 205
+Peak Factor 0.857
+High Int. 08:15 AM 07:45 AM 6:45:00 AM 6:45:00 AM
+Volume 9 20 0 29 18 119 41 178
+Peak Factor 0.845 0.850
+Peggy Malone and Associates
+904-992-8072
+File Name : Laurel St. and W. Main St.
+Site Code : 00003003
+Start Date : 9/18/2008
+Page No : 1
+Groups Printed- Bicycles
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+07:15 AM 0 0 0 0 0 0 0 0 4 4 0 0 0 0 0 0 0 0 0 0 4
+07:30 AM 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 2
+07:45 AM 0 0 0 3 3 0 0 0 4 4 0 0 0 1 1 0 0 0 0 0 8
+Total 0 0 0 4 4 0 0 0 9 9 0 0 0 1 1 0 0 0 1 1 15
+08:00 AM 0 0 0 5 5 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 7
+08:15 AM 0 0 0 2 2 0 0 0 2 2 0 0 0 1 1 0 0 0 0 0 5
+08:30 AM 0 0 0 5 5 0 0 0 7 7 0 0 0 1 1 0 0 0 2 2 15
+08:45 AM 0 0 0 8 8 0 0 0 6 6 0 0 0 3 3 0 0 0 2 2 19
+Total 0 0 0 20 20 0 0 0 16 16 0 0 0 6 6 0 0 0 4 4 46
+Grand Total 0 0 0 24 24 0 0 0 25 25 0 0 0 7 7 0 0 0 5 5 61
+Apprch % 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0
+Total % 0.0 0.0 0.0 39.3 39.3 0.0 0.0 0.0 41.0 41.0 0.0 0.0 0.0 11.5 11.5 0.0 0.0 0.0 8.2 8.2
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection     07:00 AM
-           Volume             0         0           0             0             0             0            0               0          0             0            0                0          0         0            0              0                0
-           Percent          0.0       0.0         0.0                         0.0           0.0          0.0                        0.0           0.0          0.0                         0.0       0.0          0.0
-     07:45 Volume             0         0           0             0             0             0            0               0          0             0            0                0          0         0            0              0               0
-       Peak Factor                                                                                                                                                                                                                             0.000
-          High Int.     6:45:00 AM                                     6:45:00 AM                                               6:45:00 AM                                             6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                             Peggy Malone and Associates
-                                                                                                    904-992-8072
-                                                                                                                                                       File Name                  : Laurel St. and W. Main St.
-                                                                                                                                                       Site Code                  : 00003003
-                                                                                                                                                       Start Date                 : 9/18/2008
-                                                                                                                                                       Page No                    :1
-                                                                                          Groups Printed- Vehicles
-                              Laurel St.                                 W. Main St. (1 Way)              Laurel St.                                                   W. Main St. (1 Way)
-                             Southbound                                     Westbound                    Northbound                                                        Eastbound
-                                                         App.                                         App.                                            App.                                              App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left    Peds                 Right     Thru      Left     Peds             Right       Thru      Left     Peds             Right     Thru     Left     Peds
-                                                         Total                                        Total                                           Total                                             Total       Total       Total       Total
-        Factor     1.0       1.0    1.0      1.0                   1.0      1.0       1.0      1.0               1.0        1.0       1.0      1.0               1.0      1.0      1.0      1.0
-    11:00 AM          24     20       0      31            44      18      126        18       23      162         1         0            0    61        1        0           0     0       20             0            135      207         342
-    11:15 AM          13     12       0      14            25      15      125        16       17      156         0         0            0    56        0        0           0     0       15             0            102      181         283
-    11:30 AM          17     20       0      14            37      17      125        13       12      155         0         0            0    51        0        0           0     0       18             0             95      192         287
-    11:45 AM          19     22       0      38            41      21      147        23       51      191         0         0            0   141        0        0           0     0       29             0            259      232         491
-        Total         73     74       0      97           147      71      523        70      103      664         1         0            0   309        1        0           0     0       82             0            591      812        1403
-
-    12:00 PM          22     38       0      30            60      15      155        36       44      206         0         0            0   160        0        0           0     0       21             0            255      266         521
-    12:15 PM          15     27       0      85            42      43      188        33      139      264         0         0            0   401        0        0           0     0       66             0            691      306         997
-    12:30 PM          25     24       0      39            49      18      147        18       36      183         0         0            0   130        0        0           0     0       29             0            234      232         466
-    12:45 PM          17     32       0      35            49      19      162        16       46      197         0         0            0   123        0        0           0     0       36             0            240      246         486
-        Total         79    121       0     189           200      95      652       103      265      850         0         0            0   814        0        0           0     0      152             0           1420     1050        2470
-
-
-  Grand Total     152       195       0     286           347     166     1175       173      368     1514         1         0            0   1123       1        0           0     0      234             0           2011     1862        3873
-
-                                                                                                                100.
-    Apprch %     43.8      56.2     0.0                          11.0      77.6      11.4                                   0.0      0.0                        0.0       0.0     0.0
-                                                                                                                   0
-      Total %      8.2     10.5     0.0                  18.6     8.9      63.1       9.3             81.3       0.1        0.0      0.0               0.1      0.0       0.0     0.0                    0.0           51.9     48.1
-
-
-                                     Laurel St.                                   W. Main St. (1 Way)                                          Laurel St.                                W. Main St. (1 Way)
-                                    Southbound                                       Westbound                                                Northbound                                     Eastbound
-          Start Time   Right       Thru        Left         App. Total       Right          Thru     Left     App. Total          Right        Thru     Left    App. Total        Right       Thru              Left     App. Total      Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone and Associates
+904-992-8072
+File Name : Laurel St. and W. Main St.
+Site Code : 00003003
+Start Date : 9/18/2008
+Page No : 1
+Groups Printed- Vehicles
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 24 20 0 31 44 18 126 18 23 162 1 0 0 61 1 0 0 0 20 0 135 207 342
+11:15 AM 13 12 0 14 25 15 125 16 17 156 0 0 0 56 0 0 0 0 15 0 102 181 283
+11:30 AM 17 20 0 14 37 17 125 13 12 155 0 0 0 51 0 0 0 0 18 0 95 192 287
+11:45 AM 19 22 0 38 41 21 147 23 51 191 0 0 0 141 0 0 0 0 29 0 259 232 491
+Total 73 74 0 97 147 71 523 70 103 664 1 0 0 309 1 0 0 0 82 0 591 812 1403
+12:00 PM 22 38 0 30 60 15 155 36 44 206 0 0 0 160 0 0 0 0 21 0 255 266 521
+12:15 PM 15 27 0 85 42 43 188 33 139 264 0 0 0 401 0 0 0 0 66 0 691 306 997
+12:30 PM 25 24 0 39 49 18 147 18 36 183 0 0 0 130 0 0 0 0 29 0 234 232 466
+12:45 PM 17 32 0 35 49 19 162 16 46 197 0 0 0 123 0 0 0 0 36 0 240 246 486
+Total 79 121 0 189 200 95 652 103 265 850 0 0 0 814 0 0 0 0 152 0 1420 1050 2470
+Grand Total 152 195 0 286 347 166 1175 173 368 1514 1 0 0 1123 1 0 0 0 234 0 2011 1862 3873
+Apprch % 43.8 56.2 0.0 11.0 77.6 11.4
+100.
+0
+0.0 0.0 0.0 0.0 0.0
+Total % 8.2 10.5 0.0 18.6 8.9 63.1 9.3 81.3 0.1 0.0 0.0 0.1 0.0 0.0 0.0 0.0 51.9 48.1
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume             79      121            0            200         95             652      103           850              0            0       0               0          0              0             0              0           1050
-           Percent          39.5     60.5          0.0                       11.2           76.7     12.1                          0.0          0.0     0.0                        0.0            0.0           0.0
-     12:15 Volume             15       27            0             42         43             188       33           264              0            0       0               0          0              0             0              0           306
-       Peak Factor                                                                                                                                                                                                                          0.858
-          High Int.      12:00 PM                                         12:15 PM
-           Volume             22       38           0               60         43           188       33            264
-       Peak Factor                                               0.833                                            0.805
-                                                                                            Peggy Malone and Associates
-                                                                                                   904-992-8072
-                                                                                                                                                            File Name                : Laurel St. and W. Main St.
-                                                                                                                                                            Site Code                : 00003003
-                                                                                                                                                            Start Date               : 9/18/2008
-                                                                                                                                                            Page No                  :1
-                                                                                           Groups Printed- Bicycles
-                                 Laurel St.                                   W. Main St. (1 Way)                   Laurel St.                                                                W. Main St. (1 Way)
-                                Southbound                                       Westbound                         Northbound                                                                     Eastbound
-                                                          App.                                                      App.                                                     App.                                             App.           Int.
-      Start Time      Right   Thru     Left      Peds                 Right         Thru      Left       Peds                Right     Thru          Left     Peds                   Right     Thru     Left      Peds
-                                                          Total                                                     Total                                                    Total                                            Total         Total
-          Factor        1.0    1.0      1.0       1.0                   1.0          1.0          1.0     1.0                  1.0      1.0          1.0       1.0                     1.0      1.0     1.0           1.0
-     11:00 AM            0      0           0      4          4          0            0            0       4           4        0        0             0            2            2      0        0        0            1             1         11
-     11:15 AM            0      0           0      8          8          0            0            0       7           7        0        0             0            0            0      0        0        0            0             0         15
-     11:30 AM            0      0           0      7          7          0            0            0       8           8        0        0             0            2            2      0        0        0            1             1         18
-     11:45 AM            0      0           0      9          9          0            0            0      13          13        0        0             0            2            2      0        0        0            0             0         24
-         Total           0      0           0     28         28          0            0            0      32          32        0        0             0            6            6      0        0        0            2             2         68
-
-      12:00 PM           0      0           0      8          8          0            0            0       8           8        0        0             0            3           3       0        0        0            2             2        21
-      12:15 PM           0      0           0     10         10          0            0            0      18          18        0        0             0            6           6       0        0        0            1             1        35
-      12:30 PM           0      0           0      9          9          0            0            0      11          11        0        0             0            5           5       0        0        0            4             4        29
-      12:45 PM           0      0           0     11         11          0            0            0      11          11        0        0             0            2           2       0        0        0            2             2        26
-          Total          0      0           0     38         38          0            0            0      48          48        0        0             0           16          16       0        0        0            9             9       111
-
-   Grand Total           0       0       0        66         66          0             0        0         80          80        0         0            0       22              22       0         0       0        11            11          179
-    Apprch %           0.0     0.0     0.0      100.0                  0.0           0.0      0.0       100.0                 0.0       0.0          0.0    100.0                     0.0       0.0     0.0      100.0
-      Total %          0.0     0.0     0.0       36.9      36.9        0.0           0.0      0.0        44.7       44.7      0.0       0.0          0.0     12.3            12.3     0.0       0.0     0.0        6.1          6.1
-
-
-                                      Laurel St.                                W. Main St. (1 Way)                                        Laurel St.                                        W. Main St. (1 Way)
-                                     Southbound                                    Westbound                                              Northbound                                             Eastbound
-          Start Time   Right       Thru        Left     App. Total        Right            Thru         Left    App. Total     Right          Thru          Left        App. Total    Right      Thru          Left     App. Total       Int. Total
+Intersection 12:00 PM
+Volume 79 121 0 200 95 652 103 850 0 0 0 0 0 0 0 0 1050
+Percent 39.5 60.5 0.0 11.2 76.7 12.1 0.0 0.0 0.0 0.0 0.0 0.0
+12:15 Volume 15 27 0 42 43 188 33 264 0 0 0 0 0 0 0 0 306
+Peak Factor 0.858
+High Int. 12:00 PM 12:15 PM
+Volume 22 38 0 60 43 188 33 264
+Peak Factor 0.833 0.805
+Peggy Malone and Associates
+904-992-8072
+File Name : Laurel St. and W. Main St.
+Site Code : 00003003
+Start Date : 9/18/2008
+Page No : 1
+Groups Printed- Bicycles
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 4 4 0 0 0 4 4 0 0 0 2 2 0 0 0 1 1 11
+11:15 AM 0 0 0 8 8 0 0 0 7 7 0 0 0 0 0 0 0 0 0 0 15
+11:30 AM 0 0 0 7 7 0 0 0 8 8 0 0 0 2 2 0 0 0 1 1 18
+11:45 AM 0 0 0 9 9 0 0 0 13 13 0 0 0 2 2 0 0 0 0 0 24
+Total 0 0 0 28 28 0 0 0 32 32 0 0 0 6 6 0 0 0 2 2 68
+12:00 PM 0 0 0 8 8 0 0 0 8 8 0 0 0 3 3 0 0 0 2 2 21
+12:15 PM 0 0 0 10 10 0 0 0 18 18 0 0 0 6 6 0 0 0 1 1 35
+12:30 PM 0 0 0 9 9 0 0 0 11 11 0 0 0 5 5 0 0 0 4 4 29
+12:45 PM 0 0 0 11 11 0 0 0 11 11 0 0 0 2 2 0 0 0 2 2 26
+Total 0 0 0 38 38 0 0 0 48 48 0 0 0 16 16 0 0 0 9 9 111
+Grand Total 0 0 0 66 66 0 0 0 80 80 0 0 0 22 22 0 0 0 11 11 179
+Apprch % 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0
+Total % 0.0 0.0 0.0 36.9 36.9 0.0 0.0 0.0 44.7 44.7 0.0 0.0 0.0 12.3 12.3 0.0 0.0 0.0 6.1 6.1
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection     11:00 AM
-           Volume             0         0           0             0             0             0            0            0          0             0            0                 0         0         0            0              0                0
-           Percent          0.0       0.0         0.0                         0.0           0.0          0.0                     0.0           0.0          0.0                         0.0       0.0          0.0
-     11:45 Volume             0         0           0             0             0             0            0            0          0             0            0                 0         0         0            0              0               0
-       Peak Factor                                                                                                                                                                                                                          0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                             Peggy Malone and Associates
-                                                                                                    904-992-8072
-                                                                                                                                                     File Name                  : Laurel St. and W. Main St.
-                                                                                                                                                     Site Code                  : 00003003
-                                                                                                                                                     Start Date                 : 9/18/2008
-                                                                                                                                                     Page No                    :1
-                                                                                          Groups Printed- Vehicles
-                              Laurel St.                                 W. Main St. (1 Way)              Laurel St.                                                 W. Main St. (1 Way)
-                             Southbound                                     Westbound                    Northbound                                                      Eastbound
-                                                         App.                                        App.                                           App.                                              App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left    Peds                 Right     Thru      Left     Peds            Right       Thru      Left     Peds            Right     Thru     Left     Peds
-                                                         Total                                       Total                                          Total                                             Total       Total       Total       Total
-        Factor     1.0       1.0    1.0      1.0                   1.0      1.0      1.0       1.0              1.0        1.0       1.0      1.0              1.0      1.0      1.0      1.0
-    04:00 PM          27     33       0      13            60      24      177        15       24     216         0         0            0    72       0        0           0     0       18             0            127      276         403
-    04:15 PM          23     26       0      23            49      20      143        11       29     174         0         0            0    62       0        0           0     0       23             0            137      223         360
-    04:30 PM          24     32       0      14            56      18      214        19       42     251         0         0            0    61       0        0           0     0       22             0            139      307         446
-    04:45 PM          16     28       0      66            44      33      197        29       39     259         0         0            0   134       0        0           0     0       30             0            269      303         572
-        Total         90    119       0     116           209      95      731        74      134     900         0         0            0   329       0        0           0     0       93             0            672     1109        1781
-
-    05:00 PM       20        37       0      55            57      33      253        27       66     313         0         0            0   157       0        0           0     0       27             0            305      370         675
-    05:15 PM       31        38       0      72            69      46      258        26       68     330         0         0            0   222       0        0           0     0       59             0            421      399         820
-    05:30 PM       24        35       0      15            59      30      251        23       49     304         0         0            0    57       0        0           0     0       15             0            136      363         499
-    05:45 PM       27        28       0      38            55      28      195        25       91     248         0         0            0    91       0        0           0     0       37             0            257      303         560
-        Total     102       138       0     180           240     137      957       101      274    1195         0         0            0   527       0        0           0     0      138             0           1119     1435        2554
-
-  Grand Total    192        257       0     296           449    232      1688       175      408    2095         0          0        0      856       0        0         0       0      231             0           1791     2544        4335
-   Apprch %      42.8      57.2     0.0                          11.1      80.6      8.4                        0.0        0.0      0.0                       0.0       0.0     0.0
-     Total %      7.5      10.1     0.0                  17.6     9.1      66.4      6.9              82.4      0.0        0.0      0.0              0.0      0.0       0.0     0.0                    0.0           41.3     58.7
-
-
-                                     Laurel St.                                   W. Main St. (1 Way)                                         Laurel St.                               W. Main St. (1 Way)
-                                    Southbound                                       Westbound                                               Northbound                                    Eastbound
-          Start Time    Right      Thru        Left         App. Total       Right          Thru     Left    App. Total          Right       Thru     Left    App. Total        Right       Thru              Left     App. Total      Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone and Associates
+904-992-8072
+File Name : Laurel St. and W. Main St.
+Site Code : 00003003
+Start Date : 9/18/2008
+Page No : 1
+Groups Printed- Vehicles
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 27 33 0 13 60 24 177 15 24 216 0 0 0 72 0 0 0 0 18 0 127 276 403
+04:15 PM 23 26 0 23 49 20 143 11 29 174 0 0 0 62 0 0 0 0 23 0 137 223 360
+04:30 PM 24 32 0 14 56 18 214 19 42 251 0 0 0 61 0 0 0 0 22 0 139 307 446
+04:45 PM 16 28 0 66 44 33 197 29 39 259 0 0 0 134 0 0 0 0 30 0 269 303 572
+Total 90 119 0 116 209 95 731 74 134 900 0 0 0 329 0 0 0 0 93 0 672 1109 1781
+05:00 PM 20 37 0 55 57 33 253 27 66 313 0 0 0 157 0 0 0 0 27 0 305 370 675
+05:15 PM 31 38 0 72 69 46 258 26 68 330 0 0 0 222 0 0 0 0 59 0 421 399 820
+05:30 PM 24 35 0 15 59 30 251 23 49 304 0 0 0 57 0 0 0 0 15 0 136 363 499
+05:45 PM 27 28 0 38 55 28 195 25 91 248 0 0 0 91 0 0 0 0 37 0 257 303 560
+Total 102 138 0 180 240 137 957 101 274 1195 0 0 0 527 0 0 0 0 138 0 1119 1435 2554
+Grand Total 192 257 0 296 449 232 1688 175 408 2095 0 0 0 856 0 0 0 0 231 0 1791 2544 4335
+Apprch % 42.8 57.2 0.0 11.1 80.6 8.4 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 7.5 10.1 0.0 17.6 9.1 66.4 6.9 82.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 41.3 58.7
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:45 PM
-           Volume             91      138            0            229        142             959     105         1206               0           0       0               0          0              0             0              0           1435
-           Percent          39.7     60.3          0.0                       11.8           79.5     8.7                          0.0         0.0     0.0                        0.0            0.0           0.0
-     05:15 Volume             31       38            0             69         46             258      26           330              0           0       0               0          0              0             0              0           399
-       Peak Factor                                                                                                                                                                                                                        0.899
-          High Int.      05:15 PM                                         05:15 PM
-           Volume             31       38           0               69         46           258       26           330
-       Peak Factor                                               0.830                                           0.914
-                                                                                            Peggy Malone and Associates
-                                                                                                   904-992-8072
-                                                                                                                                                            File Name                : Laurel St. and W. Main St.
-                                                                                                                                                            Site Code                : 00003003
-                                                                                                                                                            Start Date               : 9/18/2008
-                                                                                                                                                            Page No                  :1
-                                                                                           Groups Printed- Bicycles
-                                 Laurel St.                                   W. Main St. (1 Way)                   Laurel St.                                                                W. Main St. (1 Way)
-                                Southbound                                       Westbound                         Northbound                                                                     Eastbound
-                                                          App.                                                      App.                                                     App.                                             App.           Int.
-      Start Time      Right   Thru     Left      Peds                 Right         Thru      Left       Peds                Right     Thru          Left     Peds                   Right     Thru     Left      Peds
-                                                          Total                                                     Total                                                    Total                                            Total         Total
-          Factor        1.0    1.0      1.0       1.0                   1.0          1.0          1.0     1.0                  1.0      1.0          1.0       1.0                     1.0      1.0     1.0           1.0
-      04:00 PM           0      0           0      7          7          0            0            0      11          11        0        0             0            3           3       0        0        0            1             1         22
-      04:15 PM           0      0           0     12         12          0            0            0       5           5        0        0             0            2           2       0        0        0            1             1         20
-      04:30 PM           0      0           0      4          4          0            0            0       7           7        0        0             0            5           5       0        0        0            1             1         17
-      04:45 PM           0      0           0      9          9          0            0            0      15          15        0        0             0            3           3       0        0        0            0             0         27
-          Total          0      0           0     32         32          0            0            0      38          38        0        0             0           13          13       0        0        0            3             3         86
-
-      05:00 PM           0      0           0      8          8          0            0            0       9           9        0        0             0            4           4       0        0        0            3          3            24
-      05:15 PM           0      0           0      2          2          0            0            0      10          10        0        0             0            7           7       0        0        0            7          7            26
-      05:30 PM           0      0           0      7          7          0            0            0       8           8        0        0             0            4           4       0        0        0            2          2            21
-      05:45 PM           0      0           0      4          4          0            0            0       8           8        0        0             0            1           1       0        0        0            5          5            18
-          Total          0      0           0     21         21          0            0            0      35          35        0        0             0           16          16       0        0        0           17         17            89
-
-   Grand Total           0       0       0        53         53          0             0        0         73          73        0         0            0       29              29       0         0       0        20            20          175
-    Apprch %           0.0     0.0     0.0      100.0                  0.0           0.0      0.0       100.0                 0.0       0.0          0.0    100.0                     0.0       0.0     0.0      100.0
-      Total %          0.0     0.0     0.0       30.3      30.3        0.0           0.0      0.0        41.7       41.7      0.0       0.0          0.0     16.6            16.6     0.0       0.0     0.0       11.4         11.4
-
-
-                                      Laurel St.                                W. Main St. (1 Way)                                        Laurel St.                                        W. Main St. (1 Way)
-                                     Southbound                                    Westbound                                              Northbound                                             Eastbound
-          Start Time    Right      Thru        Left     App. Total        Right            Thru         Left    App. Total     Right          Thru          Left        App. Total    Right      Thru          Left     App. Total       Int. Total
+Intersection 04:45 PM
+Volume 91 138 0 229 142 959 105 1206 0 0 0 0 0 0 0 0 1435
+Percent 39.7 60.3 0.0 11.8 79.5 8.7 0.0 0.0 0.0 0.0 0.0 0.0
+05:15 Volume 31 38 0 69 46 258 26 330 0 0 0 0 0 0 0 0 399
+Peak Factor 0.899
+High Int. 05:15 PM 05:15 PM
+Volume 31 38 0 69 46 258 26 330
+Peak Factor 0.830 0.914
+Peggy Malone and Associates
+904-992-8072
+File Name : Laurel St. and W. Main St.
+Site Code : 00003003
+Start Date : 9/18/2008
+Page No : 1
+Groups Printed- Bicycles
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 7 7 0 0 0 11 11 0 0 0 3 3 0 0 0 1 1 22
+04:15 PM 0 0 0 12 12 0 0 0 5 5 0 0 0 2 2 0 0 0 1 1 20
+04:30 PM 0 0 0 4 4 0 0 0 7 7 0 0 0 5 5 0 0 0 1 1 17
+04:45 PM 0 0 0 9 9 0 0 0 15 15 0 0 0 3 3 0 0 0 0 0 27
+Total 0 0 0 32 32 0 0 0 38 38 0 0 0 13 13 0 0 0 3 3 86
+05:00 PM 0 0 0 8 8 0 0 0 9 9 0 0 0 4 4 0 0 0 3 3 24
+05:15 PM 0 0 0 2 2 0 0 0 10 10 0 0 0 7 7 0 0 0 7 7 26
+05:30 PM 0 0 0 7 7 0 0 0 8 8 0 0 0 4 4 0 0 0 2 2 21
+05:45 PM 0 0 0 4 4 0 0 0 8 8 0 0 0 1 1 0 0 0 5 5 18
+Total 0 0 0 21 21 0 0 0 35 35 0 0 0 16 16 0 0 0 17 17 89
+Grand Total 0 0 0 53 53 0 0 0 73 73 0 0 0 29 29 0 0 0 20 20 175
+Apprch % 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0
+Total % 0.0 0.0 0.0 30.3 30.3 0.0 0.0 0.0 41.7 41.7 0.0 0.0 0.0 16.6 16.6 0.0 0.0 0.0 11.4 11.4
+Laurel St.
+Southbound
+W. Main St. (1 Way)
+Westbound
+Laurel St.
+Northbound
+W. Main St. (1 Way)
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection     04:00 PM
-           Volume             0         0           0             0             0             0            0            0          0             0            0                 0         0         0            0              0                0
-           Percent          0.0       0.0         0.0                         0.0           0.0          0.0                     0.0           0.0          0.0                         0.0       0.0          0.0
-     04:45 Volume             0         0           0             0             0             0            0            0          0             0            0                 0         0         0            0              0               0
-       Peak Factor                                                                                                                                                                                                                          0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

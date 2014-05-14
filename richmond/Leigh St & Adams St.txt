@@ -1,253 +1,391 @@
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                File Name                                                              : 36 Adams St. & Leigh St
-                                                                                                                Site Code                                                              : 00003004
-                                                                                                                Start Date                                                             : 8/14/2008
-                                                                                                                Page No                                                                :1
-                                                                                                       Groups Printed- Vehicles
-                              Adams St.                                       Leigh St.                                Adams St.                                                  Leigh St.
-                             Southbound                                      Westbound                                Northbound                                                 Eastbound
-                                                           App.                                         App.                                            App.                                            App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru      Left     Peds               Right        Thru      Left     Peds            Right     Thru     Left    Peds
-                                                           Total                                        Total                                           Total                                           Total       Total      Total       Total
-        Factor     1.0      1.0      1.0      1.0                    1.0    1.0      1.0       1.0                 1.0         1.0       1.0      1.0              1.0      1.0      1.0     1.0
-   07:00 AM            7      9      17        0             33       7     20         3           2      30         0          2            3     1       5        5       18        3       0           26            3        94          97
-   07:15 AM            2     14      24        1             40      16     33         3           1      52         2          6            2     2      10        7       21        7       0           35            4       137         141
-   07:30 AM            3     38      39        0             80      16     45         2           0      63         2          2            0     0       4        5       40        8       0           53            0       200         200
-   07:45 AM            5     21      30        2             56      32     61         3           0      96         0          9            4     0      13        2       46        4       0           52            2       217         219
-       Total          17     82     110        3            209      71    159        11           3     241         4         19            9     3      32       19      125       22       0          166            9       648         657
-
-   08:00 AM            9     38      61        0            108      22     31         3           0      56        2           7         5        0      14        5       50        8       2           63            2       241         243
-   08:15 AM            5     35      40        0             80      20     32         3           1      55        1           7         2        0      10        9       50        8       0           67            1       212         213
-   08:30 AM            8     22      41        1             71      18     43         5           0      66        9          12         4        0      25        7       44        9       0           60            1       222         223
-   08:45 AM            3     29      39        0             71      13     39         2           0      54       12           7         8        0      27        9       39       11       0           59            0       211         211
-       Total          25    124     181        1            330      73    145        13           1     231       24          33        19        0      76       30      183       36       2          249            4       886         890
-
-  Grand Total     42        206      291       4            539    144      304       24           4     472       28           52       28        3     108      49        308       58      2          415           13      1534        1547
-   Apprch %       7.8      38.2     54.0                           30.5    64.4      5.1                          25.9        48.1     25.9                      11.8      74.2     14.0
-     Total %      2.7      13.4     19.0                   35.1     9.4    19.8      1.6                 30.8      1.8         3.4      1.8              7.0      3.2      20.1      3.8                27.1           0.8      99.2
-
-
-                                      Adams St.                                              Leigh St.                                           Adams St.                                     Leigh St.
-                                     Southbound                                             Westbound                                            Northbound                                   Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru        Left    App. Total           Right       Thru     Left    App. Total        Right      Thru             Left   App. Total       Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 36 Adams St. & Leigh St
+Site Code : 00003004
+Start Date : 8/14/2008
+Page No : 1
+Groups Printed- Vehicles
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 7 9 17 0 33 7 20 3 2 30 0 2 3 1 5 5 18 3 0 26 3 94 97
+07:15 AM 2 14 24 1 40 16 33 3 1 52 2 6 2 2 10 7 21 7 0 35 4 137 141
+07:30 AM 3 38 39 0 80 16 45 2 0 63 2 2 0 0 4 5 40 8 0 53 0 200 200
+07:45 AM 5 21 30 2 56 32 61 3 0 96 0 9 4 0 13 2 46 4 0 52 2 217 219
+Total 17 82 110 3 209 71 159 11 3 241 4 19 9 3 32 19 125 22 0 166 9 648 657
+08:00 AM 9 38 61 0 108 22 31 3 0 56 2 7 5 0 14 5 50 8 2 63 2 241 243
+08:15 AM 5 35 40 0 80 20 32 3 1 55 1 7 2 0 10 9 50 8 0 67 1 212 213
+08:30 AM 8 22 41 1 71 18 43 5 0 66 9 12 4 0 25 7 44 9 0 60 1 222 223
+08:45 AM 3 29 39 0 71 13 39 2 0 54 12 7 8 0 27 9 39 11 0 59 0 211 211
+Total 25 124 181 1 330 73 145 13 1 231 24 33 19 0 76 30 183 36 2 249 4 886 890
+Grand Total 42 206 291 4 539 144 304 24 4 472 28 52 28 3 108 49 308 58 2 415 13 1534 1547
+Apprch % 7.8 38.2 54.0 30.5 64.4 5.1 25.9 48.1 25.9 11.8 74.2 14.0
+Total % 2.7 13.4 19.0 35.1 9.4 19.8 1.6 30.8 1.8 3.4 1.8 7.0 3.2 20.1 3.8 27.1 0.8 99.2
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:45 AM
-           Volume             27       116           172            315       92             167         14           273             12          35      15               62         23        190           29              242            892
-           Percent           8.6      36.8          54.6                     33.7           61.2        5.1                          19.4        56.5    24.2                         9.5      78.5         12.0
-     08:00 Volume              9        38            61            108       22              31          3              56             2           7       5              14           5        50            8               63           241
-       Peak Factor                                                                                                                                                                                                                         0.925
-          High Int.      08:00 AM                                          07:45 AM                                             08:30 AM                                          08:15 AM
-           Volume              9       38            61              108        32           61           3            96             9            12       4               25          9          50             8             67
-       Peak Factor                                                 0.729                                            0.711                                                0.620                                               0.903
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                File Name                                                                 : 36 Adams St. & Leigh St
-                                                                                                                Site Code                                                                 : 00003004
-                                                                                                                Start Date                                                                : 8/14/2008
-                                                                                                                Page No                                                                   :1
-                                                                                                       Groups Printed- Bicycles
-                              Adams St.                                       Leigh St.                                Adams St.                                                  Leigh St.
-                             Southbound                                      Westbound                                Northbound                                                 Eastbound
-                                                           App.                                         App.                                              App.                                              App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left      Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru        Left    Peds
-                                                           Total                                        Total                                             Total                                             Total       Total       Total        Total
-        Factor     1.0       1.0      1.0      1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0         1.0     1.0
-   07:00 AM           0       0        0        0             0       0      0         0           1           0        0         0            0     0       0        0          0       0        0            0              1           0          1
-   07:15 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        1            0              1           0          1
-   07:30 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     2       0        0          0       0        0            0              2           0          2
-   07:45 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     1       0        0          0       0        0            0              1           0          1
-       Total          0       0        0        0             0       0      0         0           1           0        0         0            0     3       0        0          0       0        1            0              5           0          5
-
-   08:00 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:15 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:30 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        1            0              1           0          1
-   08:45 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     1       0        0          0       0        0            0              1           0          1
-       Total          0       0        0        0             0       0      0         0           0           0        0         0            0     1       0        0          0       0        1            0              2           0          2
-
-  Grand Total       0         0         0       0             0       0       0        0           1           0        0          0        0        4       0        0       0          0        2            0              7           0          7
-   Apprch %       0.0       0.0       0.0                           0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0        0.0
-     Total %                                                                                                                                                                                                               100.0      0.0
-
-
-                                       Adams St.                                             Leigh St.                                             Adams St.                                       Leigh St.
-                                      Southbound                                            Westbound                                              Northbound                                     Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total         Right      Thru              Left     App. Total       Int. Total
+Intersection 07:45 AM
+Volume 27 116 172 315 92 167 14 273 12 35 15 62 23 190 29 242 892
+Percent 8.6 36.8 54.6 33.7 61.2 5.1 19.4 56.5 24.2 9.5 78.5 12.0
+08:00 Volume 9 38 61 108 22 31 3 56 2 7 5 14 5 50 8 63 241
+Peak Factor 0.925
+High Int. 08:00 AM 07:45 AM 08:30 AM 08:15 AM
+Volume 9 38 61 108 32 61 3 96 9 12 4 25 9 50 8 67
+Peak Factor 0.729 0.711 0.620 0.903
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 36 Adams St. & Leigh St
+Site Code : 00003004
+Start Date : 8/14/2008
+Page No : 1
+Groups Printed- Bicycles
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+07:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 2
+07:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+Total 0 0 0 0 0 0 0 0 1 0 0 0 0 3 0 0 0 0 1 0 5 0 5
+08:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1
+08:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 2 0 2
+Grand Total 0 0 0 0 0 0 0 0 1 0 0 0 0 4 0 0 0 0 2 0 7 0 7
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:00 AM
-           Volume              0          0            0               0        0              0          0                 0             0           0       0             0             0             0             0              0                0
-           Percent           0.0        0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                         0.0           0.0           0.0
-     07:45 Volume              0          0            0               0        0              0          0                 0             0           0       0             0             0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                               0.000
-          High Int.      6:45:00 AM                                        6:45:00 AM                                             6:45:00 AM                                         6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                File Name                                                            : 36 Adams St. & Leigh St
-                                                                                                                Site Code                                                            : 00003004
-                                                                                                                Start Date                                                           : 8/14/2008
-                                                                                                                Page No                                                              :1
-                                                                                                       Groups Printed- Vehicles
-                              Adams St.                                       Leigh St.                                Adams St.                                                Leigh St.
-                             Southbound                                      Westbound                                Northbound                                               Eastbound
-                                                           App.                                         App.                                          App.                                             App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru      Left     Peds               Right        Thru      Left   Peds            Right     Thru     Left     Peds
-                                                           Total                                        Total                                         Total                                            Total       Total      Total       Total
-        Factor     1.0       1.0     1.0      1.0                    1.0    1.0      1.0       1.0                 1.0         1.0       1.0    1.0              1.0      1.0      1.0      1.0
-    11:00 AM           5     15      25        0             45      18     34         1           1      53        7          23         3      0      33        1       37        6        0           44            1       175         176
-    11:15 AM           5     15      20        0             40      20     35         3           2      58        6          21         5      3      32        9       27        7        0           43            5       173         178
-    11:30 AM           3     22      24        0             49      21     47         4           0      72       11          21         4      0      36        8       40        5        1           53            1       210         211
-    11:45 AM          12     21      21        1             54      12     38         1           1      51       12          18         5      0      35        5       49        7        1           61            3       201         204
-        Total         25     73      90        1            188      71    154         9           4     234       36          83        17      3     136       23      153       25        2          201           10       759         769
-
-    12:00 PM          13     16      25        0             54      24     55         5           1      84        7          22         5      0      34        5       51        7        0           63            1       235         236
-    12:15 PM           4     25      25        0             54      15     50         1           2      66       11          22        10      4      43        8       56        9        0           73            6       236         242
-    12:30 PM           4     22      24        0             50      20     50         3           1      73        8          25         3      0      36        8       46        4        0           58            1       217         218
-    12:45 PM           6     18      31        0             55      16     41         0           4      57        7          29         7      0      43        9       54       17        2           80            6       235         241
-        Total         27     81     105        0            213      75    196         9           8     280       33          98        25      4     156       30      207       37        2          274           14       923         937
-
-  Grand Total      52       154      195       1            401    146      350       18       12        514       69          181       42      7     292      53        360       62       4          475           24      1682        1706
-   Apprch %      13.0      38.4     48.6                           28.4    68.1      3.5                          23.6        62.0     14.4                    11.2      75.8     13.1
-     Total %      3.1       9.2     11.6                   23.8     8.7    20.8      1.1                 30.6      4.1        10.8      2.5           17.4      3.2      21.4      3.7                 28.2           1.4      98.6
-
-
-                                      Adams St.                                              Leigh St.                                         Adams St.                                      Leigh St.
-                                     Southbound                                             Westbound                                          Northbound                                    Eastbound
-          Start Time   Right       Thru        Left           App. Total     Right          Thru        Left    App. Total           Right     Thru     Left    App. Total        Right       Thru             Left   App. Total       Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 36 Adams St. & Leigh St
+Site Code : 00003004
+Start Date : 8/14/2008
+Page No : 1
+Groups Printed- Vehicles
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 5 15 25 0 45 18 34 1 1 53 7 23 3 0 33 1 37 6 0 44 1 175 176
+11:15 AM 5 15 20 0 40 20 35 3 2 58 6 21 5 3 32 9 27 7 0 43 5 173 178
+11:30 AM 3 22 24 0 49 21 47 4 0 72 11 21 4 0 36 8 40 5 1 53 1 210 211
+11:45 AM 12 21 21 1 54 12 38 1 1 51 12 18 5 0 35 5 49 7 1 61 3 201 204
+Total 25 73 90 1 188 71 154 9 4 234 36 83 17 3 136 23 153 25 2 201 10 759 769
+12:00 PM 13 16 25 0 54 24 55 5 1 84 7 22 5 0 34 5 51 7 0 63 1 235 236
+12:15 PM 4 25 25 0 54 15 50 1 2 66 11 22 10 4 43 8 56 9 0 73 6 236 242
+12:30 PM 4 22 24 0 50 20 50 3 1 73 8 25 3 0 36 8 46 4 0 58 1 217 218
+12:45 PM 6 18 31 0 55 16 41 0 4 57 7 29 7 0 43 9 54 17 2 80 6 235 241
+Total 27 81 105 0 213 75 196 9 8 280 33 98 25 4 156 30 207 37 2 274 14 923 937
+Grand Total 52 154 195 1 401 146 350 18 12 514 69 181 42 7 292 53 360 62 4 475 24 1682 1706
+Apprch % 13.0 38.4 48.6 28.4 68.1 3.5 23.6 62.0 14.4 11.2 75.8 13.1
+Total % 3.1 9.2 11.6 23.8 8.7 20.8 1.1 30.6 4.1 10.8 2.5 17.4 3.2 21.4 3.7 28.2 1.4 98.6
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume             27        81          105             213       75             196          9           280             33        98      25              156        30          207           37              274            923
-           Percent          12.7      38.0          49.3                     26.8           70.0        3.2                          21.2      62.8    16.0                       10.9        75.5         13.5
-     12:15 Volume              4        25           25              54       15              50          1              66           11        22      10               43          8          56            9               73           236
-       Peak Factor                                                                                                                                                                                                                        0.978
-          High Int.      12:45 PM                                          12:00 PM                                             12:15 PM                                        12:45 PM
-           Volume              6       18            31               55        24           55           5            84            11          22      10               43          9           54            17             80
-       Peak Factor                                                 0.968                                            0.833                                              0.907                                                0.856
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                               File Name                                                               : 36 Adams St. & Leigh St
-                                                                                                               Site Code                                                               : 00003004
-                                                                                                               Start Date                                                              : 8/14/2008
-                                                                                                               Page No                                                                 :1
-                                                                                                      Groups Printed- Bicycles
-                              Adams St.                                      Leigh St.                                Adams St.                                                  Leigh St.
-                             Southbound                                     Westbound                                Northbound                                                 Eastbound
-                                                          App.                                         App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                        Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0      1.0     1.0       1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    11:00 AM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    11:15 AM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       1             0              1           0          1
-    11:30 AM          0       0       0        2             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              2           0          2
-    11:45 AM          0       0       0        0             0       0      0         0           0           0        0         0            0     1       0        0          0     0       1             0              2           0          2
-        Total         0       0       0        2             0       0      0         0           0           0        0         0            0     1       0        0          0     0       2             0              5           0          5
-
-    12:00 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     1       0        0          0     0       0             0              1           0          1
-    12:15 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:30 PM          0       0       0        0             0       0      0         0           1           0        0         0            0     2       0        0          0     0       0             0              3           0          3
-    12:45 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     1       0        0          0     0       0             0              1           0          1
-        Total         0       0       0        0             0       0      0         0           1           0        0         0            0     4       0        0          0     0       0             0              5           0          5
-
-  Grand Total        0        0       0        2             0       0       0        0           1           0        0          0        0        5       0        0       0        0       2             0             10           0         10
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                            100.0      0.0
-
-
-                                     Adams St.                                              Leigh St.                                             Adams St.                                    Leigh St.
-                                    Southbound                                             Westbound                                              Northbound                                  Eastbound
-          Start Time   Right       Thru        Left          App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 12:00 PM
+Volume 27 81 105 213 75 196 9 280 33 98 25 156 30 207 37 274 923
+Percent 12.7 38.0 49.3 26.8 70.0 3.2 21.2 62.8 16.0 10.9 75.5 13.5
+12:15 Volume 4 25 25 54 15 50 1 66 11 22 10 43 8 56 9 73 236
+Peak Factor 0.978
+High Int. 12:45 PM 12:00 PM 12:15 PM 12:45 PM
+Volume 6 18 31 55 24 55 5 84 11 22 10 43 9 54 17 80
+Peak Factor 0.968 0.833 0.907 0.856
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 36 Adams St. & Leigh St
+Site Code : 00003004
+Start Date : 8/14/2008
+Page No : 1
+Groups Printed- Bicycles
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1
+11:30 AM 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+11:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 2 0 2
+Total 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 2 0 5 0 5
+12:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+12:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:30 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 2 0 0 0 0 0 0 3 0 3
+12:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+Total 0 0 0 0 0 0 0 0 1 0 0 0 0 4 0 0 0 0 0 0 5 0 5
+Grand Total 0 0 0 2 0 0 0 0 1 0 0 0 0 5 0 0 0 0 2 0 10 0 10
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:00 AM
-           Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     11:45 Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                            0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                File Name                                                           : 36 Adams St. & Leigh St
-                                                                                                                Site Code                                                           : 00003004
-                                                                                                                Start Date                                                          : 8/14/2008
-                                                                                                                Page No                                                             :1
-                                                                                                       Groups Printed- Vehicles
-                              Adams St.                                       Leigh St.                                Adams St.                                               Leigh St.
-                             Southbound                                      Westbound                                Northbound                                              Eastbound
-                                                           App.                                         App.                                         App.                                             App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru      Left     Peds               Right       Thru      Left   Peds            Right     Thru     Left     Peds
-                                                           Total                                        Total                                        Total                                            Total       Total      Total       Total
-        Factor     1.0       1.0     1.0      1.0                    1.0    1.0      1.0       1.0                 1.0        1.0       1.0    1.0              1.0      1.0      1.0      1.0
-    04:00 PM           1     25      30        0             56      23     65         4           0      92        4         13         8      0      25        5       40        4        1           49            1       222         223
-    04:15 PM           0     18      22        1             40      47     68         8           0     123        6         22         8      1      36        5       35        4        2           44            4       243         247
-    04:30 PM           5     22      28        0             55      51     92         5           2     148        4         23         4      0      31        2       51       13        0           66            2       300         302
-    04:45 PM           5     27      26        0             58      52     84         1           1     137        4         27         6      1      37       10       59        8        0           77            2       309         311
-        Total         11     92     106        1            209     173    309        18           3     500       18         85        26      2     129       22      185       29        3          236            9      1074        1083
-
-    05:00 PM           9     20      36        0             65      75    115         3           2     193        5         35        18      0      58        7       62       11        0           80            2       396         398
-    05:15 PM          15     26      32        0             73      73    144         5           4     222        7         31        18      0      56        4       52        7        1           63            5       414         419
-    05:30 PM           8     21      25        1             54      73    118         2           0     193        4         40         9      1      53        5       47       14        0           66            2       366         368
-    05:45 PM           5     18      24        0             47      44     67         1           2     112        7         27        12      0      46        2       31       13        0           46            2       251         253
-        Total         37     85     117        1            239     265    444        11           8     720       23        133        57      1     213       18      192       45        1          255           11      1427        1438
-
-  Grand Total      48       177      223       2            448    438      753       29       11       1220       41         218       83      3     342      40        377       74       4          491           20      2501        2521
-   Apprch %      10.7      39.5     49.8                           35.9    61.7      2.4                          12.0       63.7     24.3                     8.1      76.8     15.1
-     Total %      1.9       7.1      8.9                   17.9    17.5    30.1      1.2                 48.8      1.6        8.7      3.3           13.7      1.6      15.1      3.0                 19.6           0.8      99.2
-
-
-                                      Adams St.                                              Leigh St.                                        Adams St.                                      Leigh St.
-                                     Southbound                                             Westbound                                         Northbound                                    Eastbound
-          Start Time    Right      Thru        Left           App. Total     Right          Thru        Left    App. Total          Right     Thru     Left    App. Total        Right       Thru             Left   App. Total       Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 36 Adams St. & Leigh St
+Site Code : 00003004
+Start Date : 8/14/2008
+Page No : 1
+Groups Printed- Vehicles
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 1 25 30 0 56 23 65 4 0 92 4 13 8 0 25 5 40 4 1 49 1 222 223
+04:15 PM 0 18 22 1 40 47 68 8 0 123 6 22 8 1 36 5 35 4 2 44 4 243 247
+04:30 PM 5 22 28 0 55 51 92 5 2 148 4 23 4 0 31 2 51 13 0 66 2 300 302
+04:45 PM 5 27 26 0 58 52 84 1 1 137 4 27 6 1 37 10 59 8 0 77 2 309 311
+Total 11 92 106 1 209 173 309 18 3 500 18 85 26 2 129 22 185 29 3 236 9 1074 1083
+05:00 PM 9 20 36 0 65 75 115 3 2 193 5 35 18 0 58 7 62 11 0 80 2 396 398
+05:15 PM 15 26 32 0 73 73 144 5 4 222 7 31 18 0 56 4 52 7 1 63 5 414 419
+05:30 PM 8 21 25 1 54 73 118 2 0 193 4 40 9 1 53 5 47 14 0 66 2 366 368
+05:45 PM 5 18 24 0 47 44 67 1 2 112 7 27 12 0 46 2 31 13 0 46 2 251 253
+Total 37 85 117 1 239 265 444 11 8 720 23 133 57 1 213 18 192 45 1 255 11 1427 1438
+Grand Total 48 177 223 2 448 438 753 29 11 1220 41 218 83 3 342 40 377 74 4 491 20 2501 2521
+Apprch % 10.7 39.5 49.8 35.9 61.7 2.4 12.0 63.7 24.3 8.1 76.8 15.1
+Total % 1.9 7.1 8.9 17.9 17.5 30.1 1.2 48.8 1.6 8.7 3.3 13.7 1.6 15.1 3.0 19.6 0.8 99.2
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:45 PM
-           Volume             37        94          119             250      273             461         11           745            20        133      51             204         26         220           40              286           1485
-           Percent          14.8      37.6          47.6                     36.6           61.9        1.5                          9.8      65.2    25.0                         9.1       76.9         14.0
-     05:15 Volume             15        26           32              73       73             144          5           222              7        31     18               56           4         52            7               63           414
-       Peak Factor                                                                                                                                                                                                                       0.897
-          High Int.      05:15 PM                                          05:15 PM                                            05:00 PM                                        05:00 PM
-           Volume             15       26            32               73        73          144           5           222            5          35      18               58          7           62            11             80
-       Peak Factor                                                 0.856                                            0.839                                             0.879                                                0.894
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                               File Name                                                               : 36 Adams St. & Leigh St
-                                                                                                               Site Code                                                               : 00003004
-                                                                                                               Start Date                                                              : 8/14/2008
-                                                                                                               Page No                                                                 :1
-                                                                                                      Groups Printed- Bicycles
-                              Adams St.                                      Leigh St.                                Adams St.                                                  Leigh St.
-                             Southbound                                     Westbound                                Northbound                                                 Eastbound
-                                                          App.                                         App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                        Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0       1.0    1.0       1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    04:00 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       2             0              2           0          2
-    04:15 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    04:30 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    04:45 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     1       0        0          0     0       0             0              1           0          1
-        Total         0       0       0        0             0       0      0         0           0           0        0         0            0     1       0        0          0     0       2             0              3           0          3
-
-    05:00 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    05:15 PM          0       0       0        0             0       0      0         0           1           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    05:30 PM          0       0       0        0             0       0      0         0           1           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    05:45 PM          0       0       0        0             0       0      0         0           1           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-        Total         0       0       0        0             0       0      0         0           3           0        0         0            0     0       0        0          0     0       0             0              3           0          3
-
-  Grand Total        0        0       0        0             0       0       0        0           3           0        0          0        0        1       0        0       0        0       2             0              6           0          6
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                            100.0      0.0
-
-
-                                     Adams St.                                              Leigh St.                                             Adams St.                                    Leigh St.
-                                    Southbound                                             Westbound                                              Northbound                                  Eastbound
-          Start Time    Right      Thru        Left          App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 04:45 PM
+Volume 37 94 119 250 273 461 11 745 20 133 51 204 26 220 40 286 1485
+Percent 14.8 37.6 47.6 36.6 61.9 1.5 9.8 65.2 25.0 9.1 76.9 14.0
+05:15 Volume 15 26 32 73 73 144 5 222 7 31 18 56 4 52 7 63 414
+Peak Factor 0.897
+High Int. 05:15 PM 05:15 PM 05:00 PM 05:00 PM
+Volume 15 26 32 73 73 144 5 222 5 35 18 58 7 62 11 80
+Peak Factor 0.856 0.839 0.879 0.894
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 36 Adams St. & Leigh St
+Site Code : 00003004
+Start Date : 8/14/2008
+Page No : 1
+Groups Printed- Bicycles
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2 0 2
+04:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+04:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+04:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 2 0 3 0 3
+05:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+05:15 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+05:30 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+05:45 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+Total 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 3 0 3
+Grand Total 0 0 0 0 0 0 0 0 3 0 0 0 0 1 0 0 0 0 2 0 6 0 6
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Adams St.
+Southbound
+Leigh St.
+Westbound
+Adams St.
+Northbound
+Leigh St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     04:45 Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                            0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

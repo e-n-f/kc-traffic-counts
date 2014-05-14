@@ -1,257 +1,373 @@
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                 File Name                     : 67 Adams St & Main St
-                                                                                                                                                                 Site Code                     : 00001632
-                                                                                                                                                                 Start Date                    : 7/31/2008
-                                                                                                                                                                 Page No                       :1
-                                                                                                        Groups Printed- Vehicles
-                              Adams St.                                        Main St.                                 Adams St.
-                             Southbound                                       Westbound                                Northbound                                                Eastbound
-                                                            App.                                         App.                                           App.                                                App.       Exclu.     Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds               Right       Thru      Left     Peds            Right     Thru        Left    Peds
-                                                            Total                                        Total                                          Total                                               Total       Total     Total       Total
-        Factor     1.0      1.0     1.0         1.0                   1.0    1.0      1.0       1.0                 1.0        1.0       1.0      1.0              1.0      1.0         1.0     1.0
-   07:00 AM           0       0       0          2             0       1     68         1           0      70         0         0            0     1       0        0            0       0        0            0            3       70          73
-   07:15 AM           2       6       0          3             8       2     66         1           1      69         0         1            1     0       2        0            0       0        1            0            5       79          84
-   07:30 AM           1       0       0          4             1       6    101         5           0     112         0         3            3     0       6        0            0       0        1            0            5      119         124
-   07:45 AM           0       1       0          6             1       3    101         4           5     108         0         1            1     0       2        0            0       0        1            0           12      111         123
-       Total          3       7       0         15            10      12    336        11           6     359         0         5            5     1      10        0            0       0        3            0           25      379         404
-
-   08:00 AM           3       2       0          2             5       6     99         3           0     108         0         0            1     1       1        0            0       0        1            0            4      114         118
-   08:15 AM           2       0       0          5             2       4    103         2           3     109         0         0            3     0       3        0            0       0        1            0            9      114         123
-   08:30 AM           0       2       0          4             2       3    110         5           2     118         0         2            1     0       3        0            0       0        1            0            7      123         130
-   08:45 AM           2       5       0          3             7       5    121         2           3     128         0         2            2     2       4        0            0       0        2            0           10      139         149
-       Total          7       9       0         14            16      18    433        12           8     463         0         4            7     3      11        0            0       0        5            0           30      490         520
-
-  Grand Total      10        16       0         29            26     30      769       23       14        822         0          9       12        4      21        0         0          0        8            0           55      869         924
-   Apprch %      38.5      61.5     0.0                              3.6    93.6      2.8                           0.0       42.9     57.1                       0.0       0.0        0.0
-     Total %      1.2       1.8     0.0                      3.0     3.5    88.5      2.6                 94.6      0.0        1.0      1.4              2.4      0.0       0.0        0.0                   0.0           6.0    94.0
-
-
-                                     Adams St.                                                Main St.                                           Adams St.
-                                    Southbound                                               Westbound                                           Northbound                                       Eastbound
-          Start Time   Right      Thru        Left             App. Total     Right          Thru        Left    App. Total          Right       Thru     Left    App. Total           Right      Thru              Left   App. Total      Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 67 Adams St & Main St
+Site Code : 00001632
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Vehicles
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 2 0 1 68 1 0 70 0 0 0 1 0 0 0 0 0 0 3 70 73
+07:15 AM 2 6 0 3 8 2 66 1 1 69 0 1 1 0 2 0 0 0 1 0 5 79 84
+07:30 AM 1 0 0 4 1 6 101 5 0 112 0 3 3 0 6 0 0 0 1 0 5 119 124
+07:45 AM 0 1 0 6 1 3 101 4 5 108 0 1 1 0 2 0 0 0 1 0 12 111 123
+Total 3 7 0 15 10 12 336 11 6 359 0 5 5 1 10 0 0 0 3 0 25 379 404
+08:00 AM 3 2 0 2 5 6 99 3 0 108 0 0 1 1 1 0 0 0 1 0 4 114 118
+08:15 AM 2 0 0 5 2 4 103 2 3 109 0 0 3 0 3 0 0 0 1 0 9 114 123
+08:30 AM 0 2 0 4 2 3 110 5 2 118 0 2 1 0 3 0 0 0 1 0 7 123 130
+08:45 AM 2 5 0 3 7 5 121 2 3 128 0 2 2 2 4 0 0 0 2 0 10 139 149
+Total 7 9 0 14 16 18 433 12 8 463 0 4 7 3 11 0 0 0 5 0 30 490 520
+Grand Total 10 16 0 29 26 30 769 23 14 822 0 9 12 4 21 0 0 0 8 0 55 869 924
+Apprch % 38.5 61.5 0.0 3.6 93.6 2.8 0.0 42.9 57.1 0.0 0.0 0.0
+Total % 1.2 1.8 0.0 3.0 3.5 88.5 2.6 94.6 0.0 1.0 1.4 2.4 0.0 0.0 0.0 0.0 6.0 94.0
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      08:00 AM
-           Volume              7        9               0             16       18             433         12           463              0           4       7              11             0             0             0            0            490
-           Percent          43.8     56.3             0.0                      3.9           93.5        2.6                          0.0        36.4    63.6                           0.0           0.0           0.0
-     08:45 Volume              2        5               0               7        5            121          2           128              0           2       2               4             0             0             0            0           139
-       Peak Factor                                                                                                                                                                                                                            0.881
-          High Int.      08:45 AM                                           08:45 AM                                            08:45 AM                                             6:45:00 AM
-           Volume              2           5           0                7         5          121           2           128            0             2       2                4
-       Peak Factor                                                  0.571                                            0.904                                               0.688
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                                                                   File Name                   : 67 Adams St & Main St
-                                                                                                                                                                   Site Code                   : 00001632
-                                                                                                                                                                   Start Date                  : 7/31/2008
-                                                                                                                                                                   Page No                     :1
-                                                                                                       Groups Printed- Bicycles
-                              Adams St.                                       Main St.                                 Adams St.
-                             Southbound                                      Westbound                                Northbound                                                 Eastbound
-                                                           App.                                         App.                                              App.                                              App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left      Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru        Left    Peds
-                                                           Total                                        Total                                             Total                                             Total       Total       Total        Total
-        Factor     1.0       1.0      1.0      1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0         1.0     1.0
-   07:00 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   07:15 AM           0       0        0        1             0       0      0         0           1           0        0         0            0     0       0        0          0       0        0            0              2           0          2
-   07:30 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   07:45 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-       Total          0       0        0        1             0       0      0         0           1           0        0         0            0     0       0        0          0       0        0            0              2           0          2
-
-   08:00 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:15 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:30 AM           0       0        0        1             0       0      0         0           1           0        0         0            0     0       0        0          0       0        0            0              2           0          2
-   08:45 AM           0       0        0        1             0       0      0         0           0           0        0         0            0     0       0        0          0       0        0            0              1           0          1
-       Total          0       0        0        2             0       0      0         0           1           0        0         0            0     0       0        0          0       0        0            0              3           0          3
-
-  Grand Total       0         0         0       3             0       0       0        0           2           0        0          0        0        0       0        0       0          0        0            0              5           0          5
-   Apprch %       0.0       0.0       0.0                           0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0        0.0
-     Total %                                                                                                                                                                                                               100.0      0.0
-
-
-                                       Adams St.                                             Main St.                                              Adams St.
-                                      Southbound                                            Westbound                                              Northbound                                     Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total         Right      Thru              Left     App. Total       Int. Total
+Intersection 08:00 AM
+Volume 7 9 0 16 18 433 12 463 0 4 7 11 0 0 0 0 490
+Percent 43.8 56.3 0.0 3.9 93.5 2.6 0.0 36.4 63.6 0.0 0.0 0.0
+08:45 Volume 2 5 0 7 5 121 2 128 0 2 2 4 0 0 0 0 139
+Peak Factor 0.881
+High Int. 08:45 AM 08:45 AM 08:45 AM 6:45:00 AM
+Volume 2 5 0 7 5 121 2 128 0 2 2 4
+Peak Factor 0.571 0.904 0.688
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 67 Adams St & Main St
+Site Code : 00001632
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Bicycles
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:15 AM 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+08:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:30 AM 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+08:45 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+Total 0 0 0 2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 3 0 3
+Grand Total 0 0 0 3 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 5 0 5
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:00 AM
-           Volume              0          0            0               0        0              0          0                 0             0           0       0             0             0             0             0              0                0
-           Percent           0.0        0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                         0.0           0.0           0.0
-     07:45 Volume              0          0            0               0        0              0          0                 0             0           0       0             0             0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                               0.000
-          High Int.      6:45:00 AM                                        6:45:00 AM                                             6:45:00 AM                                         6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                               File Name                   : 67 Adams St & Main St
-                                                                                                                                                               Site Code                   : 00001632
-                                                                                                                                                               Start Date                  : 7/31/2008
-                                                                                                                                                               Page No                     :1
-                                                                                                        Groups Printed- Vehicles
-                              Adams St.                                        Main St.                                 Adams St.
-                             Southbound                                       Westbound                                Northbound                                              Eastbound
-                                                            App.                                         App.                                         App.                                              App.       Exclu.     Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds               Right       Thru      Left   Peds            Right     Thru      Left    Peds
-                                                            Total                                        Total                                        Total                                             Total       Total     Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0      1.0       1.0                 1.0        1.0       1.0    1.0              1.0      1.0       1.0     1.0
-    11:00 AM          0       0       0          1             0       0     110        4           1     114         0         1         3      0       4        0            0     0       0             0            2      118         120
-    11:15 AM          0       0       0          2             0       0     121        0           1     121         0         0         5      0       5        0            0     0       0             0            3      126         129
-    11:30 AM          1       0       0          8             1       0     137        0           3     137         0         0         5      1       5        0            0     0       2             0           14      143         157
-    11:45 AM          0       0       0          2             0       0     147        1           0     148         0         1         4      0       5        0            0     0       0             0            2      153         155
-        Total         1       0       0         13             1       0     515        5           5     520         0         2        17      1      19        0            0     0       2             0           21      540         561
-
-    12:00 PM          0       0       0          3             0       0     155        1           0     156         0         0         7      0       7        0            0     0       0             0            3      163         166
-    12:15 PM          0       0       0          8             0       0     169        3           3     172         0         0         3      4       3        0            0     0       1             0           16      175         191
-    12:30 PM          0       0       0          2             0       0     158        4           0     162         0         0         7      1       7        0            0     0       1             0            4      169         173
-    12:45 PM          0       0       0         12             0       2     142        4           2     148         0         0         6      1       6        0            0     0       2             0           17      154         171
-        Total         0       0       0         25             0       2     624       12           5     638         0         0        23      6      23        0            0     0       4             0           40      661         701
-
-  Grand Total       1         0       0         38             1       2    1139       17       10       1158         0         2        40      7      42        0            0     0       6             0           61     1201        1262
-                 100.
-    Apprch %                0.0     0.0                              0.2    98.4      1.5                           0.0        4.8     95.2                     0.0       0.0      0.0
-                    0
-      Total %     0.1       0.0     0.0                      0.1     0.2    94.8      1.4                 96.4      0.0        0.2      3.3            3.5      0.0       0.0      0.0                   0.0           4.8    95.2
-
-
-                                     Adams St.                                                Main St.                                         Adams St.
-                                    Southbound                                               Westbound                                         Northbound                                    Eastbound
-          Start Time   Right       Thru        Left            App. Total     Right          Thru        Left    App. Total          Right     Thru     Left    App. Total         Right      Thru              Left   App. Total      Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 67 Adams St & Main St
+Site Code : 00001632
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Vehicles
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 1 0 0 110 4 1 114 0 1 3 0 4 0 0 0 0 0 2 118 120
+11:15 AM 0 0 0 2 0 0 121 0 1 121 0 0 5 0 5 0 0 0 0 0 3 126 129
+11:30 AM 1 0 0 8 1 0 137 0 3 137 0 0 5 1 5 0 0 0 2 0 14 143 157
+11:45 AM 0 0 0 2 0 0 147 1 0 148 0 1 4 0 5 0 0 0 0 0 2 153 155
+Total 1 0 0 13 1 0 515 5 5 520 0 2 17 1 19 0 0 0 2 0 21 540 561
+12:00 PM 0 0 0 3 0 0 155 1 0 156 0 0 7 0 7 0 0 0 0 0 3 163 166
+12:15 PM 0 0 0 8 0 0 169 3 3 172 0 0 3 4 3 0 0 0 1 0 16 175 191
+12:30 PM 0 0 0 2 0 0 158 4 0 162 0 0 7 1 7 0 0 0 1 0 4 169 173
+12:45 PM 0 0 0 12 0 2 142 4 2 148 0 0 6 1 6 0 0 0 2 0 17 154 171
+Total 0 0 0 25 0 2 624 12 5 638 0 0 23 6 23 0 0 0 4 0 40 661 701
+Grand Total 1 0 0 38 1 2 1139 17 10 1158 0 2 40 7 42 0 0 0 6 0 61 1201 1262
+Apprch %
+100.
+0
+0.0 0.0 0.2 98.4 1.5 0.0 4.8 95.2 0.0 0.0 0.0
+Total % 0.1 0.0 0.0 0.1 0.2 94.8 1.4 96.4 0.0 0.2 3.3 3.5 0.0 0.0 0.0 0.0 4.8 95.2
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume              0         0              0               0        2            624         12           638              0         0      23              23           0             0             0            0            661
-           Percent           0.0       0.0            0.0                      0.3           97.8        1.9                          0.0       0.0   100.0                         0.0           0.0           0.0
-     12:15 Volume              0         0              0               0        0            169          3           172              0         0       3               3           0             0             0            0           175
-       Peak Factor                                                                                                                                                                                                                        0.944
-          High Int.                                                         12:15 PM                                            12:00 PM
-           Volume             0            0           0                0         0          169           3           172            0           0       7                7
-       Peak Factor                                                                                                   0.927                                             0.821
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                  File Name                 : 67 Adams St & Main St
-                                                                                                                                                                  Site Code                 : 00001632
-                                                                                                                                                                  Start Date                : 7/31/2008
-                                                                                                                                                                  Page No                   :1
-                                                                                                      Groups Printed- Bicycles
-                              Adams St.                                      Main St.                                 Adams St.
-                             Southbound                                     Westbound                                Northbound                                                 Eastbound
-                                                          App.                                         App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                        Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0      1.0     1.0       1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    11:00 AM          0       0       0        0             0       0      0         0           1           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    11:15 AM          0       0       0        1             0       0      0         0           1           0        0         0            0     0       0        0          0     0       0             0              2           0          2
-    11:30 AM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    11:45 AM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-        Total         0       0       0        1             0       0      0         0           2           0        0         0            0     0       0        0          0     0       0             0              3           0          3
-
-    12:00 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:15 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:30 PM          0       0       0        1             0       0      0         0           1           0        0         0            0     1       0        0          0     0       0             0              3           0          3
-    12:45 PM          0       0       0        0             0       0      0         0           3           0        0         0            0     0       0        0          0     0       0             0              3           0          3
-        Total         0       0       0        1             0       0      0         0           4           0        0         0            0     1       0        0          0     0       0             0              6           0          6
-
-  Grand Total        0        0       0        2             0       0       0        0           6           0        0          0        0        1       0        0       0        0       0             0              9           0          9
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                            100.0      0.0
-
-
-                                     Adams St.                                              Main St.                                              Adams St.
-                                    Southbound                                             Westbound                                              Northbound                                  Eastbound
-          Start Time   Right       Thru        Left          App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 12:00 PM
+Volume 0 0 0 0 2 624 12 638 0 0 23 23 0 0 0 0 661
+Percent 0.0 0.0 0.0 0.3 97.8 1.9 0.0 0.0 100.0 0.0 0.0 0.0
+12:15 Volume 0 0 0 0 0 169 3 172 0 0 3 3 0 0 0 0 175
+Peak Factor 0.944
+High Int. 12:15 PM 12:00 PM
+Volume 0 0 0 0 0 169 3 172 0 0 7 7
+Peak Factor 0.927 0.821
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 67 Adams St & Main St
+Site Code : 00001632
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Bicycles
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+11:15 AM 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+11:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 1 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 3 0 3
+12:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:30 PM 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 3 0 3
+12:45 PM 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 3 0 3
+Total 0 0 0 1 0 0 0 0 4 0 0 0 0 1 0 0 0 0 0 0 6 0 6
+Grand Total 0 0 0 2 0 0 0 0 6 0 0 0 0 1 0 0 0 0 0 0 9 0 9
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:00 AM
-           Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     11:45 Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                            0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                               File Name                   : 67 Adams St & Main St
-                                                                                                                                                               Site Code                   : 00001632
-                                                                                                                                                               Start Date                  : 7/31/2008
-                                                                                                                                                               Page No                     :1
-                                                                                                        Groups Printed- Vehicles
-                              Adams St.                                        Main St.                                 Adams St.
-                             Southbound                                       Westbound                                Northbound                                              Eastbound
-                                                            App.                                         App.                                         App.                                              App.       Exclu.     Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds               Right       Thru      Left   Peds            Right     Thru      Left    Peds
-                                                            Total                                        Total                                        Total                                             Total       Total     Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0      1.0       1.0                 1.0        1.0       1.0    1.0              1.0      1.0       1.0     1.0
-    04:00 PM           1      1       0          6             2       4     195        5           2     204         0         2         3      1       5        0            0     0       2             0           11      211         222
-    04:15 PM           3      0       0          2             3       1     176        2           0     179         0        14         3      0      17        0            2     0       0             2            2      201         203
-    04:30 PM           9      1       0          2            10       0     202        2           2     204         0         1         5      0       6        0            0     0       0             0            4      220         224
-    04:45 PM           3      1       0          0             4       2     243        1           2     246         0         3         5      0       8        0            0     0       0             0            2      258         260
-        Total         16      3       0         10            19       7     816       10           6     833         0        20        16      1      36        0            2     0       2             2           19      890         909
-
-    05:00 PM           7      3       0          2            10       7     290        4           2     301         0         0         9      0       9        0            0     0       0             0            4      320         324
-    05:15 PM           4      2       0          3             6       4     312        0           0     316         0         2         2      1       4        0            0     0       0             0            4      326         330
-    05:30 PM           2      4       0          4             6       2     266        5           0     273         0         3         4      0       7        0            0     0       0             0            4      286         290
-    05:45 PM           2      1       0          4             3       4     212        2           1     218         0         2         7      3       9        0            0     0       3             0           11      230         241
-        Total         15     10       0         13            25      17    1080       11           3    1108         0         7        22      4      29        0            0     0       3             0           23     1162        1185
-
-  Grand Total         31     13       0         23            44      24    1896       21           9    1941         0        27        38      5      65        0         2        0       5             2           42     2052        2094
-                                                                                                                                                                         100.
-    Apprch %     70.5      29.5     0.0                              1.2    97.7      1.1                           0.0       41.5     58.5                     0.0                0.0
-                                                                                                                                                                            0
-      Total %      1.5      0.6     0.0                      2.1     1.2    92.4      1.0                 94.6      0.0        1.3      1.9            3.2      0.0       0.1      0.0                   0.1           2.0    98.0
-
-
-                                     Adams St.                                                Main St.                                         Adams St.
-                                    Southbound                                               Westbound                                         Northbound                                    Eastbound
-          Start Time    Right      Thru        Left            App. Total     Right          Thru        Left    App. Total          Right     Thru     Left    App. Total         Right      Thru              Left   App. Total      Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 67 Adams St & Main St
+Site Code : 00001632
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Vehicles
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 1 1 0 6 2 4 195 5 2 204 0 2 3 1 5 0 0 0 2 0 11 211 222
+04:15 PM 3 0 0 2 3 1 176 2 0 179 0 14 3 0 17 0 2 0 0 2 2 201 203
+04:30 PM 9 1 0 2 10 0 202 2 2 204 0 1 5 0 6 0 0 0 0 0 4 220 224
+04:45 PM 3 1 0 0 4 2 243 1 2 246 0 3 5 0 8 0 0 0 0 0 2 258 260
+Total 16 3 0 10 19 7 816 10 6 833 0 20 16 1 36 0 2 0 2 2 19 890 909
+05:00 PM 7 3 0 2 10 7 290 4 2 301 0 0 9 0 9 0 0 0 0 0 4 320 324
+05:15 PM 4 2 0 3 6 4 312 0 0 316 0 2 2 1 4 0 0 0 0 0 4 326 330
+05:30 PM 2 4 0 4 6 2 266 5 0 273 0 3 4 0 7 0 0 0 0 0 4 286 290
+05:45 PM 2 1 0 4 3 4 212 2 1 218 0 2 7 3 9 0 0 0 3 0 11 230 241
+Total 15 10 0 13 25 17 1080 11 3 1108 0 7 22 4 29 0 0 0 3 0 23 1162 1185
+Grand Total 31 13 0 23 44 24 1896 21 9 1941 0 27 38 5 65 0 2 0 5 2 42 2052 2094
+Apprch % 70.5 29.5 0.0 1.2 97.7 1.1 0.0 41.5 58.5 0.0
+100.
+0
+0.0
+Total % 1.5 0.6 0.0 2.1 1.2 92.4 1.0 94.6 0.0 1.3 1.9 3.2 0.0 0.1 0.0 0.1 2.0 98.0
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:45 PM
-           Volume             16       10               0             26       15            1111         10         1136               0         8     20               28           0             0             0            0           1190
-           Percent          61.5     38.5             0.0                      1.3           97.8        0.9                          0.0      28.6    71.4                         0.0           0.0           0.0
-     05:15 Volume              4        2               0               6        4            312          0           316              0         2       2               4           0             0             0            0           326
-       Peak Factor                                                                                                                                                                                                                        0.913
-          High Int.      05:00 PM                                           05:15 PM                                            05:00 PM
-           Volume              7           3           0               10         4           312          0           316            0           0       9                9
-       Peak Factor                                                  0.650                                            0.899                                             0.778
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                  File Name                 : 67 Adams St & Main St
-                                                                                                                                                                  Site Code                 : 00001632
-                                                                                                                                                                  Start Date                : 7/31/2008
-                                                                                                                                                                  Page No                   :1
-                                                                                                      Groups Printed- Bicycles
-                              Adams St.                                      Main St.                                 Adams St.
-                             Southbound                                     Westbound                                Northbound                                                 Eastbound
-                                                          App.                                         App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                        Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0       1.0    1.0       1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    04:00 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    04:15 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    04:30 PM          0       0       0        0             0       0      0         0           2           0        0         0            0     0       0        0          0     0       0             0              2           0          2
-    04:45 PM          0       0       0        0             0       0      0         0           5           0        0         0            0     0       0        0          0     0       0             0              5           0          5
-        Total         0       0       0        0             0       0      0         0           7           0        0         0            0     0       0        0          0     0       0             0              7           0          7
-
-    05:00 PM          0       0       0        0             0       0      0         0           4           0        0         0            0     1       0        0          0     0       0             0              5           0          5
-    05:15 PM          0       0       0        0             0       0      0         0           2           0        0         0            0     0       0        0          0     0       0             0              2           0          2
-    05:30 PM          0       0       0        0             0       0      0         0           2           0        0         0            0     0       0        0          0     0       0             0              2           0          2
-    05:45 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-        Total         0       0       0        0             0       0      0         0           8           0        0         0            0     1       0        0          0     0       0             0              9           0          9
-
-  Grand Total        0        0       0        0             0       0       0        0       15              0        0          0        0        1       0        0       0        0       0             0             16           0         16
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                            100.0      0.0
-
-
-                                     Adams St.                                              Main St.                                              Adams St.
-                                    Southbound                                             Westbound                                              Northbound                                  Eastbound
-          Start Time    Right      Thru        Left          App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 04:45 PM
+Volume 16 10 0 26 15 1111 10 1136 0 8 20 28 0 0 0 0 1190
+Percent 61.5 38.5 0.0 1.3 97.8 0.9 0.0 28.6 71.4 0.0 0.0 0.0
+05:15 Volume 4 2 0 6 4 312 0 316 0 2 2 4 0 0 0 0 326
+Peak Factor 0.913
+High Int. 05:00 PM 05:15 PM 05:00 PM
+Volume 7 3 0 10 4 312 0 316 0 0 9 9
+Peak Factor 0.650 0.899 0.778
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 67 Adams St & Main St
+Site Code : 00001632
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Bicycles
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+04:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+04:30 PM 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+04:45 PM 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 5 0 5
+Total 0 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0 7 0 7
+05:00 PM 0 0 0 0 0 0 0 0 4 0 0 0 0 1 0 0 0 0 0 0 5 0 5
+05:15 PM 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+05:30 PM 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+05:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0 8 0 0 0 0 1 0 0 0 0 0 0 9 0 9
+Grand Total 0 0 0 0 0 0 0 0 15 0 0 0 0 1 0 0 0 0 0 0 16 0 16
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Adams St.
+Southbound
+Main St.
+Westbound
+Adams St.
+Northbound Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     04:45 Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                            0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

@@ -1,7 +1,6 @@
 #!/bin/sh
 
 ./extract kc/*.txt > counts-kc.csv
-./extract richmond/*.txt > counts-richmond.csv
 ./extract hilliard/*.txt > counts-hilliard.csv
 ./extract bothell/*/*.txt > counts-bothell.csv
 
@@ -25,3 +24,4 @@ find arkansas -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | x
 
 find auburn -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-new > counts-auburn.csv
 find portland -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-new > counts-portland.csv
+./extract-new richmond/*.txt > counts-richmond.csv

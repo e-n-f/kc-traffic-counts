@@ -97,6 +97,7 @@ for ($i = 0; $i <= $#lines; $i++) {
 		$turns =~ s/S *o *f *t */Soft/gi;
 		$turns =~ s/B *e *a *r */Bear/gi;
 		$turns =~ s/U *- *T *u *r *n/U-Turn/gi;
+		$turns =~ s/ *n *o *t *a *l *l *o *w *e *d/notallowed/gi;
 		$turns =~ s/([NSEW]) *S *i *d *e /\1Side/gi;
 		$turns =~ s/ *Xing *([NSEW])B/Xing\1B/gi;
 		$turns =~ s/Start *Time *//g;
@@ -105,6 +106,7 @@ for ($i = 0; $i <= $#lines; $i++) {
 		if ($group eq "BIKES" ||
 		    $group eq "Bikes" ||
 		    $group eq "2 - Bicycles" ||
+		    $group eq "2 - 2 - Bicycles" ||
 		    $group eq "Bicycles" ||
 		    $group eq "BIKES PEDS") {
 			for (my $x = 0; $x <= $#turns; $x++) {

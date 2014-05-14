@@ -1,251 +1,353 @@
-                                                                                    Peggy Malone & Associates, Inc.
-                                                                                           (888) 247-8602
-                                                                                                                                                                           File Name                : 86 7th St & Cary St
-                                                                                                                                                                           Site Code                : 00003011
-                                                                                                                                                                           Start Date               : 7/23/2008
-                                                                                                                                                                           Page No                  :1
-                                                                                         Groups Printed- 1 - Vehicles
-                                                                                                             7th St.                                                               Cary St.
-                             Southbound                                        Westbound                  Northbound                                                              Eastbound
-                                                             App.                                      App.                                              App.                                            App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left        Peds                 Right   Thru      Left     Peds               Right       Thru      Left     Peds            Right     Thru     Left    Peds
-                                                             Total                                     Total                                             Total                                           Total       Total       Total       Total
-        Factor     1.0       1.0      1.0        1.0                   1.0    1.0      1.0       1.0                 1.0        1.0       1.0      1.0              1.0      1.0      1.0     1.0
-   07:00 AM           0       0        0          5             0       0      0         0        5           0      34         70            0    48     104        0       59       20       5           79            63       183         246
-   07:15 AM           0       0        0          5             0       0      0         0       11           0      63        108            0    37     171        0       99       29       1          128            54       299         353
-   07:30 AM           0       0        0          4             0       0      0         0        8           0      55        111            0    60     166        0      101       32       7          133            79       299         378
-   07:45 AM           0       0        0         16             0       0      0         0       16           0      79        117            0    51     196        0      153       33       3          186            86       382         468
-       Total          0       0        0         30             0       0      0         0       40           0     231        406            0   196     637        0      412      114      16          526           282      1163        1445
-
-   08:00 AM           0       0        0         12             0       0      0         0       10           0      95        117            0    47     212        0      174       36       2          210            71       422         493
-   08:15 AM           0       0        0         10             0       0      0         0       11           0      99        131            0    32     230        0      217       34       4          251            57       481         538
-   08:30 AM           0       0        0         20             0       0      0         0       13           0      72        125            0    29     197        0      177       44       2          221            64       418         482
-   08:45 AM           0       0        0         17             0       0      0         0       17           0      70        106            0    34     176        0      158       51       3          209            71       385         456
-       Total          0       0        0         59             0       0      0         0       51           0     336        479            0   142     815        0      726      165      11          891           263      1706        1969
-
-  Grand Total       0         0         0        89             0       0       0        0       91           0     567         885        0      338    1452        0     1138     279       27         1417           545      2869        3414
-   Apprch %       0.0       0.0       0.0                             0.0     0.0      0.0                          39.0       61.0      0.0                       0.0      80.3    19.7
-     Total %      0.0       0.0       0.0                     0.0     0.0     0.0      0.0               0.0        19.8       30.8      0.0             50.6      0.0      39.7     9.7                 49.4           16.0      84.0
-
-
-                                                                                                                                                    7th St.                                     Cary St.
-                                      Southbound                                              Westbound                                           Northbound                                   Eastbound
-          Start Time   Right      Thru        Left              App. Total     Right          Thru     Left       App. Total          Right       Thru     Left    App. Total        Right      Thru             Left    App. Total       Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 86 7th St & Cary St
+Site Code : 00003011
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 5 0 0 0 0 5 0 34 70 0 48 104 0 59 20 5 79 63 183 246
+07:15 AM 0 0 0 5 0 0 0 0 11 0 63 108 0 37 171 0 99 29 1 128 54 299 353
+07:30 AM 0 0 0 4 0 0 0 0 8 0 55 111 0 60 166 0 101 32 7 133 79 299 378
+07:45 AM 0 0 0 16 0 0 0 0 16 0 79 117 0 51 196 0 153 33 3 186 86 382 468
+Total 0 0 0 30 0 0 0 0 40 0 231 406 0 196 637 0 412 114 16 526 282 1163 1445
+08:00 AM 0 0 0 12 0 0 0 0 10 0 95 117 0 47 212 0 174 36 2 210 71 422 493
+08:15 AM 0 0 0 10 0 0 0 0 11 0 99 131 0 32 230 0 217 34 4 251 57 481 538
+08:30 AM 0 0 0 20 0 0 0 0 13 0 72 125 0 29 197 0 177 44 2 221 64 418 482
+08:45 AM 0 0 0 17 0 0 0 0 17 0 70 106 0 34 176 0 158 51 3 209 71 385 456
+Total 0 0 0 59 0 0 0 0 51 0 336 479 0 142 815 0 726 165 11 891 263 1706 1969
+Grand Total 0 0 0 89 0 0 0 0 91 0 567 885 0 338 1452 0 1138 279 27 1417 545 2869 3414
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 39.0 61.0 0.0 0.0 80.3 19.7
+Total % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 19.8 30.8 0.0 50.6 0.0 39.7 9.7 49.4 16.0 84.0
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      08:00 AM
-           Volume              0          0              0               0        0              0       0                 0          336          479       0             815          0        726          165               891           1706
-           Percent           0.0        0.0            0.0                      0.0            0.0     0.0                            41.2        58.8     0.0                        0.0       81.5         18.5
-     08:15 Volume              0          0              0               0        0              0       0                 0           99          131       0             230          0        217           34               251           481
-       Peak Factor                                                                                                                                                                                                                           0.887
-          High Int.      6:45:00 AM                                          6:45:00 AM                                          08:15 AM                                          08:15 AM
-           Volume              0            0           0                0         0            0        0                 0          99           131       0              230          0         217            34             251
-       Peak Factor                                                                                                                                                        0.886                                                0.887
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                                                                          File Name                   : 86 7th St & Cary St
-                                                                                                                                                                          Site Code                   : 00003011
-                                                                                                                                                                          Start Date                  : 7/23/2008
-                                                                                                                                                                          Page No                     :1
-                                                                                       Groups Printed- 2 - Bicycles
-                                                                                                           7th St.                                                               Cary St.
-                             Southbound                                      Westbound                  Northbound                                                              Eastbound
-                                                           App.                                        App.                                              App.                                              App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left      Peds                 Right   Thru      Left     Peds                 Right       Thru      Left     Peds            Right   Thru        Left    Peds
-                                                           Total                                       Total                                             Total                                             Total       Total       Total        Total
-        Factor     1.0       1.0      1.0      1.0                   1.0    1.0      1.0       1.0                   1.0        1.0       1.0      1.0              1.0    1.0         1.0     1.0
-   07:00 AM           0       0        0        0             0       0      0         0           0          0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   07:15 AM           0       0        0        0             0       0      0         0           0          0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   07:30 AM           0       0        0        0             0       0      0         0           0          0        0         0            0     2       0        0          0       0        0            0              2           0          2
-   07:45 AM           0       0        0        0             0       0      0         0           0          0        0         0            0     1       0        0          0       0        0            0              1           0          1
-       Total          0       0        0        0             0       0      0         0           0          0        0         0            0     3       0        0          0       0        0            0              3           0          3
-
-   08:00 AM           0       0        0        0             0       0      0         0           0          0        0         0            0     1       0        0          0       0        0            0              1           0          1
-   08:15 AM           0       0        0        0             0       0      0         0           0          0        0         0            0     2       0        0          0       0        0            0              2           0          2
-   08:30 AM           0       0        0        0             0       0      0         0           0          0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:45 AM           0       0        0        0             0       0      0         0           0          0        0         0            0     1       0        0          0       0        0            0              1           0          1
-       Total          0       0        0        0             0       0      0         0           0          0        0         0            0     4       0        0          0       0        0            0              4           0          4
-
-  Grand Total       0         0         0       0             0       0       0        0           0          0        0          0        0        7       0        0       0          0        0            0              7           0          7
-   Apprch %       0.0       0.0       0.0                           0.0     0.0      0.0                             0.0        0.0      0.0                       0.0     0.0        0.0
-     Total %                                                                                                                                                                                                              100.0      0.0
-
-
-                                                                                                                                                    7th St.                                       Cary St.
-                                      Southbound                                            Westbound                                             Northbound                                     Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru       Left       App. Total          Right       Thru     Left    App. Total         Right      Thru              Left     App. Total       Int. Total
+Intersection 08:00 AM
+Volume 0 0 0 0 0 0 0 0 336 479 0 815 0 726 165 891 1706
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 41.2 58.8 0.0 0.0 81.5 18.5
+08:15 Volume 0 0 0 0 0 0 0 0 99 131 0 230 0 217 34 251 481
+Peak Factor 0.887
+High Int. 6:45:00 AM 6:45:00 AM 08:15 AM 08:15 AM
+Volume 0 0 0 0 0 0 0 0 99 131 0 230 0 217 34 251
+Peak Factor 0.886 0.887
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 86 7th St & Cary St
+Site Code : 00003011
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 2
+07:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 3 0 3
+08:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+08:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 2
+08:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 4 0 4
+Grand Total 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0 0 0 0 0 0 7 0 7
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:00 AM
-           Volume              0          0            0               0        0              0         0                 0             0           0       0             0             0             0             0              0                0
-           Percent           0.0        0.0          0.0                      0.0            0.0       0.0                             0.0         0.0     0.0                         0.0           0.0           0.0
-     07:45 Volume              0          0            0               0        0              0         0                 0             0           0       0             0             0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                              0.000
-          High Int.      6:45:00 AM                                        6:45:00 AM                                            6:45:00 AM                                         6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                           File Name                 : 86 7th St & Cary St
-                                                                                                                                                                           Site Code                 : 00003011
-                                                                                                                                                                           Start Date                : 7/23/2008
-                                                                                                                                                                           Page No                   :1
-                                                                                        Groups Printed- 1 - Vehicles
-                                                                                                            7th St.                                                                Cary St.
-                             Southbound                                       Westbound                  Northbound                                                               Eastbound
-                                                            App.                                       App.                                              App.                                             App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru       Left     Peds               Right       Thru      Left     Peds            Right     Thru     Left     Peds
-                                                            Total                                      Total                                             Total                                            Total       Total       Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0       1.0       1.0                 1.0        1.0       1.0      1.0              1.0      1.0      1.0      1.0
-    11:15 AM          0       0       0          3             0       0      0          0        7           0      20         18            0    23      38        0       90       10        5          100            38       138         176
-    11:30 AM          0       0       0         10             0       0      0          0       24           0      37         32            0    33      69        0      114       22        9          136            76       205         281
-    11:45 AM          0       0       0          9             0       0      0          0       10           0      15         34            0    25      49        0       99       28        8          127            52       176         228
-        Total         0       0       0         22             0       0      0          0       41           0      72         84            0    81     156        0      303       60       22          363           166       519         685
-
-    12:00 PM          0       0       0         18             0       0      0          0       27           0      14         21            0    19      35        0      122       33       21          155            85       190         275
-    12:15 PM          0       0       0         10             0       0      0          0       33           0      19         30            0    36      49        0      117       29       12          146            91       195         286
-    12:30 PM          0       0       0         18             0       0      0          0       17           0      16         25            0    21      41        0      107       30       15          137            71       178         249
-    12:45 PM          0       0       0          6             0       0      0          0       19           0      29         27            0    23      56        0      138       41        7          179            55       235         290
-        Total         0       0       0         52             0       0      0          0       96           0      78        103            0    99     181        0      484      133       55          617           302       798        1100
-
-  Grand Total        0        0       0         74             0       0       0         0      137           0     150         187        0      180     337        0       787     193       77          980           468      1317        1785
-   Apprch %        0.0      0.0     0.0                              0.0     0.0       0.0                          44.5       55.5      0.0                       0.0      80.3    19.7
-     Total %       0.0      0.0     0.0                      0.0     0.0     0.0       0.0               0.0        11.4       14.2      0.0             25.6      0.0      59.8    14.7                  74.4           26.2      73.8
-
-
-                                                                                                                                                    7th St.                                      Cary St.
-                                    Southbound                                                Westbound                                           Northbound                                    Eastbound
-          Start Time   Right       Thru        Left            App. Total     Right           Thru     Left       App. Total          Right       Thru     Left    App. Total        Right       Thru             Left    App. Total       Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 86 7th St & Cary St
+Site Code : 00003011
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:15 AM 0 0 0 3 0 0 0 0 7 0 20 18 0 23 38 0 90 10 5 100 38 138 176
+11:30 AM 0 0 0 10 0 0 0 0 24 0 37 32 0 33 69 0 114 22 9 136 76 205 281
+11:45 AM 0 0 0 9 0 0 0 0 10 0 15 34 0 25 49 0 99 28 8 127 52 176 228
+Total 0 0 0 22 0 0 0 0 41 0 72 84 0 81 156 0 303 60 22 363 166 519 685
+12:00 PM 0 0 0 18 0 0 0 0 27 0 14 21 0 19 35 0 122 33 21 155 85 190 275
+12:15 PM 0 0 0 10 0 0 0 0 33 0 19 30 0 36 49 0 117 29 12 146 91 195 286
+12:30 PM 0 0 0 18 0 0 0 0 17 0 16 25 0 21 41 0 107 30 15 137 71 178 249
+12:45 PM 0 0 0 6 0 0 0 0 19 0 29 27 0 23 56 0 138 41 7 179 55 235 290
+Total 0 0 0 52 0 0 0 0 96 0 78 103 0 99 181 0 484 133 55 617 302 798 1100
+Grand Total 0 0 0 74 0 0 0 0 137 0 150 187 0 180 337 0 787 193 77 980 468 1317 1785
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 44.5 55.5 0.0 0.0 80.3 19.7
+Total % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.4 14.2 0.0 25.6 0.0 59.8 14.7 74.4 26.2 73.8
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume              0         0              0               0        0               0       0                 0           78          103       0             181          0         484          133               617            798
-           Percent           0.0       0.0            0.0                      0.0             0.0     0.0                            43.1        56.9     0.0                        0.0        78.4         21.6
-     12:45 Volume              0         0              0               0        0               0       0                 0           29           27       0              56          0         138           41               179           235
-       Peak Factor                                                                                                                                                                                                                            0.849
-          High Int.                                                                                                              12:45 PM                                          12:45 PM
-           Volume             0            0           0                0          0            0        0                 0          29            27       0               56          0          138            41             179
-       Peak Factor                                                                                                                                                        0.808                                                 0.862
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                         File Name                 : 86 7th St & Cary St
-                                                                                                                                                                         Site Code                 : 00003011
-                                                                                                                                                                         Start Date                : 7/23/2008
-                                                                                                                                                                         Page No                   :1
-                                                                                      Groups Printed- 2 - Bicycles
-                                                                                                          7th St.                                                               Cary St.
-                             Southbound                                     Westbound                  Northbound                                                              Eastbound
-                                                          App.                                        App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                 Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                       Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0      1.0     1.0       1.0                   1.0    1.0      1.0       1.0                   1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    11:15 AM          0       0       0        0             0       0      0         0           0          0        0         0            0     1       0        0          0     0       0             0              1           0          1
-    11:30 AM          0       0       0        0             0       0      0         0           0          0        0         0            0     1       0        0          0     0       0             0              1           0          1
-    11:45 AM          0       0       0        0             0       0      0         0           0          0        0         0            0     1       0        0          0     0       0             0              1           0          1
-        Total         0       0       0        0             0       0      0         0           0          0        0         0            0     3       0        0          0     0       0             0              3           0          3
-
-    12:00 PM          0       0       0        0             0       0      0         0           0          0        0         0            0     2       0        0          0     0       0             0              2           0          2
-    12:15 PM          0       0       0        0             0       0      0         0           0          0        0         0            0     1       0        0          0     0       1             0              2           0          2
-    12:30 PM          0       0       0        0             0       0      0         0           0          0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:45 PM          0       0       0        0             0       0      0         0           0          0        0         0            0     3       0        0          0     0       0             0              3           0          3
-        Total         0       0       0        0             0       0      0         0           0          0        0         0            0     6       0        0          0     0       1             0              7           0          7
-
-  Grand Total        0        0       0        0             0       0       0        0           0          0        0          0        0        9       0        0       0        0       1             0             10           0         10
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                             0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                           100.0      0.0
-
-
-                                                                                                                                                   7th St.                                    Cary St.
-                                    Southbound                                             Westbound                                             Northbound                                  Eastbound
-          Start Time   Right       Thru        Left          App. Total     Right          Thru       Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 12:00 PM
+Volume 0 0 0 0 0 0 0 0 78 103 0 181 0 484 133 617 798
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 43.1 56.9 0.0 0.0 78.4 21.6
+12:45 Volume 0 0 0 0 0 0 0 0 29 27 0 56 0 138 41 179 235
+Peak Factor 0.849
+High Int. 12:45 PM 12:45 PM
+Volume 0 0 0 0 0 0 0 0 29 27 0 56 0 138 41 179
+Peak Factor 0.808 0.862
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 86 7th St & Cary St
+Site Code : 00003011
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+11:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+11:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 3 0 3
+12:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 2
+12:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 2 0 2
+12:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 3 0 3
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 1 0 7 0 7
+Grand Total 0 0 0 0 0 0 0 0 0 0 0 0 0 9 0 0 0 0 1 0 10 0 10
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:00 AM
-           Volume              0         0            0               0        0              0         0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0       0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     11:45 Volume              0         0            0               0        0              0         0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                           0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                           File Name                 : 86 7th St & Cary St
-                                                                                                                                                                           Site Code                 : 00003011
-                                                                                                                                                                           Start Date                : 7/23/2008
-                                                                                                                                                                           Page No                   :1
-                                                                                        Groups Printed- 1 - Vehicles
-                                                                                                            7th St.                                                                Cary St.
-                             Southbound                                       Westbound                  Northbound                                                               Eastbound
-                                                            App.                                       App.                                              App.                                             App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru       Left     Peds               Right       Thru      Left     Peds            Right     Thru     Left     Peds
-                                                            Total                                      Total                                             Total                                            Total       Total       Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0       1.0       1.0                 1.0        1.0       1.0      1.0              1.0      1.0      1.0      1.0
-    04:00 PM          0       0       0          5             0       0      0          0        5           0      20         44            0    20      64        0      158       52        6          210            36       274         310
-    04:15 PM          0       0       0          6             0       0      0          0        9           0      21         29            0    30      50        0      147       44        6          191            51       241         292
-    04:30 PM          0       0       0          5             0       0      0          0        7           0      34         32            0    42      66        0      166       58        5          224            59       290         349
-    04:45 PM          0       0       0         10             0       0      0          0        7           0      27         48            0    42      75        0      172       70        8          242            67       317         384
-        Total         0       0       0         26             0       0      0          0       28           0     102        153            0   134     255        0      643      224       25          867           213      1122        1335
-
-    05:00 PM          0       0       0          5             0       0      0          0        6           0      31         53            0    66      84        0      219       82       10          301            87       385         472
-    05:15 PM          0       0       0          5             0       0      0          0        7           0      25         45            0    41      70        0      171       65        8          236            61       306         367
-    05:30 PM          0       0       0          4             0       0      0          0        1           0      29         40            0    38      69        0      156       50        5          206            48       275         323
-    05:45 PM          0       0       0          7             0       0      0          0        1           0      20         52            0    19      72        0      171       46        5          217            32       289         321
-        Total         0       0       0         21             0       0      0          0       15           0     105        190            0   164     295        0      717      243       28          960           228      1255        1483
-
-  Grand Total        0        0       0         47             0       0       0         0       43           0     207         343        0      298     550        0     1360     467        53         1827           441      2377        2818
-   Apprch %        0.0      0.0     0.0                              0.0     0.0       0.0                          37.6       62.4      0.0                       0.0      74.4    25.6
-     Total %       0.0      0.0     0.0                      0.0     0.0     0.0       0.0               0.0         8.7       14.4      0.0             23.1      0.0      57.2    19.6                  76.9           15.6      84.4
-
-
-                                                                                                                                                    7th St.                                      Cary St.
-                                    Southbound                                                Westbound                                           Northbound                                    Eastbound
-          Start Time    Right      Thru        Left            App. Total     Right           Thru     Left       App. Total          Right       Thru     Left    App. Total        Right       Thru             Left    App. Total       Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 86 7th St & Cary St
+Site Code : 00003011
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 5 0 0 0 0 5 0 20 44 0 20 64 0 158 52 6 210 36 274 310
+04:15 PM 0 0 0 6 0 0 0 0 9 0 21 29 0 30 50 0 147 44 6 191 51 241 292
+04:30 PM 0 0 0 5 0 0 0 0 7 0 34 32 0 42 66 0 166 58 5 224 59 290 349
+04:45 PM 0 0 0 10 0 0 0 0 7 0 27 48 0 42 75 0 172 70 8 242 67 317 384
+Total 0 0 0 26 0 0 0 0 28 0 102 153 0 134 255 0 643 224 25 867 213 1122 1335
+05:00 PM 0 0 0 5 0 0 0 0 6 0 31 53 0 66 84 0 219 82 10 301 87 385 472
+05:15 PM 0 0 0 5 0 0 0 0 7 0 25 45 0 41 70 0 171 65 8 236 61 306 367
+05:30 PM 0 0 0 4 0 0 0 0 1 0 29 40 0 38 69 0 156 50 5 206 48 275 323
+05:45 PM 0 0 0 7 0 0 0 0 1 0 20 52 0 19 72 0 171 46 5 217 32 289 321
+Total 0 0 0 21 0 0 0 0 15 0 105 190 0 164 295 0 717 243 28 960 228 1255 1483
+Grand Total 0 0 0 47 0 0 0 0 43 0 207 343 0 298 550 0 1360 467 53 1827 441 2377 2818
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 37.6 62.4 0.0 0.0 74.4 25.6
+Total % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.7 14.4 0.0 23.1 0.0 57.2 19.6 76.9 15.6 84.4
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:30 PM
-           Volume              0         0              0               0        0               0       0                 0          117          178       0             295          0         728          275              1003           1298
-           Percent           0.0       0.0            0.0                      0.0             0.0     0.0                            39.7        60.3     0.0                        0.0        72.6         27.4
-     05:00 Volume              0         0              0               0        0               0       0                 0           31           53       0              84          0         219           82               301           385
-       Peak Factor                                                                                                                                                                                                                            0.843
-          High Int.                                                                                                              05:00 PM                                          05:00 PM
-           Volume             0            0           0                0          0            0        0                 0          31            53       0               84          0          219            82             301
-       Peak Factor                                                                                                                                                        0.878                                                 0.833
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                         File Name                 : 86 7th St & Cary St
-                                                                                                                                                                         Site Code                 : 00003011
-                                                                                                                                                                         Start Date                : 7/23/2008
-                                                                                                                                                                         Page No                   :1
-                                                                                      Groups Printed- 2 - Bicycles
-                                                                                                          7th St.                                                               Cary St.
-                             Southbound                                     Westbound                  Northbound                                                              Eastbound
-                                                          App.                                        App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                 Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                       Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0       1.0    1.0       1.0                   1.0    1.0      1.0       1.0                   1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    04:00 PM          0       0       0        1             0       0      0         0           0          0        0         0            0     1       0        0          0     0       0             0              2           0          2
-    04:15 PM          0       0       0        0             0       0      0         0           0          0        0         0            0     2       0        0          0     0       0             0              2           0          2
-    04:30 PM          0       0       0        0             0       0      0         0           0          0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    04:45 PM          0       0       0        1             0       0      0         0           0          0        0         0            0     2       0        0          0     0       0             0              3           0          3
-        Total         0       0       0        2             0       0      0         0           0          0        0         0            0     5       0        0          0     0       0             0              7           0          7
-
-    05:00 PM          0       0       0        0             0       0      0         0           0          0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    05:15 PM          0       0       0        0             0       0      0         0           2          0        0         0            0     0       0        0          0     0       1             0              3           0          3
-    05:30 PM          0       0       0        2             0       0      0         0           0          0        0         0            0     0       0        0          0     0       0             0              2           0          2
-    05:45 PM          0       0       0        0             0       0      0         0           0          0        0         0            0     0       0        0          0     0       0             0              0           0          0
-        Total         0       0       0        2             0       0      0         0           2          0        0         0            0     0       0        0          0     0       1             0              5           0          5
-
-  Grand Total        0        0       0        4             0       0       0        0           2          0        0          0        0        5       0        0       0        0       1             0             12           0         12
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                             0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                           100.0      0.0
-
-
-                                                                                                                                                   7th St.                                    Cary St.
-                                    Southbound                                             Westbound                                             Northbound                                  Eastbound
-          Start Time    Right      Thru        Left          App. Total     Right          Thru       Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 04:30 PM
+Volume 0 0 0 0 0 0 0 0 117 178 0 295 0 728 275 1003 1298
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 39.7 60.3 0.0 0.0 72.6 27.4
+05:00 Volume 0 0 0 0 0 0 0 0 31 53 0 84 0 219 82 301 385
+Peak Factor 0.843
+High Int. 05:00 PM 05:00 PM
+Volume 0 0 0 0 0 0 0 0 31 53 0 84 0 219 82 301
+Peak Factor 0.878 0.833
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 86 7th St & Cary St
+Site Code : 00003011
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2 0 2
+04:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 2
+04:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+04:45 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 3 0 3
+Total 0 0 0 2 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 7 0 7
+05:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+05:15 PM 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 3 0 3
+05:30 PM 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2
+05:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 2 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 5 0 5
+Grand Total 0 0 0 4 0 0 0 0 2 0 0 0 0 5 0 0 0 0 1 0 12 0 12
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Southbound Westbound
+7th St.
+Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              0         0            0               0        0              0         0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0       0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     04:45 Volume              0         0            0               0        0              0         0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                           0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

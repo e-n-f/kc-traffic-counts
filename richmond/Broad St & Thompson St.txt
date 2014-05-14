@@ -1,253 +1,385 @@
-                                                                                               Peggy Malone and Associates
-                                                                                                      904-992-8072
-                                                                                                                                                  File Name           : #55-Thompson St. and Broad St.
-                                                                                                                                                  Site Code           : 00002965
-                                                                                                                                                  Start Date          : 10/14/2008
-                                                                                                                                                  Page No             :1
-                                                                                                         Groups Printed- 1 - Vehicles
-                                                                                Broad St.                                Thompson St.                                              Broad St.
-                             Southbound                                         Westbound                                 Northbound                                               Eastbound
-                                                             App.                                           App.                                          App.                         U-                 App.      Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left        Peds                 Right   Thru      Left     Peds                 Right       Thru      Left    Peds            Right     Thru             Peds
-                                                             Total                                          Total                                         Total                      turns                Total      Total      Total       Total
-        Factor     1.0       1.0      1.0        1.0                   1.0     1.0     1.0       1.0                   1.0        1.0       1.0     1.0              1.0      1.0      1.0     1.0
-   07:00 AM           0       0        0          0             0       0     158        1           0       159        7          0        12       0      19        1      101        0       1          102           1       280         281
-   07:15 AM           0       0        0          0             0       0     189        2           1       191       10          0        33       3      43        1      136        0       0          137           4       371         375
-   07:30 AM           0       0        0          0             0       0     220        1           1       221        6          0        45       0      51        4      182        1       0          187           1       459         460
-   07:45 AM           0       0        0          0             0       0     289        2           0       291       20          0        53       0      73        8      246        1       2          255           2       619         621
-       Total          0       0        0          0             0       0     856        6           2       862       43          0       143       3     186       14      665        2       3          681           8      1729        1737
-
-   08:00 AM           0       0        0          0             0       0     258        5           0       263       11          0        43       0      54        6      268        0       0          274           0       591         591
-   08:15 AM           0       0        0          0             0       0     283        6           3       289       15          0        38       1      53        8      239        1       1          248           5       590         595
-   08:30 AM           0       0        0          0             0       0     253        3           0       256        9          0        36       1      45       14      256        1       0          271           1       572         573
-   08:45 AM           0       0        0          0             0       0     246        7           0       253        9          0        36       0      45        9      303        0       0          312           0       610         610
-       Total          0       0        0          0             0       0    1040       21           3      1061       44          0       153       2     197       37     1066        2       1         1105           6      2363        2369
-
-  Grand Total       0         0         0         0             0       0    1896      27            5      1923       87           0      296       5     383      51      1731        4       4         1786          14      4092        4106
-   Apprch %       0.0       0.0       0.0                             0.0     98.6     1.4                            22.7        0.0     77.3                      2.9      96.9     0.2
-     Total %      0.0       0.0       0.0                     0.0     0.0     46.3     0.7                  47.0       2.1        0.0      7.2             9.4      1.2      42.3     0.1                 43.6          0.3      99.7
-
-
-                                                                                              Broad St.                                           Thompson St.                                  Broad St.
-                                      Southbound                                              Westbound                                            Northbound                                   Eastbound
-          Start Time   Right      Thru        Left              App. Total     Right          Thru         Left     App. Total          Right      Thru     Left    App. Total        Right      Thru       U-turns     App. Total       Int. Total
+Peggy Malone and Associates
+904-992-8072
+File Name : #55-Thompson St. and Broad St.
+Site Code : 00002965
+Start Date : 10/14/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru
+U-
+turns
+Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 158 1 0 159 7 0 12 0 19 1 101 0 1 102 1 280 281
+07:15 AM 0 0 0 0 0 0 189 2 1 191 10 0 33 3 43 1 136 0 0 137 4 371 375
+07:30 AM 0 0 0 0 0 0 220 1 1 221 6 0 45 0 51 4 182 1 0 187 1 459 460
+07:45 AM 0 0 0 0 0 0 289 2 0 291 20 0 53 0 73 8 246 1 2 255 2 619 621
+Total 0 0 0 0 0 0 856 6 2 862 43 0 143 3 186 14 665 2 3 681 8 1729 1737
+08:00 AM 0 0 0 0 0 0 258 5 0 263 11 0 43 0 54 6 268 0 0 274 0 591 591
+08:15 AM 0 0 0 0 0 0 283 6 3 289 15 0 38 1 53 8 239 1 1 248 5 590 595
+08:30 AM 0 0 0 0 0 0 253 3 0 256 9 0 36 1 45 14 256 1 0 271 1 572 573
+08:45 AM 0 0 0 0 0 0 246 7 0 253 9 0 36 0 45 9 303 0 0 312 0 610 610
+Total 0 0 0 0 0 0 1040 21 3 1061 44 0 153 2 197 37 1066 2 1 1105 6 2363 2369
+Grand Total 0 0 0 0 0 0 1896 27 5 1923 87 0 296 5 383 51 1731 4 4 1786 14 4092 4106
+Apprch % 0.0 0.0 0.0 0.0 98.6 1.4 22.7 0.0 77.3 2.9 96.9 0.2
+Total % 0.0 0.0 0.0 0.0 0.0 46.3 0.7 47.0 2.1 0.0 7.2 9.4 1.2 42.3 0.1 43.6 0.3 99.7
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru U-turns App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:45 AM
-           Volume              0          0              0               0         0          1083           16         1099             55           0     170             225        36       1009                3         1048           2372
-           Percent           0.0        0.0            0.0                       0.0          98.5          1.5                         24.4        0.0    75.6                        3.4       96.3             0.3
-     07:45 Volume              0          0              0               0         0           289            2           291            20           0      53              73          8        246               1          255           619
-       Peak Factor                                                                                                                                                                                                                          0.958
-          High Int.      6:45:00 AM                                          07:45 AM                                              07:45 AM                                         08:00 AM
-           Volume              0            0           0                0         0           289           2            291           20            0      53               73          6         268            0            274
-       Peak Factor                                                                                                      0.944                                              0.771                                              0.956
-                                                                                           Peggy Malone and Associates
-                                                                                                  904-992-8072
-                                                                                                                                         File Name                        : #55-Thompson St. and Broad St.
-                                                                                                                                         Site Code                        : 00002965
-                                                                                                                                         Start Date                       : 10/14/2008
-                                                                                                                                         Page No                          :1
-                                                                                           Groups Printed- 2 - Bicycles
-                                                                                      Broad St.                     Thompson St.                                                                   Broad St.
-                                Southbound                                            Westbound                       Northbound                                                                   Eastbound
-                                                         App.                                                         App.                                                    App.                          U-                  App.           Int.
-      Start Time      Right   Thru     Left     Peds                 Right         Thru      Left       Peds                   Right     Thru          Left     Peds                   Right    Thru                Peds
-                                                         Total                                                        Total                                                   Total                       turns                 Total         Total
-          Factor        1.0    1.0     1.0       1.0                   1.0          1.0          1.0     1.0                     1.0      1.0          1.0       1.0                     1.0     1.0        1.0         1.0
-     07:00 AM            0      0           0     0          0          0            0            0           0          0        0         0            0           0            0       0        0         0           0             0          0
-     07:15 AM            0      0           0     0          0          0            0            0           1          1        0         0            0           1            1       0        0         0           0             0          2
-     07:30 AM            0      0           0     0          0          0            0            0           0          0        0         0            0           0            0       0        0         0           1             1          1
-     07:45 AM            0      0           0     0          0          0            0            0           0          0        0         0            0           0            0       0        0         0           0             0          0
-         Total           0      0           0     0          0          0            0            0           1          1        0         0            0           1            1       0        0         0           1             1          3
-
-     08:00 AM            0      0           0     0          0          0            0            0           0          0        0         0            0           0            0       0        0         0           0             0          0
-     08:15 AM            0      0           0     0          0          0            0            0           0          0        0         0            0           1            1       0        0         0           0             0          1
-     08:30 AM            0      0           0     0          0          0            0            0           0          0        0         0            0           1            1       0        0         0           0             0          1
-     08:45 AM            0      0           0     0          0          0            0            0           0          0        0         0            0           0            0       0        0         0           2             2          2
-         Total           0      0           0     0          0          0            0            0           0          0        0         0            0           2            2       0        0         0           2             2          4
-
-   Grand Total           0       0       0         0         0          0             0        0           1             1        0         0            0        3               3       0        0         0         3               3          7
-    Apprch %           0.0     0.0     0.0       0.0                  0.0           0.0      0.0       100.0                    0.0       0.0          0.0    100.0                     0.0      0.0       0.0     100.0
-      Total %          0.0     0.0     0.0       0.0       0.0        0.0           0.0      0.0        14.3          14.3      0.0       0.0          0.0     42.9           42.9      0.0      0.0       0.0      42.9         42.9
-
-
-                                                                                          Broad St.                                       Thompson St.                                             Broad St.
-                                     Southbound                                           Westbound                                        Northbound                                              Eastbound
-          Start Time   Right      Thru        Left     App. Total        Right            Thru         Left       App. Total     Right          Thru          Left       App. Total     Right      Thru     U-turns       App. Total       Int. Total
+Intersection 07:45 AM
+Volume 0 0 0 0 0 1083 16 1099 55 0 170 225 36 1009 3 1048 2372
+Percent 0.0 0.0 0.0 0.0 98.5 1.5 24.4 0.0 75.6 3.4 96.3 0.3
+07:45 Volume 0 0 0 0 0 289 2 291 20 0 53 73 8 246 1 255 619
+Peak Factor 0.958
+High Int. 6:45:00 AM 07:45 AM 07:45 AM 08:00 AM
+Volume 0 0 0 0 0 289 2 291 20 0 53 73 6 268 0 274
+Peak Factor 0.944 0.771 0.956
+Peggy Malone and Associates
+904-992-8072
+File Name : #55-Thompson St. and Broad St.
+Site Code : 00002965
+Start Date : 10/14/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru
+U-
+turns
+Peds
+App.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:15 AM 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 2
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+07:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0 1 1 3
+08:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1
+08:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1
+08:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 2 2 4
+Grand Total 0 0 0 0 0 0 0 0 1 1 0 0 0 3 3 0 0 0 3 3 7
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0
+Total % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 14.3 14.3 0.0 0.0 0.0 42.9 42.9 0.0 0.0 0.0 42.9 42.9
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru U-turns App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection     07:00 AM
-           Volume             0         0          0             0             0             0            0               0          0             0            0                0          0         0             0             0                0
-           Percent          0.0       0.0        0.0                         0.0           0.0          0.0                        0.0           0.0          0.0                         0.0       0.0           0.0
-     07:45 Volume             0         0          0             0             0             0            0               0          0             0            0                0          0         0             0             0               0
-       Peak Factor                                                                                                                                                                                                                            0.000
-          High Int.     6:45:00 AM                                    6:45:00 AM                                               6:45:00 AM                                             6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                              Peggy Malone and Associates
-                                                                                                     904-992-8072
-                                                                                                                                                 File Name           : #55-Thompson St. and Broad St.
-                                                                                                                                                 Site Code           : 00002965
-                                                                                                                                                 Start Date          : 10/14/2008
-                                                                                                                                                 Page No             :1
-                                                                                                        Groups Printed- 1 - Vehicles
-                                                                               Broad St.                                Thompson St.                                              Broad St.
-                             Southbound                                        Westbound                                 Northbound                                               Eastbound
-                                                            App.                                           App.                                          App.                         U-                  App.      Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds                 Right       Thru      Left    Peds            Right     Thru              Peds
-                                                            Total                                          Total                                         Total                      turns                 Total      Total      Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0     1.0     1.0       1.0                   1.0        1.0       1.0     1.0              1.0      1.0      1.0      1.0
-    11:00 AM          0       0       0          0             0       0     264       17           0       281       17          0        37       2      54       10      194        1        0          205           2       540         542
-    11:15 AM          0       0       0          0             0       0     265       12           0       277       20          0        26       2      46        6      208        2        0          216           2       539         541
-    11:30 AM          0       0       0          0             0       0     289       16           0       305       20          0        29       1      49        8      210        0        0          218           1       572         573
-    11:45 AM          0       0       0          0             0       0     272       12           0       284       18          0        48       0      66        8      244        4        0          256           0       606         606
-        Total         0       0       0          0             0       0    1090       57           0      1147       75          0       140       5     215       32      856        7        0          895           5      2257        2262
-
-    12:00 PM          0       0       0          0             0       0     294       16           1       310       23          0        43       0      66       10      205        0        1          215           2       591         593
-    12:15 PM          0       0       0          0             0       0     340       20           2       360       22          0        40       0      62        8      244        0        3          252           5       674         679
-    12:30 PM          0       0       0          0             0       0     317       18           2       335       22          0        30       0      52        9      217        4        8          230          10       617         627
-    12:45 PM          0       0       0          0             0       0     279       19           1       298       32          0        35       0      67       12      231        3        3          246           4       611         615
-        Total         0       0       0          0             0       0    1230       73           6      1303       99          0       148       0     247       39      897        7       15          943          21      2493        2514
-
-  Grand Total        0        0       0          0             0       0    2320      130           6      2450      174           0      288       5     462      71      1753      14        15         1838          26      4750        4776
-   Apprch %        0.0      0.0     0.0                              0.0     94.7     5.3                            37.7        0.0     62.3                      3.9      95.4     0.8
-     Total %       0.0      0.0     0.0                      0.0     0.0     48.8     2.7                  51.6       3.7        0.0      6.1             9.7      1.5      36.9     0.3                  38.7          0.5      99.5
-
-
-                                                                                             Broad St.                                           Thompson St.                                   Broad St.
-                                    Southbound                                               Westbound                                            Northbound                                    Eastbound
-          Start Time   Right       Thru        Left            App. Total     Right          Thru         Left     App. Total          Right      Thru     Left    App. Total        Right       Thru       U-turns     App. Total       Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone and Associates
+904-992-8072
+File Name : #55-Thompson St. and Broad St.
+Site Code : 00002965
+Start Date : 10/14/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru
+U-
+turns
+Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 0 0 0 264 17 0 281 17 0 37 2 54 10 194 1 0 205 2 540 542
+11:15 AM 0 0 0 0 0 0 265 12 0 277 20 0 26 2 46 6 208 2 0 216 2 539 541
+11:30 AM 0 0 0 0 0 0 289 16 0 305 20 0 29 1 49 8 210 0 0 218 1 572 573
+11:45 AM 0 0 0 0 0 0 272 12 0 284 18 0 48 0 66 8 244 4 0 256 0 606 606
+Total 0 0 0 0 0 0 1090 57 0 1147 75 0 140 5 215 32 856 7 0 895 5 2257 2262
+12:00 PM 0 0 0 0 0 0 294 16 1 310 23 0 43 0 66 10 205 0 1 215 2 591 593
+12:15 PM 0 0 0 0 0 0 340 20 2 360 22 0 40 0 62 8 244 0 3 252 5 674 679
+12:30 PM 0 0 0 0 0 0 317 18 2 335 22 0 30 0 52 9 217 4 8 230 10 617 627
+12:45 PM 0 0 0 0 0 0 279 19 1 298 32 0 35 0 67 12 231 3 3 246 4 611 615
+Total 0 0 0 0 0 0 1230 73 6 1303 99 0 148 0 247 39 897 7 15 943 21 2493 2514
+Grand Total 0 0 0 0 0 0 2320 130 6 2450 174 0 288 5 462 71 1753 14 15 1838 26 4750 4776
+Apprch % 0.0 0.0 0.0 0.0 94.7 5.3 37.7 0.0 62.3 3.9 95.4 0.8
+Total % 0.0 0.0 0.0 0.0 0.0 48.8 2.7 51.6 3.7 0.0 6.1 9.7 1.5 36.9 0.3 38.7 0.5 99.5
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru U-turns App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume              0         0              0               0         0          1230           73         1303             99           0     148             247        39          897               7          943           2493
-           Percent           0.0       0.0            0.0                       0.0          94.4          5.6                         40.1        0.0    59.9                        4.1        95.1             0.7
-     12:15 Volume              0         0              0               0         0           340           20           360            22           0      40              62          8         244               0          252           674
-       Peak Factor                                                                                                                                                                                                                          0.925
-          High Int.                                                         12:15 PM                                              12:45 PM                                         12:15 PM
-           Volume             0            0           0                0         0           340          20            360           32            0      35               67          8          244            0            252
-       Peak Factor                                                                                                     0.905                                              0.922                                               0.936
-                                                                                           Peggy Malone and Associates
-                                                                                                  904-992-8072
-                                                                                                                                         File Name                        : #55-Thompson St. and Broad St.
-                                                                                                                                         Site Code                        : 00002965
-                                                                                                                                         Start Date                       : 10/14/2008
-                                                                                                                                         Page No                          :1
-                                                                                           Groups Printed- 2 - Bicycles
-                                                                                      Broad St.                     Thompson St.                                                                  Broad St.
-                                Southbound                                            Westbound                       Northbound                                                                  Eastbound
-                                                         App.                                                         App.                                                    App.                        U-                  App.           Int.
-      Start Time      Right   Thru     Left     Peds                 Right         Thru      Left      Peds                    Right     Thru          Left     Peds                  Right    Thru               Peds
-                                                         Total                                                        Total                                                   Total                     turns                 Total         Total
-          Factor        1.0    1.0     1.0       1.0                   1.0          1.0          1.0     1.0                     1.0      1.0          1.0       1.0                    1.0     1.0       1.0         1.0
-     11:00 AM            0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           0             0          0
-     11:15 AM            0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           0             0          0
-     11:30 AM            0      0           0     0          0          0            0            0           0          0        0        0             0           1            1      0       0         0           0             0          1
-     11:45 AM            0      0           0     0          0          0            0            0           0          0        0        0             0           1            1      0       0         0           0             0          1
-         Total           0      0           0     0          0          0            0            0           0          0        0        0             0           2            2      0       0         0           0             0          2
-
-      12:00 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           0             0          0
-      12:15 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           0             0          0
-      12:30 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           0             0          0
-      12:45 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           0             0          0
-          Total          0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           0             0          0
-
-   Grand Total           0       0       0         0         0          0             0        0          0              0        0         0            0        2               2      0        0        0            0            0          2
-    Apprch %           0.0     0.0     0.0       0.0                  0.0           0.0      0.0        0.0                     0.0       0.0          0.0    100.0                    0.0      0.0      0.0          0.0
-      Total %          0.0     0.0     0.0       0.0       0.0        0.0           0.0      0.0        0.0            0.0      0.0       0.0          0.0    100.0          100.0     0.0      0.0      0.0          0.0       0.0
-
-
-                                                                                          Broad St.                                       Thompson St.                                           Broad St.
-                                     Southbound                                           Westbound                                        Northbound                                            Eastbound
-          Start Time   Right       Thru        Left    App. Total        Right            Thru         Left       App. Total     Right          Thru          Left       App. Total    Right     Thru     U-turns       App. Total       Int. Total
+Intersection 12:00 PM
+Volume 0 0 0 0 0 1230 73 1303 99 0 148 247 39 897 7 943 2493
+Percent 0.0 0.0 0.0 0.0 94.4 5.6 40.1 0.0 59.9 4.1 95.1 0.7
+12:15 Volume 0 0 0 0 0 340 20 360 22 0 40 62 8 244 0 252 674
+Peak Factor 0.925
+High Int. 12:15 PM 12:45 PM 12:15 PM
+Volume 0 0 0 0 0 340 20 360 32 0 35 67 8 244 0 252
+Peak Factor 0.905 0.922 0.936
+Peggy Malone and Associates
+904-992-8072
+File Name : #55-Thompson St. and Broad St.
+Site Code : 00002965
+Start Date : 10/14/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru
+U-
+turns
+Peds
+App.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1
+11:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 2
+12:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Grand Total 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 2
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 0.0
+Total % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 100.0 0.0 0.0 0.0 0.0 0.0
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru U-turns App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection     11:00 AM
-           Volume             0         0          0             0             0             0           0                0          0             0            0                0         0        0             0             0                0
-           Percent          0.0       0.0        0.0                         0.0           0.0         0.0                         0.0           0.0          0.0                        0.0      0.0           0.0
-     11:45 Volume             0         0          0             0             0             0           0                0          0             0            0                0         0        0             0             0               0
-       Peak Factor                                                                                                                                                                                                                          0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                              Peggy Malone and Associates
-                                                                                                     904-992-8072
-                                                                                                                                                 File Name           : #55-Thompson St. and Broad St.
-                                                                                                                                                 Site Code           : 00002965
-                                                                                                                                                 Start Date          : 10/14/2008
-                                                                                                                                                 Page No             :1
-                                                                                                        Groups Printed- 1 - Vehicles
-                                                                               Broad St.                                Thompson St.                                              Broad St.
-                             Southbound                                        Westbound                                 Northbound                                               Eastbound
-                                                            App.                                           App.                                          App.                         U-                  App.      Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru      Left     Peds                 Right       Thru      Left    Peds            Right     Thru              Peds
-                                                            Total                                          Total                                         Total                      turns                 Total      Total      Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0     1.0     1.0       1.0                   1.0        1.0       1.0     1.0              1.0      1.0      1.0      1.0
-    04:00 PM          0       0       0          0             0       0     306       10           0       316       13          0        37       0      50        9      181        2        1          192           1       558         559
-    04:15 PM          0       0       0          0             0       0     287       19           0       306       21          0        33       3      54        4      198        1        1          203           4       563         567
-    04:30 PM          0       0       0          0             0       0     318       19           1       337       17          0        48       1      65        6      210        1        1          217           3       619         622
-    04:45 PM          0       0       0          0             0       0     310       14           0       324       18          0        44       0      62        9      225        0        2          234           2       620         622
-        Total         0       0       0          0             0       0    1221       62           1      1283       69          0       162       4     231       28      814        4        5          846          10      2360        2370
-
-    05:00 PM          0       0       0          0             0       0     323       10           5       333       17          0        43       0      60       17      252        1        0          270           5       663         668
-    05:15 PM          0       0       0          0             0       0     337        8           0       345       12          0        36       2      48        9      240        2        0          251           2       644         646
-    05:30 PM          0       0       0          0             0       0     305        7           1       312       11          0        36       1      47       13      237        0        0          250           2       609         611
-    05:45 PM          0       0       0          0             0       0     263        5           0       268        9          0        43       0      52       11      195        2        0          208           0       528         528
-        Total         0       0       0          0             0       0    1228       30           6      1258       49          0       158       3     207       50      924        5        0          979           9      2444        2453
-
-  Grand Total        0        0       0          0             0       0    2449      92            7      2541      118           0      320       7     438      78      1738        9        5         1825          19      4804        4823
-   Apprch %        0.0      0.0     0.0                              0.0     96.4     3.6                            26.9        0.0     73.1                      4.3      95.2     0.5
-     Total %       0.0      0.0     0.0                      0.0     0.0     51.0     1.9                  52.9       2.5        0.0      6.7             9.1      1.6      36.2     0.2                  38.0          0.4      99.6
-
-
-                                                                                             Broad St.                                           Thompson St.                                   Broad St.
-                                    Southbound                                               Westbound                                            Northbound                                    Eastbound
-          Start Time    Right      Thru        Left            App. Total     Right          Thru         Left     App. Total          Right      Thru     Left    App. Total        Right       Thru       U-turns     App. Total       Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone and Associates
+904-992-8072
+File Name : #55-Thompson St. and Broad St.
+Site Code : 00002965
+Start Date : 10/14/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru
+U-
+turns
+Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 0 0 0 306 10 0 316 13 0 37 0 50 9 181 2 1 192 1 558 559
+04:15 PM 0 0 0 0 0 0 287 19 0 306 21 0 33 3 54 4 198 1 1 203 4 563 567
+04:30 PM 0 0 0 0 0 0 318 19 1 337 17 0 48 1 65 6 210 1 1 217 3 619 622
+04:45 PM 0 0 0 0 0 0 310 14 0 324 18 0 44 0 62 9 225 0 2 234 2 620 622
+Total 0 0 0 0 0 0 1221 62 1 1283 69 0 162 4 231 28 814 4 5 846 10 2360 2370
+05:00 PM 0 0 0 0 0 0 323 10 5 333 17 0 43 0 60 17 252 1 0 270 5 663 668
+05:15 PM 0 0 0 0 0 0 337 8 0 345 12 0 36 2 48 9 240 2 0 251 2 644 646
+05:30 PM 0 0 0 0 0 0 305 7 1 312 11 0 36 1 47 13 237 0 0 250 2 609 611
+05:45 PM 0 0 0 0 0 0 263 5 0 268 9 0 43 0 52 11 195 2 0 208 0 528 528
+Total 0 0 0 0 0 0 1228 30 6 1258 49 0 158 3 207 50 924 5 0 979 9 2444 2453
+Grand Total 0 0 0 0 0 0 2449 92 7 2541 118 0 320 7 438 78 1738 9 5 1825 19 4804 4823
+Apprch % 0.0 0.0 0.0 0.0 96.4 3.6 26.9 0.0 73.1 4.3 95.2 0.5
+Total % 0.0 0.0 0.0 0.0 0.0 51.0 1.9 52.9 2.5 0.0 6.7 9.1 1.6 36.2 0.2 38.0 0.4 99.6
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru U-turns App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:30 PM
-           Volume              0         0              0               0         0          1288           51         1339             64           0     171             235        41          927               4          972           2546
-           Percent           0.0       0.0            0.0                       0.0          96.2          3.8                         27.2        0.0    72.8                        4.2        95.4             0.4
-     05:00 Volume              0         0              0               0         0           323           10           333            17           0      43              60        17          252               1          270           663
-       Peak Factor                                                                                                                                                                                                                          0.960
-          High Int.                                                         05:15 PM                                              04:30 PM                                         05:00 PM
-           Volume             0            0           0                0         0           337           8            345           17            0      48               65         17          252            1            270
-       Peak Factor                                                                                                     0.970                                              0.904                                               0.900
-                                                                                           Peggy Malone and Associates
-                                                                                                  904-992-8072
-                                                                                                                                         File Name                        : #55-Thompson St. and Broad St.
-                                                                                                                                         Site Code                        : 00002965
-                                                                                                                                         Start Date                       : 10/14/2008
-                                                                                                                                         Page No                          :1
-                                                                                           Groups Printed- 2 - Bicycles
-                                                                                      Broad St.                     Thompson St.                                                                  Broad St.
-                                Southbound                                            Westbound                       Northbound                                                                  Eastbound
-                                                         App.                                                         App.                                                    App.                        U-                  App.           Int.
-      Start Time      Right   Thru     Left     Peds                 Right         Thru      Left      Peds                    Right     Thru          Left     Peds                  Right    Thru               Peds
-                                                         Total                                                        Total                                                   Total                     turns                 Total         Total
-          Factor        1.0    1.0     1.0       1.0                   1.0          1.0          1.0     1.0                     1.0      1.0          1.0       1.0                    1.0     1.0       1.0         1.0
-      04:00 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           0             0          0
-      04:15 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           1             1          1
-      04:30 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           0             0          0
-      04:45 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           1            1      0       0         0           0             0          1
-          Total          0      0           0     0          0          0            0            0           0          0        0        0             0           1            1      0       0         0           1             1          2
-
-      05:00 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           2            2      0       0         0           0             0          2
-      05:15 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           0             0          0
-      05:30 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           1             1          1
-      05:45 PM           0      0           0     0          0          0            0            0           0          0        0        0             0           0            0      0       0         0           1             1          1
-          Total          0      0           0     0          0          0            0            0           0          0        0        0             0           2            2      0       0         0           2             2          4
-
-   Grand Total           0       0       0         0         0          0             0        0          0              0        0         0            0        3               3      0        0        0         3               3          6
-    Apprch %           0.0     0.0     0.0       0.0                  0.0           0.0      0.0        0.0                     0.0       0.0          0.0    100.0                    0.0      0.0      0.0     100.0
-      Total %          0.0     0.0     0.0       0.0       0.0        0.0           0.0      0.0        0.0            0.0      0.0       0.0          0.0     50.0           50.0     0.0      0.0      0.0      50.0         50.0
-
-
-                                                                                          Broad St.                                       Thompson St.                                           Broad St.
-                                     Southbound                                           Westbound                                        Northbound                                            Eastbound
-          Start Time    Right      Thru        Left    App. Total        Right            Thru         Left       App. Total     Right          Thru          Left       App. Total    Right     Thru     U-turns       App. Total       Int. Total
+Intersection 04:30 PM
+Volume 0 0 0 0 0 1288 51 1339 64 0 171 235 41 927 4 972 2546
+Percent 0.0 0.0 0.0 0.0 96.2 3.8 27.2 0.0 72.8 4.2 95.4 0.4
+05:00 Volume 0 0 0 0 0 323 10 333 17 0 43 60 17 252 1 270 663
+Peak Factor 0.960
+High Int. 05:15 PM 04:30 PM 05:00 PM
+Volume 0 0 0 0 0 337 8 345 17 0 48 65 17 252 1 270
+Peak Factor 0.970 0.904 0.900
+Peggy Malone and Associates
+904-992-8072
+File Name : #55-Thompson St. and Broad St.
+Site Code : 00002965
+Start Date : 10/14/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru
+U-
+turns
+Peds
+App.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+04:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+04:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+04:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 2
+05:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 2
+05:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+05:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+05:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 2 2 4
+Grand Total 0 0 0 0 0 0 0 0 0 0 0 0 0 3 3 0 0 0 3 3 6
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0
+Total % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 50.0 50.0 0.0 0.0 0.0 50.0 50.0
+Southbound
+Broad St.
+Westbound
+Thompson St.
+Northbound
+Broad St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru U-turns App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection     04:00 PM
-           Volume             0         0          0             0             0             0           0                0          0             0            0                0         0        0             0             0                0
-           Percent          0.0       0.0        0.0                         0.0           0.0         0.0                         0.0           0.0          0.0                        0.0      0.0           0.0
-     04:45 Volume             0         0          0             0             0             0           0                0          0             0            0                0         0        0             0             0               0
-       Peak Factor                                                                                                                                                                                                                          0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

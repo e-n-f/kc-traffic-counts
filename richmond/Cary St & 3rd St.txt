@@ -1,253 +1,343 @@
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                                                                          File Name                : 80 3rd St & Cary St
-                                                                                                                                                                          Site Code                : 00003012
-                                                                                                                                                                          Start Date               : 7/23/2008
-                                                                                                                                                                          Page No                  :1
-                                                                                                    Groups Printed- 1 - Vehicles
-                               3rd St.                                                                                                                                           Cary St.
-                             Southbound                                      Westbound                                           Northbound                                     Eastbound
-                                                           App.                                        App.                                              App.                                           App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru      Left     Peds                 Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                           Total                                       Total                                             Total                                          Total       Total      Total       Total
-        Factor     1.0      1.0      1.0      1.0                    1.0    1.0      1.0       1.0                   1.0        1.0       1.0      1.0              1.0     1.0      1.0     1.0
-   07:00 AM           0      17      20        4             37       0      0         0        2             0        0         0            0     4       0        9      69        0       1           78            11      115         126
-   07:15 AM           0      27      37        5             64       0      0         0        2             0        0         0            0     4       0       10     101        0      10          111            21      175         196
-   07:30 AM           0      34      38        6             72       0      0         0        2             0        0         0            0     1       0       11     130        0       3          141            12      213         225
-   07:45 AM           0      47      33        7             80       0      0         0        4             0        0         0            0     0       0       12     184        0       9          196            20      276         296
-       Total          0     125     128       22            253       0      0         0       10             0        0         0            0     9       0       42     484        0      23          526            64      779         843
-
-   08:00 AM           0      44      41        6             85       0      0         0        1             0        0         0            0     0       0       15     223        0       3          238            10      323         333
-   08:15 AM           0      41      51        1             92       0      0         0        6             0        0         0            0     3       0       15     227        0       1          242            11      334         345
-   08:30 AM           0      27      33        2             60       0      0         0        2             0        0         0            0     2       0       18     176        0       3          194             9      254         263
-   08:45 AM           0      25      36        3             61       0      0         0        8             0        0         0            0     1       0       13     181        0       4          194            16      255         271
-       Total          0     137     161       12            298       0      0         0       17             0        0         0            0     6       0       61     807        0      11          868            46     1166        1212
-
-  Grand Total       0      262       289      34            551       0       0        0       27             0        0          0        0       15       0      103    1291        0      34         1394           110     1945        2055
-   Apprch %       0.0      47.5     52.5                            0.0     0.0      0.0                             0.0        0.0      0.0                       7.4     92.6     0.0
-     Total %      0.0      13.5     14.9                   28.3     0.0     0.0      0.0                 0.0         0.0        0.0      0.0              0.0      5.3     66.4     0.0                 71.7           5.4      94.6
-
-
-                                       3rd St.                                                                                                                                                 Cary St.
-                                     Southbound                                             Westbound                                             Northbound                                  Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru       Left       App. Total          Right       Thru     Left    App. Total       Right      Thru             Left    App. Total      Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 80 3rd St & Cary St
+Site Code : 00003012
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 17 20 4 37 0 0 0 2 0 0 0 0 4 0 9 69 0 1 78 11 115 126
+07:15 AM 0 27 37 5 64 0 0 0 2 0 0 0 0 4 0 10 101 0 10 111 21 175 196
+07:30 AM 0 34 38 6 72 0 0 0 2 0 0 0 0 1 0 11 130 0 3 141 12 213 225
+07:45 AM 0 47 33 7 80 0 0 0 4 0 0 0 0 0 0 12 184 0 9 196 20 276 296
+Total 0 125 128 22 253 0 0 0 10 0 0 0 0 9 0 42 484 0 23 526 64 779 843
+08:00 AM 0 44 41 6 85 0 0 0 1 0 0 0 0 0 0 15 223 0 3 238 10 323 333
+08:15 AM 0 41 51 1 92 0 0 0 6 0 0 0 0 3 0 15 227 0 1 242 11 334 345
+08:30 AM 0 27 33 2 60 0 0 0 2 0 0 0 0 2 0 18 176 0 3 194 9 254 263
+08:45 AM 0 25 36 3 61 0 0 0 8 0 0 0 0 1 0 13 181 0 4 194 16 255 271
+Total 0 137 161 12 298 0 0 0 17 0 0 0 0 6 0 61 807 0 11 868 46 1166 1212
+Grand Total 0 262 289 34 551 0 0 0 27 0 0 0 0 15 0 103 1291 0 34 1394 110 1945 2055
+Apprch % 0.0 47.5 52.5 0.0 0.0 0.0 0.0 0.0 0.0 7.4 92.6 0.0
+Total % 0.0 13.5 14.9 28.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 66.4 0.0 71.7 5.4 94.6
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:45 AM
-           Volume              0       159           158            317         0              0         0                 0             0           0       0              0        60         810               0           870           1187
-           Percent           0.0      50.2          49.8                      0.0            0.0       0.0                             0.0         0.0     0.0                       6.9       93.1             0.0
-     08:15 Volume              0        41            51             92         0              0         0                 0             0           0       0              0        15         227               0           242           334
-       Peak Factor                                                                                                                                                                                                                         0.888
-          High Int.      08:15 AM                                          6:45:00 AM                                            6:45:00 AM                                       08:15 AM
-           Volume              0       41            51               92         0            0          0                 0           0             0       0              0          15         227             0            242
-       Peak Factor                                                 0.861                                                                                                                                                     0.899
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                                                                             File Name                   : 80 3rd St & Cary St
-                                                                                                                                                                             Site Code                   : 00003012
-                                                                                                                                                                             Start Date                  : 7/23/2008
-                                                                                                                                                                             Page No                     :1
-                                                                                                       Groups Printed- 2 - Bicycles
-                               3rd St.                                                                                                                                              Cary St.
-                             Southbound                                      Westbound                                              Northbound                                     Eastbound
-                                                           App.                                           App.                                              App.                                              App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left      Peds                 Right   Thru      Left     Peds                    Right       Thru      Left     Peds            Right   Thru        Left    Peds
-                                                           Total                                          Total                                             Total                                             Total       Total       Total        Total
-        Factor     1.0       1.0      1.0      1.0                   1.0    1.0      1.0       1.0                      1.0        1.0       1.0      1.0              1.0    1.0         1.0     1.0
-   07:00 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     1       0        0          0       0        0            0              1           0          1
-   07:15 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   07:30 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     1       0        0          0       0        1            0              2           0          2
-   07:45 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     1       0        0          0       0        0            0              1           0          1
-       Total          0       0        0        0             0       0      0         0           0             0        0         0            0     3       0        0          0       0        1            0              4           0          4
-
-   08:00 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     1       0        0          0       0        2            0              3           0          3
-   08:15 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     0       0        0          0       0        1            0              1           0          1
-   08:30 AM           0       0        0        0             0       0      0         0           0             0        0         0            0     0       0        0          0       0        0            0              0           0          0
-   08:45 AM           0       0        0        0             0       0      0         0           1             0        0         0            0     0       0        0          0       0        5            0              6           0          6
-       Total          0       0        0        0             0       0      0         0           1             0        0         0            0     1       0        0          0       0        8            0             10           0         10
-
-  Grand Total       0         0         0       0             0       0       0        0           1             0        0          0        0        4       0        0       0          0        9            0             14           0         14
-   Apprch %       0.0       0.0       0.0                           0.0     0.0      0.0                                0.0        0.0      0.0                       0.0     0.0        0.0
-     Total %                                                                                                                                                                                                                 100.0      0.0
-
-
-                                        3rd St.                                                                                                                                                      Cary St.
-                                      Southbound                                            Westbound                                                Northbound                                     Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru          Left       App. Total          Right       Thru     Left    App. Total         Right      Thru              Left     App. Total       Int. Total
+Intersection 07:45 AM
+Volume 0 159 158 317 0 0 0 0 0 0 0 0 60 810 0 870 1187
+Percent 0.0 50.2 49.8 0.0 0.0 0.0 0.0 0.0 0.0 6.9 93.1 0.0
+08:15 Volume 0 41 51 92 0 0 0 0 0 0 0 0 15 227 0 242 334
+Peak Factor 0.888
+High Int. 08:15 AM 6:45:00 AM 6:45:00 AM 08:15 AM
+Volume 0 41 51 92 0 0 0 0 0 0 0 0 15 227 0 242
+Peak Factor 0.861 0.899
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 80 3rd St & Cary St
+Site Code : 00003012
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+07:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 2 0 2
+07:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 1 0 4 0 4
+08:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 2 0 3 0 3
+08:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1
+08:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08:45 AM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 5 0 6 0 6
+Total 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 8 0 10 0 10
+Grand Total 0 0 0 0 0 0 0 0 1 0 0 0 0 4 0 0 0 0 9 0 14 0 14
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:00 AM
-           Volume              0          0            0               0        0              0            0                 0             0           0       0             0             0             0             0              0                0
-           Percent           0.0        0.0          0.0                      0.0            0.0          0.0                             0.0         0.0     0.0                         0.0           0.0           0.0
-     07:45 Volume              0          0            0               0        0              0            0                 0             0           0       0             0             0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                                 0.000
-          High Int.      6:45:00 AM                                        6:45:00 AM                                               6:45:00 AM                                         6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                                                                           File Name                : 80 3rd St & Cary St
-                                                                                                                                                                           Site Code                : 00003012
-                                                                                                                                                                           Start Date               : 7/23/2008
-                                                                                                                                                                           Page No                  :1
-                                                                                                     Groups Printed- 1 - Vehicles
-                               3rd St.                                                                                                                                            Cary St.
-                             Southbound                                      Westbound                                            Northbound                                     Eastbound
-                                                           App.                                         App.                                              App.                                           App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru       Left     Peds                 Right       Thru      Left     Peds            Right   Thru     Left     Peds
-                                                           Total                                        Total                                             Total                                          Total       Total      Total       Total
-        Factor     1.0       1.0     1.0      1.0                    1.0    1.0       1.0       1.0                   1.0        1.0       1.0      1.0              1.0    1.0      1.0      1.0
-    11:00 AM          0      21      15        1             36       0      0          0        5             0        0         0            0     3       0        5     75        0        5           80           14       116         130
-    11:15 AM          0      17      13        1             30       0      0          0        3             0        0         0            0     5       0        3     72        0        2           75           11       105         116
-    11:30 AM          0      24      25        0             49       0      0          0        5             0        0         0            0     4       0        8     93        0        2          101           11       150         161
-    11:45 AM          0      25      11        4             36       0      0          0        5             0        0         0            0     3       0        8     94        0        0          102           12       138         150
-        Total         0      87      64        6            151       0      0          0       18             0        0         0            0    15       0       24    334        0        9          358           48       509         557
-
-    12:00 PM          0      25      14        2             39       0      0          0        0             0        0         0            0     4       0        7     87        0        3           94            9       133         142
-    12:15 PM          0      31      22        3             53       0      0          0        6             0        0         0            0     4       0       11     93        0        2          104           15       157         172
-    12:30 PM          0      24      14        2             38       0      0          0        7             0        0         0            0     3       0        8     94        0        0          102           12       140         152
-    12:45 PM          0      23      24        5             47       0      0          0        7             0        0         0            0     1       0        7    119        0        1          126           14       173         187
-        Total         0     103      74       12            177       0      0          0       20             0        0         0            0    12       0       33    393        0        6          426           50       603         653
-
-  Grand Total        0     190       138      18            328       0       0         0       38             0        0          0        0       27       0      57      727       0       15          784           98      1112        1210
-   Apprch %        0.0     57.9     42.1                            0.0     0.0       0.0                             0.0        0.0      0.0                       7.3    92.7     0.0
-     Total %       0.0     17.1     12.4                   29.5     0.0     0.0       0.0                 0.0         0.0        0.0      0.0              0.0      5.1    65.4     0.0                  70.5           8.1      91.9
-
-
-                                       3rd St.                                                                                                                                                  Cary St.
-                                     Southbound                                              Westbound                                             Northbound                                  Eastbound
-          Start Time   Right       Thru        Left           App. Total     Right           Thru       Left       App. Total          Right       Thru     Left    App. Total      Right       Thru             Left   App. Total       Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 80 3rd St & Cary St
+Site Code : 00003012
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 21 15 1 36 0 0 0 5 0 0 0 0 3 0 5 75 0 5 80 14 116 130
+11:15 AM 0 17 13 1 30 0 0 0 3 0 0 0 0 5 0 3 72 0 2 75 11 105 116
+11:30 AM 0 24 25 0 49 0 0 0 5 0 0 0 0 4 0 8 93 0 2 101 11 150 161
+11:45 AM 0 25 11 4 36 0 0 0 5 0 0 0 0 3 0 8 94 0 0 102 12 138 150
+Total 0 87 64 6 151 0 0 0 18 0 0 0 0 15 0 24 334 0 9 358 48 509 557
+12:00 PM 0 25 14 2 39 0 0 0 0 0 0 0 0 4 0 7 87 0 3 94 9 133 142
+12:15 PM 0 31 22 3 53 0 0 0 6 0 0 0 0 4 0 11 93 0 2 104 15 157 172
+12:30 PM 0 24 14 2 38 0 0 0 7 0 0 0 0 3 0 8 94 0 0 102 12 140 152
+12:45 PM 0 23 24 5 47 0 0 0 7 0 0 0 0 1 0 7 119 0 1 126 14 173 187
+Total 0 103 74 12 177 0 0 0 20 0 0 0 0 12 0 33 393 0 6 426 50 603 653
+Grand Total 0 190 138 18 328 0 0 0 38 0 0 0 0 27 0 57 727 0 15 784 98 1112 1210
+Apprch % 0.0 57.9 42.1 0.0 0.0 0.0 0.0 0.0 0.0 7.3 92.7 0.0
+Total % 0.0 17.1 12.4 29.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.1 65.4 0.0 70.5 8.1 91.9
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume              0       103           74             177         0               0         0                 0             0           0       0             0        33          393               0           426            603
-           Percent           0.0      58.2          41.8                      0.0             0.0       0.0                             0.0         0.0     0.0                      7.7        92.3             0.0
-     12:45 Volume              0        23           24              47         0               0         0                 0             0           0       0             0          7         119               0           126           173
-       Peak Factor                                                                                                                                                                                                                          0.871
-          High Int.      12:15 PM                                                                                                                                                 12:45 PM
-           Volume              0       31            22               53          0            0          0                 0             0           0       0             0           7          119             0            126
-       Peak Factor                                                 0.835                                                                                                                                                      0.845
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                            File Name                 : 80 3rd St & Cary St
-                                                                                                                                                                            Site Code                 : 00003012
-                                                                                                                                                                            Start Date                : 7/23/2008
-                                                                                                                                                                            Page No                   :1
-                                                                                                      Groups Printed- 2 - Bicycles
-                               3rd St.                                                                                                                                             Cary St.
-                             Southbound                                     Westbound                                              Northbound                                     Eastbound
-                                                          App.                                           App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                    Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                          Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0      1.0     1.0       1.0                   1.0    1.0      1.0       1.0                      1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    11:00 AM          0       0       0        0             0       0      0         0           0             0        0         0            0     0       0        0          0     0       2             0              2           0          2
-    11:15 AM          0       0       0        1             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    11:30 AM          0       0       0        0             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    11:45 AM          0       0       0        1             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              1           0          1
-        Total         0       0       0        2             0       0      0         0           0             0        0         0            0     0       0        0          0     0       2             0              4           0          4
-
-    12:00 PM          0       0       0        1             0       0      0         0           0             0        0         0            0     0       0        0          0     0       1             0              2           0          2
-    12:15 PM          0       0       0        0             0       0      0         0           0             0        0         0            0     1       0        0          0     0       0             0              1           0          1
-    12:30 PM          0       0       0        0             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:45 PM          0       0       0        1             0       0      0         0           1             0        0         0            0     1       0        0          0     0       0             0              3           0          3
-        Total         0       0       0        2             0       0      0         0           1             0        0         0            0     2       0        0          0     0       1             0              6           0          6
-
-  Grand Total        0        0       0        4             0       0       0        0           1             0        0          0        0        2       0        0       0        0       3             0             10           0         10
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                                0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                              100.0      0.0
-
-
-                                      3rd St.                                                                                                                                                    Cary St.
-                                    Southbound                                             Westbound                                                Northbound                                  Eastbound
-          Start Time   Right       Thru        Left          App. Total     Right          Thru          Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 12:00 PM
+Volume 0 103 74 177 0 0 0 0 0 0 0 0 33 393 0 426 603
+Percent 0.0 58.2 41.8 0.0 0.0 0.0 0.0 0.0 0.0 7.7 92.3 0.0
+12:45 Volume 0 23 24 47 0 0 0 0 0 0 0 0 7 119 0 126 173
+Peak Factor 0.871
+High Int. 12:15 PM 12:45 PM
+Volume 0 31 22 53 0 0 0 0 0 0 0 0 7 119 0 126
+Peak Factor 0.835 0.845
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 80 3rd St & Cary St
+Site Code : 00003012
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2 0 2
+11:15 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+11:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:45 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+Total 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 4 0 4
+12:00 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 2
+12:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1
+12:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:45 PM 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 3 0 3
+Total 0 0 0 2 0 0 0 0 1 0 0 0 0 2 0 0 0 0 1 0 6 0 6
+Grand Total 0 0 0 4 0 0 0 0 1 0 0 0 0 2 0 0 0 0 3 0 10 0 10
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:00 AM
-           Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0          0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     11:45 Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                              0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                                                                           File Name                : 80 3rd St & Cary St
-                                                                                                                                                                           Site Code                : 00003012
-                                                                                                                                                                           Start Date               : 7/23/2008
-                                                                                                                                                                           Page No                  :1
-                                                                                                     Groups Printed- 1 - Vehicles
-                               3rd St.                                                                                                                                            Cary St.
-                             Southbound                                      Westbound                                            Northbound                                     Eastbound
-                                                           App.                                         App.                                              App.                                           App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru       Left     Peds                 Right       Thru      Left     Peds            Right   Thru     Left     Peds
-                                                           Total                                        Total                                             Total                                          Total       Total      Total       Total
-        Factor     1.0       1.0     1.0      1.0                    1.0    1.0       1.0       1.0                   1.0        1.0       1.0      1.0              1.0    1.0      1.0      1.0
-    04:00 PM          0      43      23        1             66       0      0          0        1             0        0         0            0     8       0       10     96        0        1          106            11      172         183
-    04:15 PM          0      37      15        0             52       0      0          0        2             0        0         0            0     3       0       12    103        0        2          115             7      167         174
-    04:30 PM          0      75      18        2             93       0      0          0        8             0        0         0            0    12       0        8     98        0        0          106            22      199         221
-    04:45 PM          0      68      32        0            100       0      0          0        3             0        0         0            0     5       0       12     99        0        1          111             9      211         220
-        Total         0     223      88        3            311       0      0          0       14             0        0         0            0    28       0       42    396        0        4          438            49      749         798
-
-    05:00 PM          0     116      22        1            138       0      0          0        3             0        0         0            0     7       0       12    105        0        7          117            18      255         273
-    05:15 PM          0      99      24        4            123       0      0          0        5             0        0         0            0     9       0       10     94        0        3          104            21      227         248
-    05:30 PM          0      98      19        2            117       0      0          0        6             0        0         0            0     8       0        6    101        0        2          107            18      224         242
-    05:45 PM          0      63      14        0             77       0      0          0        0             0        0         0            0     2       0        5    115        0        2          120             4      197         201
-        Total         0     376      79        7            455       0      0          0       14             0        0         0            0    26       0       33    415        0       14          448            61      903         964
-
-  Grand Total        0     599       167      10            766       0       0         0       28             0        0          0        0       54       0      75      811       0       18          886           110     1652        1762
-   Apprch %        0.0     78.2     21.8                            0.0     0.0       0.0                             0.0        0.0      0.0                       8.5    91.5     0.0
-     Total %       0.0     36.3     10.1                   46.4     0.0     0.0       0.0                 0.0         0.0        0.0      0.0              0.0      4.5    49.1     0.0                  53.6           6.2      93.8
-
-
-                                       3rd St.                                                                                                                                                  Cary St.
-                                     Southbound                                              Westbound                                             Northbound                                  Eastbound
-          Start Time    Right      Thru        Left           App. Total     Right           Thru       Left       App. Total          Right       Thru     Left    App. Total      Right       Thru             Left    App. Total      Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 80 3rd St & Cary St
+Site Code : 00003012
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 1 - Vehicles
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 43 23 1 66 0 0 0 1 0 0 0 0 8 0 10 96 0 1 106 11 172 183
+04:15 PM 0 37 15 0 52 0 0 0 2 0 0 0 0 3 0 12 103 0 2 115 7 167 174
+04:30 PM 0 75 18 2 93 0 0 0 8 0 0 0 0 12 0 8 98 0 0 106 22 199 221
+04:45 PM 0 68 32 0 100 0 0 0 3 0 0 0 0 5 0 12 99 0 1 111 9 211 220
+Total 0 223 88 3 311 0 0 0 14 0 0 0 0 28 0 42 396 0 4 438 49 749 798
+05:00 PM 0 116 22 1 138 0 0 0 3 0 0 0 0 7 0 12 105 0 7 117 18 255 273
+05:15 PM 0 99 24 4 123 0 0 0 5 0 0 0 0 9 0 10 94 0 3 104 21 227 248
+05:30 PM 0 98 19 2 117 0 0 0 6 0 0 0 0 8 0 6 101 0 2 107 18 224 242
+05:45 PM 0 63 14 0 77 0 0 0 0 0 0 0 0 2 0 5 115 0 2 120 4 197 201
+Total 0 376 79 7 455 0 0 0 14 0 0 0 0 26 0 33 415 0 14 448 61 903 964
+Grand Total 0 599 167 10 766 0 0 0 28 0 0 0 0 54 0 75 811 0 18 886 110 1652 1762
+Apprch % 0.0 78.2 21.8 0.0 0.0 0.0 0.0 0.0 0.0 8.5 91.5 0.0
+Total % 0.0 36.3 10.1 46.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 49.1 0.0 53.6 6.2 93.8
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:45 PM
-           Volume              0       381           97             478         0               0         0                 0             0           0       0             0        40          399               0           439            917
-           Percent           0.0      79.7          20.3                      0.0             0.0       0.0                             0.0         0.0     0.0                      9.1        90.9             0.0
-     05:00 Volume              0       116           22             138         0               0         0                 0             0           0       0             0        12          105               0           117           255
-       Peak Factor                                                                                                                                                                                                                          0.899
-          High Int.      05:00 PM                                                                                                                                                 05:00 PM
-           Volume              0      116            22              138          0            0          0                 0             0           0       0             0          12          105             0            117
-       Peak Factor                                                 0.866                                                                                                                                                      0.938
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                            File Name                 : 80 3rd St & Cary St
-                                                                                                                                                                            Site Code                 : 00003012
-                                                                                                                                                                            Start Date                : 7/23/2008
-                                                                                                                                                                            Page No                   :1
-                                                                                                      Groups Printed- 2 - Bicycles
-                               3rd St.                                                                                                                                             Cary St.
-                             Southbound                                     Westbound                                              Northbound                                     Eastbound
-                                                          App.                                           App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                    Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                          Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0       1.0    1.0       1.0                   1.0    1.0      1.0       1.0                      1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    04:00 PM          0       0       0        0             0       0      0         0           3             0        0         0            0     0       0        0          0     0       0             0              3           0          3
-    04:15 PM          0       0       0        0             0       0      0         0           0             0        0         0            0     1       0        0          0     0       3             0              4           0          4
-    04:30 PM          0       0       0        1             0       0      0         0           1             0        0         0            0     0       0        0          0     0       1             0              3           0          3
-    04:45 PM          0       0       0        4             0       0      0         0           0             0        0         0            0     0       0        0          0     0       2             0              6           0          6
-        Total         0       0       0        5             0       0      0         0           4             0        0         0            0     1       0        0          0     0       6             0             16           0         16
-
-    05:00 PM          0       0       0        0             0       0      0         0           0             0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    05:15 PM          0       0       0        0             0       0      0         0           1             0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    05:30 PM          0       0       0        0             0       0      0         0           1             0        0         0            0     0       0        0          0     0       1             0              2           0          2
-    05:45 PM          0       0       0        1             0       0      0         0           0             0        0         0            0     2       0        0          0     0       1             0              4           0          4
-        Total         0       0       0        1             0       0      0         0           2             0        0         0            0     2       0        0          0     0       2             0              7           0          7
-
-  Grand Total        0        0       0        6             0       0       0        0           6             0        0          0        0        3       0        0       0        0       8             0             23           0         23
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                                0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                              100.0      0.0
-
-
-                                      3rd St.                                                                                                                                                    Cary St.
-                                    Southbound                                             Westbound                                                Northbound                                  Eastbound
-          Start Time    Right      Thru        Left          App. Total     Right          Thru          Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 04:45 PM
+Volume 0 381 97 478 0 0 0 0 0 0 0 0 40 399 0 439 917
+Percent 0.0 79.7 20.3 0.0 0.0 0.0 0.0 0.0 0.0 9.1 90.9 0.0
+05:00 Volume 0 116 22 138 0 0 0 0 0 0 0 0 12 105 0 117 255
+Peak Factor 0.899
+High Int. 05:00 PM 05:00 PM
+Volume 0 116 22 138 0 0 0 0 0 0 0 0 12 105 0 117
+Peak Factor 0.866 0.938
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 80 3rd St & Cary St
+Site Code : 00003012
+Start Date : 7/23/2008
+Page No : 1
+Groups Printed- 2 - Bicycles
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 3 0 3
+04:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 3 0 4 0 4
+04:30 PM 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 3 0 3
+04:45 PM 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 6 0 6
+Total 0 0 0 5 0 0 0 0 4 0 0 0 0 1 0 0 0 0 6 0 16 0 16
+05:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+05:15 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+05:30 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 2 0 2
+05:45 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 0 4 0 4
+Total 0 0 0 1 0 0 0 0 2 0 0 0 0 2 0 0 0 0 2 0 7 0 7
+Grand Total 0 0 0 6 0 0 0 0 6 0 0 0 0 3 0 0 0 0 8 0 23 0 23
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+3rd St.
+Southbound Westbound Northbound
+Cary St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0          0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     04:45 Volume              0         0            0               0        0              0            0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                              0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 

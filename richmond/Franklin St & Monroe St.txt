@@ -1,261 +1,361 @@
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                              File Name                                                            : 53 Monroe St & Franklin St
-                                                                                                              Site Code                                                            : 00003010
-                                                                                                              Start Date                                                           : 7/31/2008
-                                                                                                              Page No                                                              :1
-                                                                                                       Groups Printed- Vehicles
-                             Monroe St.                                                                                                                                       Franklin St.
-                             Southbound                                      Westbound                                            Northbound                                  Eastbound
-                                                           App.                                          App.                                             App.                                           App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                           Total                                         Total                                            Total                                          Total       Total       Total       Total
-        Factor     1.0      1.0      1.0      1.0                    1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0     1.0      1.0     1.0
-   07:00 AM           0       4       4        7              8       0      0         0           2           0        0         0            0     7       0        6      92        0       0           98            16       106         122
-   07:15 AM           0       5      10        6             15       0      0         0           1           0        0         0            0    13       0        6      88        0       1           94            21       109         130
-   07:30 AM           0       5       9        9             14       0      0         0           1           0        0         0            0    20       0        5     183        0       4          188            34       202         236
-   07:45 AM           0       3       9       16             12       0      0         0           4           0        0         0            0    17       0       10     199        0       0          209            37       221         258
-       Total          0      17      32       38             49       0      0         0           8           0        0         0            0    57       0       27     562        0       5          589           108       638         746
-
-   08:00 AM           0       3       8        4             11       0      0         0        2              0        0         0            0     4       0        7     221        0       1          228            11       239         250
-   08:15 AM           0       2      10        9             12       0      0         0        2              0        0         0            0     9       0       10     209        0       2          219            22       231         253
-   08:30 AM           0      11      15       12             26       0      0         0        1              0        0         0            0    15       0        8     199        0       3          207            31       233         264
-   08:45 AM           0       9      14       13             23       0      0         0        8              0        0         0            0     7       0       18     170        0       4          188            32       211         243
-       Total          0      25      47       38             72       0      0         0       13              0        0         0            0    35       0       43     799        0      10          842            96       914        1010
-
-  Grand Total       0       42        79      76            121       0       0        0       21              0        0          0        0       92       0      70     1361        0      15         1431           204      1552        1756
-   Apprch %       0.0      34.7     65.3                            0.0     0.0      0.0                              0.0        0.0      0.0                       4.9     95.1     0.0
-     Total %      0.0       2.7      5.1                    7.8     0.0     0.0      0.0                  0.0         0.0        0.0      0.0              0.0      4.5     87.7     0.0                 92.2           11.6      88.4
-
-
-                                     Monroe St.                                                                                                                                                Franklin St.
-                                     Southbound                                             Westbound                                              Northbound                                  Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total       Right      Thru             Left    App. Total       Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 53 Monroe St & Franklin St
+Site Code : 00003010
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Vehicles
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 4 4 7 8 0 0 0 2 0 0 0 0 7 0 6 92 0 0 98 16 106 122
+07:15 AM 0 5 10 6 15 0 0 0 1 0 0 0 0 13 0 6 88 0 1 94 21 109 130
+07:30 AM 0 5 9 9 14 0 0 0 1 0 0 0 0 20 0 5 183 0 4 188 34 202 236
+07:45 AM 0 3 9 16 12 0 0 0 4 0 0 0 0 17 0 10 199 0 0 209 37 221 258
+Total 0 17 32 38 49 0 0 0 8 0 0 0 0 57 0 27 562 0 5 589 108 638 746
+08:00 AM 0 3 8 4 11 0 0 0 2 0 0 0 0 4 0 7 221 0 1 228 11 239 250
+08:15 AM 0 2 10 9 12 0 0 0 2 0 0 0 0 9 0 10 209 0 2 219 22 231 253
+08:30 AM 0 11 15 12 26 0 0 0 1 0 0 0 0 15 0 8 199 0 3 207 31 233 264
+08:45 AM 0 9 14 13 23 0 0 0 8 0 0 0 0 7 0 18 170 0 4 188 32 211 243
+Total 0 25 47 38 72 0 0 0 13 0 0 0 0 35 0 43 799 0 10 842 96 914 1010
+Grand Total 0 42 79 76 121 0 0 0 21 0 0 0 0 92 0 70 1361 0 15 1431 204 1552 1756
+Apprch % 0.0 34.7 65.3 0.0 0.0 0.0 0.0 0.0 0.0 4.9 95.1 0.0
+Total % 0.0 2.7 5.1 7.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 87.7 0.0 92.2 11.6 88.4
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:45 AM
-           Volume              0        19           42              61         0              0          0                 0             0           0       0              0        35         828               0            863            924
-           Percent           0.0      31.1          68.9                      0.0            0.0        0.0                             0.0         0.0     0.0                       4.1       95.9             0.0
-     08:00 Volume              0         3             8             11         0              0          0                 0             0           0       0              0          7        221               0            228           239
-       Peak Factor                                                                                                                                                                                                                           0.967
-          High Int.      08:30 AM                                          6:45:00 AM                                             6:45:00 AM                                       08:00 AM
-           Volume              0       11            15               26         0            0           0                 0           0             0       0              0           7         221             0             228
-       Peak Factor                                                 0.587                                                                                                                                                       0.946
-                                                                                    Peggy Malone & Associates, Inc.
-                                                                                           (888) 247-8602
-                                                                                                                File Name                                                           : 53 Monroe St & Franklin St
-                                                                                                                Site Code                                                           : 00003010
-                                                                                                                Start Date                                                          : 7/31/2008
-                                                                                                                Page No                                                             :1
-                                                                                                         Groups Printed- Bicycles
-                             Monroe St.                                                                                                                                        Franklin St.
-                             Southbound                                        Westbound                                            Northbound                                 Eastbound
-                                                             App.                                         App.                                              App.                                         App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left        Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru     Left    Peds
-                                                             Total                                        Total                                             Total                                        Total       Total       Total       Total
-        Factor     1.0       1.0      1.0        1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0      1.0     1.0
-   07:00 AM           0       0        0          0             0       0      0         0           0           0        0         0            0     0       0        0      3        0       0           3             0         3            3
-   07:15 AM           0       0        0          1             0       0      0         0           0           0        0         0            0     0       0        0      1        0       0           1             1         1            2
-   07:30 AM           0       0        0          0             0       0      0         0           0           0        0         0            0     0       0        0      8        0       0           8             0         8            8
-   07:45 AM           0       0        0          2             0       0      0         0           0           0        0         0            0     0       0        0      7        0       0           7             2         7            9
-       Total          0       0        0          3             0       0      0         0           0           0        0         0            0     0       0        0     19        0       0          19             3        19           22
-
-   08:00 AM           0       0        0          0             0       0      0         0           0           0        0         0            0     2       0        0      7        0       0           7             2         7            9
-   08:15 AM           0       0        0          0             0       0      0         0           0           0        0         0            0     0       0        0      6        0       0           6             0         6            6
-   08:30 AM           0       1        0          0             1       0      0         0           0           0        0         0            0     0       0        0      5        0       0           5             0         6            6
-   08:45 AM           0       0        0          0             0       0      0         0           0           0        0         0            0     0       0        0      6        0       0           6             0         6            6
-       Total          0       1        0          0             1       0      0         0           0           0        0         0            0     2       0        0     24        0       0          24             2        25           27
-
-  Grand Total         0       1        0          3             1       0      0         0           0           0        0         0            0     2       0        0      43       0       0          43             5        44           49
-                           100.                                                                                                                                              100.
-    Apprch %      0.0                 0.0                             0.0     0.0      0.0                              0.0        0.0      0.0                       0.0             0.0
-                              0                                                                                                                                                 0
-      Total %     0.0       2.3       0.0                     2.3     0.0     0.0      0.0                  0.0         0.0        0.0      0.0              0.0      0.0    97.7     0.0                97.7           10.2      89.8
-
-
-                                      Monroe St.                                                                                                                                                Franklin St.
-                                      Southbound                                              Westbound                                              Northbound                                 Eastbound
-          Start Time   Right      Thru        Left              App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total      Right      Thru            Left    App. Total       Int. Total
+Intersection 07:45 AM
+Volume 0 19 42 61 0 0 0 0 0 0 0 0 35 828 0 863 924
+Percent 0.0 31.1 68.9 0.0 0.0 0.0 0.0 0.0 0.0 4.1 95.9 0.0
+08:00 Volume 0 3 8 11 0 0 0 0 0 0 0 0 7 221 0 228 239
+Peak Factor 0.967
+High Int. 08:30 AM 6:45:00 AM 6:45:00 AM 08:00 AM
+Volume 0 11 15 26 0 0 0 0 0 0 0 0 7 221 0 228
+Peak Factor 0.587 0.946
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 53 Monroe St & Franklin St
+Site Code : 00003010
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Bicycles
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 3 0 3 3
+07:15 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 2
+07:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 8 0 8 8
+07:45 AM 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 7 0 0 7 2 7 9
+Total 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 19 0 0 19 3 19 22
+08:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 7 0 0 7 2 7 9
+08:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 6 0 6 6
+08:30 AM 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 5 0 0 5 0 6 6
+08:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 6 0 6 6
+Total 0 1 0 0 1 0 0 0 0 0 0 0 0 2 0 0 24 0 0 24 2 25 27
+Grand Total 0 1 0 3 1 0 0 0 0 0 0 0 0 2 0 0 43 0 0 43 5 44 49
+Apprch % 0.0
+100.
+0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+100.
+0
+0.0
+Total % 0.0 2.3 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 97.7 0.0 97.7 10.2 89.8
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:30 AM
-           Volume              0          0              0               0        0              0          0                 0             0           0       0             0          0        28               0             28             28
-           Percent           0.0        0.0            0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                      0.0      100.0            0.0
-     07:30 Volume              0          0              0               0        0              0          0                 0             0           0       0             0          0          8              0              8              8
-       Peak Factor                                                                                                                                                                                                                           0.875
-          High Int.      6:45:00 AM                                          6:45:00 AM                                             6:45:00 AM                                      07:30 AM
-           Volume              0            0           0                0         0            0           0                 0           0             0       0             0           0          8             0               8
-       Peak Factor                                                                                                                                                                                                             0.875
-                                                                                    Peggy Malone & Associates, Inc.
-                                                                                           (888) 247-8602
-                                                                                                                File Name                                                          : 53 Monroe St & Franklin St
-                                                                                                                Site Code                                                          : 00003010
-                                                                                                                Start Date                                                         : 7/31/2008
-                                                                                                                Page No                                                            :1
-                                                                                                        Groups Printed- Vehicles
-                             Monroe St.                                                                                                                                       Franklin St.
-                             Southbound                                        Westbound                                           Northbound                                 Eastbound
-                                                             App.                                         App.                                             App.                                           App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                  Right   Thru       Left     Peds                Right       Thru      Left     Peds            Right   Thru     Left     Peds
-                                                             Total                                        Total                                            Total                                          Total       Total       Total       Total
-        Factor     1.0       1.0     1.0        1.0                    1.0    1.0       1.0       1.0                  1.0        1.0       1.0      1.0              1.0    1.0      1.0      1.0
-    11:00 AM          0       1      11          3             12       0      0          0        0            0        0         0            0     5       0        7     87        0        2           94            10       106         116
-    11:15 AM          0       0      10         13             10       0      0          0        1            0        0         0            0    15       0       13     93        0        1          106            30       116         146
-    11:30 AM          0      10      10          5             20       0      0          0        2            0        0         0            0     8       0        9     89        0        2           98            17       118         135
-    11:45 AM          0       6      15         10             21       0      0          0       12            0        0         0            0    10       0       12     97        0        4          109            36       130         166
-        Total         0      17      46         31             63       0      0          0       15            0        0         0            0    38       0       41    366        0        9          407            93       470         563
-
-    12:00 PM          0       9      10          7             19       0      0          0        4            0        0         0            0    11       0        8     94        0        1          102            23       121         144
-    12:15 PM          0       0      17         12             17       0      0          0        2            0        0         0            0    10       0        4    127        0        1          131            25       148         173
-    12:30 PM          0       4      16          8             20       0      0          0        2            0        0         0            0     6       0        9     98        0        2          107            18       127         145
-    12:45 PM          0       5      15         16             20       0      0          0        4            0        0         0            0     8       0       15    130        0        1          145            29       165         194
-        Total         0      18      58         43             76       0      0          0       12            0        0         0            0    35       0       36    449        0        5          485            95       561         656
-
-  Grand Total        0      35       104        74            139       0       0         0       27            0        0          0        0       73       0      77      815       0       14          892           188      1031        1219
-   Apprch %        0.0     25.2     74.8                              0.0     0.0       0.0                            0.0        0.0      0.0                       8.6    91.4     0.0
-     Total %       0.0      3.4     10.1                     13.5     0.0     0.0       0.0                0.0         0.0        0.0      0.0              0.0      7.5    79.0     0.0                  86.5           15.4      84.6
-
-
-                                     Monroe St.                                                                                                                                                 Franklin St.
-                                     Southbound                                                Westbound                                            Northbound                                  Eastbound
-          Start Time   Right       Thru        Left             App. Total     Right           Thru      Left       App. Total          Right       Thru     Left    App. Total      Right       Thru             Left    App. Total       Int. Total
+Intersection 07:30 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 28 0 28 28
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0
+07:30 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 8 8
+Peak Factor 0.875
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 07:30 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 8
+Peak Factor 0.875
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 53 Monroe St & Franklin St
+Site Code : 00003010
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Vehicles
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 1 11 3 12 0 0 0 0 0 0 0 0 5 0 7 87 0 2 94 10 106 116
+11:15 AM 0 0 10 13 10 0 0 0 1 0 0 0 0 15 0 13 93 0 1 106 30 116 146
+11:30 AM 0 10 10 5 20 0 0 0 2 0 0 0 0 8 0 9 89 0 2 98 17 118 135
+11:45 AM 0 6 15 10 21 0 0 0 12 0 0 0 0 10 0 12 97 0 4 109 36 130 166
+Total 0 17 46 31 63 0 0 0 15 0 0 0 0 38 0 41 366 0 9 407 93 470 563
+12:00 PM 0 9 10 7 19 0 0 0 4 0 0 0 0 11 0 8 94 0 1 102 23 121 144
+12:15 PM 0 0 17 12 17 0 0 0 2 0 0 0 0 10 0 4 127 0 1 131 25 148 173
+12:30 PM 0 4 16 8 20 0 0 0 2 0 0 0 0 6 0 9 98 0 2 107 18 127 145
+12:45 PM 0 5 15 16 20 0 0 0 4 0 0 0 0 8 0 15 130 0 1 145 29 165 194
+Total 0 18 58 43 76 0 0 0 12 0 0 0 0 35 0 36 449 0 5 485 95 561 656
+Grand Total 0 35 104 74 139 0 0 0 27 0 0 0 0 73 0 77 815 0 14 892 188 1031 1219
+Apprch % 0.0 25.2 74.8 0.0 0.0 0.0 0.0 0.0 0.0 8.6 91.4 0.0
+Total % 0.0 3.4 10.1 13.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.5 79.0 0.0 86.5 15.4 84.6
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume              0        18             58              76         0               0        0                 0             0           0       0             0        36          449               0            485            561
-           Percent           0.0      23.7            76.3                      0.0             0.0      0.0                             0.0         0.0     0.0                      7.4        92.6             0.0
-     12:45 Volume              0         5              15             20         0               0        0                 0             0           0       0             0        15          130               0            145           165
-       Peak Factor                                                                                                                                                                                                                            0.850
-          High Int.      12:30 PM                                                                                                                                                  12:45 PM
-           Volume              0           4           16               20          0            0         0                 0             0           0       0             0          15          130             0             145
-       Peak Factor                                                   0.950                                                                                                                                                      0.836
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                               File Name                                                               : 53 Monroe St & Franklin St
-                                                                                                               Site Code                                                               : 00003010
-                                                                                                               Start Date                                                              : 7/31/2008
-                                                                                                               Page No                                                                 :1
-                                                                                                         Groups Printed- Bicycles
-                             Monroe St.                                                                                                                                        Franklin St.
-                             Southbound                                       Westbound                                             Northbound                                 Eastbound
-                                                            App.                                          App.                                              App.                                            App.       Exclu.      Inclu.        Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru       Left     Peds                  Right       Thru      Left     Peds            Right   Thru        Left    Peds
-                                                            Total                                         Total                                             Total                                           Total       Total      Total        Total
-        Factor     1.0      1.0     1.0         1.0                   1.0    1.0       1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0         1.0     1.0
-    11:00 AM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0          1       0       0           1            0            1          1
-    11:15 AM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0          1       0       0           1            0            1          1
-    11:30 AM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0          5       0       0           5            0            5          5
-    11:45 AM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0          2       0       0           2            0            2          2
-        Total         0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0          9       0       0           9            0            9          9
-
-    12:00 PM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0      4           0       0           4            0         4             4
-    12:15 PM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0      3           0       0           3            0         3             3
-    12:30 PM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0      3           0       0           3            0         3             3
-    12:45 PM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0      1           0       0           1            0         1             1
-        Total         0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0     11           0       0          11            0        11            11
-
-  Grand Total         0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0      20          0       0          20            0        20            20
-                                                                                                                                                                             100.
-    Apprch %       0.0      0.0     0.0                              0.0     0.0       0.0                              0.0        0.0      0.0                       0.0                0.0
-                                                                                                                                                                                0
-                                                                                                                                                                             100.
-      Total %      0.0      0.0     0.0                      0.0     0.0     0.0       0.0                  0.0         0.0        0.0      0.0              0.0      0.0                0.0                100.0          0.0     100.0
-                                                                                                                                                                                0
-
-
-                                    Monroe St.                                                                                                                                                     Franklin St.
-                                    Southbound                                                Westbound                                              Northbound                                    Eastbound
-          Start Time   Right       Thru        Left            App. Total     Right           Thru        Left       App. Total          Right       Thru     Left    App. Total         Right      Thru            Left   App. Total        Int. Total
+Intersection 12:00 PM
+Volume 0 18 58 76 0 0 0 0 0 0 0 0 36 449 0 485 561
+Percent 0.0 23.7 76.3 0.0 0.0 0.0 0.0 0.0 0.0 7.4 92.6 0.0
+12:45 Volume 0 5 15 20 0 0 0 0 0 0 0 0 15 130 0 145 165
+Peak Factor 0.850
+High Int. 12:30 PM 12:45 PM
+Volume 0 4 16 20 0 0 0 0 0 0 0 0 15 130 0 145
+Peak Factor 0.950 0.836
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 53 Monroe St & Franklin St
+Site Code : 00003010
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Bicycles
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1
+11:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1
+11:30 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 5 0 5 5
+11:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 2 0 2 2
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 0 0 9 0 9 9
+12:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 4 0 4 4
+12:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 3 0 3 3
+12:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 3 0 3 3
+12:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1
+Total 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 0 0 11 0 11 11
+Grand Total 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20 0 0 20 0 20 20
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+100.
+0
+0.0
+Total % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+100.
+0
+0.0 100.0 0.0 100.0
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:30 AM
-           Volume              0         0              0               0        0               0          0                 0             0           0       0             0             0        14               0            14              14
-           Percent           0.0       0.0            0.0                      0.0             0.0        0.0                             0.0         0.0     0.0                         0.0      100.0            0.0
-     11:30 Volume              0         0              0               0        0               0          0                 0             0           0       0             0             0          5              0             5               5
-       Peak Factor                                                                                                                                                                                                                              0.700
-          High Int.                                                                                                                                                                    11:30 AM
-           Volume             0            0           0                0          0            0           0                 0             0           0       0             0              0          5             0              5
-       Peak Factor                                                                                                                                                                                                               0.700
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                              File Name                                                            : 53 Monroe St & Franklin St
-                                                                                                              Site Code                                                            : 00003010
-                                                                                                              Start Date                                                           : 7/31/2008
-                                                                                                              Page No                                                              :1
-                                                                                                        Groups Printed- Vehicles
-                             Monroe St.                                                                                                                                       Franklin St.
-                             Southbound                                      Westbound                                             Northbound                                 Eastbound
-                                                           App.                                           App.                                             App.                                           App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left     Peds                  Right   Thru       Left     Peds                  Right       Thru      Left     Peds            Right   Thru     Left     Peds
-                                                           Total                                          Total                                            Total                                          Total       Total       Total       Total
-        Factor     1.0       1.0     1.0      1.0                    1.0    1.0       1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0      1.0      1.0
-    04:00 PM          0      13      12        8             25       0      0          0           3           0        0         0            0    12       0       19    101        0        0          120            23       145         168
-    04:15 PM          0       6      15        6             21       0      0          0           0           0        0         0            0     9       0        3     89        0        0           92            15       113         128
-    04:30 PM          0       5       9        6             14       0      0          0           3           0        0         0            0     9       0       12     90        0        2          102            20       116         136
-    04:45 PM          0       9      12        9             21       0      0          0           1           0        0         0            0     5       0        3     81        0        0           84            15       105         120
-        Total         0      33      48       29             81       0      0          0           7           0        0         0            0    35       0       37    361        0        2          398            73       479         552
-
-    05:00 PM          0       4      17        9             21       0      0          0        3              0        0         0            0     9       0       13    114        0        4          127            25       148         173
-    05:15 PM          0       9      18        3             27       0      0          0        3              0        0         0            0    11       0        7    104        0        3          111            20       138         158
-    05:30 PM          0      13      16        4             29       0      0          0        4              0        0         0            0    13       0       11     89        0        3          100            24       129         153
-    05:45 PM          0       6       7        8             13       0      0          0        5              0        0         0            0     6       0       18     82        0        3          100            22       113         135
-        Total         0      32      58       24             90       0      0          0       15              0        0         0            0    39       0       49    389        0       13          438            91       528         619
-
-  Grand Total        0      65       106      53            171       0       0         0       22              0        0          0        0       74       0      86      750       0       15          836           164      1007        1171
-   Apprch %        0.0     38.0     62.0                            0.0     0.0       0.0                              0.0        0.0      0.0                      10.3    89.7     0.0
-     Total %       0.0      6.5     10.5                   17.0     0.0     0.0       0.0                  0.0         0.0        0.0      0.0              0.0      8.5    74.5     0.0                  83.0           14.0      86.0
-
-
-                                     Monroe St.                                                                                                                                                 Franklin St.
-                                     Southbound                                              Westbound                                              Northbound                                  Eastbound
-          Start Time    Right      Thru        Left           App. Total     Right           Thru        Left       App. Total          Right       Thru     Left    App. Total      Right       Thru             Left    App. Total       Int. Total
+Intersection 11:30 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 14 0 14 14
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0
+11:30 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 5 5
+Peak Factor 0.700
+High Int. 11:30 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 5
+Peak Factor 0.700
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 53 Monroe St & Franklin St
+Site Code : 00003010
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Vehicles
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 13 12 8 25 0 0 0 3 0 0 0 0 12 0 19 101 0 0 120 23 145 168
+04:15 PM 0 6 15 6 21 0 0 0 0 0 0 0 0 9 0 3 89 0 0 92 15 113 128
+04:30 PM 0 5 9 6 14 0 0 0 3 0 0 0 0 9 0 12 90 0 2 102 20 116 136
+04:45 PM 0 9 12 9 21 0 0 0 1 0 0 0 0 5 0 3 81 0 0 84 15 105 120
+Total 0 33 48 29 81 0 0 0 7 0 0 0 0 35 0 37 361 0 2 398 73 479 552
+05:00 PM 0 4 17 9 21 0 0 0 3 0 0 0 0 9 0 13 114 0 4 127 25 148 173
+05:15 PM 0 9 18 3 27 0 0 0 3 0 0 0 0 11 0 7 104 0 3 111 20 138 158
+05:30 PM 0 13 16 4 29 0 0 0 4 0 0 0 0 13 0 11 89 0 3 100 24 129 153
+05:45 PM 0 6 7 8 13 0 0 0 5 0 0 0 0 6 0 18 82 0 3 100 22 113 135
+Total 0 32 58 24 90 0 0 0 15 0 0 0 0 39 0 49 389 0 13 438 91 528 619
+Grand Total 0 65 106 53 171 0 0 0 22 0 0 0 0 74 0 86 750 0 15 836 164 1007 1171
+Apprch % 0.0 38.0 62.0 0.0 0.0 0.0 0.0 0.0 0.0 10.3 89.7 0.0
+Total % 0.0 6.5 10.5 17.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.5 74.5 0.0 83.0 14.0 86.0
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      05:00 PM
-           Volume              0        32           58              90         0               0          0                 0             0           0       0             0        49          389               0            438            528
-           Percent           0.0      35.6          64.4                      0.0             0.0        0.0                             0.0         0.0     0.0                     11.2        88.8             0.0
-     05:00 Volume              0         4            17             21         0               0          0                 0             0           0       0             0        13          114               0            127           148
-       Peak Factor                                                                                                                                                                                                                            0.892
-          High Int.      05:30 PM                                                                                                                                                  05:00 PM
-           Volume              0       13            16               29          0            0           0                 0             0           0       0             0          13          114             0             127
-       Peak Factor                                                 0.776                                                                                                                                                        0.862
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                               File Name                                                               : 53 Monroe St & Franklin St
-                                                                                                               Site Code                                                               : 00003010
-                                                                                                               Start Date                                                              : 7/31/2008
-                                                                                                               Page No                                                                 :1
-                                                                                                         Groups Printed- Bicycles
-                             Monroe St.                                                                                                                                        Franklin St.
-                             Southbound                                       Westbound                                             Northbound                                 Eastbound
-                                                            App.                                          App.                                              App.                                             App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru       Left     Peds                  Right       Thru      Left     Peds            Right   Thru        Left     Peds
-                                                            Total                                         Total                                             Total                                            Total       Total       Total        Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0       1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0         1.0      1.0
-    04:00 PM          0       0       0          1             0       0      0          0           0           0        0         0            0     0       0        0      1           0        1           1             2         1             3
-    04:15 PM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0      4           0        0           4             0         4             4
-    04:30 PM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0      6           0        0           6             0         6             6
-    04:45 PM          0       0       0          0             0       0      0          0           0           0        0         0            0     2       0        0      2           0        0           2             2         2             4
-        Total         0       0       0          1             0       0      0          0           0           0        0         0            0     2       0        0     13           0        1          13             4        13            17
-
-    05:00 PM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0          0       0        0           0             0            0          0
-    05:15 PM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0          2       0        0           2             0            2          2
-    05:30 PM          0       1       0          0             1       0      0          0           0           0        0         0            0     0       0        0          1       0        0           1             0            2          2
-    05:45 PM          0       0       0          0             0       0      0          0           0           0        0         0            0     0       0        0          4       0        0           4             0            4          4
-        Total         0       1       0          0             1       0      0          0           0           0        0         0            0     0       0        0          7       0        0           7             0            8          8
-
-  Grand Total         0       1       0          1             1       0      0          0           0           0        0         0            0     2       0        0      20          0        1          20             4        21            25
-                           100.                                                                                                                                              100.
-    Apprch %       0.0              0.0                              0.0     0.0       0.0                              0.0        0.0      0.0                       0.0                0.0
-                              0                                                                                                                                                 0
-      Total %      0.0      4.8     0.0                      4.8     0.0     0.0       0.0                  0.0         0.0        0.0      0.0              0.0      0.0    95.2        0.0                 95.2           16.0      84.0
-
-
-                                    Monroe St.                                                                                                                                                      Franklin St.
-                                    Southbound                                                Westbound                                              Northbound                                     Eastbound
-          Start Time    Right      Thru        Left            App. Total     Right           Thru        Left       App. Total          Right       Thru     Left    App. Total         Right       Thru            Left    App. Total        Int. Total
+Intersection 05:00 PM
+Volume 0 32 58 90 0 0 0 0 0 0 0 0 49 389 0 438 528
+Percent 0.0 35.6 64.4 0.0 0.0 0.0 0.0 0.0 0.0 11.2 88.8 0.0
+05:00 Volume 0 4 17 21 0 0 0 0 0 0 0 0 13 114 0 127 148
+Peak Factor 0.892
+High Int. 05:30 PM 05:00 PM
+Volume 0 13 16 29 0 0 0 0 0 0 0 0 13 114 0 127
+Peak Factor 0.776 0.862
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 53 Monroe St & Franklin St
+Site Code : 00003010
+Start Date : 7/31/2008
+Page No : 1
+Groups Printed- Bicycles
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 2 1 3
+04:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 4 0 4 4
+04:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 6 0 6 6
+04:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 2 0 0 2 2 2 4
+Total 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 13 0 1 13 4 13 17
+05:00 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+05:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 2 0 2 2
+05:30 PM 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 2 2
+05:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 4 0 4 4
+Total 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 7 0 0 7 0 8 8
+Grand Total 0 1 0 1 1 0 0 0 0 0 0 0 0 2 0 0 20 0 1 20 4 21 25
+Apprch % 0.0
+100.
+0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+100.
+0
+0.0
+Total % 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 95.2 0.0 95.2 16.0 84.0
+Monroe St.
+Southbound Westbound Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              0         0              0               0        0               0          0                 0             0           0       0             0             0         13               0             13              13
-           Percent           0.0       0.0            0.0                      0.0             0.0        0.0                             0.0         0.0     0.0                         0.0       100.0            0.0
-     04:30 Volume              0         0              0               0        0               0          0                 0             0           0       0             0             0           6              0              6               6
-       Peak Factor                                                                                                                                                                                                                                0.542
-          High Int.                                                                                                                                                                    04:30 PM
-           Volume             0            0           0                0          0            0           0                 0             0           0       0             0              0           6             0               6
-       Peak Factor                                                                                                                                                                                                                 0.542
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 13 0 13 13
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0
+04:30 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 6 6
+Peak Factor 0.542
+High Int. 04:30 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 6
+Peak Factor 0.542
 

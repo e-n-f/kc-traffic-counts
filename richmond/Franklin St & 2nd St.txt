@@ -1,255 +1,358 @@
-                                                                                    Peggy Malone & Associates, Inc.
-                                                                                           (888) 247-8602
-                                                                                                                                                                   File Name                  : 59 2nd St & Franklin St
-                                                                                                                                                                   Site Code                  : 00003003
-                                                                                                                                                                   Start Date                 : 8/6/2008
-                                                                                                                                                                   Page No                    :1
-                                                                                                       Groups Printed- Vehicles
-                                                                                                                        2nd St.                                                Franklin St.
-                             Southbound                                        Westbound                              Northbound                                               Eastbound
-                                                             App.                                       App.                                              App.                                            App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left        Peds                 Right   Thru      Left     Peds                Right       Thru      Left     Peds            Right     Thru     Left    Peds
-                                                             Total                                      Total                                             Total                                           Total       Total      Total       Total
-        Factor     1.0       1.0      1.0        1.0                   1.0    1.0      1.0       1.0                  1.0        1.0       1.0      1.0              1.0      1.0      1.0     1.0
-   07:00 AM           0       0        0          2             0       0      0         0        1            0      24         56            0     4      80        0       81        9       2           90             9      170         179
-   07:15 AM           0       0        0          1             0       0      0         0        1            0      19         67            0     5      86        0       93       13       2          106             9      192         201
-   07:30 AM           0       0        0          4             0       0      0         0        3            0      40         68            0     4     108        0      161       19       0          180            11      288         299
-   07:45 AM           0       0        0          5             0       0      0         0        6            0      48        137            0     8     185        0      194        9       2          203            21      388         409
-       Total          0       0        0         12             0       0      0         0       11            0     131        328            0    21     459        0      529       50       6          579            50     1038        1088
-
-   08:00 AM           0       0        0          4             0       0      0         0        2            0      49         82            0     6     131        0      209       20       2          229            14      360         374
-   08:15 AM           0       0        0         10             0       0      0         0        4            0      61         90            0     3     151        0      190       23       3          213            20      364         384
-   08:30 AM           0       0        0          7             0       0      0         0        4            0      46        102            0     3     148        0      156        9       4          165            18      313         331
-   08:45 AM           0       0        0          8             0       0      0         0        7            0      37         95            0     5     132        0      150       24       9          174            29      306         335
-       Total          0       0        0         29             0       0      0         0       17            0     193        369            0    17     562        0      705       76      18          781            81     1343        1424
-
-  Grand Total       0         0         0        41             0       0       0        0       28            0     324         697        0       38    1021        0     1234      126      24         1360           131     2381        2512
-   Apprch %       0.0       0.0       0.0                             0.0     0.0      0.0                           31.7       68.3      0.0                       0.0      90.7     9.3
-     Total %      0.0       0.0       0.0                     0.0     0.0     0.0      0.0                0.0        13.6       29.3      0.0             42.9      0.0      51.8     5.3                 57.1           5.2      94.8
-
-
-                                                                                                                                                     2nd St.                                    Franklin St.
-                                      Southbound                                              Westbound                                            Northbound                                   Eastbound
-          Start Time   Right      Thru        Left              App. Total     Right          Thru      Left       App. Total          Right       Thru     Left    App. Total        Right      Thru             Left    App. Total      Int. Total
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 59 2nd St & Franklin St
+Site Code : 00003003
+Start Date : 8/6/2008
+Page No : 1
+Groups Printed- Vehicles
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 2 0 0 0 0 1 0 24 56 0 4 80 0 81 9 2 90 9 170 179
+07:15 AM 0 0 0 1 0 0 0 0 1 0 19 67 0 5 86 0 93 13 2 106 9 192 201
+07:30 AM 0 0 0 4 0 0 0 0 3 0 40 68 0 4 108 0 161 19 0 180 11 288 299
+07:45 AM 0 0 0 5 0 0 0 0 6 0 48 137 0 8 185 0 194 9 2 203 21 388 409
+Total 0 0 0 12 0 0 0 0 11 0 131 328 0 21 459 0 529 50 6 579 50 1038 1088
+08:00 AM 0 0 0 4 0 0 0 0 2 0 49 82 0 6 131 0 209 20 2 229 14 360 374
+08:15 AM 0 0 0 10 0 0 0 0 4 0 61 90 0 3 151 0 190 23 3 213 20 364 384
+08:30 AM 0 0 0 7 0 0 0 0 4 0 46 102 0 3 148 0 156 9 4 165 18 313 331
+08:45 AM 0 0 0 8 0 0 0 0 7 0 37 95 0 5 132 0 150 24 9 174 29 306 335
+Total 0 0 0 29 0 0 0 0 17 0 193 369 0 17 562 0 705 76 18 781 81 1343 1424
+Grand Total 0 0 0 41 0 0 0 0 28 0 324 697 0 38 1021 0 1234 126 24 1360 131 2381 2512
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 31.7 68.3 0.0 0.0 90.7 9.3
+Total % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.6 29.3 0.0 42.9 0.0 51.8 5.3 57.1 5.2 94.8
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:45 AM
-           Volume              0          0              0               0        0              0        0                 0          204          411       0             615          0        749              61           810           1425
-           Percent           0.0        0.0            0.0                      0.0            0.0      0.0                            33.2        66.8     0.0                        0.0       92.5             7.5
-     07:45 Volume              0          0              0               0        0              0        0                 0           48          137       0             185          0        194               9           203           388
-       Peak Factor                                                                                                                                                                                                                           0.918
-          High Int.      6:45:00 AM                                          6:45:00 AM                                           07:45 AM                                          08:00 AM
-           Volume              0            0           0                0         0            0         0                 0          48           137       0              185          0         209            20            229
-       Peak Factor                                                                                                                                                         0.831                                               0.884
-                                                                                  Peggy Malone & Associates, Inc.
-                                                                                         (888) 247-8602
-                                                                                                                                                                   File Name                   : 59 2nd St & Franklin St
-                                                                                                                                                                   Site Code                   : 00003003
-                                                                                                                                                                   Start Date                  : 8/6/2008
-                                                                                                                                                                   Page No                     :1
-                                                                                                       Groups Printed- Bicycles
-                                                                                                                        2nd St.                                              Franklin St.
-                             Southbound                                      Westbound                                Northbound                                             Eastbound
-                                                           App.                                         App.                                              App.                                              App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left      Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru        Left    Peds
-                                                           Total                                        Total                                             Total                                             Total       Total       Total        Total
-        Factor     1.0       1.0      1.0      1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0         1.0     1.0
-   07:00 AM           0       0        0        1             0       0      0         0           0           0        0         0            0     2       0        0          0       0        0            0              3           0          3
-   07:15 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     3       0        0          0       0        1            0              4           0          4
-   07:30 AM           0       0        0        1             0       0      0         0           1           0        0         0            0     4       0        0          0       0        0            0              6           0          6
-   07:45 AM           0       0        0        2             0       0      0         0           1           0        0         0            0     4       0        0          0       0        0            0              7           0          7
-       Total          0       0        0        4             0       0      0         0           2           0        0         0            0    13       0        0          0       0        1            0             20           0         20
-
-   08:00 AM           0       0        0        3             0       0      0         0           0           0        0         0            0     2       0        0          0       0        0            0              5           0          5
-   08:15 AM           0       0        0        1             0       0      0         0           0           0        0         0            0     3       0        0          0       0        0            0              4           0          4
-   08:30 AM           0       0        0        1             0       0      0         0           0           0        0         0            0     5       0        0          0       0        0            0              6           0          6
-   08:45 AM           0       0        0        0             0       0      0         0           0           0        0         0            0     5       0        0          0       0        0            0              5           0          5
-       Total          0       0        0        5             0       0      0         0           0           0        0         0            0    15       0        0          0       0        0            0             20           0         20
-
-  Grand Total       0         0         0       9             0       0       0        0           2           0        0          0        0       28       0        0       0          0        1            0             40           0         40
-   Apprch %       0.0       0.0       0.0                           0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0        0.0
-     Total %                                                                                                                                                                                                               100.0      0.0
-
-
-                                                                                                                                                     2nd St.                                      Franklin St.
-                                      Southbound                                            Westbound                                              Northbound                                     Eastbound
-          Start Time   Right      Thru        Left            App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total         Right      Thru              Left     App. Total       Int. Total
+Intersection 07:45 AM
+Volume 0 0 0 0 0 0 0 0 204 411 0 615 0 749 61 810 1425
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 33.2 66.8 0.0 0.0 92.5 7.5
+07:45 Volume 0 0 0 0 0 0 0 0 48 137 0 185 0 194 9 203 388
+Peak Factor 0.918
+High Int. 6:45:00 AM 6:45:00 AM 07:45 AM 08:00 AM
+Volume 0 0 0 0 0 0 0 0 48 137 0 185 0 209 20 229
+Peak Factor 0.831 0.884
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 59 2nd St & Franklin St
+Site Code : 00003003
+Start Date : 8/6/2008
+Page No : 1
+Groups Printed- Bicycles
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+07:00 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 3 0 3
+07:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 1 0 4 0 4
+07:30 AM 0 0 0 1 0 0 0 0 1 0 0 0 0 4 0 0 0 0 0 0 6 0 6
+07:45 AM 0 0 0 2 0 0 0 0 1 0 0 0 0 4 0 0 0 0 0 0 7 0 7
+Total 0 0 0 4 0 0 0 0 2 0 0 0 0 13 0 0 0 0 1 0 20 0 20
+08:00 AM 0 0 0 3 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 5 0 5
+08:15 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 4 0 4
+08:30 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 6 0 6
+08:45 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 5 0 5
+Total 0 0 0 5 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 20 0 20
+Grand Total 0 0 0 9 0 0 0 0 2 0 0 0 0 28 0 0 0 0 1 0 40 0 40
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 07:00 AM to 08:45 AM - Peak 1 of 1
-       Intersection      07:00 AM
-           Volume              0          0            0               0        0              0          0                 0             0           0       0             0             0             0             0              0                0
-           Percent           0.0        0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                         0.0           0.0           0.0
-     07:45 Volume              0          0            0               0        0              0          0                 0             0           0       0             0             0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                               0.000
-          High Int.      6:45:00 AM                                        6:45:00 AM                                             6:45:00 AM                                         6:45:00 AM
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                   File Name                  : 59 2nd St & Franklin St
-                                                                                                                                                                   Site Code                  : 00003003
-                                                                                                                                                                   Start Date                 : 8/6/2008
-                                                                                                                                                                   Page No                    :1
-                                                                                                       Groups Printed- Vehicles
-                                                                                                                        2nd St.                                                Franklin St.
-                             Southbound                                       Westbound                               Northbound                                               Eastbound
-                                                            App.                                        App.                                              App.                                             App.       Exclu.       Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru       Left     Peds                Right       Thru      Left     Peds            Right     Thru     Left     Peds
-                                                            Total                                       Total                                             Total                                            Total       Total       Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0       1.0       1.0                  1.0        1.0       1.0      1.0              1.0      1.0      1.0      1.0
-    11:00 AM          0       0       0          4             0       0      0          0        4            0      15         50            0     8      65        0       77       22        9           99            25       164         189
-    11:15 AM          0       0       0          2             0       0      0          0        4            0      12         54            0    10      66        0       79       15        7           94            23       160         183
-    11:30 AM          0       0       0          7             0       0      0          0        6            0      19         70            0    16      89        0       74       11       15           85            44       174         218
-    11:45 AM          0       0       0         13             0       0      0          0        3            0      16         60            0    15      76        0       80       31        8          111            39       187         226
-        Total         0       0       0         26             0       0      0          0       17            0      62        234            0    49     296        0      310       79       39          389           131       685         816
-
-    12:00 PM          0       0       0         13             0       0      0          0        7            0       8         67            0    12      75        0       95       26       17          121            49       196         245
-    12:15 PM          0       0       0         13             0       0      0          0       10            0      20         65            0    21      85        0       91       19       20          110            64       195         259
-    12:30 PM          0       0       0         21             0       0      0          0       12            0      14         79            0    22      93        0       90       26       18          116            73       209         282
-    12:45 PM          0       0       0          9             0       0      0          0       11            0      18         61            0    14      79        0      120       32       13          152            47       231         278
-        Total         0       0       0         56             0       0      0          0       40            0      60        272            0    69     332        0      396      103       68          499           233       831        1064
-
-  Grand Total        0        0       0         82             0       0       0         0       57            0     122         506        0      118     628        0       706     182      107          888           364      1516        1880
-   Apprch %        0.0      0.0     0.0                              0.0     0.0       0.0                           19.4       80.6      0.0                       0.0      79.5    20.5
-     Total %       0.0      0.0     0.0                      0.0     0.0     0.0       0.0                0.0         8.0       33.4      0.0             41.4      0.0      46.6    12.0                  58.6           19.4      80.6
-
-
-                                                                                                                                                     2nd St.                                     Franklin St.
-                                    Southbound                                                Westbound                                            Northbound                                    Eastbound
-          Start Time   Right       Thru        Left            App. Total     Right           Thru      Left       App. Total          Right       Thru     Left    App. Total        Right       Thru             Left    App. Total       Int. Total
+Intersection 07:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+07:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int. 6:45:00 AM 6:45:00 AM 6:45:00 AM 6:45:00 AM
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 59 2nd St & Franklin St
+Site Code : 00003003
+Start Date : 8/6/2008
+Page No : 1
+Groups Printed- Vehicles
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 4 0 0 0 0 4 0 15 50 0 8 65 0 77 22 9 99 25 164 189
+11:15 AM 0 0 0 2 0 0 0 0 4 0 12 54 0 10 66 0 79 15 7 94 23 160 183
+11:30 AM 0 0 0 7 0 0 0 0 6 0 19 70 0 16 89 0 74 11 15 85 44 174 218
+11:45 AM 0 0 0 13 0 0 0 0 3 0 16 60 0 15 76 0 80 31 8 111 39 187 226
+Total 0 0 0 26 0 0 0 0 17 0 62 234 0 49 296 0 310 79 39 389 131 685 816
+12:00 PM 0 0 0 13 0 0 0 0 7 0 8 67 0 12 75 0 95 26 17 121 49 196 245
+12:15 PM 0 0 0 13 0 0 0 0 10 0 20 65 0 21 85 0 91 19 20 110 64 195 259
+12:30 PM 0 0 0 21 0 0 0 0 12 0 14 79 0 22 93 0 90 26 18 116 73 209 282
+12:45 PM 0 0 0 9 0 0 0 0 11 0 18 61 0 14 79 0 120 32 13 152 47 231 278
+Total 0 0 0 56 0 0 0 0 40 0 60 272 0 69 332 0 396 103 68 499 233 831 1064
+Grand Total 0 0 0 82 0 0 0 0 57 0 122 506 0 118 628 0 706 182 107 888 364 1516 1880
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 19.4 80.6 0.0 0.0 79.5 20.5
+Total % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.0 33.4 0.0 41.4 0.0 46.6 12.0 58.6 19.4 80.6
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      12:00 PM
-           Volume              0         0              0               0        0               0        0                 0           60          272       0             332          0         396          103               499            831
-           Percent           0.0       0.0            0.0                      0.0             0.0      0.0                            18.1        81.9     0.0                        0.0        79.4         20.6
-     12:45 Volume              0         0              0               0        0               0        0                 0           18           61       0              79          0         120           32               152           231
-       Peak Factor                                                                                                                                                                                                                             0.899
-          High Int.                                                                                                               12:30 PM                                          12:45 PM
-           Volume             0            0           0                0          0            0         0                 0          14            79       0               93          0          120            32             152
-       Peak Factor                                                                                                                                                         0.892                                                 0.821
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                  File Name                 : 59 2nd St & Franklin St
-                                                                                                                                                                  Site Code                 : 00003003
-                                                                                                                                                                  Start Date                : 8/6/2008
-                                                                                                                                                                  Page No                   :1
-                                                                                                      Groups Printed- Bicycles
-                                                                                                                       2nd St.                                              Franklin St.
-                             Southbound                                     Westbound                                Northbound                                             Eastbound
-                                                          App.                                         App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                        Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0      1.0     1.0       1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    11:00 AM          0       0       0        1             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    11:15 AM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    11:30 AM          0       0       0        1             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-    11:45 AM          0       0       0        0             0       0      0         0           1           0        0         0            0     0       0        0          0     0       0             0              1           0          1
-        Total         0       0       0        2             0       0      0         0           1           0        0         0            0     0       0        0          0     0       0             0              3           0          3
-
-    12:00 PM          0       0       0        0             0       0      0         0           1           0        0         0            0     0       0        0          0     0       1             0              2           0          2
-    12:15 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-    12:30 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     2       0        0          0     0       1             0              3           0          3
-    12:45 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     0       0        0          0     0       0             0              0           0          0
-        Total         0       0       0        0             0       0      0         0           1           0        0         0            0     2       0        0          0     0       2             0              5           0          5
-
-  Grand Total        0        0       0        2             0       0       0        0           2           0        0          0        0        2       0        0       0        0       2             0              8           0          8
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                            100.0      0.0
-
-
-                                                                                                                                                    2nd St.                                   Franklin St.
-                                    Southbound                                             Westbound                                              Northbound                                  Eastbound
-          Start Time   Right       Thru        Left          App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 12:00 PM
+Volume 0 0 0 0 0 0 0 0 60 272 0 332 0 396 103 499 831
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 18.1 81.9 0.0 0.0 79.4 20.6
+12:45 Volume 0 0 0 0 0 0 0 0 18 61 0 79 0 120 32 152 231
+Peak Factor 0.899
+High Int. 12:30 PM 12:45 PM
+Volume 0 0 0 0 0 0 0 0 14 79 0 93 0 120 32 152
+Peak Factor 0.892 0.821
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 59 2nd St & Franklin St
+Site Code : 00003003
+Start Date : 8/6/2008
+Page No : 1
+Groups Printed- Bicycles
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+11:00 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+11:15 AM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11:30 AM 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+11:45 AM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+Total 0 0 0 2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 3 0 3
+12:00 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 2 0 2
+12:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 0 3 0 3
+12:45 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 0 0 0 0 0 0 0 0 1 0 0 0 0 2 0 0 0 0 2 0 5 0 5
+Grand Total 0 0 0 2 0 0 0 0 2 0 0 0 0 2 0 0 0 0 2 0 8 0 8
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 11:00 AM to 12:45 PM - Peak 1 of 1
-       Intersection      11:00 AM
-           Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     11:45 Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                            0.000
-          High Int.
-           Volume
-       Peak Factor
-                                                                                   Peggy Malone & Associates, Inc.
-                                                                                          (888) 247-8602
-                                                                                                                                                                     File Name                  : 59 2nd St & Franklin St
-                                                                                                                                                                     Site Code                  : 00003003
-                                                                                                                                                                     Start Date                 : 8/6/2008
-                                                                                                                                                                     Page No                    :1
-                                                                                                         Groups Printed- Vehicles
-                                                                                                                          2nd St.                                                Franklin St.
-                             Southbound                                       Westbound                                 Northbound                                               Eastbound
-                                                            App.                                          App.                                              App.                                             App.       Exclu.      Inclu.       Int.
-    Start Time   Right     Thru     Left       Peds                 Right   Thru       Left     Peds                  Right       Thru      Left     Peds            Right     Thru     Left     Peds
-                                                            Total                                         Total                                             Total                                            Total       Total      Total       Total
-        Factor     1.0       1.0    1.0         1.0                   1.0    1.0        1.0      1.0                    1.0        1.0       1.0      1.0              1.0      1.0      1.0      1.0
-    04:00 PM          0       0       0          1             0       0      0          1        5              1       8         65            0     9      73        0       57       16        2           73            17      147         164
-    04:15 PM          0       0       0          6             0       0      0          0        1              0       9         68            0     3      77        0       67       22        8           89            18      166         184
-    04:30 PM          0       0       0          1             0       0      0          0        2              0      18         79            0     6      97        0       67       20        9           87            18      184         202
-    04:45 PM          0       0       0          3             0       0      0          0        2              0      17         77            0     6      94        0       78       12        1           90            12      184         196
-        Total         0       0       0         11             0       0      0          1       10              1      52        289            0    24     341        0      269       70       20          339            65      681         746
-
-    05:00 PM          0       0       0         13             0       0      0          0           2           0      14        131            0    15     145        0       91       19        7          110            37      255         292
-    05:15 PM          0       0       0          6             0       0      0          0           3           0      12        108            0     2     120        0       80       14        6           94            17      214         231
-    05:30 PM          0       0       0          4             0       0      0          0           0           0      11        105            0     6     116        0       78       13        8           91            18      207         225
-    05:45 PM          0       0       0          4             0       0      0          0           2           0      14         82            0    12      96        0       78       11        2           89            20      185         205
-        Total         0       0       0         27             0       0      0          0           7           0      51        426            0    35     477        0      327       57       23          384            92      861         953
-
-  Grand Total         0       0       0         38             0       0      0           1      17              1     103        715            0    59     818        0      596      127       43          723           157     1542        1699
-                                                                                       100.
-    Apprch %       0.0      0.0     0.0                              0.0     0.0                                       12.6       87.4      0.0                       0.0      82.4    17.6
-                                                                                          0
-      Total %      0.0      0.0     0.0                      0.0     0.0     0.0        0.1                 0.1         6.7       46.4      0.0             53.0      0.0      38.7     8.2                  46.9           9.2      90.8
-
-
-                                                                                                                                                       2nd St.                                     Franklin St.
-                                    Southbound                                                Westbound                                              Northbound                                    Eastbound
-          Start Time    Right      Thru        Left            App. Total     Right           Thru        Left       App. Total          Right       Thru     Left    App. Total        Right       Thru             Left    App. Total      Int. Total
+Intersection 11:00 AM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+11:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 59 2nd St & Franklin St
+Site Code : 00003003
+Start Date : 8/6/2008
+Page No : 1
+Groups Printed- Vehicles
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 1 0 0 0 1 5 1 8 65 0 9 73 0 57 16 2 73 17 147 164
+04:15 PM 0 0 0 6 0 0 0 0 1 0 9 68 0 3 77 0 67 22 8 89 18 166 184
+04:30 PM 0 0 0 1 0 0 0 0 2 0 18 79 0 6 97 0 67 20 9 87 18 184 202
+04:45 PM 0 0 0 3 0 0 0 0 2 0 17 77 0 6 94 0 78 12 1 90 12 184 196
+Total 0 0 0 11 0 0 0 1 10 1 52 289 0 24 341 0 269 70 20 339 65 681 746
+05:00 PM 0 0 0 13 0 0 0 0 2 0 14 131 0 15 145 0 91 19 7 110 37 255 292
+05:15 PM 0 0 0 6 0 0 0 0 3 0 12 108 0 2 120 0 80 14 6 94 17 214 231
+05:30 PM 0 0 0 4 0 0 0 0 0 0 11 105 0 6 116 0 78 13 8 91 18 207 225
+05:45 PM 0 0 0 4 0 0 0 0 2 0 14 82 0 12 96 0 78 11 2 89 20 185 205
+Total 0 0 0 27 0 0 0 0 7 0 51 426 0 35 477 0 327 57 23 384 92 861 953
+Grand Total 0 0 0 38 0 0 0 1 17 1 103 715 0 59 818 0 596 127 43 723 157 1542 1699
+Apprch % 0.0 0.0 0.0 0.0 0.0
+100.
+0
+12.6 87.4 0.0 0.0 82.4 17.6
+Total % 0.0 0.0 0.0 0.0 0.0 0.0 0.1 0.1 6.7 46.4 0.0 53.0 0.0 38.7 8.2 46.9 9.2 90.8
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      05:00 PM
-           Volume              0         0              0               0        0               0          0                 0           51          426       0             477          0         327           57              384            861
-           Percent           0.0       0.0            0.0                      0.0             0.0        0.0                            10.7        89.3     0.0                        0.0        85.2         14.8
-     05:00 Volume              0         0              0               0        0               0          0                 0           14          131       0             145          0          91          19               110           255
-       Peak Factor                                                                                                                                                                                                                              0.844
-          High Int.                                                                                                                 05:00 PM                                          05:00 PM
-           Volume             0            0           0                0          0            0           0                 0          14           131       0              145          0           91            19            110
-       Peak Factor                                                                                                                                                           0.822                                                0.873
-                                                                                 Peggy Malone & Associates, Inc.
-                                                                                        (888) 247-8602
-                                                                                                                                                                  File Name                 : 59 2nd St & Franklin St
-                                                                                                                                                                  Site Code                 : 00003003
-                                                                                                                                                                  Start Date                : 8/6/2008
-                                                                                                                                                                  Page No                   :1
-                                                                                                      Groups Printed- Bicycles
-                                                                                                                       2nd St.                                              Franklin St.
-                             Southbound                                     Westbound                                Northbound                                             Eastbound
-                                                          App.                                         App.                                              App.                                            App.       Exclu.       Inclu.        Int.
-    Start Time   Right     Thru     Left     Peds                 Right   Thru      Left     Peds                  Right       Thru      Left     Peds            Right   Thru      Left    Peds
-                                                          Total                                        Total                                             Total                                           Total       Total       Total        Total
-        Factor     1.0       1.0    1.0       1.0                   1.0    1.0      1.0       1.0                    1.0        1.0       1.0      1.0              1.0    1.0       1.0     1.0
-    04:00 PM          0       0       0        1             0       0      0         0           0           0        0         0            0     1       0        0          0     0       2             0              4           0          4
-    04:15 PM          0       0       0        3             0       0      0         0           2           0        0         0            0     2       0        0          0     0       0             0              7           0          7
-    04:30 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     2       0        0          0     0       1             0              3           0          3
-    04:45 PM          0       0       0        2             0       0      0         0           0           0        0         0            0     1       0        0          0     0       0             0              3           0          3
-        Total         0       0       0        6             0       0      0         0           2           0        0         0            0     6       0        0          0     0       3             0             17           0         17
-
-    05:00 PM          0       0       0        0             0       0      0         0           1           0        0         0            0     2       0        0          0     0       1             0              4           0          4
-    05:15 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     2       0        0          0     0       0             0              2           0          2
-    05:30 PM          0       0       0        0             0       0      0         0           0           0        0         0            0     2       0        0          0     0       0             0              2           0          2
-    05:45 PM          0       0       0        0             0       0      0         0           1           0        0         0            0     4       0        0          0     0       0             0              5           0          5
-        Total         0       0       0        0             0       0      0         0           2           0        0         0            0    10       0        0          0     0       1             0             13           0         13
-
-  Grand Total        0        0       0        6             0       0       0        0           4           0        0          0        0       16       0        0       0        0       4             0             30           0         30
-   Apprch %        0.0      0.0     0.0                            0.0     0.0      0.0                              0.0        0.0      0.0                       0.0     0.0      0.0
-     Total %                                                                                                                                                                                                            100.0      0.0
-
-
-                                                                                                                                                    2nd St.                                   Franklin St.
-                                    Southbound                                             Westbound                                              Northbound                                  Eastbound
-          Start Time    Right      Thru        Left          App. Total     Right          Thru        Left       App. Total          Right       Thru     Left    App. Total       Right      Thru              Left     App. Total       Int. Total
+Intersection 05:00 PM
+Volume 0 0 0 0 0 0 0 0 51 426 0 477 0 327 57 384 861
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 10.7 89.3 0.0 0.0 85.2 14.8
+05:00 Volume 0 0 0 0 0 0 0 0 14 131 0 145 0 91 19 110 255
+Peak Factor 0.844
+High Int. 05:00 PM 05:00 PM
+Volume 0 0 0 0 0 0 0 0 14 131 0 145 0 91 19 110
+Peak Factor 0.822 0.873
+Peggy Malone & Associates, Inc.
+(888) 247-8602
+File Name : 59 2nd St & Franklin St
+Site Code : 00003003
+Start Date : 8/6/2008
+Page No : 1
+Groups Printed- Bicycles
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Right Thru Left Peds
+App.
+Total
+Exclu.
+Total
+Inclu.
+Total
+Int.
+Total
+Factor 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+04:00 PM 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 2 0 4 0 4
+04:15 PM 0 0 0 3 0 0 0 0 2 0 0 0 0 2 0 0 0 0 0 0 7 0 7
+04:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 0 3 0 3
+04:45 PM 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 3 0 3
+Total 0 0 0 6 0 0 0 0 2 0 0 0 0 6 0 0 0 0 3 0 17 0 17
+05:00 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 2 0 0 0 0 1 0 4 0 4
+05:15 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 2
+05:30 PM 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 2
+05:45 PM 0 0 0 0 0 0 0 0 1 0 0 0 0 4 0 0 0 0 0 0 5 0 5
+Total 0 0 0 0 0 0 0 0 2 0 0 0 0 10 0 0 0 0 1 0 13 0 13
+Grand Total 0 0 0 6 0 0 0 0 4 0 0 0 0 16 0 0 0 0 4 0 30 0 30
+Apprch % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Total % 100.0 0.0
+Southbound Westbound
+2nd St.
+Northbound
+Franklin St.
+Eastbound
+Start Time Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Right Thru Left App. Total Int. Total
 Peak Hour From 04:00 PM to 05:45 PM - Peak 1 of 1
-       Intersection      04:00 PM
-           Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0                0
-           Percent           0.0       0.0          0.0                      0.0            0.0        0.0                             0.0         0.0     0.0                       0.0           0.0           0.0
-     04:45 Volume              0         0            0               0        0              0          0                 0             0           0       0             0           0             0             0              0               0
-       Peak Factor                                                                                                                                                                                                                            0.000
-          High Int.
-           Volume
-       Peak Factor
+Intersection 04:00 PM
+Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Percent 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+04:45 Volume 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Peak Factor 0.000
+High Int.
+Volume
+Peak Factor
 
