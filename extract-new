@@ -52,16 +52,20 @@ for ($i = 0; $i <= $#lines; $i++) {
 			for (; $i <= $#lines; $i++) {
 				last if $lines[$i] =~ /Start Time/;
 
-				if ($lines[$i] =~ /^(North|South|East|West)bound$/ ||
-				    $lines[$i] =~ /^(Northeast|Southeast|Northwest|Southwest)bound$/ ||
-				    $lines[$i] =~ /^From (North|South|East|West)$/ ||
-				    $lines[$i] =~ /^From (Northeast|Southeast|Northwest|Southwest)$/) {
-					$lines[$i] =~ s/^From North$/Southbound/;
-					$lines[$i] =~ s/^From East$/Westbound/;
-					$lines[$i] =~ s/^From South$/Northbound/;
-					$lines[$i] =~ s/^From West$/Eastbound/;
+				if ($lines[$i] =~ /(North|South|East|West)bound/ ||
+				    $lines[$i] =~ /(Northeast|Southeast|Northwest|Southwest)bound/ ||
+				    $lines[$i] =~ /From (North|South|East|West)/ ||
+				    $lines[$i] =~ /From (Northeast|Southeast|Northwest|Southwest)/) {
+					$lines[$i] =~ s/From Northwest/Southeastbound/g;
+					$lines[$i] =~ s/From Northeast/Southwestbound/g;
+					$lines[$i] =~ s/From Southwest/Northeastbound/g;
+					$lines[$i] =~ s/From Southeast/Northeastbound/g;
+					$lines[$i] =~ s/From North/Southbound/g;
+					$lines[$i] =~ s/From East/Westbound/g;
+					$lines[$i] =~ s/From South/Northbound/g;
+					$lines[$i] =~ s/From West/Eastbound/g;
 
-					push @directions, $lines[$i];
+					push @directions, split(/ +/, $lines[$i]);
 				} else {
 					if (!defined($street{$lines[$i]})) {
 						if ($street eq "") {
@@ -100,6 +104,8 @@ for ($i = 0; $i <= $#lines; $i++) {
 
 		if ($group eq "BIKES" ||
 		    $group eq "Bikes" ||
+		    $group eq "2 - Bicycles" ||
+		    $group eq "Bicycles" ||
 		    $group eq "BIKES PEDS") {
 			for (my $x = 0; $x <= $#turns; $x++) {
 				if ($turns[$x] eq "Right") {
