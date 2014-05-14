@@ -23,29 +23,61 @@ for ($i = 0; $i <= $#lines; $i++) {
 		$date =~ s/,/ /g;
 	}
 
-	if ($lines[$i] =~ /Turning Movement Data\s*$/) {
-		$i++;
+	my $group = "x";
 
-		if ($lines[$i] eq "Start Time") {
+	if ($lines[$i] =~ /Turning Movement Data\s*$/ ||
+	    $lines[$i] =~ /Groups Printed-?\s*(.*)/) {
+		my @directions = ();
+
+		if ($lines[$i] =~ /Turning Movement Data/) {
 			$i++;
+
+			if ($lines[$i] eq "Start Time") {
+				$i++;
+			}
+
+			$street = $lines[$i];
+			$street =~ s/,/ /g;
+			$i++;
+
+			$directions = $lines[$i];
+			$i++;
+			@directions = split(/ /, $directions);
+		} else {  # Groups Printed
+			$i++;
+			$group = $1;
+
+			my %street = ();
+			$street = "";
+			for (; $i <= $#lines; $i++) {
+				last if $lines[$i] =~ /Start Time/;
+
+				if ($lines[$i] =~ /^(North|South|East|West)bound$/ ||
+				    $lines[$i] =~ /^(Northeast|Southeast|Northwest|Southwest)bound$/ ||
+				    $lines[$i] =~ /^From (North|South|East|West)$/ ||
+				    $lines[$i] =~ /^From (Northeast|Southeast|Northwest|Southwest)$/) {
+					push @directions, $lines[$i];
+				} else {
+					$street{$lines[$i]} = 1;
+				}
+			}
+
+			for (keys(%street)) {
+				$street .= "$_ ";
+			}
 		}
 
-		$street = $lines[$i];
-		$street =~ s/,/ /g;
-		$i++;
-
-		$directions = $lines[$i];
-		$i++;
-		my @directions= split(/ /, $directions);
-
 		$turns = $lines[$i];
+		$turns =~ s/^Start Time //;
 		$i++;
-		while (! ($lines[$i] =~ /\d+:\d/)) {
+		while (! ($lines[$i] =~ /\d+/)) {
 			$turns .= " $lines[$i]";
 			$i++;
 		}
 		$turns =~ s/App. Total/App.Total/g;
 		$turns =~ s/Int. Total/Int.Total/g;
+		$turns =~ s/Exclu. Total/Exc.Total/g;
+		$turns =~ s/Inclu. Total/Inc.Total/g;
 		my @turns = split(/ /, $turns);
 
 		# print "street $street\n";
@@ -55,12 +87,12 @@ for ($i = 0; $i <= $#lines; $i++) {
 		my %count = ();
 
 		for (; $i <= $#lines; $i++) {
-			if ($lines[$i] =~ s/\s*(\d+):(\d+) (.)M\s*//) {  # will also pick up ^L-prefixed
+			if ($lines[$i] =~ s/\s*(\d+):(\d+) (.M)?\s*//) {  # will also pick up ^L-prefixed
 				my $hour = $1;
 				my $minute = $2;
 				my $m = $3;
 
-				if ($m eq "P" && $hour != 12) {
+				if ($m eq "PM" && $hour != 12) {
 					$hour += 12;
 				}
 				my $when = $hour * 60 + $minute;
@@ -99,7 +131,7 @@ for ($i = 0; $i <= $#lines; $i++) {
 		}
 
 		for my $when (sort {$a <=> $b } (keys(%count))) {
-			print "$argv[$i],$street,x,$date,";
+			print "$argv[$i],$street,$group,$date,";
 			printf("%02d:%02d-%02d:%02d,", $when / 60, $when % 60, ($when + 15) / 60, ($when + 15) % 60);
 
 			for my $direction ('Southbound', 'Westbound', 'Northbound', 'Eastbound') {
