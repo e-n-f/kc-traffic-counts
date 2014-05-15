@@ -38,7 +38,7 @@ while (<>) {
 				my @directionx = ();
 				my $direction = 0;
 				for (; $i <= $#text; $i++) {
-					if ($text[$i] =~ /bound$/ || $text[$i] =~ /^From/) {
+					if ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i) {
 						$directions[$direction] = $text[$i];
 						$directionx[$direction] = $x[$i];
 						$direction++;
