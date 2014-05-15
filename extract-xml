@@ -35,10 +35,12 @@ while (<>) {
 
 				my @streets = ();
 				my @directions = ();
+				my @directionx = ();
 				my $direction = 0;
 				for (; $i <= $#text; $i++) {
 					if ($text[$i] =~ /bound$/ || $text[$i] =~ /^From/) {
 						$directions[$direction] = $text[$i];
+						$directionx[$direction] = $x[$i];
 						$direction++;
 					} elsif ($text[$i] =~ /Start/) {
 						last;
@@ -52,10 +54,13 @@ while (<>) {
 				}
 
 				for (my $x = 0; $x <= $#streets; $x++) {
-					print "$directions[$x]: $streets[$x]\n";
+					# print "$directions[$x]: $streets[$x]\n";
 				}
 
 				if ($text[$i] =~ /Start/) {
+					$i++;
+				}
+				if ($text[$i] =~ /Time/) {
 					$i++;
 				}
 
@@ -81,8 +86,23 @@ while (<>) {
 					}
 				}
 
+				my @coldir = ();
 				for (my $x = 0; $x <= $#cols; $x++) {
-					print "$cols[$x]: $colmin[$x] to $colmax[$x]\n";
+					my $mid = ($colmin[$x] + $colmax[$x]) / 2;
+					my $best = -1;
+					my $bestdist = 999999;
+					for (my $y = 0; $y <= $#directions; $y++) {
+						my $d = abs($mid - $directionx[$y]);
+						if ($d < $bestdist) {
+							$best = $y;
+							$bestdist = $d;
+						}
+					}
+
+					$coldir[$x] = $best;
+				}
+				for (my $x = 0; $x <= $#cols; $x++) {
+					print "$directions[$coldir[$x]]: $cols[$x]: $colmin[$x] to $colmax[$x]\n";
 				}
 
 				print "\n";
