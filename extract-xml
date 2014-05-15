@@ -1,0 +1,83 @@
+#!/usr/bin/perl
+
+use strict;
+
+my @x = ();
+my @y = ();
+my @text = ();
+
+while (<>) {
+	s/<b>//g;
+	s/<\/b>//g;
+
+	if (/<text top="([0-9]+)" left="([0-9]+)" width="([0-9]+)" height="([0-9]+)" font="[^"]*">(.*)<\/text>/) {
+		my $x = $2 + $3 / 2;
+		my $y = $1 + $4 / 2;
+		my $text = $5;
+
+		push @x, $x;
+		push @y, $y;
+		push @text, $text;
+	}
+
+	if (/<\/page/) {
+		my $i;
+		for ($i = 0; $i <= $#text; $i++) {
+			if ($text[$i] =~ /Groups *Printed(.*)/) {
+				my $group = $1;
+				print "$ARGV\n";
+				print "$group\n";
+				$i++;
+
+				my @streets = ();
+				my @directions = ();
+				my $direction = 0;
+				for (; $i <= $#text; $i++) {
+					if ($text[$i] =~ /bound$/ || $text[$i] =~ /^From/) {
+						$directions[$direction] = $text[$i];
+						$direction++;
+					} elsif ($text[$i] =~ /Start *Time/) {
+						last;
+					} else {
+						if ($streets[$direction] eq "") {
+							$streets[$direction] = $text[$i]
+						} else {
+							$streets[$direction] .= " $text[$i]";
+						}
+					}
+				}
+
+				for (my $x = 0; $x <= $#streets; $x++) {
+					print "$directions[$x]: $streets[$x]\n";
+				}
+
+				if ($text[$i] =~ /Start *Time/) {
+					$i++;
+				}
+
+				my @cols = ();
+				my @colx = ();
+				for (; $i <= $#text; $i++) {
+					last if $text[$i] =~ /\d:\d\d/;
+
+					if ($#colx >= 0 && abs($x[$i] - $colx[$#colx]) < 10) {
+						@cols[$#cols] .= $text[$i];
+					} else {
+						push @cols, $text[$i];
+						push @colx, $x[$i];
+					}
+				}
+
+				for (my $x = 0; $x <= $#cols; $x++) {
+					print "$cols[$x]: $colx[$x]\n";
+				}
+
+				print "\n";
+			}
+		}
+
+		@x = ();
+		@y = ();
+		@text = ();
+	}
+}
