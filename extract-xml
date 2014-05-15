@@ -106,6 +106,35 @@ while (<>) {
 					print "$directions[$coldir[$x]]: $cols[$x]: $colmin[$x] to $colmax[$x]\n";
 				}
 
+				my $when = 0;
+				my %val = ();
+				for (; $i <= $#text; $i++) {
+					last if ($text[$i] =~ /Grand/);
+
+					if ($text[$i] =~ /(\d+):(\d+) *([AP]M)?/) {
+						my $hour = $1;
+						my $minute = $2;
+						if ($3 eq "PM" && $hour != 12) {
+							$hour += 12;
+						}
+						$when = $hour * 60 + $minute;
+					} elsif ($text[$i] =~ /^ *(\d+) *$/) {
+						my $v = $1;
+						my $best = -1;
+						my $bestd = 999999;
+						for (my $x = 0; $x <= $#cols; $x++) {
+							my $d = abs($x[$i] - ($colmin[$x] + $colmax[$x]) / 2);
+							if ($d < $bestd) {
+								$best = $x;
+								$bestd = $d;
+							}
+						}
+
+						$val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v;
+						print "val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
+					}
+				}
+
 				print "\n";
 			}
 		}
