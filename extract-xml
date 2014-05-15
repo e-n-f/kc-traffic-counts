@@ -41,6 +41,25 @@ while (<>) {
 					if ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i) {
 						$directions[$direction] = $text[$i];
 						$directionx[$direction] = $x[$i];
+
+						$directions[$direction] =~ s/ *\([NSEW]B\) *//g;
+						$directions[$direction] =~ s/From Northeast/Southwestbound/gi;
+						$directions[$direction] =~ s/From Southeast/Northweastbound/gi;
+						$directions[$direction] =~ s/From Northwest/Northeastbound/gi;
+						$directions[$direction] =~ s/From Southwest/Northwestbound/gi;
+						$directions[$direction] =~ s/From North/Southbound/gi;
+						$directions[$direction] =~ s/From South/Northbound/gi;
+						$directions[$direction] =~ s/From East/Westbound/gi;
+						$directions[$direction] =~ s/From West/Eastbound/gi;
+						$directions[$direction] =~ s/North Leg/Southbound/gi;
+						$directions[$direction] =~ s/South Leg/Northbound/gi;
+						$directions[$direction] =~ s/East Leg/Westbound/gi;
+						$directions[$direction] =~ s/West Leg/Eastbound/gi;
+						$directions[$direction] =~ s/NORTHBOUND/Northbound/gi;
+						$directions[$direction] =~ s/SOUTHBOUND/Southbound/gi;
+						$directions[$direction] =~ s/\bEASTBOUND/Eastbound/gi;
+						$directions[$direction] =~ s/\bWESTBOUND/Westbound/gi;
+
 						$direction++;
 					} elsif ($text[$i] =~ /Start/) {
 						last;
@@ -54,7 +73,7 @@ while (<>) {
 				}
 
 				for (my $x = 0; $x <= $#streets; $x++) {
-					# print "$directions[$x]: $streets[$x]\n";
+					print "$directions[$x]\n";
 				}
 
 				if ($text[$i] =~ /Start/) {
@@ -103,7 +122,7 @@ while (<>) {
 					$coldir[$x] = $best;
 				}
 				for (my $x = 0; $x <= $#cols; $x++) {
-					print "$directions[$coldir[$x]]: $cols[$x]: $colmin[$x] to $colmax[$x]\n";
+					# print "$directions[$coldir[$x]]: $cols[$x]: $colmin[$x] to $colmax[$x]\n";
 				}
 
 				my $when = -1;
@@ -142,7 +161,7 @@ while (<>) {
 							}
 						}
 						$val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v;
-						print "val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
+						# print "val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
 					}
 				}
 
