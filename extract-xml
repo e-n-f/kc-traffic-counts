@@ -69,6 +69,7 @@ while (<>) {
 				my @colmax = ();
 				for (; $i <= $#text; $i++) {
 					last if $text[$i] =~ /\d:\d\d/;
+					last if $text[$i] =~ /Factor/;
 
 					if ($#colmin >= 0 &&
 					    ! ($min[$i] > $colmax[$#colmax] || $max[$i] < $colmin[$#colmin])) {
