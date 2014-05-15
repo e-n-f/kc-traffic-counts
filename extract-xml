@@ -7,6 +7,9 @@ my @y = ();
 my @min = ();
 my @max = ();
 my @text = ();
+my $group = "";
+my $date = "";
+my $street = "";
 
 while (<>) {
 	s/<b>//g;
@@ -16,6 +19,10 @@ while (<>) {
 		my $x = $2 + $3 / 2;
 		my $y = $1 + $4 / 2;
 		my $text = $5;
+
+		$text =~ s/&gt;/>/g;
+		$text =~ s/&lt;/</g;
+		$text =~ s/&amp;/\&/g;
 
 		push @x, $x;
 		push @y, $y;
@@ -27,10 +34,16 @@ while (<>) {
 	if (/<\/page/) {
 		my $i;
 		for ($i = 0; $i <= $#text; $i++) {
-			if ($text[$i] =~ /Groups *Printed(.*)/) {
-				my $group = $1;
-				print "$ARGV\n";
-				print "$group\n";
+			if ($text[$i] =~ /Start Date\s*:\s*(.*)/) {
+				$date = $1;
+				$date =~ s/,/ /g;
+			}
+
+			if ($text[$i] =~ /Groups *Printed *-? *(.*)/) {
+				$group = $1;
+				$group =~ s/ +/ /g;
+				# print "$ARGV\n";
+				# print "$group\n";
 				$i++;
 
 				my @streets = ();
@@ -72,8 +85,22 @@ while (<>) {
 					}
 				}
 
+				$street = "";
+				my %street = ();
+
 				for (my $x = 0; $x <= $#streets; $x++) {
-					print "$directions[$x]\n";
+					$streets[$x] =~ s/ *$//;
+					$streets[$x] =~ s/ +/ /g;
+
+                                        if ($streets[$x] ne "" && !defined($street{$streets[$x]})) {
+                                                if ($street eq "") {
+                                                        $street = $streets[$x];
+                                                } else {
+                                                        $street .= " / $streets[$x]";
+                                                }
+                                                $street{$streets[$x]} = 1;
+                                        }
+					# print "$directions[$x]\n";
 				}
 
 				if ($text[$i] =~ /Start/) {
@@ -121,6 +148,47 @@ while (<>) {
 
 					$coldir[$x] = $best;
 				}
+
+				if (
+					$group eq "Peds and Bicycles" ||
+					$group eq "Bicycles" ||
+					$group eq "BIKES" ||
+					$group eq "BIKES PEDS" ||
+					$group eq "Bikes" ||
+					$group eq "2 - Bicycles" ||
+					$group eq "Bike_Peds" ||
+					$group eq "Bicycles Only" ||
+					$group eq "Bikes/Peds" ||
+					$group eq "Bicycle" ||
+					$group eq "2 - 2 - Bicycles" ||
+					$group eq "Pedal Bikes" ||
+					$group eq "Bicycles/Peds" ||
+					$group eq "Bikes & Peds" ||
+					$group eq "Bikes Peds" ||
+					$group eq "Bikes_Peds" ||
+					$group eq "Bicycles and Pedestrians" ||
+					$group eq "Bicycles/Pedestrians" ||
+					$group eq "Bikes / Peds" ||
+					$group eq "Peds - Bikes" ||
+					$group eq "Pedestrians - Bikes" ||
+					$group eq "Bikes / Pedestrians" ||
+					$group eq "Bikes - Bank 2" ||
+					$group eq "Bicyclists" ||
+					$group eq "Bikes (Acting as Pedestrians)" ||
+					$group eq "Peds/Bikes" ||
+					0
+				) {
+					for (my $x = 0; $x <= $#cols; $x++) {
+						if ($cols[$x] eq "Right") {
+							$cols[$x] = "RightBikes";
+						} elsif ($cols[$x] eq "Left") {
+							$cols[$x] = "LeftBikes";
+						} elsif ($cols[$x] eq "Thru") {
+							$cols[$x] = "ThruBikes";
+						}
+					}
+				}
+
 				for (my $x = 0; $x <= $#cols; $x++) {
 					# print "$directions[$coldir[$x]]: $cols[$x]: $colmin[$x] to $colmax[$x]\n";
 				}
@@ -165,14 +233,14 @@ while (<>) {
 					}
 				}
 
-				my $street = "XXX";
-				my $group = "XXX";
-				my $date = "XXX";
-
 				for my $when (sort {$a <=> $b } (keys(%val))) {
 					next if $when < 0;
 
-					print "$ARGV,$street,$group,$date,";
+					my $argv = $ARGV;
+					$argv =~ s/xml/txt/g; # XXX
+					$argv =~ s/,/ /g; # XXX
+
+					print "$argv,$street,$group,$date,";
 					printf("%02d:%02d-%02d:%02d,", $when / 60, $when % 60, ($when + 15) / 60, ($when + 15) % 60);
 
 					# Directions to intersection legs
@@ -219,7 +287,7 @@ while (<>) {
 					print "\n";
 				}
 
-				print "\n";
+				# print "\n";
 			}
 		}
 
@@ -228,5 +296,8 @@ while (<>) {
 		@min = ();
 		@max = ();
 		@text = ();
+		$group = "";
+		$date = "";
+		$street = "";
 	}
 }
