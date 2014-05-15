@@ -4,6 +4,8 @@ use strict;
 
 my @x = ();
 my @y = ();
+my @min = ();
+my @max = ();
 my @text = ();
 
 while (<>) {
@@ -17,6 +19,8 @@ while (<>) {
 
 		push @x, $x;
 		push @y, $y;
+		push @min, $2;
+		push @max, $2 + $3;
 		push @text, $text;
 	}
 
@@ -36,7 +40,7 @@ while (<>) {
 					if ($text[$i] =~ /bound$/ || $text[$i] =~ /^From/) {
 						$directions[$direction] = $text[$i];
 						$direction++;
-					} elsif ($text[$i] =~ /Start *Time/) {
+					} elsif ($text[$i] =~ /Start/) {
 						last;
 					} else {
 						if ($streets[$direction] eq "") {
@@ -51,25 +55,34 @@ while (<>) {
 					print "$directions[$x]: $streets[$x]\n";
 				}
 
-				if ($text[$i] =~ /Start *Time/) {
+				if ($text[$i] =~ /Start/) {
 					$i++;
 				}
 
 				my @cols = ();
-				my @colx = ();
+				my @colmin = ();
+				my @colmax = ();
 				for (; $i <= $#text; $i++) {
 					last if $text[$i] =~ /\d:\d\d/;
 
-					if ($#colx >= 0 && abs($x[$i] - $colx[$#colx]) < 10) {
-						@cols[$#cols] .= $text[$i];
+					if ($#colmin >= 0 &&
+					    ! ($min[$i] > $colmax[$#colmax] || $max[$i] < $colmin[$#colmin])) {
+						$cols[$#cols] .= $text[$i];
+						if ($min[$i] < $colmin[$#colmin]) {
+							$colmin[$#colmin] = $min[$i];
+						}
+						if ($max[$i] > $colmax[$#colmax]) {
+							$colmax[$#colmax] = $max[$i];
+						}
 					} else {
 						push @cols, $text[$i];
-						push @colx, $x[$i];
+						push @colmin, $min[$i];
+						push @colmax, $max[$i];
 					}
 				}
 
 				for (my $x = 0; $x <= $#cols; $x++) {
-					print "$cols[$x]: $colx[$x]\n";
+					print "$cols[$x]: $colmin[$x] to $colmax[$x]\n";
 				}
 
 				print "\n";
@@ -78,6 +91,8 @@ while (<>) {
 
 		@x = ();
 		@y = ();
+		@min = ();
+		@max = ();
 		@text = ();
 	}
 }
