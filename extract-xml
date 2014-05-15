@@ -44,9 +44,9 @@ while (<>) {
 
 						$directions[$direction] =~ s/ *\([NSEW]B\) *//g;
 						$directions[$direction] =~ s/From Northeast/Southwestbound/gi;
-						$directions[$direction] =~ s/From Southeast/Northweastbound/gi;
-						$directions[$direction] =~ s/From Northwest/Northeastbound/gi;
-						$directions[$direction] =~ s/From Southwest/Northwestbound/gi;
+						$directions[$direction] =~ s/From Southeast/Northwestbound/gi;
+						$directions[$direction] =~ s/From Northwest/Southeastbound/gi;
+						$directions[$direction] =~ s/From Southwest/Northeastbound/gi;
 						$directions[$direction] =~ s/From North/Southbound/gi;
 						$directions[$direction] =~ s/From South/Northbound/gi;
 						$directions[$direction] =~ s/From East/Westbound/gi;
@@ -163,6 +163,60 @@ while (<>) {
 						$val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v;
 						# print "val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
 					}
+				}
+
+				my $street = "XXX";
+				my $group = "XXX";
+				my $date = "XXX";
+
+				for my $when (sort {$a <=> $b } (keys(%val))) {
+					next if $when < 0;
+
+					print "$ARGV,$street,$group,$date,";
+					printf("%02d:%02d-%02d:%02d,", $when / 60, $when % 60, ($when + 15) / 60, ($when + 15) % 60);
+
+					# Directions to intersection legs
+					my %bikemap = ( "Northbound" => "Westbound",
+							"Southbound" => "Eastbound",
+							"Eastbound" => "Northbound",
+							"Westbound" => "Southbound");
+
+					for my $direction (keys(%bikemap)) {
+						if (defined($val{$when}{$direction}{"ThruBikes"})) {
+							$val{$when}{$bikemap{$direction}}{"Bikes"} =
+								$val{$when}{$direction}{"ThruBikes"};
+							delete $val{$when}{$direction}{"ThruBikes"};
+						}
+					}
+
+					for my $direction ('Southbound', 'Westbound', 'Northbound', 'Eastbound') {
+						for my $turn ('Right', 'Thru', 'Left') {
+							print "$val{$when}{$direction}{$turn},";
+							delete $val{$when}{$direction}{$turn};
+						}
+					}
+
+					for my $turn ('Peds', 'Bikes') {
+						for my $direction ('Southbound', 'Westbound', 'Northbound', 'Eastbound') {
+							print "$val{$when}{$direction}{$turn},";
+							delete $val{$when}{$direction}{$turn};
+						}
+					}
+
+					print ",";  # XXX
+
+					for my $direction (keys(%{$val{$when}})) {
+						for my $turn (keys(%{$val{$when}{$direction}})) {
+							next if $turn =~ /Total/;
+							next if $turn =~ /U-Turn/;
+							next if $turn =~ /RightBikes/;
+							next if $turn =~ /LeftBikes/;
+
+							print ",$direction:$turn:$val{$when}{$direction}{$turn}";
+						}
+					}
+
+					print "\n";
 				}
 
 				print "\n";
