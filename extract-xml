@@ -106,7 +106,7 @@ while (<>) {
 					print "$directions[$coldir[$x]]: $cols[$x]: $colmin[$x] to $colmax[$x]\n";
 				}
 
-				my $when = 0;
+				my $when = -1;
 				my %val = ();
 				for (; $i <= $#text; $i++) {
 					last if ($text[$i] =~ /Grand/);
@@ -118,6 +118,8 @@ while (<>) {
 							$hour += 12;
 						}
 						$when = $hour * 60 + $minute;
+					} elsif ($text[$i] =~ /Total/) {
+						$when = -1;
 					} elsif ($text[$i] =~ /^ *(\d+) *$/) {
 						my $v = $1;
 						my $best = -1;
@@ -130,6 +132,15 @@ while (<>) {
 							}
 						}
 
+						if ($when >= 0 && defined($val{$when}{$directions[$coldir[$best]]}{$cols[$best]})) {
+							# Still a bad sign, but we're not using the totals
+							unless ($cols[$best] =~ /Total/) {
+								# Duplicate of exactly the same value seems harmless
+								unless ($val{$when}{$directions[$coldir[$best]]}{$cols[$best]} == $v) {
+									die "$ARGV: already have $val{$when}{$directions[$coldir[$best]]}{$cols[$best]} for val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
+								}
+							}
+						}
 						$val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v;
 						print "val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
 					}
