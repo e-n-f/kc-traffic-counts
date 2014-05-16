@@ -76,12 +76,20 @@ while (<>) {
 					$i++;
 
 					my $direction = 0;
+					my $prevx = 0;
+					my $prevy = 0;
 					for (; $i <= $#text; $i++) {
-						if ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i) {
+						if ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i || $text[$i] =~ /Approach$/i) {
 							$directions[$direction] = $text[$i];
 							$directionx[$direction] = $x[$i];
 
+							if ($text[$i] eq "From") {
+								$directions[$direction] .= " $text[$i + 1]";
+								$i++;
+							}
+
 							$directions[$direction] =~ s/ *\([NSEW]B\) *//g;
+							$directions[$direction] =~ s/ *Approach *//g;
 							$directions[$direction] =~ s/From Northeast/Southwestbound/gi;
 							$directions[$direction] =~ s/From Southeast/Northwestbound/gi;
 							$directions[$direction] =~ s/From Northwest/Southeastbound/gi;
@@ -99,15 +107,26 @@ while (<>) {
 							$directions[$direction] =~ s/\bEASTBOUND/Eastbound/gi;
 							$directions[$direction] =~ s/\bWESTBOUND/Westbound/gi;
 
+							$prevy = 0;
 							$direction++;
 						} elsif ($text[$i] =~ /Start/) {
 							last;
 						} else {
+							if ($y[$i] <= $prevy) {
+								$directionx[$direction] = $prevx;
+								$directions[$direction] = "Not specified";
+								$direction++;
+							}
+
 							if ($streets[$direction] eq "") {
-								$streets[$direction] = $text[$i]
+								$streets[$direction] = $text[$i];
 							} else {
 								$streets[$direction] .= " $text[$i]";
 							}
+
+							$prevx = $x[$i];
+							$prevy = $y[$i];
+							$directionx[$direction] = $x[$i]; # Usually overwritten
 						}
 					}
 				}
@@ -127,7 +146,7 @@ while (<>) {
                                                 }
                                                 $street{$streets[$x]} = 1;
                                         }
-					# print "$directions[$x]\n";
+					# print "$streets[$x]: $directions[$x] $directionx[$x]\n";
 				}
 
 				if ($text[$i] =~ /Start/) {
@@ -251,7 +270,9 @@ while (<>) {
 							unless ($cols[$best] =~ /Total/) {
 								# Duplicate of exactly the same value seems harmless
 								unless ($val{$when}{$directions[$coldir[$best]]}{$cols[$best]} == $v) {
-									die "$ARGV: already have $val{$when}{$directions[$coldir[$best]]}{$cols[$best]} for val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
+									print STDERR "$ARGV: already have $val{$when}{$directions[$coldir[$best]]}{$cols[$best]} for val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
+									$val{$when}{'fail'} = 1;
+									$i = $#text;
 								}
 							}
 						}
@@ -262,6 +283,7 @@ while (<>) {
 
 				for my $when (sort {$a <=> $b } (keys(%val))) {
 					next if $when < 0;
+					next if defined($val{$when}{'fail'});
 
 					my $argv = $ARGV;
 					$argv =~ s/xml/txt/g; # XXX
