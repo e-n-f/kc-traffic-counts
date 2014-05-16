@@ -5,6 +5,7 @@ Vehicle and pedestrian counts originally in these PDF formats:
 
   * "Groups Printed" (many independent engineering firms)
   * "Turning Movement Data" (many independent engineering firms)
+  * "Peak 15-Minute Interval Summary" (All Traffic Data)
 
 From these sources:
 
