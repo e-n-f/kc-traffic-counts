@@ -185,6 +185,8 @@ while (<>) {
 
 				my @coldir = ();
 				for (my $x = 0; $x <= $#cols; $x++) {
+					$cols[$x] =~ s/Rght/Right/gi;
+
 					my $mid = ($colmin[$x] + $colmax[$x]) / 2;
 					my $best = -1;
 					my $bestdist = 999999;
