@@ -12,8 +12,8 @@ my $date = "";
 my $street = "";
 
 while (<>) {
-	s/<b>//g;
-	s/<\/b>//g;
+	s/<[bi]>//g;
+	s/<\/[bi]>//g;
 
 	if (/<text top="([0-9]+)" left="([0-9]+)" width="([0-9]+)" height="([0-9]+)" font="[^"]*">(.*)<\/text>/) {
 		my $x = $2 + $3 / 2;
@@ -39,48 +39,75 @@ while (<>) {
 				$date =~ s/,/ /g;
 			}
 
-			if ($text[$i] =~ /Groups *Printed *-? *(.*)/) {
-				$group = $1;
-				$group =~ s/ +/ /g;
-				# print "$ARGV\n";
-				# print "$group\n";
-				$i++;
-
+			if ($text[$i] =~ /Groups *Printed *-? *(.*)/ ||
+			    $text[$i] =~ /Turning *Movement *Data/) {
 				my @streets = ();
 				my @directions = ();
 				my @directionx = ();
-				my $direction = 0;
-				for (; $i <= $#text; $i++) {
-					if ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i) {
-						$directions[$direction] = $text[$i];
-						$directionx[$direction] = $x[$i];
 
-						$directions[$direction] =~ s/ *\([NSEW]B\) *//g;
-						$directions[$direction] =~ s/From Northeast/Southwestbound/gi;
-						$directions[$direction] =~ s/From Southeast/Northwestbound/gi;
-						$directions[$direction] =~ s/From Northwest/Southeastbound/gi;
-						$directions[$direction] =~ s/From Southwest/Northeastbound/gi;
-						$directions[$direction] =~ s/From North/Southbound/gi;
-						$directions[$direction] =~ s/From South/Northbound/gi;
-						$directions[$direction] =~ s/From East/Westbound/gi;
-						$directions[$direction] =~ s/From West/Eastbound/gi;
-						$directions[$direction] =~ s/North Leg/Southbound/gi;
-						$directions[$direction] =~ s/South Leg/Northbound/gi;
-						$directions[$direction] =~ s/East Leg/Westbound/gi;
-						$directions[$direction] =~ s/West Leg/Eastbound/gi;
-						$directions[$direction] =~ s/NORTHBOUND/Northbound/gi;
-						$directions[$direction] =~ s/SOUTHBOUND/Southbound/gi;
-						$directions[$direction] =~ s/\bEASTBOUND/Eastbound/gi;
-						$directions[$direction] =~ s/\bWESTBOUND/Westbound/gi;
+				if ($text[$i] =~ /Turning *Movement *Data/) { 
+					$i++;
+					$group = "x";
 
-						$direction++;
-					} elsif ($text[$i] =~ /Start/) {
-						last;
-					} else {
-						if ($streets[$direction] eq "") {
-							$streets[$direction] = $text[$i]
+					if ($text[$i] =~ /Start Time/) {
+						$i++;
+					}
+
+					for (; $i <= $#text; $i++) {
+						if ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i) {
+							last;
+						}
+
+						push @streets, $text[$i];
+					}
+					for (; $i <= $#text; $i++) {
+						unless ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i) {
+							last;
+						}
+
+						push @directions, $text[$i];
+						push @directionx, $x[$i];
+					}
+				} else {
+					$group = $1;
+					$group =~ s/ +/ /g;
+					# print "$ARGV\n";
+					# print "$group\n";
+					$i++;
+
+					my $direction = 0;
+					for (; $i <= $#text; $i++) {
+						if ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i) {
+							$directions[$direction] = $text[$i];
+							$directionx[$direction] = $x[$i];
+
+							$directions[$direction] =~ s/ *\([NSEW]B\) *//g;
+							$directions[$direction] =~ s/From Northeast/Southwestbound/gi;
+							$directions[$direction] =~ s/From Southeast/Northwestbound/gi;
+							$directions[$direction] =~ s/From Northwest/Southeastbound/gi;
+							$directions[$direction] =~ s/From Southwest/Northeastbound/gi;
+							$directions[$direction] =~ s/From North/Southbound/gi;
+							$directions[$direction] =~ s/From South/Northbound/gi;
+							$directions[$direction] =~ s/From East/Westbound/gi;
+							$directions[$direction] =~ s/From West/Eastbound/gi;
+							$directions[$direction] =~ s/North Leg/Southbound/gi;
+							$directions[$direction] =~ s/South Leg/Northbound/gi;
+							$directions[$direction] =~ s/East Leg/Westbound/gi;
+							$directions[$direction] =~ s/West Leg/Eastbound/gi;
+							$directions[$direction] =~ s/NORTHBOUND/Northbound/gi;
+							$directions[$direction] =~ s/SOUTHBOUND/Southbound/gi;
+							$directions[$direction] =~ s/\bEASTBOUND/Eastbound/gi;
+							$directions[$direction] =~ s/\bWESTBOUND/Westbound/gi;
+
+							$direction++;
+						} elsif ($text[$i] =~ /Start/) {
+							last;
 						} else {
-							$streets[$direction] .= " $text[$i]";
+							if ($streets[$direction] eq "") {
+								$streets[$direction] = $text[$i]
+							} else {
+								$streets[$direction] .= " $text[$i]";
+							}
 						}
 					}
 				}
