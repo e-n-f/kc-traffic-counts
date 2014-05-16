@@ -20,9 +20,9 @@ find corvallis -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | 
 find dc -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-dc.csv
 find boston -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-boston.csv
 find oakland -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-oakland.csv
-find arkansas -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-arkansas.csv
 
 find auburn -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-new > counts-auburn.csv
 find portland -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-new > counts-portland.csv
 
+find arkansas -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-arkansas.csv
 ./extract-xml richmond/*.xml > counts-richmond.csv
