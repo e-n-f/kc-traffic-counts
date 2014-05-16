@@ -2,6 +2,17 @@
 
 use strict;
 
+my %lat;
+my %lon;
+open(IN, "Traffic_Counts_at_Signals.csv");
+while (<IN>) {
+	if (/"\(([0-9.-]+), ([0-9.-]+)\)",https?:\/\/data.kcmo.org\/Traffic\/([^\/]*)/) {
+		$lat{$3} = $1;
+		$lon{$3} = $2;
+	}
+}
+close(IN);
+
 my @x = ();
 my @y = ();
 my @min = ();
@@ -327,7 +338,11 @@ while (<>) {
 						}
 					}
 
-					print ",";  # XXX
+					if ($ARGV =~ /kc\/(.*)\./) {
+						print "$lat{$1},$lon{$1}";
+					} else {
+						print ",";
+					}
 
 					for my $direction (keys(%{$val{$when}})) {
 						for my $turn (keys(%{$val{$when}{$direction}})) {
