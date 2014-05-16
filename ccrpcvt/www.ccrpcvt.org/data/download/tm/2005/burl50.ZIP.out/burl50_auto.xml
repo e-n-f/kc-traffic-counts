@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.26.0">
+<page number="1" position="absolute" top="0" left="0" height="918" width="1188">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="9" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="57" left="499" width="188" height="17" font="0">Chittenden County MPO</text>
+<text top="79" left="490" width="207" height="17" font="0">30 Kimball Ave., Suite 206</text>
+<text top="100" left="487" width="213" height="17" font="0">South Burlington, VT 05403</text>
+<text top="122" left="508" width="171" height="17" font="0">http://www.ccmpo.org/</text>
+<text top="100" left="944" width="147" height="17" font="0">File Name : burl50</text>
+<text top="122" left="944" width="180" height="17" font="0">Site Code : 00000050</text>
+<text top="143" left="944" width="189" height="17" font="0">Start Date : 07/12/2005</text>
+<text top="164" left="944" width="69" height="17" font="0">Page No</text>
+<text top="164" left="1034" width="19" height="17" font="0">: 1</text>
+<text top="100" left="54" width="141" height="17" font="0">Station ID: Burl-50</text>
+<text top="122" left="54" width="314" height="17" font="0">Location: North Winooski Av. &amp; Pearl St.</text>
+<text top="143" left="54" width="244" height="17" font="0">Town: Burlington / Weather: Hot</text>
+<text top="164" left="54" width="244" height="17" font="0">Counters: B+H   AUTO COUNT</text>
+<text top="185" left="526" width="134" height="10" font="1">Groups Printed- Unshifted</text>
+<text top="199" left="206" width="104" height="10" font="1">North Winooski Ave.</text>
+<text top="214" left="229" width="58" height="10" font="1">From North</text>
+<text top="199" left="469" width="43" height="10" font="1">Pearl St</text>
+<text top="214" left="463" width="53" height="10" font="1">From East</text>
+<text top="199" left="669" width="104" height="10" font="1">North Winooski Ave.</text>
+<text top="214" left="690" width="61" height="10" font="1">From South</text>
+<text top="199" left="932" width="42" height="10" font="1">Pearl St</text>
+<text top="214" left="925" width="55" height="10" font="1">From West</text>
+<text top="237" left="83" width="54" height="11" font="2">Start Time</text>
+<text top="237" left="154" width="27" height="11" font="2">Right</text>
+<text top="237" left="200" width="25" height="11" font="2">Thru</text>
+<text top="237" left="247" width="21" height="11" font="2">Left</text>
+<text top="237" left="285" width="27" height="11" font="2">Peds</text>
+<text top="229" left="342" width="26" height="11" font="2">App.</text>
+<text top="245" left="342" width="27" height="11" font="2">Total</text>
+<text top="237" left="384" width="27" height="11" font="2">Right</text>
+<text top="237" left="431" width="25" height="11" font="2">Thru</text>
+<text top="237" left="478" width="21" height="11" font="2">Left</text>
+<text top="237" left="516" width="27" height="11" font="2">Peds</text>
+<text top="229" left="572" width="26" height="11" font="2">App.</text>
+<text top="245" left="572" width="26" height="11" font="2">Total</text>
+<text top="237" left="615" width="27" height="11" font="2">Right</text>
+<text top="237" left="661" width="25" height="11" font="2">Thru</text>
+<text top="237" left="708" width="21" height="11" font="2">Left</text>
+<text top="237" left="746" width="27" height="11" font="2">Peds</text>
+<text top="229" left="803" width="26" height="11" font="2">App.</text>
+<text top="245" left="803" width="26" height="11" font="2">Total</text>
+<text top="237" left="845" width="27" height="11" font="2">Right</text>
+<text top="237" left="891" width="25" height="11" font="2">Thru</text>
+<text top="237" left="939" width="21" height="11" font="2">Left</text>
+<text top="237" left="977" width="26" height="11" font="2">Peds</text>
+<text top="229" left="1033" width="26" height="11" font="2">App.</text>
+<text top="245" left="1033" width="26" height="11" font="2">Total</text>
+<text top="229" left="1098" width="16" height="11" font="2">Int.</text>
+<text top="245" left="1088" width="26" height="11" font="2">Total</text>
+<text top="260" left="102" width="35" height="11" font="2">Factor</text>
+<text top="260" left="164" width="17" height="11" font="2">1.0</text>
+<text top="260" left="208" width="17" height="11" font="2">1.0</text>
+<text top="260" left="252" width="17" height="11" font="2">1.0</text>
+<text top="260" left="296" width="17" height="11" font="2">1.0</text>
+<text top="260" left="395" width="17" height="11" font="2">1.0</text>
+<text top="260" left="438" width="17" height="11" font="2">1.0</text>
+<text top="260" left="482" width="17" height="11" font="2">1.0</text>
+<text top="260" left="526" width="17" height="11" font="2">1.0</text>
+<text top="260" left="625" width="17" height="11" font="2">1.0</text>
+<text top="260" left="669" width="17" height="11" font="2">1.0</text>
+<text top="260" left="713" width="17" height="11" font="2">1.0</text>
+<text top="260" left="757" width="17" height="11" font="2">1.0</text>
+<text top="260" left="855" width="17" height="11" font="2">1.0</text>
+<text top="260" left="899" width="17" height="11" font="2">1.0</text>
+<text top="260" left="943" width="17" height="11" font="2">1.0</text>
+<text top="260" left="987" width="17" height="11" font="2">1.0</text>
+<text top="276" left="107" width="30" height="11" font="2">07:00</text>
+<text top="276" left="174" width="7" height="11" font="2">7</text>
+<text top="276" left="211" width="14" height="11" font="2">34</text>
+<text top="276" left="262" width="7" height="11" font="2">9</text>
+<text top="276" left="306" width="7" height="11" font="2">0</text>
+<text top="276" left="354" width="14" height="11" font="2">50</text>
+<text top="276" left="405" width="7" height="11" font="2">0</text>
+<text top="276" left="442" width="14" height="11" font="2">72</text>
+<text top="276" left="486" width="14" height="11" font="2">20</text>
+<text top="276" left="536" width="7" height="11" font="2">0</text>
+<text top="276" left="584" width="14" height="11" font="2">92</text>
+<text top="276" left="628" width="14" height="11" font="2">14</text>
+<text top="276" left="679" width="7" height="11" font="2">0</text>
+<text top="276" left="716" width="14" height="11" font="2">10</text>
+<text top="276" left="767" width="7" height="11" font="2">0</text>
+<text top="276" left="815" width="14" height="11" font="2">24</text>
+<text top="276" left="865" width="7" height="11" font="2">6</text>
+<text top="276" left="902" width="14" height="11" font="2">39</text>
+<text top="276" left="953" width="7" height="11" font="2">0</text>
+<text top="276" left="997" width="7" height="11" font="2">0</text>
+<text top="276" left="1045" width="14" height="11" font="2">45</text>
+<text top="276" left="1094" width="20" height="11" font="2">211</text>
+<text top="292" left="107" width="30" height="11" font="2">07:15</text>
+<text top="292" left="174" width="7" height="11" font="2">7</text>
+<text top="292" left="211" width="14" height="11" font="2">46</text>
+<text top="292" left="255" width="14" height="11" font="2">15</text>
+<text top="292" left="306" width="7" height="11" font="2">0</text>
+<text top="292" left="354" width="14" height="11" font="2">68</text>
+<text top="292" left="405" width="7" height="11" font="2">0</text>
+<text top="292" left="442" width="14" height="11" font="2">91</text>
+<text top="292" left="486" width="14" height="11" font="2">20</text>
+<text top="292" left="536" width="7" height="11" font="2">0</text>
+<text top="292" left="578" width="20" height="11" font="2">111</text>
+<text top="292" left="628" width="14" height="11" font="2">20</text>
+<text top="292" left="679" width="7" height="11" font="2">0</text>
+<text top="292" left="716" width="14" height="11" font="2">20</text>
+<text top="292" left="767" width="7" height="11" font="2">0</text>
+<text top="292" left="815" width="14" height="11" font="2">40</text>
+<text top="292" left="859" width="14" height="11" font="2">11</text>
+<text top="292" left="902" width="14" height="11" font="2">57</text>
+<text top="292" left="953" width="7" height="11" font="2">0</text>
+<text top="292" left="997" width="7" height="11" font="2">0</text>
+<text top="292" left="1045" width="14" height="11" font="2">68</text>
+<text top="292" left="1094" width="20" height="11" font="2">287</text>
+<text top="308" left="107" width="30" height="11" font="2">07:30</text>
+<text top="308" left="167" width="14" height="11" font="2">16</text>
+<text top="308" left="211" width="14" height="11" font="2">57</text>
+<text top="308" left="255" width="14" height="11" font="2">15</text>
+<text top="308" left="306" width="7" height="11" font="2">0</text>
+<text top="308" left="354" width="14" height="11" font="2">88</text>
+<text top="308" left="405" width="7" height="11" font="2">0</text>
+<text top="308" left="435" width="20" height="11" font="2">114</text>
+<text top="308" left="486" width="14" height="11" font="2">54</text>
+<text top="308" left="536" width="7" height="11" font="2">0</text>
+<text top="308" left="578" width="20" height="11" font="2">168</text>
+<text top="308" left="628" width="14" height="11" font="2">14</text>
+<text top="308" left="679" width="7" height="11" font="2">0</text>
+<text top="308" left="716" width="14" height="11" font="2">14</text>
+<text top="308" left="767" width="7" height="11" font="2">0</text>
+<text top="308" left="815" width="14" height="11" font="2">28</text>
+<text top="308" left="859" width="14" height="11" font="2">25</text>
+<text top="308" left="902" width="14" height="11" font="2">87</text>
+<text top="308" left="953" width="7" height="11" font="2">0</text>
+<text top="308" left="997" width="7" height="11" font="2">0</text>
+<text top="308" left="1039" width="20" height="11" font="2">112</text>
+<text top="308" left="1094" width="20" height="11" font="2">396</text>
+<text top="323" left="107" width="30" height="11" font="2">07:45</text>
+<text top="323" left="167" width="14" height="11" font="2">23</text>
+<text top="323" left="211" width="14" height="11" font="2">69</text>
+<text top="323" left="255" width="14" height="11" font="2">17</text>
+<text top="323" left="306" width="7" height="11" font="2">0</text>
+<text top="323" left="347" width="20" height="11" font="2">109</text>
+<text top="323" left="405" width="7" height="11" font="2">0</text>
+<text top="323" left="435" width="20" height="11" font="2">149</text>
+<text top="323" left="486" width="14" height="11" font="2">43</text>
+<text top="323" left="536" width="7" height="11" font="2">0</text>
+<text top="323" left="578" width="20" height="11" font="2">192</text>
+<text top="323" left="635" width="7" height="11" font="2">9</text>
+<text top="323" left="679" width="7" height="11" font="2">0</text>
+<text top="323" left="716" width="14" height="11" font="2">26</text>
+<text top="323" left="767" width="7" height="11" font="2">0</text>
+<text top="323" left="815" width="14" height="11" font="2">35</text>
+<text top="323" left="859" width="14" height="11" font="2">26</text>
+<text top="323" left="902" width="14" height="11" font="2">98</text>
+<text top="323" left="953" width="7" height="11" font="2">0</text>
+<text top="323" left="997" width="7" height="11" font="2">0</text>
+<text top="323" left="1039" width="20" height="11" font="2">124</text>
+<text top="323" left="1094" width="20" height="11" font="2">460</text>
+<text top="339" left="111" width="26" height="11" font="2">Total</text>
+<text top="339" left="167" width="14" height="11" font="2">53</text>
+<text top="339" left="205" width="20" height="11" font="2">206</text>
+<text top="339" left="255" width="14" height="11" font="2">56</text>
+<text top="339" left="306" width="7" height="11" font="2">0</text>
+<text top="339" left="347" width="20" height="11" font="2">315</text>
+<text top="339" left="405" width="7" height="11" font="2">0</text>
+<text top="339" left="435" width="20" height="11" font="2">426</text>
+<text top="339" left="479" width="20" height="11" font="2">137</text>
+<text top="339" left="536" width="7" height="11" font="2">0</text>
+<text top="339" left="578" width="20" height="11" font="2">563</text>
+<text top="339" left="628" width="14" height="11" font="2">57</text>
+<text top="339" left="679" width="7" height="11" font="2">0</text>
+<text top="339" left="716" width="14" height="11" font="2">70</text>
+<text top="339" left="767" width="7" height="11" font="2">0</text>
+<text top="339" left="808" width="20" height="11" font="2">127</text>
+<text top="339" left="859" width="14" height="11" font="2">68</text>
+<text top="339" left="896" width="20" height="11" font="2">281</text>
+<text top="339" left="953" width="7" height="11" font="2">0</text>
+<text top="339" left="997" width="7" height="11" font="2">0</text>
+<text top="339" left="1039" width="20" height="11" font="2">349</text>
+<text top="339" left="1087" width="27" height="11" font="2">1354</text>
+<text top="371" left="107" width="30" height="11" font="2">08:00</text>
+<text top="371" left="167" width="14" height="11" font="2">13</text>
+<text top="371" left="211" width="14" height="11" font="2">77</text>
+<text top="371" left="255" width="14" height="11" font="2">18</text>
+<text top="371" left="306" width="7" height="11" font="2">1</text>
+<text top="371" left="347" width="20" height="11" font="2">109</text>
+<text top="371" left="405" width="7" height="11" font="2">0</text>
+<text top="371" left="435" width="20" height="11" font="2">113</text>
+<text top="371" left="486" width="14" height="11" font="2">41</text>
+<text top="371" left="536" width="7" height="11" font="2">0</text>
+<text top="371" left="578" width="20" height="11" font="2">154</text>
+<text top="371" left="628" width="14" height="11" font="2">19</text>
+<text top="371" left="679" width="7" height="11" font="2">0</text>
+<text top="371" left="716" width="14" height="11" font="2">24</text>
+<text top="371" left="767" width="7" height="11" font="2">0</text>
+<text top="371" left="815" width="14" height="11" font="2">43</text>
+<text top="371" left="859" width="14" height="11" font="2">18</text>
+<text top="371" left="902" width="14" height="11" font="2">56</text>
+<text top="371" left="953" width="7" height="11" font="2">0</text>
+<text top="371" left="997" width="7" height="11" font="2">0</text>
+<text top="371" left="1045" width="14" height="11" font="2">74</text>
+<text top="371" left="1094" width="20" height="11" font="2">380</text>
+<text top="386" left="107" width="30" height="11" font="2">08:15</text>
+<text top="386" left="167" width="14" height="11" font="2">22</text>
+<text top="386" left="211" width="14" height="11" font="2">78</text>
+<text top="386" left="255" width="14" height="11" font="2">21</text>
+<text top="386" left="306" width="7" height="11" font="2">0</text>
+<text top="386" left="347" width="20" height="11" font="2">121</text>
+<text top="386" left="405" width="7" height="11" font="2">0</text>
+<text top="386" left="435" width="20" height="11" font="2">114</text>
+<text top="386" left="486" width="14" height="11" font="2">61</text>
+<text top="386" left="536" width="7" height="11" font="2">0</text>
+<text top="386" left="578" width="20" height="11" font="2">175</text>
+<text top="386" left="628" width="14" height="11" font="2">27</text>
+<text top="386" left="679" width="7" height="11" font="2">0</text>
+<text top="386" left="716" width="14" height="11" font="2">22</text>
+<text top="386" left="767" width="7" height="11" font="2">0</text>
+<text top="386" left="815" width="14" height="11" font="2">49</text>
+<text top="386" left="859" width="14" height="11" font="2">17</text>
+<text top="386" left="902" width="14" height="11" font="2">56</text>
+<text top="386" left="953" width="7" height="11" font="2">0</text>
+<text top="386" left="997" width="7" height="11" font="2">0</text>
+<text top="386" left="1045" width="14" height="11" font="2">73</text>
+<text top="386" left="1094" width="20" height="11" font="2">418</text>
+<text top="402" left="107" width="30" height="11" font="2">08:30</text>
+<text top="402" left="167" width="14" height="11" font="2">16</text>
+<text top="402" left="211" width="14" height="11" font="2">74</text>
+<text top="402" left="255" width="14" height="11" font="2">13</text>
+<text top="402" left="306" width="7" height="11" font="2">0</text>
+<text top="402" left="347" width="20" height="11" font="2">103</text>
+<text top="402" left="405" width="7" height="11" font="2">0</text>
+<text top="402" left="435" width="20" height="11" font="2">150</text>
+<text top="402" left="486" width="14" height="11" font="2">54</text>
+<text top="402" left="536" width="7" height="11" font="2">0</text>
+<text top="402" left="578" width="20" height="11" font="2">204</text>
+<text top="402" left="628" width="14" height="11" font="2">33</text>
+<text top="402" left="679" width="7" height="11" font="2">0</text>
+<text top="402" left="716" width="14" height="11" font="2">31</text>
+<text top="402" left="767" width="7" height="11" font="2">0</text>
+<text top="402" left="815" width="14" height="11" font="2">64</text>
+<text top="402" left="859" width="14" height="11" font="2">25</text>
+<text top="402" left="902" width="14" height="11" font="2">70</text>
+<text top="402" left="953" width="7" height="11" font="2">0</text>
+<text top="402" left="997" width="7" height="11" font="2">0</text>
+<text top="402" left="1045" width="14" height="11" font="2">95</text>
+<text top="402" left="1094" width="20" height="11" font="2">466</text>
+<text top="418" left="107" width="30" height="11" font="2">08:45</text>
+<text top="418" left="167" width="14" height="11" font="2">12</text>
+<text top="418" left="211" width="14" height="11" font="2">65</text>
+<text top="418" left="255" width="14" height="11" font="2">14</text>
+<text top="418" left="306" width="7" height="11" font="2">0</text>
+<text top="418" left="354" width="14" height="11" font="2">91</text>
+<text top="418" left="405" width="7" height="11" font="2">0</text>
+<text top="418" left="435" width="20" height="11" font="2">143</text>
+<text top="418" left="486" width="14" height="11" font="2">47</text>
+<text top="418" left="536" width="7" height="11" font="2">0</text>
+<text top="418" left="578" width="20" height="11" font="2">190</text>
+<text top="418" left="628" width="14" height="11" font="2">35</text>
+<text top="418" left="679" width="7" height="11" font="2">0</text>
+<text top="418" left="716" width="14" height="11" font="2">30</text>
+<text top="418" left="767" width="7" height="11" font="2">0</text>
+<text top="418" left="815" width="14" height="11" font="2">65</text>
+<text top="418" left="859" width="14" height="11" font="2">40</text>
+<text top="418" left="902" width="14" height="11" font="2">56</text>
+<text top="418" left="953" width="7" height="11" font="2">0</text>
+<text top="418" left="997" width="7" height="11" font="2">0</text>
+<text top="418" left="1045" width="14" height="11" font="2">96</text>
+<text top="418" left="1094" width="20" height="11" font="2">442</text>
+<text top="434" left="111" width="26" height="11" font="2">Total</text>
+<text top="434" left="167" width="14" height="11" font="2">63</text>
+<text top="434" left="205" width="20" height="11" font="2">294</text>
+<text top="434" left="255" width="14" height="11" font="2">66</text>
+<text top="434" left="306" width="7" height="11" font="2">1</text>
+<text top="434" left="347" width="20" height="11" font="2">424</text>
+<text top="434" left="405" width="7" height="11" font="2">0</text>
+<text top="434" left="435" width="20" height="11" font="2">520</text>
+<text top="434" left="479" width="20" height="11" font="2">203</text>
+<text top="434" left="536" width="7" height="11" font="2">0</text>
+<text top="434" left="578" width="20" height="11" font="2">723</text>
+<text top="434" left="622" width="20" height="11" font="2">114</text>
+<text top="434" left="679" width="7" height="11" font="2">0</text>
+<text top="434" left="709" width="20" height="11" font="2">107</text>
+<text top="434" left="767" width="7" height="11" font="2">0</text>
+<text top="434" left="808" width="20" height="11" font="2">221</text>
+<text top="434" left="852" width="20" height="11" font="2">100</text>
+<text top="434" left="896" width="20" height="11" font="2">238</text>
+<text top="434" left="953" width="7" height="11" font="2">0</text>
+<text top="434" left="997" width="7" height="11" font="2">0</text>
+<text top="434" left="1039" width="20" height="11" font="2">338</text>
+<text top="434" left="1087" width="27" height="11" font="2">1706</text>
+<text top="465" left="54" width="73" height="11" font="2">*** BREAK ***</text>
+<text top="497" left="107" width="30" height="11" font="2">16:00</text>
+<text top="497" left="174" width="7" height="11" font="2">6</text>
+<text top="497" left="211" width="14" height="11" font="2">82</text>
+<text top="497" left="255" width="14" height="11" font="2">21</text>
+<text top="497" left="306" width="7" height="11" font="2">0</text>
+<text top="497" left="347" width="20" height="11" font="2">109</text>
+<text top="497" left="405" width="7" height="11" font="2">0</text>
+<text top="497" left="435" width="20" height="11" font="2">121</text>
+<text top="497" left="486" width="14" height="11" font="2">29</text>
+<text top="497" left="536" width="7" height="11" font="2">0</text>
+<text top="497" left="578" width="20" height="11" font="2">150</text>
+<text top="497" left="628" width="14" height="11" font="2">49</text>
+<text top="497" left="679" width="7" height="11" font="2">0</text>
+<text top="497" left="716" width="14" height="11" font="2">41</text>
+<text top="497" left="767" width="7" height="11" font="2">0</text>
+<text top="497" left="815" width="14" height="11" font="2">90</text>
+<text top="497" left="859" width="14" height="11" font="2">24</text>
+<text top="497" left="896" width="20" height="11" font="2">109</text>
+<text top="497" left="953" width="7" height="11" font="2">0</text>
+<text top="497" left="997" width="7" height="11" font="2">1</text>
+<text top="497" left="1039" width="20" height="11" font="2">134</text>
+<text top="497" left="1094" width="20" height="11" font="2">483</text>
+<text top="513" left="107" width="30" height="11" font="2">16:15</text>
+<text top="513" left="167" width="14" height="11" font="2">16</text>
+<text top="513" left="211" width="14" height="11" font="2">67</text>
+<text top="513" left="255" width="14" height="11" font="2">20</text>
+<text top="513" left="306" width="7" height="11" font="2">7</text>
+<text top="513" left="347" width="20" height="11" font="2">110</text>
+<text top="513" left="405" width="7" height="11" font="2">0</text>
+<text top="513" left="442" width="14" height="11" font="2">82</text>
+<text top="513" left="486" width="14" height="11" font="2">32</text>
+<text top="513" left="529" width="14" height="11" font="2">15</text>
+<text top="513" left="578" width="20" height="11" font="2">129</text>
+<text top="513" left="628" width="14" height="11" font="2">40</text>
+<text top="513" left="679" width="7" height="11" font="2">0</text>
+<text top="513" left="716" width="14" height="11" font="2">43</text>
+<text top="513" left="767" width="7" height="11" font="2">6</text>
+<text top="513" left="815" width="14" height="11" font="2">89</text>
+<text top="513" left="859" width="14" height="11" font="2">11</text>
+<text top="513" left="902" width="14" height="11" font="2">77</text>
+<text top="513" left="953" width="7" height="11" font="2">0</text>
+<text top="513" left="990" width="14" height="11" font="2">10</text>
+<text top="513" left="1045" width="14" height="11" font="2">98</text>
+<text top="513" left="1094" width="20" height="11" font="2">426</text>
+<text top="528" left="107" width="30" height="11" font="2">16:30</text>
+<text top="528" left="167" width="14" height="11" font="2">14</text>
+<text top="528" left="211" width="14" height="11" font="2">65</text>
+<text top="528" left="255" width="14" height="11" font="2">10</text>
+<text top="528" left="306" width="7" height="11" font="2">3</text>
+<text top="528" left="354" width="14" height="11" font="2">92</text>
+<text top="528" left="405" width="7" height="11" font="2">0</text>
+<text top="528" left="442" width="14" height="11" font="2">84</text>
+<text top="528" left="486" width="14" height="11" font="2">30</text>
+<text top="528" left="529" width="14" height="11" font="2">15</text>
+<text top="528" left="578" width="20" height="11" font="2">129</text>
+<text top="528" left="628" width="14" height="11" font="2">39</text>
+<text top="528" left="679" width="7" height="11" font="2">0</text>
+<text top="528" left="716" width="14" height="11" font="2">30</text>
+<text top="528" left="767" width="7" height="11" font="2">2</text>
+<text top="528" left="815" width="14" height="11" font="2">71</text>
+<text top="528" left="859" width="14" height="11" font="2">28</text>
+<text top="528" left="902" width="14" height="11" font="2">92</text>
+<text top="528" left="953" width="7" height="11" font="2">0</text>
+<text top="528" left="990" width="14" height="11" font="2">18</text>
+<text top="528" left="1039" width="20" height="11" font="2">138</text>
+<text top="528" left="1094" width="20" height="11" font="2">430</text>
+<text top="544" left="107" width="30" height="11" font="2">16:45</text>
+<text top="544" left="167" width="14" height="11" font="2">10</text>
+<text top="544" left="211" width="14" height="11" font="2">79</text>
+<text top="544" left="255" width="14" height="11" font="2">11</text>
+<text top="544" left="299" width="14" height="11" font="2">12</text>
+<text top="544" left="347" width="20" height="11" font="2">112</text>
+<text top="544" left="405" width="7" height="11" font="2">0</text>
+<text top="544" left="435" width="20" height="11" font="2">101</text>
+<text top="544" left="486" width="14" height="11" font="2">27</text>
+<text top="544" left="529" width="14" height="11" font="2">15</text>
+<text top="544" left="578" width="20" height="11" font="2">143</text>
+<text top="544" left="628" width="14" height="11" font="2">48</text>
+<text top="544" left="679" width="7" height="11" font="2">0</text>
+<text top="544" left="716" width="14" height="11" font="2">38</text>
+<text top="544" left="767" width="7" height="11" font="2">4</text>
+<text top="544" left="815" width="14" height="11" font="2">90</text>
+<text top="544" left="859" width="14" height="11" font="2">19</text>
+<text top="544" left="902" width="14" height="11" font="2">65</text>
+<text top="544" left="953" width="7" height="11" font="2">0</text>
+<text top="544" left="990" width="14" height="11" font="2">15</text>
+<text top="544" left="1045" width="14" height="11" font="2">99</text>
+<text top="544" left="1094" width="20" height="11" font="2">444</text>
+<text top="560" left="111" width="26" height="11" font="2">Total</text>
+<text top="560" left="167" width="14" height="11" font="2">46</text>
+<text top="560" left="205" width="20" height="11" font="2">293</text>
+<text top="560" left="255" width="14" height="11" font="2">62</text>
+<text top="560" left="299" width="14" height="11" font="2">22</text>
+<text top="560" left="347" width="20" height="11" font="2">423</text>
+<text top="560" left="405" width="7" height="11" font="2">0</text>
+<text top="560" left="435" width="20" height="11" font="2">388</text>
+<text top="560" left="479" width="20" height="11" font="2">118</text>
+<text top="560" left="529" width="14" height="11" font="2">45</text>
+<text top="560" left="578" width="20" height="11" font="2">551</text>
+<text top="560" left="621" width="20" height="11" font="2">176</text>
+<text top="560" left="679" width="7" height="11" font="2">0</text>
+<text top="560" left="709" width="20" height="11" font="2">152</text>
+<text top="560" left="760" width="14" height="11" font="2">12</text>
+<text top="560" left="808" width="20" height="11" font="2">340</text>
+<text top="560" left="859" width="14" height="11" font="2">82</text>
+<text top="560" left="896" width="20" height="11" font="2">343</text>
+<text top="560" left="953" width="7" height="11" font="2">0</text>
+<text top="560" left="990" width="14" height="11" font="2">44</text>
+<text top="560" left="1039" width="20" height="11" font="2">469</text>
+<text top="560" left="1087" width="27" height="11" font="2">1783</text>
+<text top="591" left="107" width="30" height="11" font="2">17:00</text>
+<text top="591" left="174" width="7" height="11" font="2">9</text>
+<text top="591" left="211" width="14" height="11" font="2">69</text>
+<text top="591" left="255" width="14" height="11" font="2">15</text>
+<text top="591" left="306" width="7" height="11" font="2">3</text>
+<text top="591" left="354" width="14" height="11" font="2">96</text>
+<text top="591" left="405" width="7" height="11" font="2">0</text>
+<text top="591" left="442" width="14" height="11" font="2">93</text>
+<text top="591" left="486" width="14" height="11" font="2">38</text>
+<text top="591" left="529" width="14" height="11" font="2">20</text>
+<text top="591" left="578" width="20" height="11" font="2">151</text>
+<text top="591" left="628" width="14" height="11" font="2">57</text>
+<text top="591" left="679" width="7" height="11" font="2">0</text>
+<text top="591" left="716" width="14" height="11" font="2">50</text>
+<text top="591" left="767" width="7" height="11" font="2">6</text>
+<text top="591" left="808" width="20" height="11" font="2">113</text>
+<text top="591" left="859" width="14" height="11" font="2">21</text>
+<text top="591" left="902" width="14" height="11" font="2">86</text>
+<text top="591" left="953" width="7" height="11" font="2">0</text>
+<text top="591" left="990" width="14" height="11" font="2">17</text>
+<text top="591" left="1039" width="20" height="11" font="2">124</text>
+<text top="591" left="1094" width="20" height="11" font="2">484</text>
+<text top="607" left="107" width="30" height="11" font="2">17:15</text>
+<text top="607" left="167" width="14" height="11" font="2">10</text>
+<text top="607" left="211" width="14" height="11" font="2">58</text>
+<text top="607" left="255" width="14" height="11" font="2">11</text>
+<text top="607" left="306" width="7" height="11" font="2">8</text>
+<text top="607" left="354" width="14" height="11" font="2">87</text>
+<text top="607" left="405" width="7" height="11" font="2">0</text>
+<text top="607" left="442" width="14" height="11" font="2">99</text>
+<text top="607" left="486" width="14" height="11" font="2">37</text>
+<text top="607" left="529" width="14" height="11" font="2">11</text>
+<text top="607" left="578" width="20" height="11" font="2">147</text>
+<text top="607" left="628" width="14" height="11" font="2">40</text>
+<text top="607" left="679" width="7" height="11" font="2">0</text>
+<text top="607" left="716" width="14" height="11" font="2">45</text>
+<text top="607" left="760" width="14" height="11" font="2">13</text>
+<text top="607" left="815" width="14" height="11" font="2">98</text>
+<text top="607" left="859" width="14" height="11" font="2">15</text>
+<text top="607" left="902" width="14" height="11" font="2">57</text>
+<text top="607" left="953" width="7" height="11" font="2">0</text>
+<text top="607" left="990" width="14" height="11" font="2">13</text>
+<text top="607" left="1045" width="14" height="11" font="2">85</text>
+<text top="607" left="1094" width="20" height="11" font="2">417</text>
+<text top="623" left="107" width="30" height="11" font="2">17:30</text>
+<text top="623" left="167" width="14" height="11" font="2">11</text>
+<text top="623" left="211" width="14" height="11" font="2">60</text>
+<text top="623" left="255" width="14" height="11" font="2">25</text>
+<text top="623" left="306" width="7" height="11" font="2">6</text>
+<text top="623" left="347" width="20" height="11" font="2">102</text>
+<text top="623" left="405" width="7" height="11" font="2">0</text>
+<text top="623" left="435" width="20" height="11" font="2">103</text>
+<text top="623" left="486" width="14" height="11" font="2">25</text>
+<text top="623" left="529" width="14" height="11" font="2">18</text>
+<text top="623" left="578" width="20" height="11" font="2">146</text>
+<text top="623" left="628" width="14" height="11" font="2">45</text>
+<text top="623" left="679" width="7" height="11" font="2">0</text>
+<text top="623" left="716" width="14" height="11" font="2">38</text>
+<text top="623" left="767" width="7" height="11" font="2">7</text>
+<text top="623" left="815" width="14" height="11" font="2">90</text>
+<text top="623" left="859" width="14" height="11" font="2">18</text>
+<text top="623" left="902" width="14" height="11" font="2">50</text>
+<text top="623" left="953" width="7" height="11" font="2">0</text>
+<text top="623" left="990" width="14" height="11" font="2">21</text>
+<text top="623" left="1045" width="14" height="11" font="2">89</text>
+<text top="623" left="1094" width="20" height="11" font="2">427</text>
+<text top="639" left="107" width="30" height="11" font="2">17:45</text>
+<text top="639" left="167" width="14" height="11" font="2">12</text>
+<text top="639" left="211" width="14" height="11" font="2">93</text>
+<text top="639" left="255" width="14" height="11" font="2">18</text>
+<text top="639" left="306" width="7" height="11" font="2">2</text>
+<text top="639" left="347" width="20" height="11" font="2">125</text>
+<text top="639" left="405" width="7" height="11" font="2">0</text>
+<text top="639" left="442" width="14" height="11" font="2">85</text>
+<text top="639" left="486" width="14" height="11" font="2">27</text>
+<text top="639" left="529" width="14" height="11" font="2">11</text>
+<text top="639" left="578" width="20" height="11" font="2">123</text>
+<text top="639" left="628" width="14" height="11" font="2">31</text>
+<text top="639" left="679" width="7" height="11" font="2">0</text>
+<text top="639" left="716" width="14" height="11" font="2">33</text>
+<text top="639" left="767" width="7" height="11" font="2">8</text>
+<text top="639" left="815" width="14" height="11" font="2">72</text>
+<text top="639" left="859" width="14" height="11" font="2">16</text>
+<text top="639" left="902" width="14" height="11" font="2">34</text>
+<text top="639" left="953" width="7" height="11" font="2">0</text>
+<text top="639" left="990" width="14" height="11" font="2">16</text>
+<text top="639" left="1045" width="14" height="11" font="2">66</text>
+<text top="639" left="1094" width="20" height="11" font="2">386</text>
+<text top="655" left="111" width="26" height="11" font="2">Total</text>
+<text top="655" left="167" width="14" height="11" font="2">42</text>
+<text top="655" left="205" width="20" height="11" font="2">280</text>
+<text top="655" left="255" width="14" height="11" font="2">69</text>
+<text top="655" left="299" width="14" height="11" font="2">19</text>
+<text top="655" left="347" width="20" height="11" font="2">410</text>
+<text top="655" left="405" width="7" height="11" font="2">0</text>
+<text top="655" left="435" width="20" height="11" font="2">380</text>
+<text top="655" left="479" width="20" height="11" font="2">127</text>
+<text top="655" left="529" width="14" height="11" font="2">60</text>
+<text top="655" left="578" width="20" height="11" font="2">567</text>
+<text top="655" left="621" width="20" height="11" font="2">173</text>
+<text top="655" left="679" width="7" height="11" font="2">0</text>
+<text top="655" left="709" width="20" height="11" font="2">166</text>
+<text top="655" left="760" width="14" height="11" font="2">34</text>
+<text top="655" left="808" width="20" height="11" font="2">373</text>
+<text top="655" left="859" width="14" height="11" font="2">70</text>
+<text top="655" left="896" width="20" height="11" font="2">227</text>
+<text top="655" left="953" width="7" height="11" font="2">0</text>
+<text top="655" left="990" width="14" height="11" font="2">67</text>
+<text top="655" left="1039" width="20" height="11" font="2">364</text>
+<text top="655" left="1087" width="27" height="11" font="2">1714</text>
+<text top="686" left="74" width="63" height="11" font="2">Grand Total</text>
+<text top="686" left="161" width="20" height="11" font="2">204</text>
+<text top="686" left="198" width="27" height="11" font="2">1073</text>
+<text top="686" left="248" width="20" height="11" font="2">253</text>
+<text top="686" left="299" width="14" height="11" font="2">42</text>
+<text top="686" left="341" width="27" height="11" font="2">1572</text>
+<text top="686" left="405" width="7" height="11" font="2">0</text>
+<text top="686" left="428" width="27" height="11" font="2">1714</text>
+<text top="686" left="479" width="20" height="11" font="2">585</text>
+<text top="686" left="523" width="20" height="11" font="2">105</text>
+<text top="686" left="571" width="27" height="11" font="2">2404</text>
+<text top="686" left="621" width="20" height="11" font="2">520</text>
+<text top="686" left="679" width="7" height="11" font="2">0</text>
+<text top="686" left="709" width="20" height="11" font="2">495</text>
+<text top="686" left="760" width="14" height="11" font="2">46</text>
+<text top="686" left="801" width="27" height="11" font="2">1061</text>
+<text top="686" left="852" width="20" height="11" font="2">320</text>
+<text top="686" left="889" width="27" height="11" font="2">1089</text>
+<text top="686" left="953" width="7" height="11" font="2">0</text>
+<text top="686" left="983" width="20" height="11" font="2">111</text>
+<text top="686" left="1032" width="27" height="11" font="2">1520</text>
+<text top="686" left="1087" width="27" height="11" font="2">6557</text>
+<text top="702" left="82" width="55" height="11" font="2">Apprch %</text>
+<text top="702" left="157" width="24" height="11" font="2">13.0</text>
+<text top="702" left="201" width="24" height="11" font="2">68.3</text>
+<text top="702" left="245" width="24" height="11" font="2">16.1</text>
+<text top="702" left="296" width="17" height="11" font="2">2.7</text>
+<text top="702" left="395" width="17" height="11" font="2">0.0</text>
+<text top="702" left="432" width="24" height="11" font="2">71.3</text>
+<text top="702" left="476" width="24" height="11" font="2">24.3</text>
+<text top="702" left="526" width="17" height="11" font="2">4.4</text>
+<text top="702" left="618" width="24" height="11" font="2">49.0</text>
+<text top="702" left="669" width="17" height="11" font="2">0.0</text>
+<text top="702" left="706" width="24" height="11" font="2">46.7</text>
+<text top="702" left="757" width="17" height="11" font="2">4.3</text>
+<text top="702" left="849" width="24" height="11" font="2">21.1</text>
+<text top="702" left="892" width="24" height="11" font="2">71.6</text>
+<text top="702" left="943" width="17" height="11" font="2">0.0</text>
+<text top="702" left="987" width="17" height="11" font="2">7.3</text>
+<text top="718" left="97" width="40" height="11" font="2">Total %</text>
+<text top="718" left="164" width="17" height="11" font="2">3.1</text>
+<text top="718" left="201" width="24" height="11" font="2">16.4</text>
+<text top="718" left="252" width="17" height="11" font="2">3.9</text>
+<text top="718" left="296" width="17" height="11" font="2">0.6</text>
+<text top="718" left="344" width="24" height="11" font="2">24.0</text>
+<text top="718" left="395" width="17" height="11" font="2">0.0</text>
+<text top="718" left="432" width="24" height="11" font="2">26.1</text>
+<text top="718" left="482" width="17" height="11" font="2">8.9</text>
+<text top="718" left="526" width="17" height="11" font="2">1.6</text>
+<text top="718" left="574" width="24" height="11" font="2">36.7</text>
+<text top="718" left="625" width="17" height="11" font="2">7.9</text>
+<text top="718" left="669" width="17" height="11" font="2">0.0</text>
+<text top="718" left="713" width="17" height="11" font="2">7.5</text>
+<text top="718" left="756" width="17" height="11" font="2">0.7</text>
+<text top="718" left="805" width="24" height="11" font="2">16.2</text>
+<text top="718" left="855" width="17" height="11" font="2">4.9</text>
+<text top="718" left="892" width="24" height="11" font="2">16.6</text>
+<text top="718" left="943" width="17" height="11" font="2">0.0</text>
+<text top="718" left="987" width="17" height="11" font="2">1.7</text>
+<text top="718" left="1035" width="24" height="11" font="2">23.2</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="918" width="1188">
+	<fontspec id="3" size="8" family="Times" color="#000000"/>
+	<fontspec id="4" size="8" family="Times" color="#000000"/>
+	<fontspec id="5" size="8" family="Times" color="#000000"/>
+<text top="53" left="499" width="188" height="17" font="0">Chittenden County MPO</text>
+<text top="74" left="490" width="207" height="17" font="0">30 Kimball Ave., Suite 206</text>
+<text top="96" left="487" width="213" height="17" font="0">South Burlington, VT 05403</text>
+<text top="117" left="508" width="171" height="17" font="0">http://www.ccmpo.org/</text>
+<text top="96" left="944" width="147" height="17" font="0">File Name : burl50</text>
+<text top="117" left="944" width="180" height="17" font="0">Site Code : 00000050</text>
+<text top="138" left="944" width="189" height="17" font="0">Start Date : 07/12/2005</text>
+<text top="160" left="944" width="69" height="17" font="0">Page No</text>
+<text top="160" left="1034" width="19" height="17" font="0">: 2</text>
+<text top="96" left="54" width="141" height="17" font="0">Station ID: Burl-50</text>
+<text top="117" left="54" width="314" height="17" font="0">Location: North Winooski Av. &amp; Pearl St.</text>
+<text top="138" left="54" width="244" height="17" font="0">Town: Burlington / Weather: Hot</text>
+<text top="160" left="54" width="244" height="17" font="0">Counters: B+H   AUTO COUNT</text>
+<text top="188" left="554" width="81" height="9" font="3"> North Winooski Ave. </text>
+<text top="482" left="322" width="0" height="9" font="4"> Pea</text>
+<text top="461" left="322" width="0" height="9" font="4">rl</text>
+<text top="455" left="322" width="0" height="9" font="4"> St</text>
+<text top="442" left="322" width="0" height="9" font="4"> </text>
+<text top="438" left="865" width="0" height="9" font="5"> P</text>
+<text top="449" left="865" width="0" height="9" font="5">ear</text>
+<text top="463" left="865" width="0" height="11" font="5">l S</text>
+<text top="476" left="865" width="0" height="13" font="5">t </text>
+<text top="740" left="554" width="81" height="9" font="3"> North Winooski Ave. </text>
+<text top="255" left="532" width="22" height="9" font="3">Right</text>
+<text top="244" left="544" width="16" height="9" font="3">204 </text>
+<text top="255" left="567" width="19" height="9" font="3">Thru</text>
+<text top="244" left="573" width="21" height="9" font="3">1073 </text>
+<text top="255" left="603" width="14" height="9" font="3">Left</text>
+<text top="244" left="611" width="16" height="9" font="3">253 </text>
+<text top="255" left="634" width="20" height="9" font="3">Peds</text>
+<text top="244" left="649" width="12" height="9" font="3">42 </text>
+<text top="199" left="590" width="8" height="9" font="3">In</text>
+<text top="199" left="542" width="14" height="9" font="3">Out</text>
+<text top="199" left="629" width="19" height="9" font="3">Total</text>
+<text top="210" left="559" width="123" height="9" font="3">0 1572 1572 </text>
+<text top="398" left="798" width="0" height="9" font="5">Ri</text>
+<text top="407" left="798" width="0" height="9" font="5">g</text>
+<text top="412" left="798" width="0" height="9" font="5">h</text>
+<text top="418" left="798" width="0" height="9" font="5">t</text>
+<text top="417" left="809" width="0" height="9" font="5">0 </text>
+<text top="433" left="798" width="0" height="9" font="5">Th</text>
+<text top="444" left="798" width="0" height="13" font="5">ru</text>
+<text top="434" left="809" width="0" height="9" font="5">17</text>
+<text top="445" left="809" width="0" height="9" font="5">14 </text>
+<text top="468" left="798" width="0" height="9" font="5">Lef</text>
+<text top="483" left="798" width="0" height="9" font="5">t</text>
+<text top="473" left="809" width="0" height="9" font="5">585</text>
+<text top="490" left="809" width="0" height="9" font="5"> </text>
+<text top="499" left="798" width="0" height="9" font="5">Ped</text>
+<text top="517" left="798" width="0" height="9" font="5">s</text>
+<text top="507" left="809" width="0" height="9" font="5">1</text>
+<text top="513" left="809" width="0" height="9" font="5">05 </text>
+<text top="407" left="854" width="0" height="9" font="5">Ou</text>
+<text top="420" left="854" width="0" height="9" font="5">t</text>
+<text top="494" left="854" width="0" height="9" font="5">To</text>
+<text top="505" left="854" width="0" height="13" font="5">ta</text>
+<text top="514" left="854" width="0" height="9" font="5">l</text>
+<text top="456" left="854" width="0" height="9" font="5">In</text>
+<text top="406" left="843" width="0" height="9" font="5">1862</text>
+<text top="429" left="843" width="0" height="9" font="5"> 24</text>
+<text top="463" left="843" width="0" height="9" font="5">04 </text>
+<text top="496" left="843" width="0" height="9" font="5">426</text>
+<text top="513" left="843" width="0" height="9" font="5">6 </text>
+<text top="672" left="536" width="14" height="9" font="3">Left</text>
+<text top="683" left="544" width="16" height="9" font="3">495 </text>
+<text top="672" left="568" width="19" height="9" font="3">Thru</text>
+<text top="683" left="586" width="7" height="9" font="3">0 </text>
+<text top="672" left="600" width="22" height="9" font="3">Right</text>
+<text top="683" left="611" width="16" height="9" font="3">520 </text>
+<text top="672" left="634" width="20" height="9" font="3">Peds</text>
+<text top="683" left="649" width="12" height="9" font="3">46 </text>
+<text top="728" left="542" width="14" height="9" font="3">Out</text>
+<text top="728" left="629" width="19" height="9" font="3">Total</text>
+<text top="728" left="590" width="8" height="9" font="3">In</text>
+<text top="717" left="545" width="136" height="9" font="3">1978 1061 3039 </text>
+<text top="418" left="389" width="0" height="9" font="4">Le</text>
+<text top="407" left="389" width="0" height="9" font="4">ft</text>
+<text top="402" left="378" width="0" height="9" font="4">0 </text>
+<text top="453" left="389" width="0" height="9" font="4">Th</text>
+<text top="442" left="389" width="0" height="9" font="4">ru</text>
+<text top="452" left="378" width="0" height="9" font="4">10</text>
+<text top="441" left="378" width="0" height="9" font="4">89 </text>
+<text top="489" left="389" width="0" height="9" font="4">R</text>
+<text top="482" left="389" width="0" height="9" font="4">ight</text>
+<text top="481" left="378" width="0" height="9" font="4">320</text>
+<text top="464" left="378" width="0" height="9" font="4"> </text>
+<text top="523" left="389" width="0" height="9" font="4">P</text>
+<text top="516" left="389" width="0" height="9" font="4">eds</text>
+<text top="514" left="378" width="0" height="9" font="4">1</text>
+<text top="509" left="378" width="0" height="9" font="4">11 </text>
+<text top="421" left="333" width="0" height="9" font="4">To</text>
+<text top="409" left="333" width="0" height="9" font="4">ta</text>
+<text top="400" left="333" width="0" height="9" font="4">l</text>
+<text top="508" left="333" width="0" height="9" font="4">Ou</text>
+<text top="495" left="333" width="0" height="9" font="4">t</text>
+<text top="459" left="333" width="0" height="9" font="4">In</text>
+<text top="509" left="344" width="0" height="9" font="4">241</text>
+<text top="492" left="344" width="0" height="9" font="4">3 1</text>
+<text top="458" left="344" width="0" height="9" font="4">520 </text>
+<text top="418" left="344" width="0" height="9" font="4">39</text>
+<text top="407" left="344" width="0" height="9" font="4">33 </text>
+<text top="464" left="537" width="81" height="9" font="3">7/12/2005 7:00:00 AM</text>
+<text top="475" left="537" width="81" height="9" font="3">7/12/2005 5:45:00 PM</text>
+<text top="486" left="537" width="3" height="9" font="3"> </text>
+<text top="498" left="537" width="39" height="9" font="3"> Unshifted</text>
+<text top="433" left="583" width="23" height="9" font="3">North</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="918" width="1188">
+<text top="57" left="499" width="188" height="17" font="0">Chittenden County MPO</text>
+<text top="79" left="490" width="207" height="17" font="0">30 Kimball Ave., Suite 206</text>
+<text top="100" left="487" width="213" height="17" font="0">South Burlington, VT 05403</text>
+<text top="122" left="508" width="171" height="17" font="0">http://www.ccmpo.org/</text>
+<text top="100" left="944" width="147" height="17" font="0">File Name : burl50</text>
+<text top="122" left="944" width="180" height="17" font="0">Site Code : 00000050</text>
+<text top="143" left="944" width="189" height="17" font="0">Start Date : 07/12/2005</text>
+<text top="164" left="944" width="69" height="17" font="0">Page No</text>
+<text top="164" left="1034" width="19" height="17" font="0">: 3</text>
+<text top="100" left="54" width="141" height="17" font="0">Station ID: Burl-50</text>
+<text top="122" left="54" width="314" height="17" font="0">Location: North Winooski Av. &amp; Pearl St.</text>
+<text top="143" left="54" width="244" height="17" font="0">Town: Burlington / Weather: Hot</text>
+<text top="164" left="54" width="244" height="17" font="0">Counters: B+H   AUTO COUNT</text>
+<text top="222" left="206" width="104" height="10" font="1">North Winooski Ave.</text>
+<text top="237" left="229" width="58" height="10" font="1">From North</text>
+<text top="222" left="469" width="43" height="10" font="1">Pearl St</text>
+<text top="237" left="463" width="53" height="10" font="1">From East</text>
+<text top="222" left="669" width="104" height="10" font="1">North Winooski Ave.</text>
+<text top="237" left="690" width="61" height="10" font="1">From South</text>
+<text top="222" left="932" width="42" height="10" font="1">Pearl St</text>
+<text top="237" left="925" width="55" height="10" font="1">From West</text>
+<text top="259" left="83" width="54" height="11" font="2">Start Time</text>
+<text top="259" left="154" width="27" height="11" font="2">Right</text>
+<text top="259" left="200" width="25" height="11" font="2">Thru</text>
+<text top="259" left="247" width="21" height="11" font="2">Left</text>
+<text top="259" left="285" width="27" height="11" font="2">Peds</text>
+<text top="251" left="342" width="26" height="11" font="2">App.</text>
+<text top="267" left="342" width="27" height="11" font="2">Total</text>
+<text top="259" left="384" width="27" height="11" font="2">Right</text>
+<text top="259" left="431" width="25" height="11" font="2">Thru</text>
+<text top="259" left="478" width="21" height="11" font="2">Left</text>
+<text top="259" left="516" width="27" height="11" font="2">Peds</text>
+<text top="251" left="572" width="26" height="11" font="2">App.</text>
+<text top="267" left="572" width="26" height="11" font="2">Total</text>
+<text top="259" left="615" width="27" height="11" font="2">Right</text>
+<text top="259" left="661" width="25" height="11" font="2">Thru</text>
+<text top="259" left="708" width="21" height="11" font="2">Left</text>
+<text top="259" left="746" width="27" height="11" font="2">Peds</text>
+<text top="251" left="803" width="26" height="11" font="2">App.</text>
+<text top="267" left="803" width="26" height="11" font="2">Total</text>
+<text top="259" left="845" width="27" height="11" font="2">Right</text>
+<text top="259" left="891" width="25" height="11" font="2">Thru</text>
+<text top="259" left="939" width="21" height="11" font="2">Left</text>
+<text top="259" left="977" width="26" height="11" font="2">Peds</text>
+<text top="251" left="1033" width="26" height="11" font="2">App.</text>
+<text top="267" left="1033" width="26" height="11" font="2">Total</text>
+<text top="251" left="1098" width="16" height="11" font="2">Int.</text>
+<text top="267" left="1088" width="26" height="11" font="2">Total</text>
+<text top="283" left="54" width="238" height="11" font="2">Peak Hour From 07:00 to 11:45 - Peak 1 of 1</text>
+<text top="299" left="74" width="63" height="11" font="2">Intersection</text>
+<text top="299" left="148" width="30" height="11" font="2">07:45</text>
+<text top="314" left="97" width="41" height="11" font="2">Volume</text>
+<text top="314" left="167" width="14" height="11" font="2">74</text>
+<text top="314" left="205" width="20" height="11" font="2">298</text>
+<text top="314" left="255" width="14" height="11" font="2">69</text>
+<text top="314" left="306" width="7" height="11" font="2">1</text>
+<text top="314" left="347" width="20" height="11" font="2">442</text>
+<text top="314" left="405" width="7" height="11" font="2">0</text>
+<text top="314" left="435" width="20" height="11" font="2">526</text>
+<text top="314" left="479" width="20" height="11" font="2">199</text>
+<text top="314" left="536" width="7" height="11" font="2">0</text>
+<text top="314" left="578" width="20" height="11" font="2">725</text>
+<text top="314" left="628" width="14" height="11" font="2">88</text>
+<text top="314" left="679" width="7" height="11" font="2">0</text>
+<text top="314" left="709" width="20" height="11" font="2">103</text>
+<text top="314" left="767" width="7" height="11" font="2">0</text>
+<text top="314" left="808" width="20" height="11" font="2">191</text>
+<text top="314" left="859" width="14" height="11" font="2">86</text>
+<text top="314" left="896" width="20" height="11" font="2">280</text>
+<text top="314" left="953" width="7" height="11" font="2">0</text>
+<text top="314" left="997" width="7" height="11" font="2">0</text>
+<text top="314" left="1039" width="20" height="11" font="2">366</text>
+<text top="314" left="1087" width="27" height="11" font="2">1724</text>
+<text top="330" left="96" width="42" height="11" font="2">Percent</text>
+<text top="330" left="157" width="24" height="11" font="2">16.7</text>
+<text top="330" left="201" width="24" height="11" font="2">67.4</text>
+<text top="330" left="245" width="24" height="11" font="2">15.6</text>
+<text top="330" left="296" width="17" height="11" font="2">0.2</text>
+<text top="330" left="395" width="17" height="11" font="2">0.0</text>
+<text top="330" left="432" width="24" height="11" font="2">72.6</text>
+<text top="330" left="476" width="24" height="11" font="2">27.4</text>
+<text top="330" left="526" width="17" height="11" font="2">0.0</text>
+<text top="330" left="618" width="24" height="11" font="2">46.1</text>
+<text top="330" left="669" width="17" height="11" font="2">0.0</text>
+<text top="330" left="706" width="24" height="11" font="2">53.9</text>
+<text top="330" left="757" width="17" height="11" font="2">0.0</text>
+<text top="330" left="849" width="24" height="11" font="2">23.5</text>
+<text top="330" left="892" width="24" height="11" font="2">76.5</text>
+<text top="330" left="943" width="17" height="11" font="2">0.0</text>
+<text top="330" left="987" width="17" height="11" font="2">0.0</text>
+<text top="346" left="97" width="41" height="11" font="2">Volume</text>
+<text top="346" left="167" width="14" height="11" font="2">74</text>
+<text top="346" left="205" width="20" height="11" font="2">298</text>
+<text top="346" left="255" width="14" height="11" font="2">69</text>
+<text top="346" left="306" width="7" height="11" font="2">1</text>
+<text top="346" left="347" width="20" height="11" font="2">442</text>
+<text top="346" left="405" width="7" height="11" font="2">0</text>
+<text top="346" left="435" width="20" height="11" font="2">526</text>
+<text top="346" left="479" width="20" height="11" font="2">199</text>
+<text top="346" left="536" width="7" height="11" font="2">0</text>
+<text top="346" left="578" width="20" height="11" font="2">725</text>
+<text top="346" left="628" width="14" height="11" font="2">88</text>
+<text top="346" left="679" width="7" height="11" font="2">0</text>
+<text top="346" left="709" width="20" height="11" font="2">103</text>
+<text top="346" left="767" width="7" height="11" font="2">0</text>
+<text top="346" left="808" width="20" height="11" font="2">191</text>
+<text top="346" left="859" width="14" height="11" font="2">86</text>
+<text top="346" left="896" width="20" height="11" font="2">280</text>
+<text top="346" left="953" width="7" height="11" font="2">0</text>
+<text top="346" left="997" width="7" height="11" font="2">0</text>
+<text top="346" left="1039" width="20" height="11" font="2">366</text>
+<text top="346" left="1087" width="27" height="11" font="2">1724</text>
+<text top="362" left="97" width="41" height="11" font="2">Volume</text>
+<text top="362" left="167" width="14" height="11" font="2">16</text>
+<text top="362" left="211" width="14" height="11" font="2">74</text>
+<text top="362" left="255" width="14" height="11" font="2">13</text>
+<text top="362" left="306" width="7" height="11" font="2">0</text>
+<text top="362" left="347" width="20" height="11" font="2">103</text>
+<text top="362" left="405" width="7" height="11" font="2">0</text>
+<text top="362" left="435" width="20" height="11" font="2">150</text>
+<text top="362" left="486" width="14" height="11" font="2">54</text>
+<text top="362" left="536" width="7" height="11" font="2">0</text>
+<text top="362" left="578" width="20" height="11" font="2">204</text>
+<text top="362" left="628" width="14" height="11" font="2">33</text>
+<text top="362" left="679" width="7" height="11" font="2">0</text>
+<text top="362" left="716" width="14" height="11" font="2">31</text>
+<text top="362" left="767" width="7" height="11" font="2">0</text>
+<text top="362" left="815" width="14" height="11" font="2">64</text>
+<text top="362" left="859" width="14" height="11" font="2">25</text>
+<text top="362" left="902" width="14" height="11" font="2">70</text>
+<text top="362" left="953" width="7" height="11" font="2">0</text>
+<text top="362" left="997" width="7" height="11" font="2">0</text>
+<text top="362" left="1045" width="14" height="11" font="2">95</text>
+<text top="362" left="1094" width="20" height="11" font="2">466</text>
+<text top="377" left="73" width="64" height="11" font="2">Peak Factor</text>
+<text top="377" left="1075" width="30" height="11" font="2">0.925</text>
+<text top="393" left="95" width="43" height="11" font="2">High Int.</text>
+<text top="393" left="148" width="30" height="11" font="2">08:15</text>
+<text top="393" left="380" width="30" height="11" font="2">08:30</text>
+<text top="393" left="611" width="30" height="11" font="2">08:30</text>
+<text top="393" left="843" width="30" height="11" font="2">07:45</text>
+<text top="409" left="97" width="41" height="11" font="2">Volume</text>
+<text top="409" left="167" width="14" height="11" font="2">22</text>
+<text top="409" left="211" width="14" height="11" font="2">78</text>
+<text top="409" left="255" width="14" height="11" font="2">21</text>
+<text top="409" left="306" width="7" height="11" font="2">0</text>
+<text top="409" left="347" width="20" height="11" font="2">121</text>
+<text top="409" left="405" width="7" height="11" font="2">0</text>
+<text top="409" left="435" width="20" height="11" font="2">150</text>
+<text top="409" left="486" width="14" height="11" font="2">54</text>
+<text top="409" left="536" width="7" height="11" font="2">0</text>
+<text top="409" left="578" width="20" height="11" font="2">204</text>
+<text top="409" left="628" width="14" height="11" font="2">33</text>
+<text top="409" left="679" width="7" height="11" font="2">0</text>
+<text top="409" left="716" width="14" height="11" font="2">31</text>
+<text top="409" left="767" width="7" height="11" font="2">0</text>
+<text top="409" left="815" width="14" height="11" font="2">64</text>
+<text top="409" left="859" width="14" height="11" font="2">26</text>
+<text top="409" left="902" width="14" height="11" font="2">98</text>
+<text top="409" left="953" width="7" height="11" font="2">0</text>
+<text top="409" left="997" width="7" height="11" font="2">0</text>
+<text top="409" left="1039" width="20" height="11" font="2">124</text>
+<text top="425" left="73" width="64" height="11" font="2">Peak Factor</text>
+<text top="425" left="337" width="31" height="11" font="2">0.913</text>
+<text top="425" left="568" width="30" height="11" font="2">0.888</text>
+<text top="425" left="798" width="30" height="11" font="2">0.746</text>
+<text top="425" left="1029" width="30" height="11" font="2">0.738</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="918" width="1188">
+<text top="57" left="499" width="188" height="17" font="0">Chittenden County MPO</text>
+<text top="79" left="490" width="207" height="17" font="0">30 Kimball Ave., Suite 206</text>
+<text top="100" left="487" width="213" height="17" font="0">South Burlington, VT 05403</text>
+<text top="122" left="508" width="171" height="17" font="0">http://www.ccmpo.org/</text>
+<text top="100" left="944" width="147" height="17" font="0">File Name : burl50</text>
+<text top="122" left="944" width="180" height="17" font="0">Site Code : 00000050</text>
+<text top="143" left="944" width="189" height="17" font="0">Start Date : 07/12/2005</text>
+<text top="164" left="944" width="69" height="17" font="0">Page No</text>
+<text top="164" left="1034" width="19" height="17" font="0">: 4</text>
+<text top="100" left="54" width="141" height="17" font="0">Station ID: Burl-50</text>
+<text top="122" left="54" width="314" height="17" font="0">Location: North Winooski Av. &amp; Pearl St.</text>
+<text top="143" left="54" width="244" height="17" font="0">Town: Burlington / Weather: Hot</text>
+<text top="164" left="54" width="244" height="17" font="0">Counters: B+H   AUTO COUNT</text>
+<text top="192" left="554" width="81" height="9" font="3"> North Winooski Ave. </text>
+<text top="487" left="322" width="0" height="9" font="4"> Pea</text>
+<text top="465" left="322" width="0" height="9" font="4">rl</text>
+<text top="460" left="322" width="0" height="9" font="4"> St</text>
+<text top="446" left="322" width="0" height="9" font="4"> </text>
+<text top="443" left="865" width="0" height="9" font="5"> P</text>
+<text top="453" left="865" width="0" height="9" font="5">ear</text>
+<text top="468" left="865" width="0" height="11" font="5">l S</text>
+<text top="480" left="865" width="0" height="13" font="5">t </text>
+<text top="744" left="554" width="81" height="9" font="3"> North Winooski Ave. </text>
+<text top="260" left="532" width="22" height="9" font="3">Right</text>
+<text top="249" left="548" width="12" height="9" font="3">74 </text>
+<text top="260" left="567" width="19" height="9" font="3">Thru</text>
+<text top="249" left="577" width="16" height="9" font="3">298 </text>
+<text top="260" left="603" width="14" height="9" font="3">Left</text>
+<text top="249" left="615" width="12" height="9" font="3">69 </text>
+<text top="260" left="634" width="20" height="9" font="3">Peds</text>
+<text top="249" left="653" width="7" height="9" font="3">1 </text>
+<text top="204" left="590" width="8" height="9" font="3">In</text>
+<text top="204" left="542" width="14" height="9" font="3">Out</text>
+<text top="204" left="629" width="19" height="9" font="3">Total</text>
+<text top="215" left="559" width="127" height="9" font="3">0 442 442 </text>
+<text top="402" left="798" width="0" height="9" font="5">Ri</text>
+<text top="411" left="798" width="0" height="9" font="5">g</text>
+<text top="417" left="798" width="0" height="9" font="5">h</text>
+<text top="422" left="798" width="0" height="9" font="5">t</text>
+<text top="422" left="809" width="0" height="9" font="5">0 </text>
+<text top="438" left="798" width="0" height="9" font="5">Th</text>
+<text top="449" left="798" width="0" height="13" font="5">ru</text>
+<text top="444" left="809" width="0" height="9" font="5">5</text>
+<text top="450" left="809" width="0" height="9" font="5">26 </text>
+<text top="472" left="798" width="0" height="9" font="5">Lef</text>
+<text top="487" left="798" width="0" height="9" font="5">t</text>
+<text top="478" left="809" width="0" height="9" font="5">199</text>
+<text top="495" left="809" width="0" height="9" font="5"> </text>
+<text top="503" left="798" width="0" height="9" font="5">Ped</text>
+<text top="521" left="798" width="0" height="9" font="5">s</text>
+<text top="523" left="809" width="0" height="9" font="5">0 </text>
+<text top="411" left="854" width="0" height="9" font="5">Ou</text>
+<text top="425" left="854" width="0" height="9" font="5">t</text>
+<text top="499" left="854" width="0" height="9" font="5">To</text>
+<text top="510" left="854" width="0" height="13" font="5">ta</text>
+<text top="519" left="854" width="0" height="9" font="5">l</text>
+<text top="460" left="854" width="0" height="9" font="5">In</text>
+<text top="416" left="843" width="0" height="9" font="5">437</text>
+<text top="433" left="843" width="0" height="9" font="5"> 7</text>
+<text top="467" left="843" width="0" height="9" font="5">25 </text>
+<text top="501" left="843" width="0" height="9" font="5">116</text>
+<text top="518" left="843" width="0" height="9" font="5">2 </text>
+<text top="677" left="536" width="14" height="9" font="3">Left</text>
+<text top="688" left="544" width="16" height="9" font="3">103 </text>
+<text top="677" left="568" width="19" height="9" font="3">Thru</text>
+<text top="688" left="586" width="7" height="9" font="3">0 </text>
+<text top="677" left="600" width="22" height="9" font="3">Right</text>
+<text top="688" left="616" width="12" height="9" font="3">88 </text>
+<text top="677" left="634" width="20" height="9" font="3">Peds</text>
+<text top="688" left="654" width="7" height="9" font="3">0 </text>
+<text top="733" left="542" width="14" height="9" font="3">Out</text>
+<text top="733" left="629" width="19" height="9" font="3">Total</text>
+<text top="733" left="590" width="8" height="9" font="3">In</text>
+<text top="722" left="550" width="136" height="9" font="3">583 191 774 </text>
+<text top="423" left="389" width="0" height="9" font="4">Le</text>
+<text top="412" left="389" width="0" height="9" font="4">ft</text>
+<text top="406" left="378" width="0" height="9" font="4">0 </text>
+<text top="458" left="389" width="0" height="9" font="4">Th</text>
+<text top="447" left="389" width="0" height="9" font="4">ru</text>
+<text top="451" left="378" width="0" height="9" font="4">2</text>
+<text top="446" left="378" width="0" height="9" font="4">80 </text>
+<text top="493" left="389" width="0" height="9" font="4">R</text>
+<text top="487" left="389" width="0" height="9" font="4">ight</text>
+<text top="479" left="378" width="0" height="9" font="4">86</text>
+<text top="468" left="378" width="0" height="9" font="4"> </text>
+<text top="527" left="389" width="0" height="9" font="4">P</text>
+<text top="520" left="389" width="0" height="9" font="4">eds</text>
+<text top="508" left="378" width="0" height="9" font="4">0 </text>
+<text top="425" left="333" width="0" height="9" font="4">To</text>
+<text top="414" left="333" width="0" height="9" font="4">ta</text>
+<text top="405" left="333" width="0" height="9" font="4">l</text>
+<text top="513" left="333" width="0" height="9" font="4">Ou</text>
+<text top="499" left="333" width="0" height="9" font="4">t</text>
+<text top="464" left="333" width="0" height="9" font="4">In</text>
+<text top="508" left="344" width="0" height="9" font="4">70</text>
+<text top="496" left="344" width="0" height="9" font="4">3 366 </text>
+<text top="423" left="344" width="0" height="9" font="4">10</text>
+<text top="412" left="344" width="0" height="9" font="4">69 </text>
+<text top="468" left="537" width="81" height="9" font="3">7/12/2005 7:45:00 AM</text>
+<text top="480" left="537" width="81" height="9" font="3">7/12/2005 8:30:00 AM</text>
+<text top="491" left="537" width="3" height="9" font="3"> </text>
+<text top="502" left="537" width="39" height="9" font="3"> Unshifted</text>
+<text top="437" left="583" width="23" height="9" font="3">North</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="918" width="1188">
+	<fontspec id="6" size="18" family="Times" color="#fffeff"/>
+	<fontspec id="7" size="18" family="Times" color="#fffeff"/>
+	<fontspec id="8" size="18" family="Times" color="#fffeff"/>
+<text top="57" left="499" width="188" height="17" font="0">Chittenden County MPO</text>
+<text top="79" left="490" width="207" height="17" font="0">30 Kimball Ave., Suite 206</text>
+<text top="100" left="487" width="213" height="17" font="0">South Burlington, VT 05403</text>
+<text top="122" left="508" width="171" height="17" font="0">http://www.ccmpo.org/</text>
+<text top="100" left="944" width="147" height="17" font="0">File Name : burl50</text>
+<text top="122" left="944" width="180" height="17" font="0">Site Code : 00000050</text>
+<text top="143" left="944" width="189" height="17" font="0">Start Date : 07/12/2005</text>
+<text top="164" left="944" width="69" height="17" font="0">Page No</text>
+<text top="164" left="1034" width="19" height="17" font="0">: 5</text>
+<text top="100" left="54" width="141" height="17" font="0">Station ID: Burl-50</text>
+<text top="122" left="54" width="314" height="17" font="0">Location: North Winooski Av. &amp; Pearl St.</text>
+<text top="143" left="54" width="244" height="17" font="0">Town: Burlington / Weather: Hot</text>
+<text top="164" left="54" width="244" height="17" font="0">Counters: B+H   AUTO COUNT</text>
+<text top="194" left="502" width="182" height="19" font="6"><b>North Winooski Ave.</b></text>
+<text top="735" left="502" width="182" height="19" font="6"><b>North Winooski Ave.</b></text>
+<text top="420" left="856" width="0" height="19" font="7"><b>Pe</b></text>
+<text top="445" left="856" width="0" height="19" font="7"><b>arl St</b></text>
+<text top="495" left="331" width="0" height="19" font="8"><b>Pea</b></text>
+<text top="459" left="331" width="0" height="19" font="8"><b>rl</b></text>
+<text top="446" left="331" width="0" height="19" font="8"><b> St</b></text>
+<text top="204" left="500" width="0" height="19" font="7"><b>69</b></text>
+<text top="546" left="826" width="21" height="19" font="6"><b>69</b></text>
+<text top="204" left="474" width="0" height="19" font="7"><b>29</b></text>
+<text top="227" left="474" width="0" height="19" font="7"><b>8  441</b></text>
+<text top="711" left="489" width="0" height="19" font="8"><b>29</b></text>
+<text top="688" left="489" width="0" height="19" font="8"><b>8  </b></text>
+<text top="666" left="489" width="0" height="19" font="8"><b>5</b></text>
+<text top="655" left="489" width="0" height="19" font="8"><b>8</b></text>
+<text top="643" left="489" width="0" height="19" font="8"><b>3</b></text>
+<text top="204" left="447" width="0" height="19" font="7"><b>74</b></text>
+<text top="308" left="341" width="21" height="19" font="6"><b>74</b></text>
+<text top="407" left="816" width="32" height="19" font="6"><b>199</b></text>
+<text top="711" left="523" width="0" height="19" font="8"><b>19</b></text>
+<text top="688" left="523" width="0" height="19" font="8"><b>9</b></text>
+<text top="352" left="774" width="73" height="19" font="6"><b>725  526</b></text>
+<text top="352" left="341" width="73" height="19" font="6"><b>526  703</b></text>
+<text top="176" left="331" width="0" height="19" font="8"><b> </b></text>
+<text top="711" left="722" width="0" height="19" font="8"><b>88</b></text>
+<text top="606" left="826" width="21" height="19" font="6"><b>88</b></text>
+<text top="400" left="341" width="32" height="19" font="6"><b>103</b></text>
+<text top="577" left="341" width="73" height="19" font="6"><b>280  366</b></text>
+<text top="577" left="774" width="73" height="19" font="6"><b>437  280</b></text>
+<text top="609" left="341" width="21" height="19" font="6"><b>86</b></text>
+<text top="711" left="461" width="0" height="19" font="8"><b>86</b></text>
+<text top="431" left="537" width="114" height="19" font="6"><b>1 - Unshifted</b></text>
+<text top="453" left="591" width="6" height="19" font="6"><b> </b></text>
+<text top="476" left="570" width="48" height="19" font="6"><b>07:45</b></text>
+<text top="498" left="570" width="48" height="19" font="6"><b>07:45</b></text>
+<text top="712" left="804" width="52" height="19" font="6"><b>North</b></text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="918" width="1188">
+<text top="57" left="499" width="188" height="17" font="0">Chittenden County MPO</text>
+<text top="79" left="490" width="207" height="17" font="0">30 Kimball Ave., Suite 206</text>
+<text top="100" left="487" width="213" height="17" font="0">South Burlington, VT 05403</text>
+<text top="122" left="508" width="171" height="17" font="0">http://www.ccmpo.org/</text>
+<text top="100" left="944" width="147" height="17" font="0">File Name : burl50</text>
+<text top="122" left="944" width="180" height="17" font="0">Site Code : 00000050</text>
+<text top="143" left="944" width="189" height="17" font="0">Start Date : 07/12/2005</text>
+<text top="164" left="944" width="69" height="17" font="0">Page No</text>
+<text top="164" left="1034" width="19" height="17" font="0">: 6</text>
+<text top="100" left="54" width="141" height="17" font="0">Station ID: Burl-50</text>
+<text top="122" left="54" width="314" height="17" font="0">Location: North Winooski Av. &amp; Pearl St.</text>
+<text top="143" left="54" width="244" height="17" font="0">Town: Burlington / Weather: Hot</text>
+<text top="164" left="54" width="244" height="17" font="0">Counters: B+H   AUTO COUNT</text>
+<text top="200" left="206" width="104" height="10" font="1">North Winooski Ave.</text>
+<text top="215" left="229" width="58" height="10" font="1">From North</text>
+<text top="200" left="469" width="43" height="10" font="1">Pearl St</text>
+<text top="215" left="463" width="53" height="10" font="1">From East</text>
+<text top="200" left="669" width="104" height="10" font="1">North Winooski Ave.</text>
+<text top="215" left="690" width="61" height="10" font="1">From South</text>
+<text top="200" left="932" width="42" height="10" font="1">Pearl St</text>
+<text top="215" left="925" width="55" height="10" font="1">From West</text>
+<text top="238" left="83" width="54" height="11" font="2">Start Time</text>
+<text top="238" left="154" width="27" height="11" font="2">Right</text>
+<text top="238" left="200" width="25" height="11" font="2">Thru</text>
+<text top="238" left="247" width="21" height="11" font="2">Left</text>
+<text top="238" left="285" width="27" height="11" font="2">Peds</text>
+<text top="230" left="342" width="26" height="11" font="2">App.</text>
+<text top="246" left="342" width="27" height="11" font="2">Total</text>
+<text top="238" left="384" width="27" height="11" font="2">Right</text>
+<text top="238" left="431" width="25" height="11" font="2">Thru</text>
+<text top="238" left="478" width="21" height="11" font="2">Left</text>
+<text top="238" left="516" width="27" height="11" font="2">Peds</text>
+<text top="230" left="572" width="26" height="11" font="2">App.</text>
+<text top="246" left="572" width="26" height="11" font="2">Total</text>
+<text top="238" left="615" width="27" height="11" font="2">Right</text>
+<text top="238" left="661" width="25" height="11" font="2">Thru</text>
+<text top="238" left="708" width="21" height="11" font="2">Left</text>
+<text top="238" left="746" width="27" height="11" font="2">Peds</text>
+<text top="230" left="803" width="26" height="11" font="2">App.</text>
+<text top="246" left="803" width="26" height="11" font="2">Total</text>
+<text top="238" left="845" width="27" height="11" font="2">Right</text>
+<text top="238" left="891" width="25" height="11" font="2">Thru</text>
+<text top="238" left="939" width="21" height="11" font="2">Left</text>
+<text top="238" left="977" width="26" height="11" font="2">Peds</text>
+<text top="230" left="1033" width="26" height="11" font="2">App.</text>
+<text top="246" left="1033" width="26" height="11" font="2">Total</text>
+<text top="230" left="1098" width="16" height="11" font="2">Int.</text>
+<text top="246" left="1088" width="26" height="11" font="2">Total</text>
+<text top="261" left="54" width="238" height="11" font="2">Peak Hour From 12:00 to 17:45 - Peak 1 of 1</text>
+<text top="277" left="74" width="63" height="11" font="2">Intersection</text>
+<text top="277" left="148" width="30" height="11" font="2">16:15</text>
+<text top="293" left="97" width="41" height="11" font="2">Volume</text>
+<text top="293" left="167" width="14" height="11" font="2">49</text>
+<text top="293" left="205" width="20" height="11" font="2">280</text>
+<text top="293" left="255" width="14" height="11" font="2">56</text>
+<text top="293" left="299" width="14" height="11" font="2">25</text>
+<text top="293" left="347" width="20" height="11" font="2">410</text>
+<text top="293" left="405" width="7" height="11" font="2">0</text>
+<text top="293" left="435" width="20" height="11" font="2">360</text>
+<text top="293" left="479" width="20" height="11" font="2">127</text>
+<text top="293" left="529" width="14" height="11" font="2">65</text>
+<text top="293" left="578" width="20" height="11" font="2">552</text>
+<text top="293" left="621" width="20" height="11" font="2">184</text>
+<text top="293" left="679" width="7" height="11" font="2">0</text>
+<text top="293" left="709" width="20" height="11" font="2">161</text>
+<text top="293" left="760" width="14" height="11" font="2">18</text>
+<text top="293" left="808" width="20" height="11" font="2">363</text>
+<text top="293" left="859" width="14" height="11" font="2">79</text>
+<text top="293" left="896" width="20" height="11" font="2">320</text>
+<text top="293" left="953" width="7" height="11" font="2">0</text>
+<text top="293" left="990" width="14" height="11" font="2">60</text>
+<text top="293" left="1039" width="20" height="11" font="2">459</text>
+<text top="293" left="1087" width="27" height="11" font="2">1784</text>
+<text top="309" left="96" width="42" height="11" font="2">Percent</text>
+<text top="309" left="157" width="24" height="11" font="2">12.0</text>
+<text top="309" left="201" width="24" height="11" font="2">68.3</text>
+<text top="309" left="245" width="24" height="11" font="2">13.7</text>
+<text top="309" left="296" width="17" height="11" font="2">6.1</text>
+<text top="309" left="395" width="17" height="11" font="2">0.0</text>
+<text top="309" left="432" width="24" height="11" font="2">65.2</text>
+<text top="309" left="476" width="24" height="11" font="2">23.0</text>
+<text top="309" left="519" width="24" height="11" font="2">11.8</text>
+<text top="309" left="618" width="24" height="11" font="2">50.7</text>
+<text top="309" left="669" width="17" height="11" font="2">0.0</text>
+<text top="309" left="706" width="24" height="11" font="2">44.4</text>
+<text top="309" left="757" width="17" height="11" font="2">5.0</text>
+<text top="309" left="849" width="24" height="11" font="2">17.2</text>
+<text top="309" left="892" width="24" height="11" font="2">69.7</text>
+<text top="309" left="943" width="17" height="11" font="2">0.0</text>
+<text top="309" left="980" width="24" height="11" font="2">13.1</text>
+<text top="324" left="97" width="41" height="11" font="2">Volume</text>
+<text top="324" left="167" width="14" height="11" font="2">49</text>
+<text top="324" left="205" width="20" height="11" font="2">280</text>
+<text top="324" left="255" width="14" height="11" font="2">56</text>
+<text top="324" left="299" width="14" height="11" font="2">25</text>
+<text top="324" left="347" width="20" height="11" font="2">410</text>
+<text top="324" left="405" width="7" height="11" font="2">0</text>
+<text top="324" left="435" width="20" height="11" font="2">360</text>
+<text top="324" left="479" width="20" height="11" font="2">127</text>
+<text top="324" left="529" width="14" height="11" font="2">65</text>
+<text top="324" left="578" width="20" height="11" font="2">552</text>
+<text top="324" left="621" width="20" height="11" font="2">184</text>
+<text top="324" left="679" width="7" height="11" font="2">0</text>
+<text top="324" left="709" width="20" height="11" font="2">161</text>
+<text top="324" left="760" width="14" height="11" font="2">18</text>
+<text top="324" left="808" width="20" height="11" font="2">363</text>
+<text top="324" left="859" width="14" height="11" font="2">79</text>
+<text top="324" left="896" width="20" height="11" font="2">320</text>
+<text top="324" left="953" width="7" height="11" font="2">0</text>
+<text top="324" left="990" width="14" height="11" font="2">60</text>
+<text top="324" left="1039" width="20" height="11" font="2">459</text>
+<text top="324" left="1087" width="27" height="11" font="2">1784</text>
+<text top="340" left="97" width="41" height="11" font="2">Volume</text>
+<text top="340" left="174" width="7" height="11" font="2">9</text>
+<text top="340" left="211" width="14" height="11" font="2">69</text>
+<text top="340" left="255" width="14" height="11" font="2">15</text>
+<text top="340" left="306" width="7" height="11" font="2">3</text>
+<text top="340" left="354" width="14" height="11" font="2">96</text>
+<text top="340" left="405" width="7" height="11" font="2">0</text>
+<text top="340" left="442" width="14" height="11" font="2">93</text>
+<text top="340" left="486" width="14" height="11" font="2">38</text>
+<text top="340" left="529" width="14" height="11" font="2">20</text>
+<text top="340" left="578" width="20" height="11" font="2">151</text>
+<text top="340" left="628" width="14" height="11" font="2">57</text>
+<text top="340" left="679" width="7" height="11" font="2">0</text>
+<text top="340" left="716" width="14" height="11" font="2">50</text>
+<text top="340" left="767" width="7" height="11" font="2">6</text>
+<text top="340" left="808" width="20" height="11" font="2">113</text>
+<text top="340" left="859" width="14" height="11" font="2">21</text>
+<text top="340" left="902" width="14" height="11" font="2">86</text>
+<text top="340" left="953" width="7" height="11" font="2">0</text>
+<text top="340" left="990" width="14" height="11" font="2">17</text>
+<text top="340" left="1039" width="20" height="11" font="2">124</text>
+<text top="340" left="1094" width="20" height="11" font="2">484</text>
+<text top="356" left="73" width="64" height="11" font="2">Peak Factor</text>
+<text top="356" left="1075" width="30" height="11" font="2">0.921</text>
+<text top="372" left="95" width="43" height="11" font="2">High Int.</text>
+<text top="372" left="148" width="30" height="11" font="2">16:45</text>
+<text top="372" left="380" width="30" height="11" font="2">17:00</text>
+<text top="372" left="611" width="30" height="11" font="2">17:00</text>
+<text top="372" left="843" width="30" height="11" font="2">16:30</text>
+<text top="387" left="97" width="41" height="11" font="2">Volume</text>
+<text top="387" left="167" width="14" height="11" font="2">10</text>
+<text top="387" left="211" width="14" height="11" font="2">79</text>
+<text top="387" left="255" width="14" height="11" font="2">11</text>
+<text top="387" left="299" width="14" height="11" font="2">12</text>
+<text top="387" left="347" width="20" height="11" font="2">112</text>
+<text top="387" left="405" width="7" height="11" font="2">0</text>
+<text top="387" left="442" width="14" height="11" font="2">93</text>
+<text top="387" left="486" width="14" height="11" font="2">38</text>
+<text top="387" left="529" width="14" height="11" font="2">20</text>
+<text top="387" left="578" width="20" height="11" font="2">151</text>
+<text top="387" left="628" width="14" height="11" font="2">57</text>
+<text top="387" left="679" width="7" height="11" font="2">0</text>
+<text top="387" left="716" width="14" height="11" font="2">50</text>
+<text top="387" left="767" width="7" height="11" font="2">6</text>
+<text top="387" left="808" width="20" height="11" font="2">113</text>
+<text top="387" left="859" width="14" height="11" font="2">28</text>
+<text top="387" left="902" width="14" height="11" font="2">92</text>
+<text top="387" left="953" width="7" height="11" font="2">0</text>
+<text top="387" left="990" width="14" height="11" font="2">18</text>
+<text top="387" left="1039" width="20" height="11" font="2">138</text>
+<text top="403" left="73" width="64" height="11" font="2">Peak Factor</text>
+<text top="403" left="337" width="31" height="11" font="2">0.915</text>
+<text top="403" left="568" width="30" height="11" font="2">0.914</text>
+<text top="403" left="798" width="30" height="11" font="2">0.803</text>
+<text top="403" left="1029" width="30" height="11" font="2">0.832</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="918" width="1188">
+<text top="57" left="499" width="188" height="17" font="0">Chittenden County MPO</text>
+<text top="79" left="490" width="207" height="17" font="0">30 Kimball Ave., Suite 206</text>
+<text top="100" left="487" width="213" height="17" font="0">South Burlington, VT 05403</text>
+<text top="122" left="508" width="171" height="17" font="0">http://www.ccmpo.org/</text>
+<text top="100" left="944" width="147" height="17" font="0">File Name : burl50</text>
+<text top="122" left="944" width="180" height="17" font="0">Site Code : 00000050</text>
+<text top="143" left="944" width="189" height="17" font="0">Start Date : 07/12/2005</text>
+<text top="164" left="944" width="69" height="17" font="0">Page No</text>
+<text top="164" left="1034" width="19" height="17" font="0">: 7</text>
+<text top="100" left="54" width="141" height="17" font="0">Station ID: Burl-50</text>
+<text top="122" left="54" width="314" height="17" font="0">Location: North Winooski Av. &amp; Pearl St.</text>
+<text top="143" left="54" width="244" height="17" font="0">Town: Burlington / Weather: Hot</text>
+<text top="164" left="54" width="244" height="17" font="0">Counters: B+H   AUTO COUNT</text>
+<text top="192" left="554" width="81" height="9" font="3"> North Winooski Ave. </text>
+<text top="487" left="322" width="0" height="9" font="4"> Pea</text>
+<text top="465" left="322" width="0" height="9" font="4">rl</text>
+<text top="460" left="322" width="0" height="9" font="4"> St</text>
+<text top="446" left="322" width="0" height="9" font="4"> </text>
+<text top="443" left="865" width="0" height="9" font="5"> P</text>
+<text top="453" left="865" width="0" height="9" font="5">ear</text>
+<text top="468" left="865" width="0" height="11" font="5">l S</text>
+<text top="480" left="865" width="0" height="13" font="5">t </text>
+<text top="744" left="554" width="81" height="9" font="3"> North Winooski Ave. </text>
+<text top="260" left="532" width="22" height="9" font="3">Right</text>
+<text top="249" left="548" width="12" height="9" font="3">49 </text>
+<text top="260" left="567" width="19" height="9" font="3">Thru</text>
+<text top="249" left="577" width="16" height="9" font="3">280 </text>
+<text top="260" left="603" width="14" height="9" font="3">Left</text>
+<text top="249" left="615" width="12" height="9" font="3">56 </text>
+<text top="260" left="634" width="20" height="9" font="3">Peds</text>
+<text top="249" left="649" width="12" height="9" font="3">25 </text>
+<text top="204" left="590" width="8" height="9" font="3">In</text>
+<text top="204" left="542" width="14" height="9" font="3">Out</text>
+<text top="204" left="629" width="19" height="9" font="3">Total</text>
+<text top="215" left="559" width="127" height="9" font="3">0 410 410 </text>
+<text top="402" left="798" width="0" height="9" font="5">Ri</text>
+<text top="411" left="798" width="0" height="9" font="5">g</text>
+<text top="417" left="798" width="0" height="9" font="5">h</text>
+<text top="422" left="798" width="0" height="9" font="5">t</text>
+<text top="422" left="809" width="0" height="9" font="5">0 </text>
+<text top="438" left="798" width="0" height="9" font="5">Th</text>
+<text top="449" left="798" width="0" height="13" font="5">ru</text>
+<text top="444" left="809" width="0" height="9" font="5">3</text>
+<text top="450" left="809" width="0" height="9" font="5">60 </text>
+<text top="472" left="798" width="0" height="9" font="5">Lef</text>
+<text top="487" left="798" width="0" height="9" font="5">t</text>
+<text top="478" left="809" width="0" height="9" font="5">127</text>
+<text top="495" left="809" width="0" height="9" font="5"> </text>
+<text top="503" left="798" width="0" height="9" font="5">Ped</text>
+<text top="521" left="798" width="0" height="9" font="5">s</text>
+<text top="517" left="809" width="0" height="9" font="5">65 </text>
+<text top="411" left="854" width="0" height="9" font="5">Ou</text>
+<text top="425" left="854" width="0" height="9" font="5">t</text>
+<text top="499" left="854" width="0" height="9" font="5">To</text>
+<text top="510" left="854" width="0" height="13" font="5">ta</text>
+<text top="519" left="854" width="0" height="9" font="5">l</text>
+<text top="460" left="854" width="0" height="9" font="5">In</text>
+<text top="416" left="843" width="0" height="9" font="5">560</text>
+<text top="433" left="843" width="0" height="9" font="5"> 5</text>
+<text top="467" left="843" width="0" height="9" font="5">52 </text>
+<text top="501" left="843" width="0" height="9" font="5">111</text>
+<text top="518" left="843" width="0" height="9" font="5">2 </text>
+<text top="677" left="536" width="14" height="9" font="3">Left</text>
+<text top="688" left="544" width="16" height="9" font="3">161 </text>
+<text top="677" left="568" width="19" height="9" font="3">Thru</text>
+<text top="688" left="586" width="7" height="9" font="3">0 </text>
+<text top="677" left="600" width="22" height="9" font="3">Right</text>
+<text top="688" left="611" width="16" height="9" font="3">184 </text>
+<text top="677" left="634" width="20" height="9" font="3">Peds</text>
+<text top="688" left="649" width="12" height="9" font="3">18 </text>
+<text top="733" left="542" width="14" height="9" font="3">Out</text>
+<text top="733" left="629" width="19" height="9" font="3">Total</text>
+<text top="733" left="590" width="8" height="9" font="3">In</text>
+<text top="722" left="550" width="136" height="9" font="3">486 363 849 </text>
+<text top="423" left="389" width="0" height="9" font="4">Le</text>
+<text top="412" left="389" width="0" height="9" font="4">ft</text>
+<text top="406" left="378" width="0" height="9" font="4">0 </text>
+<text top="458" left="389" width="0" height="9" font="4">Th</text>
+<text top="447" left="389" width="0" height="9" font="4">ru</text>
+<text top="451" left="378" width="0" height="9" font="4">3</text>
+<text top="446" left="378" width="0" height="9" font="4">20 </text>
+<text top="493" left="389" width="0" height="9" font="4">R</text>
+<text top="487" left="389" width="0" height="9" font="4">ight</text>
+<text top="479" left="378" width="0" height="9" font="4">79</text>
+<text top="468" left="378" width="0" height="9" font="4"> </text>
+<text top="527" left="389" width="0" height="9" font="4">P</text>
+<text top="520" left="389" width="0" height="9" font="4">eds</text>
+<text top="513" left="378" width="0" height="9" font="4">60 </text>
+<text top="425" left="333" width="0" height="9" font="4">To</text>
+<text top="414" left="333" width="0" height="9" font="4">ta</text>
+<text top="405" left="333" width="0" height="9" font="4">l</text>
+<text top="513" left="333" width="0" height="9" font="4">Ou</text>
+<text top="499" left="333" width="0" height="9" font="4">t</text>
+<text top="464" left="333" width="0" height="9" font="4">In</text>
+<text top="508" left="344" width="0" height="9" font="4">57</text>
+<text top="496" left="344" width="0" height="9" font="4">0 459 </text>
+<text top="423" left="344" width="0" height="9" font="4">10</text>
+<text top="412" left="344" width="0" height="9" font="4">29 </text>
+<text top="468" left="537" width="81" height="9" font="3">7/12/2005 4:15:00 PM</text>
+<text top="480" left="537" width="81" height="9" font="3">7/12/2005 5:00:00 PM</text>
+<text top="491" left="537" width="3" height="9" font="3"> </text>
+<text top="502" left="537" width="39" height="9" font="3"> Unshifted</text>
+<text top="437" left="583" width="23" height="9" font="3">North</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="918" width="1188">
+<text top="57" left="499" width="188" height="17" font="0">Chittenden County MPO</text>
+<text top="79" left="490" width="207" height="17" font="0">30 Kimball Ave., Suite 206</text>
+<text top="100" left="487" width="213" height="17" font="0">South Burlington, VT 05403</text>
+<text top="122" left="508" width="171" height="17" font="0">http://www.ccmpo.org/</text>
+<text top="100" left="944" width="147" height="17" font="0">File Name : burl50</text>
+<text top="122" left="944" width="180" height="17" font="0">Site Code : 00000050</text>
+<text top="143" left="944" width="189" height="17" font="0">Start Date : 07/12/2005</text>
+<text top="164" left="944" width="69" height="17" font="0">Page No</text>
+<text top="164" left="1034" width="19" height="17" font="0">: 8</text>
+<text top="100" left="54" width="141" height="17" font="0">Station ID: Burl-50</text>
+<text top="122" left="54" width="314" height="17" font="0">Location: North Winooski Av. &amp; Pearl St.</text>
+<text top="143" left="54" width="244" height="17" font="0">Town: Burlington / Weather: Hot</text>
+<text top="164" left="54" width="244" height="17" font="0">Counters: B+H   AUTO COUNT</text>
+<text top="194" left="502" width="182" height="19" font="6"><b>North Winooski Ave.</b></text>
+<text top="735" left="502" width="182" height="19" font="6"><b>North Winooski Ave.</b></text>
+<text top="420" left="856" width="0" height="19" font="7"><b>Pe</b></text>
+<text top="445" left="856" width="0" height="19" font="7"><b>arl St</b></text>
+<text top="495" left="331" width="0" height="19" font="8"><b>Pea</b></text>
+<text top="459" left="331" width="0" height="19" font="8"><b>rl</b></text>
+<text top="446" left="331" width="0" height="19" font="8"><b> St</b></text>
+<text top="204" left="508" width="0" height="19" font="7"><b>56</b></text>
+<text top="533" left="826" width="21" height="19" font="6"><b>56</b></text>
+<text top="204" left="474" width="0" height="19" font="7"><b>28</b></text>
+<text top="227" left="474" width="0" height="19" font="7"><b>0  385</b></text>
+<text top="711" left="489" width="0" height="19" font="8"><b>28</b></text>
+<text top="688" left="489" width="0" height="19" font="8"><b>0  </b></text>
+<text top="666" left="489" width="0" height="19" font="8"><b>4</b></text>
+<text top="655" left="489" width="0" height="19" font="8"><b>8</b></text>
+<text top="643" left="489" width="0" height="19" font="8"><b>6</b></text>
+<text top="204" left="440" width="0" height="19" font="7"><b>49</b></text>
+<text top="308" left="341" width="21" height="19" font="6"><b>49</b></text>
+<text top="406" left="816" width="32" height="19" font="6"><b>127</b></text>
+<text top="711" left="529" width="0" height="19" font="8"><b>12</b></text>
+<text top="688" left="529" width="0" height="19" font="8"><b>7</b></text>
+<text top="352" left="774" width="73" height="19" font="6"><b>487  360</b></text>
+<text top="352" left="341" width="73" height="19" font="6"><b>360  570</b></text>
+<text top="176" left="331" width="0" height="19" font="8"><b> </b></text>
+<text top="711" left="734" width="0" height="19" font="8"><b>18</b></text>
+<text top="688" left="734" width="0" height="19" font="8"><b>4</b></text>
+<text top="630" left="816" width="32" height="19" font="6"><b>184</b></text>
+<text top="409" left="341" width="32" height="19" font="6"><b>161</b></text>
+<text top="577" left="341" width="73" height="19" font="6"><b>320  399</b></text>
+<text top="577" left="774" width="73" height="19" font="6"><b>560  320</b></text>
+<text top="623" left="341" width="21" height="19" font="6"><b>79</b></text>
+<text top="711" left="453" width="0" height="19" font="8"><b>79</b></text>
+<text top="431" left="537" width="114" height="19" font="6"><b>1 - Unshifted</b></text>
+<text top="453" left="591" width="6" height="19" font="6"><b> </b></text>
+<text top="476" left="570" width="48" height="19" font="6"><b>16:15</b></text>
+<text top="498" left="570" width="48" height="19" font="6"><b>16:15</b></text>
+<text top="712" left="804" width="52" height="19" font="6"><b>North</b></text>
+</page>
+</pdf2xml>
