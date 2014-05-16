@@ -1,6 +1,5 @@
 #!/bin/sh
 
-./extract kc/*.txt > counts-kc.csv
 ./extract hilliard/*.txt > counts-hilliard.csv
 ./extract bothell/*/*.txt > counts-bothell.csv
 
@@ -26,3 +25,4 @@ find wenatchee -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | 
 find mndot -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-mndot.csv
 find ncdot -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-ncdot.csv
 find hp -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-hp.csv
+./extract-xml kc/*.xml > counts-kc.csv
