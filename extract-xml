@@ -10,10 +10,14 @@ my @text = ();
 my $group = "";
 my $date = "";
 my $street = "";
+my %warn;
+my %used;
 
 while (<>) {
 	s/<[bi]>//g;
 	s/<\/[bi]>//g;
+
+	$warn{$ARGV} = 1;
 
 	if (/<text top="([0-9]+)" left="([0-9]+)" width="([0-9]+)" height="([0-9]+)" font="[^"]*">(.*)<\/text>/) {
 		my $x = $2 + $3 / 2;
@@ -286,6 +290,7 @@ while (<>) {
 					next if defined($val{$when}{'fail'});
 
 					my $argv = $ARGV;
+					$used{$ARGV} = 1;
 					$argv =~ s/xml/txt/g; # XXX
 					$argv =~ s/,/ /g; # XXX
 
@@ -348,5 +353,11 @@ while (<>) {
 		$group = "";
 		$date = "";
 		$street = "";
+	}
+}
+
+for my $file (keys(%warn)) {
+	unless ($used{$file}) {
+		print STDERR "$file: no output\n";
 	}
 }
