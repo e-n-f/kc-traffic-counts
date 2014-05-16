@@ -24,4 +24,5 @@ find arkansas -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | x
 
 find auburn -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-new > counts-auburn.csv
 find portland -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-new > counts-portland.csv
-./extract-new richmond/*.txt > counts-richmond.csv
+
+./extract-xml richmond/*.xml > counts-richmond.csv
