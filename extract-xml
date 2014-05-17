@@ -17,6 +17,8 @@ my @x = ();
 my @y = ();
 my @min = ();
 my @max = ();
+my @top = ();
+my @bot = ();
 my @text = ();
 my $group = "";
 my $date = "";
@@ -43,11 +45,53 @@ while (<>) {
 		push @y, $y;
 		push @min, $2;
 		push @max, $2 + $3;
+		push @top, $1;
+		push @bot, $1 + $4;
 		push @text, $text;
 	}
 
 	if (/<\/page/) {
 		my $i;
+
+		my $rot = 0;
+		my $ok = 0;
+		for ($i = 1; $i <= $#text; $i++) {
+			if ($y[$i] < $y[$i - 1] && $min[$i] == $min[$i - 1]) {
+				$rot++;
+			} else {
+				$ok++;
+			}
+		}
+
+		if ($rot > $ok) {
+			my $max = 0;
+			my $bot = 0;
+			for ($i = 0; $i <= $#text; $i++) {
+				if ($max[$i] > $max) {
+					$max = $max[$i];
+				}
+				if ($bot[$i] > $bot) {
+					$bot = $bot[$i];
+				}
+			}
+
+			for ($i = 0; $i <= $#text; $i++) {
+				my $bmin = $bot - $bot[$i];
+				my $bmax = $bot - $top[$i];
+				my $btop = $min[$i];
+				my $bbot = $max[$i];
+
+				$min[$i] = $bmin;
+				$max[$i] = $bmax;
+				$top[$i] = $btop;
+				$bot[$i] = $bbot;
+				$x[$i] = ($bmin + $bmax) / 2;
+				$y[$i] = ($btop + $bbot) / 2;
+
+				# print "$bmin,$btop to $bmax,$bbot\n";
+			}
+		}
+
 		for ($i = 0; $i <= $#text; $i++) {
 			if ($text[$i] =~ /Start Date\s*:\s*(.*)/) {
 				$date = $1;
@@ -103,6 +147,7 @@ while (<>) {
 								$i++;
 							}
 
+							$directions[$direction] =~ s/ *- *//g;
 							$directions[$direction] =~ s/ *\([NSEW]B\) *//g;
 							$directions[$direction] =~ s/ *Approach *//g;
 							$directions[$direction] =~ s/From Northeast/Southwestbound/gi;
@@ -197,6 +242,9 @@ while (<>) {
 				my @coldir = ();
 				for (my $x = 0; $x <= $#cols; $x++) {
 					$cols[$x] =~ s/Rght/Right/gi;
+					$cols[$x] =~ s/\bLT\b/Left/g;
+					$cols[$x] =~ s/\bRT\b/Right/g;
+					$cols[$x] =~ s/\bTH\b/Thru/g;
 
 					my $mid = ($colmin[$x] + $colmax[$x]) / 2;
 					my $best = -1;
@@ -253,7 +301,7 @@ while (<>) {
 				}
 
 				for (my $x = 0; $x <= $#cols; $x++) {
-					# print "$directions[$coldir[$x]]: $cols[$x]: $colmin[$x] to $colmax[$x]\n";
+					# print "$streets[$coldir[$x]], $directions[$coldir[$x]]: $cols[$x]: $colmin[$x] to $colmax[$x]\n";
 				}
 
 				my $when = -1;
@@ -282,14 +330,17 @@ while (<>) {
 							}
 						}
 
-						if ($when >= 0 && defined($val{$when}{$directions[$coldir[$best]]}{$cols[$best]})) {
-							# Still a bad sign, but we're not using the totals
-							unless ($cols[$best] =~ /Total/) {
-								# Duplicate of exactly the same value seems harmless
-								unless ($val{$when}{$directions[$coldir[$best]]}{$cols[$best]} == $v) {
-									print STDERR "$ARGV: already have $val{$when}{$directions[$coldir[$best]]}{$cols[$best]} for val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
-									$val{$when}{'fail'} = 1;
-									$i = $#text;
+						if (1) {
+							if ($when >= 0 && defined($val{$when}{$directions[$coldir[$best]]}{$cols[$best]})) {
+								# Still a bad sign, but we're not using the totals
+								unless ($cols[$best] =~ /Total/) {
+									# Duplicate of exactly the same value seems harmless
+									unless ($val{$when}{$directions[$coldir[$best]]}{$cols[$best]} == $v) {
+										print STDERR "$ARGV: already have $val{$when}{$directions[$coldir[$best]]}{$cols[$best]} for val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
+										print STDERR "$streets[$coldir[$best]], $directions[$coldir[$best]]: $cols[$best]\n";
+										$val{$when}{'fail'} = 1;
+										$i = $#text;
+									}
 								}
 							}
 						}
@@ -366,6 +417,8 @@ while (<>) {
 		@y = ();
 		@min = ();
 		@max = ();
+		@top = ();
+		@bot = ();
 		@text = ();
 		$group = "";
 		$date = "";
