@@ -92,6 +92,7 @@ while (<>) {
 			}
 		}
 
+		PAGE:
 		for ($i = 0; $i <= $#text; $i++) {
 			if ($text[$i] =~ /Start Date\s*:\s*(.*)/) {
 				$date = $1;
@@ -300,12 +301,20 @@ while (<>) {
 					}
 				}
 
+				my %seen = ();
 				for (my $x = 0; $x <= $#cols; $x++) {
+					if (defined($seen{$directions[$coldir[$x]]}{$cols[$x]})) {
+						print STDERR "$ARGV: $street: duplicate column $directions[$coldir[$x]] $cols[$x]\n";
+						next PAGE;
+					}
+					$seen{$directions[$coldir[$x]]}{$cols[$x]} = 1;
+
 					# print "$streets[$coldir[$x]], $directions[$coldir[$x]]: $cols[$x]: $colmin[$x] to $colmax[$x]\n";
 				}
 
 				my $when = -1;
 				my %val = ();
+				my %valused = ();
 				for (; $i <= $#text; $i++) {
 					last if ($text[$i] =~ /Grand/);
 
@@ -330,7 +339,7 @@ while (<>) {
 							}
 						}
 
-						if (1) {
+						if (0) {
 							if ($when >= 0 && defined($val{$when}{$directions[$coldir[$best]]}{$cols[$best]})) {
 								# Still a bad sign, but we're not using the totals
 								unless ($cols[$best] =~ /Total/) {
@@ -344,8 +353,33 @@ while (<>) {
 								}
 							}
 						}
-						$val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v;
+						$val{$when}{$directions[$coldir[$best]]}{$cols[$best]} .= $v;
+						$valused{$when}{$directions[$coldir[$best]]}{$cols[$best]}++;
 						# print "val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
+					}
+				}
+
+				for my $when (sort {$a <=> $b } (keys(%val))) {
+					next if $when < 0;
+					my $check = "";
+					for my $direction (keys(%{$val{$when}})) {
+						for my $turn (keys(%{$val{$when}{$direction}})) {
+							if ($valused{$when}{$direction}{$turn} > 1) {
+								$check = "$direction $turn";
+							}
+						}
+					}
+
+					if ($check ne "") {
+						for (my $x = 0; $x <= $#cols; $x++) {
+							# print "used: {$when}{$directions[$coldir[$x]]}{$cols[$x]} $valused{$when}{$directions[$coldir[$x]]}{$cols[$x]}\n";
+						}
+						for (my $x = 0; $x <= $#cols; $x++) {
+							if ($valused{$when}{$directions[$coldir[$x]]}{$cols[$x]} == 0) {
+								print STDERR "$ARGV: $street: $when: $check used repeatedly, $directions[$coldir[$x]] $cols[$x] not used\n";
+								delete $val{$when};
+							}
+						}
 					}
 				}
 
