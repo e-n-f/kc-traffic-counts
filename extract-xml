@@ -54,14 +54,19 @@ while (<>) {
 		my $i;
 
 		my $rot = 0;
+		my $rrot = 0;
 		my $ok = 0;
 		for ($i = 1; $i <= $#text; $i++) {
 			if ($y[$i] < $y[$i - 1] && $min[$i] == $min[$i - 1]) {
 				$rot++;
+			} elsif ($y[$i] > $y[$i - 1] && $min[$i] == $min[$i - 1]) {
+				$rrot++;
 			} else {
 				$ok++;
 			}
 		}
+
+		# print STDERR "page: $rot $rrot $ok\n";
 
 		if ($rot > $ok) {
 			my $max = 0;
@@ -80,6 +85,33 @@ while (<>) {
 				my $bmax = $bot - $top[$i];
 				my $btop = $min[$i];
 				my $bbot = $max[$i];
+
+				$min[$i] = $bmin;
+				$max[$i] = $bmax;
+				$top[$i] = $btop;
+				$bot[$i] = $bbot;
+				$x[$i] = ($bmin + $bmax) / 2;
+				$y[$i] = ($btop + $bbot) / 2;
+
+				# print "$bmin,$btop to $bmax,$bbot\n";
+			}
+		} elsif ($rrot > $ok) {
+			my $max = 0;
+			my $bot = 0;
+			for ($i = 0; $i <= $#text; $i++) {
+				if ($max[$i] > $max) {
+					$max = $max[$i];
+				}
+				if ($bot[$i] > $bot) {
+					$bot = $bot[$i];
+				}
+			}
+
+			for ($i = 0; $i <= $#text; $i++) {
+				my $bmin = $top[$i];
+				my $bmax = $bot[$i];
+				my $btop = $max - $min[$i];
+				my $bbot = $max - $max[$i];
 
 				$min[$i] = $bmin;
 				$max[$i] = $bmax;
@@ -114,18 +146,19 @@ while (<>) {
 					}
 
 					for (; $i <= $#text; $i++) {
-						if ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i) {
+						if ($text[$i] =~ /bound *$/i || $text[$i] =~ /\([NSEW]B\) *$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg *$/i) {
 							last;
 						}
 
 						push @streets, $text[$i];
 					}
 					for (; $i <= $#text; $i++) {
-						unless ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i) {
+						unless ($text[$i] =~ /bound *$/i || $text[$i] =~ /\([NSEW]B\) *$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg *$/i) {
 							last;
 						}
 
 						push @directions, $text[$i];
+						$directions[$#directions] =~ s/ *$//;
 						push @directionx, $x[$i];
 					}
 				} else {
@@ -139,8 +172,9 @@ while (<>) {
 					my $prevx = 0;
 					my $prevy = 0;
 					for (; $i <= $#text; $i++) {
-						if ($text[$i] =~ /bound$/i || $text[$i] =~ /\([NSEW]B\)$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg$/i || $text[$i] =~ /Approach$/i) {
+						if ($text[$i] =~ /bound *$/i || $text[$i] =~ /\([NSEW]B\) *$/ || $text[$i] =~ /^From/i || $text[$i] =~ /Leg *$/i || $text[$i] =~ /Approach *$/i) {
 							$directions[$direction] = $text[$i];
+							$directions[$direction] =~ s/ *$//;
 							$directionx[$direction] = $x[$i];
 
 							if ($text[$i] eq "From") {
@@ -362,7 +396,6 @@ while (<>) {
 								last unless ($text[$n] =~ /^ *(\d+) *$/);
 							}
 
-							# printf STDERR ("columns %d vs %d\n", $n - ($i + 1), $#cols + 1);
 							if ($n - ($i + 1) == $#cols + 1) {
 								for (my $m = ($i + 1); $m < $n; $m++) {
 									$text[$m] =~ /^ *(\d+) *$/;
@@ -375,6 +408,8 @@ while (<>) {
 								$i = $n - 1;
 								$when = -1;
 								next;
+							} else {
+								printf STDERR ("$ARGV: have %d values for %d columns\n", $n - ($i + 1), $#cols + 1);
 							}
 						}
 					} elsif ($text[$i] =~ /Total/) {
