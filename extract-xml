@@ -223,6 +223,7 @@ while (<>) {
 				for (; $i <= $#text; $i++) {
 					last if $text[$i] =~ /\d:\d\d/;
 					last if $text[$i] =~ /Factor/;
+					last if $text[$i] =~ /BREAK/;
 
 					if ($#colmin >= 0 &&
 					    ! ($min[$i] > $colmax[$#colmax] || $max[$i] < $colmin[$#colmin])) {
@@ -233,6 +234,8 @@ while (<>) {
 						if ($max[$i] > $colmax[$#colmax]) {
 							$colmax[$#colmax] = $max[$i];
 						}
+					} elsif ($max[$i] < $colmin[$#colmin]) {
+						last;
 					} else {
 						push @cols, $text[$i];
 						push @colmin, $min[$i];
@@ -301,10 +304,34 @@ while (<>) {
 					}
 				}
 
+				{
+					my $apptotal = 0;
+					for (my $x = 0; $x <= $#cols; $x++) {
+						if ($cols[$x] =~ /App.*Total/) {
+							$apptotal++;
+						}
+					}
+
+					if ($apptotal == $#directions + 1) {
+						my $dir = 0;
+						for (my $x = 0; $x <= $#cols; $x++) {
+							$coldir[$x] = $dir;
+							if ($cols[$x] =~ /App.*Total/) {
+								$dir++;
+							}
+						}
+					}
+				}
+
 				my %seen = ();
 				for (my $x = 0; $x <= $#cols; $x++) {
+					next if $cols[$x] =~ /Total/;  # Don't care if totals columns are misassociated
+
 					if (defined($seen{$directions[$coldir[$x]]}{$cols[$x]})) {
 						print STDERR "$ARGV: $street: duplicate column $directions[$coldir[$x]] $cols[$x]\n";
+						for (my $y = 0; $y <= $#cols; $y++) {
+							# print STDERR "{$directions[$coldir[$y]]}{$cols[$y]}\n";
+						}
 						next PAGE;
 					}
 					$seen{$directions[$coldir[$x]]}{$cols[$x]} = 1;
@@ -323,6 +350,9 @@ while (<>) {
 						my $minute = $2;
 						if ($3 eq "PM" && $hour != 12) {
 							$hour += 12;
+						}
+						if ($3 eq "AM" && $hour == 12) {
+							$hour = 0;
 						}
 						$when = $hour * 60 + $minute;
 					} elsif ($text[$i] =~ /Total/) {
