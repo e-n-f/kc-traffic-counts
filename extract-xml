@@ -201,6 +201,10 @@ while (<>) {
 							$directions[$direction] =~ s/From South/Northbound/gi;
 							$directions[$direction] =~ s/From East/Westbound/gi;
 							$directions[$direction] =~ s/From West/Eastbound/gi;
+							$directions[$direction] =~ s/From the North/Southbound/gi;
+							$directions[$direction] =~ s/From the South/Northbound/gi;
+							$directions[$direction] =~ s/From the East/Westbound/gi;
+							$directions[$direction] =~ s/From the West/Eastbound/gi;
 							$directions[$direction] =~ s/North Leg/Southbound/gi;
 							$directions[$direction] =~ s/South Leg/Northbound/gi;
 							$directions[$direction] =~ s/East Leg/Westbound/gi;
@@ -209,6 +213,11 @@ while (<>) {
 							$directions[$direction] =~ s/SOUTHBOUND/Southbound/gi;
 							$directions[$direction] =~ s/\bEASTBOUND/Eastbound/gi;
 							$directions[$direction] =~ s/\bWESTBOUND/Westbound/gi;
+							$directions[$direction] =~ s/\bNorth Bound/Northbound/gi;
+							$directions[$direction] =~ s/\bSouth Bound/Southbound/gi;
+							$directions[$direction] =~ s/\bEast Bound/Eastbound/gi;
+							$directions[$direction] =~ s/\bWest Bound/Westbound/gi;
+							$directions[$direction] =~ s/\bNothbound/Northbound/gi;
 
 							$prevy = 0;
 							$direction++;
