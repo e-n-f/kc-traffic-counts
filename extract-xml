@@ -287,10 +287,52 @@ while (<>) {
 
 				my @coldir = ();
 				for (my $x = 0; $x <= $#cols; $x++) {
+					$cols[$x] =~ s/ *$//;
 					$cols[$x] =~ s/Rght/Right/gi;
 					$cols[$x] =~ s/\bLT\b/Left/g;
 					$cols[$x] =~ s/\bRT\b/Right/g;
 					$cols[$x] =~ s/\bTH\b/Thru/g;
+					$cols[$x] =~ s/\bBike\b/Bikes/g;
+					$cols[$x] =~ s/\bPed\b/Peds/g;
+					$cols[$x] =~ s/\bBikes on Road\b/Bikes/g;
+					$cols[$x] =~ s/\bRIGHT\b/Right/g;
+					$cols[$x] =~ s/\bTHRU\b/Thru/g;
+					$cols[$x] =~ s/\bLEFT\b/Left/g;
+					$cols[$x] =~ s/\bThrough\b/Thru/g;
+					$cols[$x] =~ s/\bBicycle\b/Bikes/g;
+					$cols[$x] =~ s/\bThroug h\b/Thru/g;
+					$cols[$x] =~ s/\bBikes on CW\b/Bikes/g;
+					$cols[$x] =~ s/\bBicycles\b/Bikes/g;
+					$cols[$x] =~ s/\bThr\b/Thru/g;
+					$cols[$x] =~ s/\bRig\b/Right/g;
+					$cols[$x] =~ s/\bRt\b/Right/g;
+					$cols[$x] =~ s/\bBikes on road\b/Bikes/g;
+					$cols[$x] =~ s/\bBikes on RD\b/Bikes/g;
+					$cols[$x] =~ s/\bPEDS\b/Peds/g;
+					$cols[$x] =~ s/\bBIKES\b/Bikes/g;
+					$cols[$x] =~ s/\bPedestrians\b/Peds/g;
+					$cols[$x] =~ s/\bBike on Road\b/Bikes/g;
+					$cols[$x] =~ s/\bCycles\b/Bikes/g;
+					$cols[$x] =~ s/\bBike on CW\b/Bikes/g;
+					$cols[$x] =~ s/\bRIght\b/Right/g;
+					$cols[$x] =~ s/\bBIKE\b/Bikes/g;
+					$cols[$x] =~ s/\bPeds Inside Crosswalk\b/Peds/g;
+					$cols[$x] =~ s/\bRigh t\b/Right/g;
+					$cols[$x] =~ s/\bPeds\.\b/Peds/g;
+					$cols[$x] =~ s/\bPed\.\b/Peds/g;
+					$cols[$x] =~ s/\bThr u \b/Thru/g;
+					$cols[$x] =~ s/\bRights\b/Right/g;
+					$cols[$x] =~ s/\bThur\b/Thru/g;
+					$cols[$x] =~ s/\bLefts\b/Left/g;
+					$cols[$x] =~ s/\bleft\b/Left/g;
+					$cols[$x] =~ s/\bPEDESTRIANS\b/Peds/g;
+					$cols[$x] =~ s/\bBikes in roadway\b/Bikes/g;
+					$cols[$x] =~ s/\bPed s \b/Peds/g;
+					$cols[$x] =~ s/\bThrus\b/Thru/g;
+					$cols[$x] =~ s/\bRegular Right\b/Right/g;
+					$cols[$x] =~ s/\bPeds4\b/Peds/g;
+					$cols[$x] =~ s/\bPeds \(Crosswalk\)\b/Peds/g;
+					$cols[$x] =~ s/\bBikies\b/Bikes/g;
 
 					my $mid = ($colmin[$x] + $colmax[$x]) / 2;
 					my $best = -1;
@@ -349,7 +391,7 @@ while (<>) {
 				{
 					my $apptotal = 0;
 					for (my $x = 0; $x <= $#cols; $x++) {
-						if ($cols[$x] =~ /App.*Total/) {
+						if ($cols[$x] =~ /App\.*Total/) {
 							$apptotal++;
 						}
 					}
@@ -358,7 +400,7 @@ while (<>) {
 						my $dir = 0;
 						for (my $x = 0; $x <= $#cols; $x++) {
 							$coldir[$x] = $dir;
-							if ($cols[$x] =~ /App.*Total/) {
+							if ($cols[$x] =~ /App\.*Total/) {
 								$dir++;
 							}
 						}
@@ -498,10 +540,12 @@ while (<>) {
 							"Westbound" => "Southbound");
 
 					for my $direction (keys(%bikemap)) {
-						if (defined($val{$when}{$direction}{"ThruBikes"})) {
-							$val{$when}{$bikemap{$direction}}{"Bikes"} =
-								$val{$when}{$direction}{"ThruBikes"};
-							delete $val{$when}{$direction}{"ThruBikes"};
+						if (!defined($val{$when}{$bikemap{$direction}}{"Bikes"})) {
+							if (defined($val{$when}{$direction}{"ThruBikes"})) {
+								$val{$when}{$bikemap{$direction}}{"Bikes"} =
+									$val{$when}{$direction}{"ThruBikes"};
+								delete $val{$when}{$direction}{"ThruBikes"};
+							}
 						}
 					}
 
