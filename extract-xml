@@ -434,7 +434,7 @@ while (<>) {
 							}
 						}
 
-						if (0) {
+						if (1) {
 							if ($when >= 0 && defined($val{$when}{$directions[$coldir[$best]]}{$cols[$best]})) {
 								# Still a bad sign, but we're not using the totals
 								unless ($cols[$best] =~ /Total/) {
@@ -448,7 +448,7 @@ while (<>) {
 								}
 							}
 						}
-						$val{$when}{$directions[$coldir[$best]]}{$cols[$best]} .= $v;
+						$val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v;
 						$valused{$when}{$directions[$coldir[$best]]}{$cols[$best]}++;
 						# print "val{$when}{$directions[$coldir[$best]]}{$cols[$best]} = $v\n";
 					}
@@ -456,6 +456,7 @@ while (<>) {
 
 				for my $when (sort {$a <=> $b } (keys(%val))) {
 					next if $when < 0;
+					next if defined($val{$when}{'fail'});
 					my $check = "";
 					for my $direction (keys(%{$val{$when}})) {
 						for my $turn (keys(%{$val{$when}{$direction}})) {
