@@ -355,6 +355,28 @@ while (<>) {
 							$hour = 0;
 						}
 						$when = $hour * 60 + $minute;
+
+						if ($text[$i + 1] =~ /^ *(\d+) *$/) {
+							my $n;
+							for ($n = $i + 1; $n <= $#text; $n++) {
+								last unless ($text[$n] =~ /^ *(\d+) *$/);
+							}
+
+							# printf STDERR ("columns %d vs %d\n", $n - ($i + 1), $#cols + 1);
+							if ($n - ($i + 1) == $#cols + 1) {
+								for (my $m = ($i + 1); $m < $n; $m++) {
+									$text[$m] =~ /^ *(\d+) *$/;
+									my $v = $1;
+
+									$val{$when}{$directions[$coldir[$m - ($i + 1)]]}{$cols[$m - ($i + 1)]} .= $v;
+									$valused{$when}{$directions[$coldir[$m - ($i + 1)]]}{$cols[$m - ($i + 1)]}++;
+								}
+
+								$i = $n - 1;
+								$when = -1;
+								next;
+							}
+						}
 					} elsif ($text[$i] =~ /Total/) {
 						$when = -1;
 					} elsif ($text[$i] =~ /^ *(\d+) *$/) {
