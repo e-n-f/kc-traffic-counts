@@ -166,7 +166,15 @@ while (<>) {
 					$group =~ s/ +/ /g;
 					# print "$ARGV\n";
 					# print "$group\n";
-					$i++;
+
+					{
+						my $y = $y[$i];
+						$i++;
+
+						while ($i <= $#text && $y[$i] < $y) {
+							$i++;
+						}
+					}
 
 					my $direction = 0;
 					my $prevx = 0;
