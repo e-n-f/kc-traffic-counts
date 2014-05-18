@@ -4,7 +4,6 @@ if false
 then
 	./extract bothell/*/*.txt > counts-bothell.csv
 	find misc -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-misc.csv
-	find boston -name '*.txt' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract > counts-boston.csv
 fi
 
 ./extract-xml hilliard/*.xml > counts-hilliard.csv
@@ -27,8 +26,5 @@ find ncdot -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xarg
 find hp -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-hp.csv
 ./extract-xml kc/*.xml > counts-kc.csv
 find dc -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-dc.csv
-
-if false
-then
-	find oakland -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-oakland.csv
-fi
+find oakland -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-oakland.csv
+find boston -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-boston.csv
