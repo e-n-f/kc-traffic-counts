@@ -1,0 +1,1988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.26.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="39" family="Times" color="#231f20"/>
+	<fontspec id="1" size="33" family="Times" color="#231f20"/>
+	<fontspec id="2" size="15" family="Times" color="#231f20"/>
+	<fontspec id="3" size="21" family="Times" color="#231f20"/>
+<text top="89" left="160" width="599" height="55" font="0"><b>TECHNICAL MEMORANDUM</b></text>
+<text top="264" left="236" width="446" height="46" font="1"><b>TRAFFIC IMPACT STUDY</b></text>
+<text top="382" left="206" width="506" height="46" font="1"><b>DESOTO 300 DEVELOPMENT</b></text>
+<text top="1119" left="398" width="119" height="16" font="2">November 2006</text>
+<text top="915" left="404" width="125" height="22" font="3">Prepared by:</text>
+<text top="941" left="268" width="396" height="22" font="3">Florida Transportation Engineering, Inc.</text>
+<text top="968" left="375" width="182" height="22" font="3">8250 Pascal Drive</text>
+<text top="995" left="346" width="241" height="22" font="3">Punta Gorda, FL 33950</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="4" size="16" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Times" color="#000000"/>
+<text top="112" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="133" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="154" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="175" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="195" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="216" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="216" left="301" width="374" height="16" font="4"><b>PROFESSIONAL ENGINEER CERTIFICATE </b></text>
+<text top="237" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="257" left="135" width="5" height="16" font="5"> </text>
+<text top="278" left="135" width="5" height="16" font="5"> </text>
+<text top="299" left="135" width="657" height="16" font="5">I hereby certify that I am a registered professional engineer in the State of Florida </text>
+<text top="319" left="135" width="653" height="16" font="5">practicing with Florida Transportation Engineering, Inc., a consulting firm in the State of </text>
+<text top="340" left="135" width="654" height="16" font="5">Florida and that I have supervised the preparation and approve the evaluation, findings, </text>
+<text top="361" left="135" width="465" height="16" font="5">opinions, conclusions, and technical advice hereby reported for: </text>
+<text top="381" left="135" width="5" height="16" font="5"> </text>
+<text top="402" left="135" width="5" height="16" font="5"> </text>
+<text top="423" left="189" width="86" height="16" font="5">PROJECT: </text>
+<text top="423" left="308" width="4" height="16" font="5"> </text>
+<text top="423" left="362" width="188" height="16" font="5">Desoto 300 Development </text>
+<text top="454" left="189" width="101" height="16" font="5">LOCATION: </text>
+<text top="454" left="308" width="5" height="16" font="5"> </text>
+<text top="454" left="362" width="558" height="16" font="5">NE Quadrant of Kings Highway and Peace River Street                                   </text>
+<text top="485" left="189" width="158" height="16" font="5">COUNTY:  </text>
+<text top="485" left="362" width="348" height="16" font="5">Desoto                                                                  </text>
+<text top="516" left="189" width="80" height="16" font="5">STATE:     </text>
+<text top="516" left="308" width="5" height="16" font="5"> </text>
+<text top="516" left="362" width="462" height="16" font="5">Florida                                                                                           </text>
+<text top="547" left="135" width="5" height="16" font="5"> </text>
+<text top="578" left="135" width="654" height="16" font="5">This report includes a summary of Trip Generation, Trip Distribution, Level of Service </text>
+<text top="599" left="135" width="653" height="16" font="5">Analysis, Turn Lane Analysis and Recommendations for <b>Desoto 300 Development.</b>    I </text>
+<text top="619" left="135" width="654" height="16" font="5">acknowledge that the procedures and references used to develop the results contained in </text>
+<text top="640" left="135" width="656" height="16" font="5">this report are standard to the professional practice of transportation engineering and </text>
+<text top="661" left="135" width="487" height="16" font="5">planning as applied through professional judgment and experience. </text>
+<text top="681" left="135" width="5" height="16" font="5"> </text>
+<text top="702" left="135" width="5" height="16" font="5"> </text>
+<text top="723" left="135" width="5" height="16" font="5"> </text>
+<text top="744" left="243" width="5" height="16" font="5"> </text>
+<text top="764" left="135" width="5" height="16" font="5"> </text>
+<text top="785" left="135" width="5" height="16" font="5"> </text>
+<text top="806" left="135" width="5" height="16" font="5"> </text>
+<text top="826" left="135" width="5" height="16" font="5"> </text>
+<text top="847" left="135" width="5" height="16" font="5"> </text>
+<text top="868" left="135" width="5" height="16" font="5"> </text>
+<text top="888" left="135" width="5" height="16" font="5"> </text>
+<text top="909" left="416" width="351" height="16" font="5">SIGNATURE:                                                       </text>
+<text top="930" left="470" width="9" height="16" font="5">  </text>
+<text top="930" left="524" width="13" height="16" font="5">   </text>
+<text top="930" left="589" width="183" height="16" font="5">Ravi Devaguptapu, P.E., </text>
+<text top="951" left="589" width="158" height="16" font="5">P.T.O.E.                     </text>
+<text top="971" left="416" width="5" height="16" font="5"> </text>
+<text top="992" left="416" width="67" height="16" font="5">  DATE: </text>
+<text top="992" left="524" width="5" height="16" font="5"> </text>
+<text top="992" left="589" width="243" height="16" font="5">                                                      </text>
+<text top="1013" left="589" width="171" height="16" font="5">Florida P.E. No. 53150 </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="6" size="9" family="Times" color="#000000"/>
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="470" width="10" height="16" font="5">i </text>
+<text top="112" left="473" width="5" height="16" font="4"><b> </b></text>
+<text top="154" left="375" width="199" height="16" font="4"><b>TABLE OF CONTENTS </b></text>
+<text top="195" left="135" width="5" height="16" font="5"> </text>
+<text top="216" left="135" width="5" height="16" font="5"> </text>
+<text top="236" left="135" width="186" height="16" font="5">1.0 EXECUTIVE </text>
+<text top="236" left="294" width="547" height="16" font="5">SUMMARY ...........................................................................................1 </text>
+<text top="278" left="135" width="707" height="16" font="5">2.0 INTRODUCTION .........................................................................................................2 </text>
+<text top="319" left="135" width="125" height="16" font="5">3.0 TRIP </text>
+<text top="319" left="233" width="609" height="16" font="5">GENERATION ....................................................................................................5 </text>
+<text top="361" left="135" width="124" height="16" font="5">4.0 TRIP </text>
+<text top="361" left="232" width="609" height="16" font="5">DISTRIBUTION..................................................................................................6 </text>
+<text top="402" left="135" width="162" height="16" font="5">5.0 PROJECT </text>
+<text top="402" left="270" width="572" height="16" font="5">TRIPS...........................................................................................................8 </text>
+<text top="443" left="135" width="168" height="16" font="5">6.0 EXISTING </text>
+<text top="443" left="277" width="125" height="16" font="5">ROADWAY </text>
+<text top="443" left="375" width="466" height="16" font="5">CONDITIONS....................................................................10 </text>
+<text top="485" left="135" width="156" height="16" font="5">7.0 FUTURE </text>
+<text top="485" left="264" width="106" height="16" font="5">TRAFFIC </text>
+<text top="485" left="342" width="499" height="16" font="5">CONDITIONS ...........................................................................11 </text>
+<text top="526" left="135" width="32" height="16" font="5">8.0  </text>
+<text top="526" left="189" width="625" height="16" font="5">INTERSECTION ANALYSIS ....................................................................................15 </text>
+<text top="568" left="135" width="134" height="16" font="5">9.0 TURN </text>
+<text top="568" left="243" width="79" height="16" font="5">LANE </text>
+<text top="568" left="295" width="547" height="16" font="5">ANALYSIS ..........................................................................................16 </text>
+<text top="609" left="135" width="697" height="16" font="5">10.0 CONCLUSION............................................................................................................19 </text>
+<text top="651" left="135" width="5" height="16" font="4"><b> </b></text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="467" width="15" height="16" font="5">ii </text>
+<text top="112" left="407" width="149" height="16" font="5">LIST OF FIGURES </text>
+<text top="143" left="479" width="5" height="16" font="5"> </text>
+<text top="174" left="135" width="18" height="16" font="5">1  </text>
+<text top="174" left="171" width="643" height="16" font="5">PROJECT LOCATION MAP........................................................................................... 3 </text>
+<text top="216" left="135" width="18" height="16" font="5">2  </text>
+<text top="216" left="171" width="643" height="16" font="5">PROJECT SITE PLAN..................................................................................................... 4 </text>
+<text top="257" left="135" width="18" height="16" font="5">3  </text>
+<text top="257" left="171" width="643" height="16" font="5">TRIP DISTRIBUTION..................................................................................................... 7 </text>
+<text top="299" left="135" width="18" height="16" font="5">4  </text>
+<text top="299" left="171" width="643" height="16" font="5">PROJECT TRIPS.............................................................................................................. 9 </text>
+<text top="340" left="135" width="18" height="16" font="5">5  </text>
+<text top="340" left="171" width="643" height="16" font="5">2015 BACKGROUND TRAFFIC.................................................................................. 12 </text>
+<text top="381" left="135" width="18" height="16" font="5">6  </text>
+<text top="381" left="171" width="183" height="16" font="5">2015 TOTAL TRAFFIC </text>
+<text top="381" left="405" width="409" height="16" font="5">................................................................................... ..13 </text>
+<text top="423" left="404" width="142" height="16" font="5">LIST OF TABLES </text>
+<text top="464" left="479" width="5" height="16" font="5"> </text>
+<text top="506" left="135" width="98" height="16" font="5">1  TRIP </text>
+<text top="506" left="219" width="602" height="16" font="5">GENERATION…..................................................................................................5 </text>
+<text top="547" left="135" width="18" height="16" font="5">2  </text>
+<text top="547" left="176" width="630" height="16" font="5">EXISTING LINK LOS ANALYSIS…........................................................................ 10 </text>
+<text top="588" left="135" width="14" height="16" font="5">3 </text>
+<text top="588" left="175" width="630" height="16" font="5">2015 LINK LOS ANALYSIS…................................................................................... 12 </text>
+<text top="630" left="135" width="14" height="16" font="5">4 </text>
+<text top="630" left="176" width="630" height="16" font="5">INTERSECTION ANALYSIS SUMMARY............................................................... 15 </text>
+<text top="671" left="135" width="14" height="16" font="5">5 </text>
+<text top="671" left="175" width="625" height="16" font="5">SUMMARY OF RIGHT TURN LANE ANALYSIS.................................................. 18</text>
+<text top="712" left="135" width="5" height="16" font="5"> </text>
+<text top="712" left="176" width="5" height="16" font="5"> </text>
+<text top="754" left="390" width="184" height="16" font="5">LIST OF APPENDICES </text>
+<text top="795" left="479" width="5" height="16" font="5"> </text>
+<text top="837" left="135" width="17" height="16" font="5">A </text>
+<text top="837" left="176" width="204" height="16" font="5">ITE Trip Generation Sheets </text>
+<text top="878" left="135" width="16" height="16" font="5">B </text>
+<text top="878" left="176" width="396" height="16" font="5">Traffic Count Data and FDOT Seasonal Factor Report </text>
+<text top="919" left="135" width="17" height="16" font="5">C </text>
+<text top="919" left="176" width="324" height="16" font="5">FDOT Generalized Level of Service Tables  </text>
+<text top="961" left="135" width="17" height="16" font="5">D </text>
+<text top="961" left="176" width="196" height="16" font="5">HCS Analysis Worksheets </text>
+<text top="961" left="405" width="5" height="16" font="5"> </text>
+<text top="1002" left="135" width="15" height="16" font="5">E </text>
+<text top="1002" left="176" width="648" height="16" font="5">M.D. Harmelink Left Turn Study Figures and Guidelines for Exclusive Right Turn Lanes </text>
+<text top="1044" left="176" width="209" height="16" font="5">at Unsignalized Intersections</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="11" family="Times" color="#000000"/>
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="468" width="14" height="16" font="5">1 </text>
+<text top="112" left="135" width="192" height="16" font="4"><b>1.0 EXECUTIVE </b></text>
+<text top="112" left="300" width="127" height="16" font="4"><b>SUMMARY </b></text>
+<text top="132" left="135" width="3" height="12" font="7"> </text>
+<text top="156" left="135" width="682" height="16" font="5">Peace River Land Group, LLC is proposing to build a mixed use development in Desoto </text>
+<text top="187" left="135" width="682" height="16" font="5">County. The development site is located at the northeast quadrant of Kings Highway and </text>
+<text top="218" left="135" width="426" height="16" font="5">Peace River Street. The anticipated build-out year is 2015. </text>
+<text top="248" left="135" width="3" height="12" font="7"> </text>
+<text top="265" left="135" width="680" height="16" font="5">Trip Generation was performed using the ITE Trip Generation Manual for 326 Single Family </text>
+<text top="296" left="135" width="681" height="16" font="5">Units (Land Use 210), 510 Multi Family Units (376 Carriage Homes and 134 Duplex units, </text>
+<text top="327" left="135" width="681" height="16" font="5">Land Use 220), and 218 Town Homes (Land Use 230).  The proposed development would </text>
+<text top="358" left="135" width="336" height="16" font="5">generate 723 trips during the PM Peak Hour.   </text>
+<text top="388" left="135" width="3" height="12" font="7"> </text>
+<text top="405" left="135" width="680" height="16" font="5">Based on the local knowledge of commercial and residential land uses in the project vicinity, </text>
+<text top="436" left="135" width="682" height="16" font="5">the project trips from the development were distributed 25% to the north and 75% to the </text>
+<text top="467" left="135" width="250" height="16" font="5">south on Kings Highway/CR-769. </text>
+<text top="496" left="135" width="3" height="12" font="7"> </text>
+<text top="513" left="135" width="681" height="16" font="5">Based on the discussion with Desoto County Public Works Department, it was understood </text>
+<text top="544" left="135" width="680" height="16" font="5">that the roadway link on Kings Highway from Charlotte County line to Peace River Street is </text>
+<text top="575" left="135" width="683" height="16" font="5">currently under design to widen from 2-lanes to 5-lanes. The anticipated opening year is </text>
+<text top="606" left="135" width="684" height="16" font="5">2009.  Therefore, this link was analyzed as 5-lanes roadway segment for the build-out </text>
+<text top="638" left="135" width="681" height="16" font="5">conditions.  Based on the roadway link analysis, the roadway links on Kings Highway and </text>
+<text top="669" left="135" width="684" height="16" font="5">the Peace River Street would operate at acceptable levels of service with the proposed </text>
+<text top="700" left="135" width="106" height="16" font="5">development.  </text>
+<text top="729" left="135" width="3" height="12" font="7"> </text>
+<text top="746" left="135" width="684" height="16" font="5">Based on the unsignalized intersection analysis, Kings Highway and Peace River Street </text>
+<text top="777" left="135" width="684" height="16" font="5">intersection would operate at deficient level of service for the side street, which is not </text>
+<text top="808" left="135" width="657" height="16" font="5">unusual for stop-controlled intersections.  A traffic signal is not recommended at this time. </text>
+<text top="838" left="135" width="3" height="12" font="7"> </text>
+<text top="855" left="135" width="680" height="16" font="5">Based on the turn lane analysis, a southbound left turn lane on Kings Highway at the Project </text>
+<text top="886" left="135" width="683" height="16" font="5">Entrance 1 is recommended with a storage length of 100 feet plus appropriate taper and </text>
+<text top="917" left="135" width="684" height="16" font="5">deceleration.<b>  </b>In addition, a northbound right turn lane is recommended at this entrance. </text>
+<text top="948" left="135" width="683" height="16" font="5">Eastbound Left Turn Lanes on Peace River Street at the Project Entrance 2 and Project </text>
+<text top="979" left="135" width="681" height="16" font="5">Entrance 3 are recommended with storage lengths of 100 feet and 25 feet respectively, plus </text>
+<text top="1010" left="135" width="681" height="16" font="5">appropriate taper and deceleration.  In summary, the proposed development does not have a </text>
+<text top="1041" left="135" width="690" height="16" font="5">significantly adverse impact on the surrounding roadway network. No additional </text>
+<text top="1072" left="135" width="245" height="16" font="5">improvements are recommended. </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="468" width="14" height="16" font="5">2 </text>
+<text top="112" left="135" width="229" height="16" font="4"><b>2.0 INTRODUCTION </b></text>
+<text top="143" left="135" width="5" height="16" font="5"> </text>
+<text top="174" left="135" width="682" height="16" font="5">Peace River Land Group, LLC is proposing to build a mixed use development in Desoto </text>
+<text top="205" left="135" width="682" height="16" font="5">County. The development site is located at the northeast quadrant of Kings Highway and </text>
+<text top="236" left="135" width="683" height="16" font="5">Peace River Street. The anticipated build-out year is 2015. The Project Location Map is </text>
+<text top="268" left="135" width="141" height="16" font="5">shown as Figure 1. </text>
+<text top="299" left="135" width="5" height="16" font="5"> </text>
+<text top="330" left="135" width="681" height="16" font="5">The proposed development consists of 326 Single Family Lots (Land Use 210), 510 Multi </text>
+<text top="361" left="135" width="682" height="16" font="5">Family Units (376 Carriage Homes and 134 Duplex units, Land Use 220), and 218 Town </text>
+<text top="392" left="135" width="681" height="16" font="5">Homes (Land Use 230). Access to the proposed development is provided via driveways on </text>
+<text top="423" left="135" width="665" height="16" font="5">Kings Highway/CR 769 and Peace River Street. The Project Site Plan is shown as Figure 2. </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="17" family="Times" color="#ffff00"/>
+	<fontspec id="9" size="18" family="Times" color="#ffff00"/>
+	<fontspec id="10" size="15" family="Times" color="#ffff00"/>
+	<fontspec id="11" size="15" family="Times" color="#ffff00"/>
+	<fontspec id="12" size="25" family="Times" color="#000000"/>
+	<fontspec id="13" size="23" family="Times" color="#ff0000"/>
+	<fontspec id="14" size="23" family="Times" color="#000000"/>
+	<fontspec id="15" size="14" family="Times" color="#ffff00"/>
+	<fontspec id="16" size="27" family="Times" color="#000000"/>
+<text top="724" left="127" width="88" height="26" font="8">KINGS HIGHWAY/CR 769</text>
+<text top="817" left="135" width="205" height="27" font="9">PEACE RIVER STREET</text>
+<text top="263" left="518" width="84" height="22" font="10">ENTRANCE 1</text>
+<text top="718" left="640" width="0" height="22" font="11">ENTRANCE 3</text>
+<text top="708" left="416" width="0" height="22" font="11">ENTRANCE 2</text>
+<text top="435" left="575" width="252" height="36" font="12">PROJECT LOCATION</text>
+<text top="471" left="518" width="19" height="34" font="13">Ê</text>
+<text top="471" left="517" width="19" height="34" font="14">Ú</text>
+<text top="156" left="489" width="24" height="22" font="15">769</text>
+<text top="876" left="62" width="24" height="22" font="15">769</text>
+<text top="23" left="397" width="123" height="39" font="16">FIGURE 1</text>
+<text top="1068" left="548" width="343" height="39" font="16">PROJECT LOCATION MAP</text>
+<text top="1053" left="28" width="372" height="39" font="16">DESOTO 300 DEVELOPMENT</text>
+<text top="1083" left="28" width="329" height="39" font="16">TRAFFIC IMPACT STUDY</text>
+<text top="1134" left="452" width="13" height="39" font="16">3</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="17" size="22" family="Times" color="#000000"/>
+	<fontspec id="18" size="4" family="Times" color="#000000"/>
+	<fontspec id="19" size="0" family="Times" color="#000000"/>
+<text top="60" left="407" width="105" height="22" font="17">FIGURE 2</text>
+<text top="72" left="511" width="2" height="5" font="18"> </text>
+<text top="1022" left="860" width="2" height="5" font="18"> </text>
+<text top="1028" left="54" width="2" height="5" font="18"> </text>
+<text top="1034" left="54" width="2" height="5" font="18"> </text>
+<text top="1041" left="54" width="2" height="5" font="18"> </text>
+<text top="1053" left="81" width="326" height="22" font="17">DESOTO 300  DEVELOPMENT</text>
+<text top="1080" left="81" width="294" height="22" font="17">TRAFFIC IMPACT STUDY  </text>
+<text top="1080" left="538" width="299" height="22" font="17">            PROJECT SITE PLAN</text>
+<text top="1089" left="837" width="3" height="11" font="6"> </text>
+<text top="1105" left="459" width="3" height="11" font="6"> </text>
+<text top="1119" left="459" width="9" height="11" font="6"> 4</text>
+<text top="1132" left="477" width="357" height="11" font="6">                                                                                                                       </text>
+<text top="1139" left="834" width="22" height="3" font="19">NOT TO SCALE </text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="20" size="16" family="Times" color="#000000"/>
+	<fontspec id="21" size="13" family="Times" color="#000000"/>
+	<fontspec id="22" size="13" family="Times" color="#000000"/>
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="468" width="14" height="16" font="5">5 </text>
+<text top="112" left="135" width="128" height="16" font="4"><b>3.0 TRIP </b></text>
+<text top="112" left="236" width="154" height="16" font="4"><b>GENERATION </b></text>
+<text top="143" left="135" width="5" height="16" font="5"> </text>
+<text top="174" left="135" width="679" height="16" font="5">Trip Generation was performed using the Institute of Transportation Engineers (ITE) <i>Trip </i></text>
+<text top="205" left="135" width="682" height="16" font="20"><i>Generation</i>, Seventh Edition for the proposed development.  Table 1 summarizes the trip </text>
+<text top="236" left="135" width="684" height="16" font="5">generation calculations. Appropriate Land Use Code Work sheets from ITE Manual are </text>
+<text top="268" left="135" width="184" height="16" font="5">provided in Appendix A. </text>
+<text top="299" left="135" width="5" height="16" font="5"> </text>
+<text top="330" left="444" width="62" height="16" font="4"><b>Table 1 </b></text>
+<text top="361" left="407" width="140" height="16" font="4"><b> Trip Generation </b> </text>
+<text top="429" left="155" width="65" height="14" font="21"><b>Land Use </b></text>
+<text top="403" left="254" width="38" height="14" font="21"><b>Land </b></text>
+<text top="429" left="259" width="27" height="14" font="21"><b>Use </b></text>
+<text top="455" left="254" width="37" height="14" font="21"><b>Code </b></text>
+<text top="429" left="301" width="42" height="14" font="21"><b>Units  </b></text>
+<text top="416" left="361" width="38" height="14" font="21"><b>Daily </b></text>
+<text top="442" left="360" width="39" height="14" font="21"><b>Trips </b></text>
+<text top="429" left="442" width="51" height="14" font="21"><b>In/ Out </b></text>
+<text top="403" left="527" width="64" height="14" font="21"><b>AM Peak </b></text>
+<text top="429" left="540" width="38" height="14" font="21"><b>Hour </b></text>
+<text top="455" left="539" width="39" height="14" font="21"><b>Trips </b></text>
+<text top="429" left="606" width="43" height="14" font="21"><b>In/Out</b></text>
+<text top="427" left="649" width="5" height="16" font="4"><b> </b></text>
+<text top="403" left="669" width="63" height="14" font="21"><b>PM Peak </b></text>
+<text top="429" left="681" width="38" height="14" font="21"><b>Hour </b></text>
+<text top="455" left="681" width="39" height="14" font="21"><b>Trips </b></text>
+<text top="429" left="758" width="47" height="14" font="21"><b>In/Out </b></text>
+<text top="490" left="128" width="119" height="14" font="22">Single Family Lots </text>
+<text top="490" left="260" width="26" height="14" font="22">210 </text>
+<text top="490" left="307" width="26" height="14" font="22">326 </text>
+<text top="490" left="361" width="38" height="14" font="22">3,084 </text>
+<text top="490" left="426" width="83" height="14" font="22">1,542 / 1,542 </text>
+<text top="490" left="546" width="26" height="14" font="22">238 </text>
+<text top="490" left="603" width="53" height="14" font="22">60 / 178 </text>
+<text top="490" left="687" width="26" height="14" font="22">311 </text>
+<text top="490" left="751" width="61" height="14" font="22">196 / 115 </text>
+<text top="524" left="128" width="120" height="14" font="22">Multi Family Units </text>
+<text top="550" left="134" width="107" height="14" font="22">(Carriage Homes </text>
+<text top="576" left="130" width="115" height="14" font="22">and Duplex Units) </text>
+<text top="550" left="260" width="26" height="14" font="22">220 </text>
+<text top="550" left="307" width="26" height="14" font="22">510 </text>
+<text top="550" left="361" width="38" height="14" font="22">3,215 </text>
+<text top="550" left="426" width="83" height="14" font="22">1,607 / 1,608 </text>
+<text top="550" left="545" width="26" height="14" font="22">254 </text>
+<text top="550" left="603" width="53" height="14" font="22">51 / 203 </text>
+<text top="550" left="687" width="26" height="14" font="22">298 </text>
+<text top="550" left="751" width="61" height="14" font="22">194 / 104 </text>
+<text top="610" left="145" width="85" height="14" font="22">Town Homes </text>
+<text top="610" left="260" width="26" height="14" font="22">230 </text>
+<text top="610" left="307" width="26" height="14" font="22">218 </text>
+<text top="610" left="361" width="38" height="14" font="22">1,245 </text>
+<text top="610" left="437" width="61" height="14" font="22">623 / 622 </text>
+<text top="610" left="549" width="19" height="14" font="22">96 </text>
+<text top="610" left="607" width="45" height="14" font="22">16 / 80 </text>
+<text top="610" left="687" width="26" height="14" font="22">114 </text>
+<text top="610" left="759" width="45" height="14" font="22">76 / 38 </text>
+<text top="652" left="161" width="53" height="14" font="22">TOTAL </text>
+<text top="652" left="271" width="4" height="14" font="22"> </text>
+<text top="652" left="319" width="4" height="14" font="22"> </text>
+<text top="652" left="361" width="37" height="14" font="22">7,544 </text>
+<text top="652" left="428" width="79" height="14" font="22">3,772/ 3,772 </text>
+<text top="652" left="546" width="26" height="14" font="22">588 </text>
+<text top="652" left="599" width="60" height="14" font="22">127 / 461 </text>
+<text top="652" left="687" width="26" height="14" font="22">723 </text>
+<text top="652" left="751" width="60" height="14" font="22">466 / 257 </text>
+<text top="692" left="135" width="5" height="16" font="5"> </text>
+<text top="723" left="135" width="5" height="16" font="5"> </text>
+<text top="755" left="135" width="682" height="16" font="5">As shown in Table 1, the proposed development generates 588 trips during the AM Peak </text>
+<text top="786" left="135" width="615" height="16" font="5">Hour, 723 trips during the PM Peak Hour, and 7,544 trips during a typical Weekday. </text>
+<text top="817" left="135" width="5" height="16" font="5"> </text>
+<text top="848" left="135" width="5" height="16" font="5"> </text>
+<text top="879" left="135" width="5" height="16" font="5"> </text>
+<text top="910" left="135" width="5" height="16" font="5"> </text>
+<text top="941" left="135" width="5" height="16" font="5"> </text>
+<text top="972" left="135" width="5" height="16" font="5"> </text>
+<text top="1003" left="135" width="5" height="16" font="5"> </text>
+<text top="1034" left="135" width="5" height="16" font="5"> </text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="468" width="14" height="16" font="5">6 </text>
+<text top="112" left="135" width="129" height="16" font="4"><b>4.0 TRIP </b></text>
+<text top="112" left="237" width="165" height="16" font="4"><b>DISTRIBUTION </b></text>
+<text top="143" left="135" width="5" height="16" font="5"> </text>
+<text top="174" left="135" width="682" height="16" font="5">Project trips were distributed onto the roadway network based on the local knowledge of </text>
+<text top="205" left="135" width="684" height="16" font="5">commercial and residential land uses in the project vicinity. The project trips from the </text>
+<text top="236" left="135" width="687" height="16" font="5">development were distributed 25% to the north and 75% to the south onto Kings </text>
+<text top="268" left="135" width="540" height="16" font="5">Highway/CR-769.  The trip distribution in percent is provided in Figure 3. </text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="23" size="28" family="Times" color="#000000"/>
+	<fontspec id="24" size="19" family="Times" color="#ffff00"/>
+<text top="1134" left="452" width="13" height="39" font="23">7</text>
+<text top="1053" left="28" width="373" height="39" font="23">DESOTO 300 DEVELOPMENT</text>
+<text top="1083" left="28" width="329" height="39" font="23">TRAFFIC IMPACT STUDY</text>
+<text top="1068" left="617" width="267" height="39" font="23">TRIP DISTRIBUTION</text>
+<text top="23" left="397" width="123" height="39" font="23">FIGURE 3</text>
+<text top="731" left="155" width="88" height="26" font="8">KINGS HIGHWAY/CR 769</text>
+<text top="715" left="444" width="0" height="22" font="11">ENTRANCE 2</text>
+<text top="726" left="669" width="0" height="22" font="11">ENTRANCE 3</text>
+<text top="270" left="546" width="84" height="22" font="10">ENTRANCE 1</text>
+<text top="772" left="219" width="206" height="27" font="24">PEACE RIVER STREET</text>
+<text top="165" left="489" width="45" height="32" font="17">25%</text>
+<text top="885" left="75" width="45" height="32" font="17">75%</text>
+<text top="482" left="541" width="19" height="34" font="13">Ê</text>
+<text top="482" left="541" width="19" height="34" font="14">Ú</text>
+<text top="442" left="603" width="252" height="36" font="12">PROJECT LOCATION</text>
+<text top="88" left="570" width="24" height="22" font="15">769</text>
+<text top="957" left="57" width="24" height="22" font="15">769</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="468" width="14" height="16" font="5">8 </text>
+<text top="112" left="135" width="169" height="16" font="4"><b>5.0 PROJECT </b></text>
+<text top="112" left="277" width="84" height="16" font="4"><b>TRIPS </b></text>
+<text top="143" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="174" left="135" width="681" height="16" font="5">Based on the Trip Generation and Trip Distribution, the project trips were determined.  The </text>
+<text top="205" left="135" width="455" height="16" font="5">project trips during the PM Peak Hour are shown in Figure 4.   </text>
+<text top="236" left="135" width="5" height="16" font="5"> </text>
+<text top="268" left="135" width="5" height="16" font="4"><b> </b></text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="25" size="16" family="Times" color="#ffff00"/>
+	<fontspec id="26" size="14" family="Times" color="#ffff00"/>
+	<fontspec id="27" size="24" family="Times" color="#000000"/>
+	<fontspec id="28" size="14" family="Times" color="#ffff00"/>
+	<fontspec id="29" size="13" family="Times" color="#ffff00"/>
+<text top="652" left="230" width="88" height="26" font="8">KINGS HIGHWAY/CR 769</text>
+<text top="744" left="292" width="116" height="24" font="25">PEACE RIVER </text>
+<text top="763" left="292" width="64" height="24" font="25">STREET</text>
+<text top="711" left="694" width="0" height="21" font="26">ENTRANCE 3</text>
+<text top="698" left="477" width="0" height="21" font="26">ENTRANCE 2</text>
+<text top="838" left="398" width="35" height="34" font="27">187</text>
+<text top="711" left="422" width="35" height="34" font="27">103</text>
+<text top="800" left="398" width="35" height="34" font="27">186</text>
+<text top="816" left="606" width="35" height="34" font="27">187</text>
+<text top="282" left="579" width="79" height="21" font="28">ENTRANCE 1</text>
+<text top="210" left="584" width="23" height="34" font="27">13</text>
+<text top="244" left="560" width="23" height="34" font="27">38</text>
+<text top="161" left="468" width="23" height="34" font="27">93</text>
+<text top="294" left="480" width="23" height="34" font="27">51</text>
+<text top="313" left="514" width="23" height="34" font="27">70</text>
+<text top="178" left="505" width="23" height="34" font="27">23</text>
+<text top="718" left="257" width="23" height="34" font="27">51</text>
+<text top="755" left="247" width="35" height="34" font="27">155</text>
+<text top="697" left="165" width="54" height="34" font="27">38 93</text>
+<text top="824" left="187" width="82" height="36" font="27"> 70 280</text>
+<text top="896" left="130" width="23" height="21" font="29">769</text>
+<text top="128" left="587" width="23" height="21" font="29">769</text>
+<text top="444" left="633" width="237" height="34" font="14">PROJECT LOCATION</text>
+<text top="478" left="578" width="19" height="34" font="13">Ê</text>
+<text top="478" left="578" width="19" height="34" font="14">Ú</text>
+<text top="723" left="635" width="35" height="34" font="27">103</text>
+<text top="763" left="541" width="35" height="34" font="27">103</text>
+<text top="23" left="397" width="123" height="39" font="23">FIGURE 4</text>
+<text top="1068" left="681" width="209" height="39" font="23">PROJECT TRIPS</text>
+<text top="1053" left="28" width="373" height="39" font="23">DESOTO 300 DEVELOPMENT</text>
+<text top="1083" left="28" width="329" height="39" font="23">TRAFFIC IMPACT STUDY</text>
+<text top="1134" left="452" width="13" height="39" font="23">9</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="30" size="14" family="Times" color="#000000"/>
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="464" width="23" height="16" font="5">10 </text>
+<text top="112" left="135" width="27" height="16" font="4"><b>6.0 </b></text>
+<text top="112" left="189" width="314" height="16" font="4"><b>EXISTING ROADWAY CONDITIONS </b></text>
+<text top="143" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="174" left="135" width="675" height="16" font="5">Access to the Desoto 300 Development is provided via one driveway on Kings Highway/CR-</text>
+<text top="205" left="135" width="363" height="16" font="5">769 and two driveways on the Peace River Street. </text>
+<text top="236" left="135" width="5" height="16" font="5"> </text>
+<text top="268" left="135" width="680" height="16" font="5">A turning movement count was performed at the intersection of Kings Highway/CR-769 and </text>
+<text top="299" left="135" width="682" height="16" font="5">Peace River Street in October 2006. The turning movement data was adjusted to seasonal </text>
+<text top="330" left="135" width="681" height="16" font="5">conditions using the Florida Department of Transportation (FDOT) seasonal factor of 1.12. </text>
+<text top="361" left="135" width="655" height="16" font="5">The turning movement data and FDOT seasonal factor report are provided in Appendix B. </text>
+<text top="392" left="135" width="5" height="16" font="5"> </text>
+<text top="423" left="135" width="680" height="16" font="5">As shown in Table 2, the roadway links on Kings Highway and Peace River Street currently </text>
+<text top="454" left="135" width="680" height="16" font="5">operate at LOS “C” and better for the peak hour conditions. The FDOT Generalized Level of </text>
+<text top="485" left="135" width="309" height="16" font="5">Service Table is provided in Appendix C.  </text>
+<text top="516" left="135" width="5" height="16" font="5"> </text>
+<text top="547" left="135" width="5" height="16" font="5"> </text>
+<text top="578" left="444" width="62" height="16" font="4"><b>Table 2 </b></text>
+<text top="609" left="365" width="219" height="16" font="4"><b>Existing Link LOS Analysis </b></text>
+<text top="640" left="473" width="5" height="16" font="4"><b> </b></text>
+<text top="712" left="303" width="147" height="16" font="4"><b>Roadway Segment </b></text>
+<text top="684" left="582" width="41" height="16" font="4"><b>2006 </b></text>
+<text top="715" left="565" width="75" height="16" font="4"><b>Adjusted </b></text>
+<text top="746" left="569" width="68" height="16" font="4"><b>Traffic* </b></text>
+<text top="712" left="672" width="59" height="16" font="4"><b>LOS** </b></text>
+<text top="787" left="241" width="269" height="14" font="22">Kings Highway/CR-769 n/o Peace River St. </text>
+<text top="785" left="589" width="26" height="14" font="22">866 </text>
+<text top="784" left="693" width="15" height="15" font="30">C </text>
+<text top="823" left="242" width="267" height="14" font="22">Kings Highway/CR-769 s/o Peace River St. </text>
+<text top="821" left="589" width="26" height="14" font="22">933 </text>
+<text top="820" left="693" width="15" height="15" font="30">C </text>
+<text top="859" left="268" width="216" height="14" font="22">Peace River St. e/o Kings Highway </text>
+<text top="857" left="593" width="19" height="14" font="22">89 </text>
+<text top="856" left="693" width="16" height="15" font="30">A </text>
+<text top="894" left="189" width="19" height="14" font="22">*   </text>
+<text top="894" left="243" width="287" height="14" font="22">Obtained from 2006 Turning Movement Count </text>
+<text top="911" left="189" width="628" height="14" font="22">**      2-Lanes Undivided LOS “A” = 205, LOS “B”= 586, LOS “C”=1,023, LOS “D”=1,395, </text>
+<text top="928" left="243" width="69" height="14" font="22">“E”=1,897 </text>
+<text top="946" left="189" width="6" height="14" font="22"> </text>
+<text top="946" left="216" width="600" height="14" font="22">    (Obtained by reducing (by 7%), the volume from FDOT Cities or Rural Developed Areas </text>
+<text top="963" left="243" width="343" height="14" font="22">Uninterrupted Flow Highways 2-Lanes Undivided LOS) </text>
+<text top="980" left="189" width="4" height="14" font="22"> </text>
+<text top="998" left="135" width="5" height="16" font="5"> </text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="464" width="23" height="16" font="5">11 </text>
+<text top="112" left="135" width="27" height="16" font="4"><b>7.0</b> </text>
+<text top="112" left="189" width="284" height="16" font="4"><b>FUTURE TRAFFIC CONDITIONS</b> </text>
+<text top="142" left="135" width="5" height="16" font="5"> </text>
+<text top="143" left="140" width="4" height="15" font="30"> </text>
+<text top="162" left="135" width="680" height="16" font="5">There was no historic data available on Kings Highway and Peace River Street. Therefore, a </text>
+<text top="193" left="135" width="682" height="16" font="5">growth rate of three (3) percent was assumed on Kings Highway/CR-769 and Peace River </text>
+<text top="224" left="135" width="51" height="16" font="5">Street. </text>
+<text top="255" left="135" width="5" height="16" font="5"> </text>
+<text top="287" left="135" width="683" height="16" font="5">The 2006 adjusted turning movement data was projected to 2015 using the growth rate </text>
+<text top="318" left="135" width="497" height="16" font="5">discussed above. The 2015 background traffic is shown in Figure 5.  </text>
+<text top="349" left="135" width="5" height="16" font="5"> </text>
+<text top="380" left="135" width="680" height="16" font="5">The 2015 total traffic was obtained by adding 2015 background traffic with the project trips. </text>
+<text top="411" left="135" width="314" height="16" font="5">The 2015 total traffic is shown in Figure 6. </text>
+<text top="442" left="135" width="5" height="16" font="5"> </text>
+<text top="473" left="135" width="681" height="16" font="5">Based on the discussion with Desoto County Public Works Department, it was understood </text>
+<text top="504" left="135" width="680" height="16" font="5">that the roadway link on Kings Highway from Charlotte County line to Peace River Street is </text>
+<text top="535" left="135" width="683" height="16" font="5">currently under design to widen from 2-lanes to 5-lanes. The anticipated opening year is </text>
+<text top="566" left="135" width="493" height="16" font="5">2009. Therefore, this link was analyzed as 5-lane roadway segment. </text>
+<text top="597" left="135" width="5" height="16" font="5"> </text>
+<text top="628" left="135" width="683" height="16" font="5">Based on the FDOT adopted service volumes, the roadway links were analyzed for the </text>
+<text top="659" left="135" width="682" height="16" font="5">expected levels of service in the year 2015 with the proposed development. The link LOS </text>
+<text top="690" left="135" width="682" height="16" font="5">analysis summary is shown in Table 3 for the PM peak hour.  As shown in Table 3, the </text>
+<text top="721" left="135" width="683" height="16" font="5">roadway links would operate at an acceptable level of service in the year 2015 with the </text>
+<text top="752" left="135" width="172" height="16" font="5">proposed development. </text>
+<text top="783" left="135" width="5" height="16" font="5"> </text>
+<text top="814" left="135" width="5" height="16" font="5"> </text>
+<text top="845" left="135" width="5" height="16" font="5"> </text>
+<text top="876" left="135" width="5" height="16" font="5"> </text>
+<text top="907" left="135" width="5" height="16" font="5"> </text>
+<text top="938" left="135" width="5" height="16" font="5"> </text>
+<text top="970" left="135" width="5" height="16" font="5"> </text>
+<text top="1001" left="135" width="5" height="16" font="5"> </text>
+<text top="1032" left="135" width="5" height="16" font="5"> </text>
+<text top="1063" left="135" width="5" height="16" font="5"> </text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="31" size="17" family="Times" color="#ffff00"/>
+<text top="1134" left="452" width="27" height="39" font="23">12</text>
+<text top="1052" left="28" width="373" height="39" font="23">DESOTO 300 DEVELOPMENT</text>
+<text top="1082" left="28" width="329" height="39" font="23">TRAFFIC IMPACT STUDY</text>
+<text top="1052" left="639" width="255" height="39" font="23">2015 BACKGROUND</text>
+<text top="1082" left="639" width="118" height="39" font="23">TRAFFIC</text>
+<text top="23" left="397" width="123" height="39" font="23">FIGURE 5</text>
+<text top="696" left="162" width="88" height="26" font="8">KINGS HIGHWAY/CR 769</text>
+<text top="765" left="192" width="18" height="36" font="12"> 9</text>
+<text top="803" left="181" width="31" height="36" font="12"> 33</text>
+<text top="742" left="126" width="18" height="36" font="12"> 5</text>
+<text top="885" left="161" width="25" height="36" font="12">66</text>
+<text top="883" left="104" width="37" height="36" font="12">657</text>
+<text top="301" left="533" width="84" height="22" font="10">ENTRANCE 1</text>
+<text top="174" left="415" width="37" height="36" font="12">434</text>
+<text top="510" left="533" width="19" height="34" font="13">Ê</text>
+<text top="510" left="532" width="19" height="34" font="14">Ú</text>
+<text top="473" left="590" width="252" height="36" font="12">PROJECT LOCATION</text>
+<text top="727" left="72" width="37" height="36" font="12">429</text>
+<text top="810" left="483" width="25" height="36" font="12">42</text>
+<text top="891" left="341" width="31" height="36" font="12"> 71</text>
+<text top="820" left="725" width="25" height="36" font="12">42</text>
+<text top="319" left="433" width="37" height="36" font="12">666</text>
+<text top="792" left="229" width="123" height="25" font="31">PEACE RIVER </text>
+<text top="812" left="229" width="68" height="25" font="31">STREET</text>
+<text top="757" left="656" width="0" height="22" font="11">ENTRANCE 3</text>
+<text top="743" left="424" width="0" height="22" font="11">ENTRANCE 2</text>
+<text top="119" left="556" width="24" height="22" font="15">769</text>
+<text top="953" left="57" width="24" height="22" font="15">769</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="698" left="195" width="88" height="26" font="8">KINGS HIGHWAY/CR 769</text>
+<text top="304" left="565" width="84" height="22" font="10">ENTRANCE 1</text>
+<text top="229" left="570" width="25" height="36" font="12">13</text>
+<text top="264" left="545" width="25" height="36" font="12">38</text>
+<text top="318" left="460" width="37" height="36" font="12">717</text>
+<text top="345" left="503" width="31" height="36" font="12"> 70</text>
+<text top="194" left="487" width="25" height="36" font="12">23</text>
+<text top="768" left="224" width="25" height="36" font="12">60</text>
+<text top="806" left="213" width="37" height="36" font="12">188</text>
+<text top="745" left="112" width="71" height="36" font="12">467 98</text>
+<text top="880" left="150" width="90" height="42" font="12">727 346</text>
+<text top="894" left="373" width="37" height="36" font="12">258</text>
+<text top="813" left="515" width="37" height="36" font="12">145</text>
+<text top="757" left="397" width="37" height="36" font="12">103</text>
+<text top="871" left="594" width="37" height="36" font="12">187</text>
+<text top="164" left="439" width="37" height="36" font="12">527</text>
+<text top="477" left="622" width="252" height="36" font="12">PROJECT LOCATION</text>
+<text top="795" left="261" width="123" height="25" font="31">PEACE RIVER </text>
+<text top="814" left="261" width="68" height="25" font="31">STREET</text>
+<text top="746" left="457" width="0" height="22" font="11">ENTRANCE 2</text>
+<text top="760" left="688" width="0" height="22" font="11">ENTRANCE 3</text>
+<text top="513" left="565" width="19" height="34" font="13">Ê</text>
+<text top="513" left="564" width="19" height="34" font="14">Ú</text>
+<text top="854" left="373" width="37" height="36" font="12">186</text>
+<text top="917" left="594" width="31" height="36" font="12"> 71</text>
+<text top="820" left="741" width="31" height="36" font="12"> 42</text>
+<text top="956" left="90" width="24" height="22" font="15">769</text>
+<text top="122" left="588" width="24" height="22" font="15">769</text>
+<text top="771" left="629" width="37" height="36" font="12">103</text>
+<text top="23" left="397" width="123" height="39" font="16">FIGURE 6</text>
+<text top="1048" left="716" width="160" height="39" font="16">2015 TOTAL </text>
+<text top="1078" left="716" width="118" height="39" font="16">TRAFFIC</text>
+<text top="1048" left="28" width="372" height="39" font="16">DESOTO 300 DEVELOPMENT</text>
+<text top="1078" left="28" width="329" height="39" font="16">TRAFFIC IMPACT STUDY</text>
+<text top="1134" left="452" width="27" height="39" font="16">13</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="464" width="23" height="16" font="5">14 </text>
+<text top="112" left="421" width="107" height="16" font="5">          <b>Table 3 </b></text>
+<text top="143" left="352" width="4" height="16" font="4"><b> </b></text>
+<text top="143" left="406" width="192" height="16" font="4"><b>2015 Link LOS Analysis </b></text>
+<text top="174" left="135" width="5" height="16" font="5"> </text>
+<text top="208" left="509" width="41" height="16" font="4"><b>2015 </b></text>
+<text top="239" left="479" width="100" height="16" font="4"><b>Background </b></text>
+<text top="208" left="687" width="86" height="16" font="4"><b>2015 Total </b></text>
+<text top="239" left="701" width="59" height="16" font="4"><b>Traffic </b></text>
+<text top="237" left="158" width="147" height="16" font="4"><b>Roadway Segment </b></text>
+<text top="211" left="333" width="41" height="16" font="4"><b>2006 </b></text>
+<text top="242" left="316" width="75" height="16" font="4"><b>Adjusted </b></text>
+<text top="273" left="319" width="63" height="16" font="4"><b>Traffic*</b></text>
+<text top="222" left="395" width="64" height="16" font="4"><b>Growth </b></text>
+<text top="253" left="407" width="41" height="16" font="4"><b>Rate </b></text>
+<text top="280" left="466" width="54" height="16" font="4"><b>Traffic</b></text>
+<text top="280" left="533" width="54" height="16" font="4"><b>LOS**</b></text>
+<text top="209" left="614" width="32" height="16" font="4"><b>PM </b></text>
+<text top="240" left="600" width="61" height="16" font="4"><b>Project </b></text>
+<text top="271" left="607" width="47" height="16" font="4"><b>Trips </b></text>
+<text top="280" left="668" width="121" height="16" font="4"><b>Traffic  LOS**</b></text>
+<text top="319" left="170" width="121" height="14" font="22">Kings Highway n/o </text>
+<text top="345" left="174" width="118" height="14" font="22">Peace River Street  </text>
+<text top="377" left="166" width="129" height="14" font="22">(2-Lanes Undivided) </text>
+<text top="347" left="339" width="149" height="14" font="22">866 3.00% </text>
+<text top="347" left="476" width="335" height="14" font="22">1,100 D  252 1,352 D </text>
+<text top="413" left="171" width="120" height="14" font="22">Kings Highway s/o </text>
+<text top="439" left="174" width="118" height="14" font="22">Peace River Street  </text>
+<text top="471" left="170" width="123" height="14" font="22">(5-Lanes Roadway) </text>
+<text top="440" left="339" width="149" height="14" font="22">933 3.00% </text>
+<text top="440" left="476" width="335" height="14" font="22">1,185 A  543 1,728 B </text>
+<text top="507" left="163" width="137" height="14" font="22">Peace River Street e/o </text>
+<text top="533" left="182" width="102" height="14" font="22">Kings Highway  </text>
+<text top="565" left="166" width="129" height="14" font="22">(2-Lanes Undivided) </text>
+<text top="534" left="343" width="152" height="14" font="22">89 3.00% </text>
+<text top="534" left="482" width="336" height="14" font="22">113 A 579 692 C </text>
+<text top="600" left="135" width="19" height="14" font="22">*   </text>
+<text top="600" left="189" width="287" height="14" font="22">Obtained from 2006 Turning Movement Count </text>
+<text top="618" left="135" width="22" height="14" font="22">**  </text>
+<text top="618" left="189" width="592" height="14" font="22">2 Lane Undivided LOS “A” = 205, LOS “B”= 586, LOS “C”=1,023, LOS “D”=1,395, “E”=1,897 </text>
+<text top="635" left="189" width="631" height="14" font="22">(Obtained by reducing (by 7%), the volume from FDOT Cities or Rural Developed Areas </text>
+<text top="652" left="189" width="343" height="14" font="22">Uninterrupted Flow Highways 2-Lanes Undivided LOS) </text>
+<text top="669" left="189" width="614" height="14" font="22">4 Lane Undivided LOS “A” = 1,522, LOS “B”= 2,464, LOS “C”=3,573, LOS “D”=4,620, “E”=5,245 </text>
+<text top="687" left="189" width="631" height="14" font="22">(Obtained by reducing (by 12%), the volume from FDOT Cities or Rural Developed Areas </text>
+<text top="704" left="189" width="325" height="14" font="22">Uninterrupted Flow Highways 4-Lanes Divided LOS)</text>
+<text top="702" left="514" width="5" height="16" font="5"> </text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="32" size="14" family="Times" color="#000000"/>
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="464" width="23" height="16" font="5">15 </text>
+<text top="112" left="135" width="31" height="16" font="4"><b>8.0  </b></text>
+<text top="112" left="189" width="233" height="16" font="4"><b>INTERSECTION ANALYSIS</b></text>
+<text top="114" left="422" width="4" height="14" font="21"><b> </b></text>
+<text top="143" left="135" width="4" height="15" font="32"><b> </b></text>
+<text top="172" left="135" width="682" height="16" font="5">An unsignalized intersection analysis was performed at the intersection of Kings Highway </text>
+<text top="203" left="135" width="681" height="16" font="5">and Peace River Street with the proposed development.  The analysis was performed using </text>
+<text top="234" left="135" width="681" height="16" font="5">the most recent version of Highway Capacity Software.  The HCS analyses worksheets are </text>
+<text top="265" left="135" width="189" height="16" font="5">provided in Appendix D.  </text>
+<text top="305" left="135" width="5" height="16" font="5"> </text>
+<text top="336" left="444" width="67" height="16" font="4"><b>Table 4  </b></text>
+<text top="367" left="351" width="251" height="16" font="4"><b>Intersection Analysis Summary  </b></text>
+<text top="398" left="135" width="5" height="16" font="5"> </text>
+<text top="441" left="557" width="127" height="16" font="4"><b>Approach  LOS </b></text>
+<text top="467" left="274" width="96" height="16" font="4"><b>Intersection </b></text>
+<text top="436" left="447" width="47" height="16" font="4"><b>Year  </b></text>
+<text top="471" left="458" width="20" height="16" font="4"><b>of </b></text>
+<text top="503" left="433" width="70" height="16" font="4"><b>Analysis </b></text>
+<text top="494" left="543" width="26" height="16" font="4"><b>SB </b></text>
+<text top="478" left="644" width="34" height="16" font="4"><b>WB </b></text>
+<text top="509" left="611" width="100" height="16" font="4"><b>(Side Street)</b> </text>
+<text top="541" left="448" width="41" height="16" font="5">2006 </text>
+<text top="572" left="436" width="65" height="16" font="5">Existing </text>
+<text top="557" left="547" width="210" height="16" font="5">A C </text>
+<text top="572" left="232" width="180" height="16" font="5">Kings Highway/CR-769 </text>
+<text top="603" left="238" width="168" height="16" font="5">and Peace River Street </text>
+<text top="605" left="448" width="41" height="16" font="5">2015 </text>
+<text top="636" left="447" width="43" height="16" font="5">Total </text>
+<text top="620" left="548" width="210" height="16" font="5">B F </text>
+<text top="673" left="81" width="4" height="14" font="22"> </text>
+<text top="673" left="108" width="4" height="14" font="22"> </text>
+<text top="673" left="135" width="4" height="14" font="22"> </text>
+<text top="673" left="189" width="23" height="14" font="22">      </text>
+<text top="699" left="81" width="5" height="16" font="5"> </text>
+<text top="730" left="135" width="680" height="16" font="5">As shown in Table 4, the intersection of Kings Highway/CR-769 and the Peace River Street </text>
+<text top="761" left="135" width="680" height="16" font="5">would operate at a deficient level of service for the side street traffic, which is not unusual for </text>
+<text top="792" left="135" width="600" height="16" font="5">stop-controlled intersections.  A traffic signal is not recommended at this entrance. </text>
+<text top="824" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="855" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="886" left="135" width="5" height="16" font="4"><b> </b></text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="464" width="23" height="16" font="5">16 </text>
+<text top="112" left="135" width="27" height="16" font="4"><b>9.0 </b></text>
+<text top="112" left="189" width="205" height="16" font="4"><b>TURN LANE ANALYSIS </b></text>
+<text top="143" left="135" width="5" height="16" font="5"> </text>
+<text top="174" left="135" width="699" height="16" font="5">Based on the trip generation and trip distribution, project trips were determined at the </text>
+<text top="205" left="135" width="698" height="16" font="5">entrances. The Left Turn Lane Warrant Study was performed based on M.D.Harmelink Study.  </text>
+<text top="236" left="135" width="695" height="16" font="5">Figures from M.D. Harmelink are provided in Appendix E.  The left turn warrant analysis is </text>
+<text top="268" left="135" width="146" height="16" font="5">summarized below: </text>
+<text top="299" left="135" width="5" height="16" font="4"><b> </b></text>
+<text top="330" left="189" width="567" height="16" font="4"><b>Southbound Left Turn Lane at the Project Entrance 1 on Kings Highway </b></text>
+<text top="361" left="189" width="5" height="16" font="4"><b> </b></text>
+<text top="392" left="189" width="626" height="16" font="5">Based on the Projected Traffic, the northbound direction would have 666 vehicles and </text>
+<text top="423" left="189" width="536" height="16" font="5">southbound direction would have 434 vehicles during the PM peak hours. </text>
+<text top="454" left="189" width="5" height="16" font="5"> </text>
+<text top="485" left="189" width="575" height="16" font="5">Advancing Volume   = 550 vph (434+93 (Project Through) + 23(Left Turns))  </text>
+<text top="516" left="189" width="141" height="16" font="5">Opposing Volume  </text>
+<text top="516" left="351" width="283" height="16" font="5">= 717 vph (666+ 51(Project Through)) </text>
+<text top="547" left="189" width="141" height="16" font="5">Left Turn Volume  </text>
+<text top="547" left="351" width="69" height="16" font="5">= 23 vph </text>
+<text top="578" left="189" width="113" height="16" font="5">Percent Lefts    </text>
+<text top="578" left="351" width="110" height="16" font="5">= 4% (23/550) </text>
+<text top="609" left="189" width="147" height="16" font="5">Appropriate Figure  </text>
+<text top="609" left="351" width="37" height="16" font="5">= 14 </text>
+<text top="640" left="189" width="5" height="16" font="5"> </text>
+<text top="671" left="189" width="652" height="16" font="5">Based on these data, the left turn warrant is satisfied.  <i>A  left  turn  lane  is       </i></text>
+<text top="702" left="189" width="443" height="16" font="20"><i>recommended</i>.  The recommended storage length is 100 feet. </text>
+<text top="733" left="189" width="5" height="16" font="5"> </text>
+<text top="764" left="189" width="627" height="16" font="5">The left turn lane should be constructed with the appropriate taper and deceleration </text>
+<text top="795" left="189" width="330" height="16" font="5">lengths in accordance with FDOT Index 301. </text>
+<text top="826" left="135" width="5" height="16" font="5"> </text>
+<text top="858" left="189" width="519" height="16" font="4"><b>Eastbound Left Turn Lane at the Entrance 2 on Peace River Street </b></text>
+<text top="889" left="189" width="5" height="16" font="4"><b> </b></text>
+<text top="919" left="189" width="627" height="16" font="5">Based on the Projected Traffic, the eastbound direction would have 71 vehicles and </text>
+<text top="951" left="189" width="521" height="16" font="5">westbound direction would have 42 vehicles during the PM peak hours. </text>
+<text top="982" left="189" width="5" height="16" font="5"> </text>
+<text top="1013" left="189" width="598" height="16" font="5">Advancing Volume   = 444 vph (71 + 186 (Left Turns) + 187 (Project Through))  </text>
+<text top="1044" left="189" width="141" height="16" font="5">Opposing Volume  </text>
+<text top="1044" left="351" width="288" height="16" font="5">= 145 (42 + 103(Project Through)) vph </text>
+<text top="1075" left="189" width="141" height="16" font="5">Left Turn Volume  </text>
+<text top="1075" left="351" width="78" height="16" font="5">= 186 vph </text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="464" width="23" height="16" font="5">17 </text>
+<text top="112" left="189" width="113" height="16" font="5">Percent Lefts    </text>
+<text top="112" left="351" width="128" height="16" font="5">= 42% (186/444) </text>
+<text top="143" left="189" width="147" height="16" font="5">Appropriate Figure  </text>
+<text top="143" left="351" width="37" height="16" font="5">= 13 </text>
+<text top="174" left="189" width="652" height="16" font="5">Based on these data, the left turn warrant is satisfied.  <i>A  left  turn  lane  is       </i></text>
+<text top="205" left="189" width="443" height="16" font="20"><i>recommended</i>.  The recommended storage length is 100 feet. </text>
+<text top="236" left="189" width="5" height="16" font="5"> </text>
+<text top="268" left="189" width="627" height="16" font="5">The left turn lane should be constructed with the appropriate taper and deceleration </text>
+<text top="299" left="189" width="330" height="16" font="5">lengths in accordance with FDOT Index 301. </text>
+<text top="330" left="189" width="5" height="16" font="5"> </text>
+<text top="361" left="189" width="519" height="16" font="4"><b>Eastbound Left Turn Lane at the Entrance 3 on Peace River Street </b></text>
+<text top="392" left="189" width="5" height="16" font="4"><b> </b></text>
+<text top="423" left="189" width="628" height="16" font="5">Based on the Projected Traffic, the peak direction would have 71 vehicles and off </text>
+<text top="454" left="189" width="477" height="16" font="5">peak direction would have 42 vehicles during the PM peak hours. </text>
+<text top="485" left="189" width="5" height="16" font="5"> </text>
+<text top="516" left="189" width="406" height="16" font="5">Advancing Volume   = 258 vph (71 + 187 Left Turns)  </text>
+<text top="547" left="189" width="142" height="16" font="5">Opposing Volume  </text>
+<text top="547" left="351" width="69" height="16" font="5">= 42 vph </text>
+<text top="578" left="189" width="141" height="16" font="5">Left Turn Volume  </text>
+<text top="578" left="351" width="78" height="16" font="5">= 187 vph </text>
+<text top="609" left="189" width="113" height="16" font="5">Percent Lefts    </text>
+<text top="609" left="351" width="132" height="16" font="5">= 72% (187/258)  </text>
+<text top="640" left="189" width="147" height="16" font="5">Appropriate Figure  </text>
+<text top="640" left="351" width="37" height="16" font="5">= 13 </text>
+<text top="671" left="189" width="5" height="16" font="5"> </text>
+<text top="702" left="189" width="626" height="16" font="5">There is no matching figure for more than 40% left turns. Therefore, highest available </text>
+<text top="733" left="189" width="252" height="16" font="5">match figure number 13 was used. </text>
+<text top="764" left="189" width="5" height="16" font="5"> </text>
+<text top="795" left="189" width="628" height="16" font="5">Based on these data, the left turn warrant is not satisfied.  However, left turn peak </text>
+<text top="826" left="189" width="627" height="16" font="5">hour volume is more than 100 vph, <i>a left turn lane with minimum 25 feet of storage </i></text>
+<text top="857" left="189" width="185" height="16" font="20"><i>length is recommended</i>.   </text>
+<text top="888" left="189" width="5" height="16" font="5"> </text>
+<text top="919" left="189" width="627" height="16" font="5">The left turn lane should be constructed with the appropriate taper and deceleration </text>
+<text top="951" left="189" width="330" height="16" font="5">lengths in accordance with FDOT Index 301. </text>
+<text top="982" left="189" width="5" height="16" font="4"><b> </b></text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="464" width="23" height="16" font="5">18 </text>
+<text top="112" left="189" width="205" height="16" font="4"><b>Right Turn Lane Analysis </b></text>
+<text top="143" left="189" width="5" height="16" font="4"><b> </b></text>
+<text top="174" left="189" width="627" height="16" font="5">The Right Turn Lane Warrant Study was performed based on the article “Exclusive </text>
+<text top="205" left="189" width="628" height="16" font="5">Right Turn Lanes at Unsignalized Intersections, When We Should Require Them?&#34; </text>
+<text top="236" left="189" width="630" height="16" font="5">published by the Statewide Access Management Team of Florida Department of </text>
+<text top="268" left="189" width="628" height="16" font="5">Transportation (FDOT).  The posted speed limit on Kings Highway in the project </text>
+<text top="299" left="189" width="627" height="16" font="5">location is 55 mph. The article identifies the threshold of right turns requiring a turn </text>
+<text top="330" left="189" width="626" height="16" font="5">lane 40 vph for a facility with posted speed limit over 45 MPH.  The FDOT article is </text>
+<text top="361" left="189" width="187" height="16" font="5">provided in Appendix E.  </text>
+<text top="392" left="437" width="62" height="16" font="4"><b>Table 5 </b></text>
+<text top="423" left="322" width="305" height="16" font="4"><b>Summary of Right Turn Lane Analysis </b></text>
+<text top="454" left="135" width="5" height="16" font="5"> </text>
+<text top="507" left="265" width="96" height="16" font="4"><b>Intersection </b></text>
+<text top="507" left="475" width="87" height="16" font="4"><b>Movement </b></text>
+<text top="492" left="593" width="55" height="16" font="4"><b>Rights </b></text>
+<text top="523" left="597" width="46" height="16" font="4"><b>(vph) </b></text>
+<text top="492" left="683" width="90" height="16" font="4"><b>Warranted </b></text>
+<text top="523" left="687" width="83" height="16" font="4"><b>(&gt; 40 vph) </b></text>
+<text top="555" left="176" width="273" height="16" font="5">Kings Highway at Project Entrance 1 </text>
+<text top="555" left="492" width="52" height="16" font="5">NBRT </text>
+<text top="555" left="609" width="22" height="16" font="5">70 </text>
+<text top="555" left="712" width="32" height="16" font="5">Yes </text>
+<text top="593" left="503" width="5" height="16" font="4"><b> </b></text>
+<text top="624" left="189" width="5" height="16" font="5"> </text>
+<text top="655" left="189" width="626" height="16" font="5">As shown in Table 5, a northbound right turn lane is recommended at the intersection </text>
+<text top="686" left="189" width="315" height="16" font="5">of Kings Highway and Project Entrance 1.  </text>
+<text top="717" left="189" width="5" height="16" font="5"> </text>
+<text top="748" left="189" width="621" height="16" font="5">The right turn lane need to be constructed in accordance with FDOT Index 301.</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="464" width="23" height="16" font="5">19 </text>
+<text top="112" left="189" width="192" height="16" font="5">10.0 CONCLUSION </text>
+<text top="143" left="135" width="5" height="16" font="5"> </text>
+<text top="174" left="135" width="682" height="16" font="5">Based on the roadway link analysis, the roadway links on Kings Highway and the Peace </text>
+<text top="205" left="135" width="672" height="16" font="5">River Street would operate at an acceptable level of service with the proposed development.  </text>
+<text top="236" left="135" width="5" height="16" font="5"> </text>
+<text top="268" left="135" width="684" height="16" font="5">Based on the unsignalised intersection analysis, Kings Highway and Peace River Street </text>
+<text top="299" left="135" width="684" height="16" font="5">intersection would operate at deficient level of service for the side street, which is not </text>
+<text top="330" left="135" width="657" height="16" font="5">unusual for stop-controlled intersections.  A traffic signal is not recommended at this time. </text>
+<text top="361" left="135" width="5" height="16" font="5"> </text>
+<text top="392" left="135" width="682" height="16" font="5">Based on turn lane analysis, a southbound left turn lane on Kings Highway at the Project </text>
+<text top="423" left="135" width="683" height="16" font="5">Entrance 1 is recommended with a storage length of 100 feet plus appropriate taper and </text>
+<text top="454" left="135" width="684" height="16" font="5">deceleration.<b>  </b>In addition, a northbound right turn lane is recommended at this entrance. </text>
+<text top="485" left="135" width="683" height="16" font="5">Eastbound Left Turn Lanes on Peace River Street at the Project Entrance 2 and Project </text>
+<text top="516" left="135" width="681" height="16" font="5">Entrance 3 are recommended with storage lengths of 100 feet and 25 feet respectively, plus </text>
+<text top="547" left="135" width="254" height="16" font="5">appropriate taper and deceleration. </text>
+<text top="578" left="135" width="5" height="16" font="5"> </text>
+<text top="609" left="135" width="681" height="16" font="5">In summary, the proposed development does not have a significantly adverse impact on the </text>
+<text top="640" left="135" width="578" height="16" font="5">surrounding roadway network.  No additional improvements are recommended.<b> </b></text>
+<text top="671" left="189" width="5" height="16" font="5"> </text>
+<text top="702" left="135" width="5" height="16" font="5"> </text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="33" size="18" family="Times" color="#000000"/>
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="473" width="5" height="16" font="5"> </text>
+<text top="112" left="108" width="5" height="16" font="5"> </text>
+<text top="143" left="108" width="5" height="16" font="5"> </text>
+<text top="174" left="108" width="5" height="16" font="5"> </text>
+<text top="206" left="459" width="5" height="19" font="33"><b> </b></text>
+<text top="243" left="459" width="5" height="19" font="33"><b> </b></text>
+<text top="279" left="459" width="5" height="19" font="33"><b> </b></text>
+<text top="315" left="459" width="5" height="19" font="33"><b> </b></text>
+<text top="351" left="459" width="5" height="19" font="33"><b> </b></text>
+<text top="388" left="459" width="5" height="19" font="33"><b> </b></text>
+<text top="424" left="459" width="5" height="19" font="33"><b> </b></text>
+<text top="460" left="459" width="5" height="19" font="33"><b> </b></text>
+<text top="495" left="426" width="97" height="16" font="4"><b>Appendix A </b></text>
+<text top="526" left="473" width="5" height="16" font="4"><b> </b></text>
+<text top="557" left="365" width="220" height="16" font="4"><b>ITE Trip Generation Sheets </b></text>
+<text top="589" left="473" width="5" height="16" font="4"><b> </b></text>
+<text top="620" left="473" width="5" height="16" font="4"><b> </b></text>
+<text top="652" left="459" width="6" height="22" font="17"> </text>
+<text top="692" left="108" width="5" height="16" font="5"> </text>
+<text top="692" left="351" width="5" height="16" font="5"> </text>
+<text top="692" left="405" width="5" height="16" font="5"> </text>
+<text top="723" left="108" width="5" height="16" font="5"> </text>
+<text top="754" left="108" width="5" height="16" font="5"> </text>
+<text top="785" left="108" width="5" height="16" font="5"> </text>
+<text top="816" left="108" width="5" height="16" font="5"> </text>
+<text top="847" left="108" width="5" height="16" font="5"> </text>
+<text top="878" left="108" width="5" height="16" font="5"> </text>
+<text top="909" left="108" width="5" height="16" font="5"> </text>
+<text top="940" left="108" width="5" height="16" font="5"> </text>
+<text top="971" left="108" width="5" height="16" font="5"> </text>
+<text top="1002" left="108" width="5" height="16" font="5"> </text>
+<text top="1033" left="108" width="5" height="16" font="5"> </text>
+<text top="1064" left="108" width="5" height="16" font="5"> </text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="28" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="29" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="30" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="31" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="32" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="33" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="34" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="34" size="18" family="Times" color="#000000"/>
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="473" width="5" height="16" font="5"> </text>
+<text top="112" left="108" width="5" height="16" font="5"> </text>
+<text top="143" left="108" width="5" height="16" font="5"> </text>
+<text top="174" left="108" width="5" height="16" font="5"> </text>
+<text top="205" left="108" width="5" height="16" font="5"> </text>
+<text top="236" left="108" width="5" height="16" font="5"> </text>
+<text top="268" left="108" width="5" height="16" font="5"> </text>
+<text top="299" left="108" width="5" height="16" font="5"> </text>
+<text top="330" left="108" width="5" height="16" font="5"> </text>
+<text top="361" left="108" width="5" height="16" font="5"> </text>
+<text top="392" left="108" width="5" height="16" font="5"> </text>
+<text top="423" left="108" width="5" height="16" font="5"> </text>
+<text top="454" left="108" width="5" height="16" font="5"> </text>
+<text top="485" left="427" width="96" height="16" font="4"><b>Appendix B </b></text>
+<text top="516" left="473" width="5" height="16" font="4"><b> </b></text>
+<text top="547" left="399" width="152" height="16" font="4"><b>Traffic Count Data </b></text>
+<text top="578" left="456" width="42" height="16" font="4"><b>And  </b></text>
+<text top="609" left="355" width="240" height="16" font="4"><b>FDOT Seasonal Factor Report </b></text>
+<text top="640" left="473" width="5" height="16" font="4"><b> </b></text>
+<text top="672" left="459" width="5" height="19" font="34"> </text>
+<text top="707" left="108" width="5" height="16" font="5"> </text>
+<text top="738" left="108" width="5" height="16" font="5"> </text>
+<text top="738" left="351" width="5" height="16" font="5"> </text>
+<text top="771" left="108" width="48" height="22" font="17">        </text>
+<text top="811" left="108" width="5" height="16" font="5"> </text>
+<text top="842" left="108" width="5" height="16" font="5"> </text>
+<text top="873" left="108" width="5" height="16" font="5"> </text>
+<text top="904" left="108" width="5" height="16" font="5"> </text>
+<text top="935" left="108" width="5" height="16" font="5"> </text>
+<text top="966" left="108" width="5" height="16" font="5"> </text>
+<text top="997" left="108" width="5" height="16" font="5"> </text>
+<text top="1028" left="108" width="5" height="16" font="5"> </text>
+<text top="1059" left="108" width="5" height="16" font="5"> </text>
+</page>
+<page number="35" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="35" size="10" family="Times" color="#000000"/>
+	<fontspec id="36" size="8" family="Times" color="#000000"/>
+	<fontspec id="37" size="8" family="Times" color="#000000"/>
+	<fontspec id="38" size="8" family="Times" color="#000000"/>
+<text top="25" left="311" width="296" height="16" font="30">Florida Transportation Engineering, Inc.</text>
+<text top="44" left="390" width="137" height="16" font="30">8250 Pascal Drive</text>
+<text top="63" left="371" width="176" height="16" font="30">Punta Gorda, FL 33950</text>
+<text top="81" left="389" width="139" height="16" font="30">Ph# (941)6392818</text>
+<text top="62" left="672" width="223" height="11" font="35">File Name : KingsHwy@PeaceRiverAve</text>
+<text top="76" left="672" width="124" height="11" font="35">Site Code : 00004375</text>
+<text top="89" left="672" width="131" height="11" font="35">Start Date : 10/12/2006</text>
+<text top="103" left="672" width="48" height="11" font="35">Page No</text>
+<text top="103" left="735" width="14" height="11" font="35">: 1</text>
+<text top="62" left="22" width="78" height="11" font="35">Counter: 4375</text>
+<text top="76" left="22" width="109" height="11" font="35">Counted By: Marina</text>
+<text top="89" left="22" width="81" height="11" font="35">Weather: good</text>
+<text top="103" left="22" width="34" height="11" font="35">Other:</text>
+<text top="117" left="353" width="210" height="11" font="35">Groups Printed- Cars, Trucks and Ped</text>
+<text top="131" left="193" width="71" height="11" font="35">KINGS HWY</text>
+<text top="145" left="196" width="66" height="11" font="35">Southbound</text>
+<text top="131" left="387" width="112" height="11" font="35">PEACE RIVER AVE</text>
+<text top="145" left="411" width="62" height="11" font="35">Westbound</text>
+<text top="131" left="621" width="71" height="11" font="35">KINGS HWY</text>
+<text top="145" left="624" width="64" height="11" font="35">Northbound</text>
+<text top="158" left="70" width="47" height="9" font="36">Start Time</text>
+<text top="158" left="146" width="21" height="9" font="36">Thru</text>
+<text top="158" left="200" width="17" height="9" font="36">Left</text>
+<text top="158" left="245" width="23" height="9" font="36">Peds</text>
+<text top="158" left="285" width="46" height="9" font="36">App. Total</text>
+<text top="158" left="357" width="23" height="9" font="36">Right</text>
+<text top="158" left="414" width="17" height="9" font="36">Left</text>
+<text top="158" left="458" width="23" height="9" font="36">Peds</text>
+<text top="158" left="498" width="46" height="9" font="36">App. Total</text>
+<text top="158" left="571" width="23" height="9" font="36">Right</text>
+<text top="158" left="624" width="21" height="9" font="36">Thru</text>
+<text top="158" left="672" width="23" height="9" font="36">Peds</text>
+<text top="158" left="712" width="46" height="9" font="36">App. Total</text>
+<text top="158" left="775" width="46" height="9" font="36">App. Total</text>
+<text top="158" left="844" width="40" height="9" font="36">Int. Total</text>
+<text top="170" left="92" width="25" height="9" font="36">16:00</text>
+<text top="170" left="156" width="11" height="9" font="36">81</text>
+<text top="170" left="212" width="6" height="9" font="36">1</text>
+<text top="170" left="262" width="6" height="9" font="36">0</text>
+<text top="170" left="319" width="11" height="9" font="36">82</text>
+<text top="170" left="375" width="6" height="9" font="36">3</text>
+<text top="170" left="425" width="6" height="9" font="36">4</text>
+<text top="170" left="476" width="6" height="9" font="36">0</text>
+<text top="170" left="538" width="6" height="9" font="36">7</text>
+<text top="170" left="583" width="11" height="9" font="36">14</text>
+<text top="170" left="633" width="11" height="9" font="36">86</text>
+<text top="170" left="689" width="6" height="9" font="36">0</text>
+<text top="170" left="741" width="17" height="9" font="36">100</text>
+<text top="170" left="815" width="6" height="9" font="36">0</text>
+<text top="170" left="867" width="17" height="9" font="36">189</text>
+<text top="181" left="92" width="25" height="9" font="36">16:15</text>
+<text top="181" left="156" width="11" height="9" font="36">83</text>
+<text top="181" left="212" width="6" height="9" font="36">0</text>
+<text top="181" left="262" width="6" height="9" font="36">0</text>
+<text top="181" left="319" width="11" height="9" font="36">83</text>
+<text top="181" left="375" width="6" height="9" font="36">1</text>
+<text top="181" left="425" width="6" height="9" font="36">8</text>
+<text top="181" left="476" width="6" height="9" font="36">0</text>
+<text top="181" left="538" width="6" height="9" font="36">9</text>
+<text top="181" left="583" width="11" height="9" font="36">11</text>
+<text top="181" left="628" width="17" height="9" font="36">118</text>
+<text top="181" left="689" width="6" height="9" font="36">0</text>
+<text top="181" left="741" width="17" height="9" font="36">129</text>
+<text top="181" left="815" width="6" height="9" font="36">0</text>
+<text top="181" left="867" width="17" height="9" font="36">221</text>
+<text top="192" left="92" width="25" height="9" font="36">16:30</text>
+<text top="192" left="156" width="11" height="9" font="36">73</text>
+<text top="192" left="212" width="6" height="9" font="36">0</text>
+<text top="192" left="262" width="6" height="9" font="36">0</text>
+<text top="192" left="319" width="11" height="9" font="36">73</text>
+<text top="192" left="375" width="6" height="9" font="36">4</text>
+<text top="192" left="425" width="6" height="9" font="36">6</text>
+<text top="192" left="476" width="6" height="9" font="36">0</text>
+<text top="192" left="533" width="11" height="9" font="36">10</text>
+<text top="192" left="589" width="6" height="9" font="36">7</text>
+<text top="192" left="628" width="17" height="9" font="36">115</text>
+<text top="192" left="689" width="6" height="9" font="36">0</text>
+<text top="192" left="741" width="17" height="9" font="36">122</text>
+<text top="192" left="815" width="6" height="9" font="36">0</text>
+<text top="192" left="867" width="17" height="9" font="36">205</text>
+<text top="204" left="92" width="25" height="9" font="36">16:45</text>
+<text top="204" left="156" width="11" height="9" font="36">71</text>
+<text top="204" left="212" width="6" height="9" font="36">1</text>
+<text top="204" left="262" width="6" height="9" font="36">0</text>
+<text top="204" left="319" width="11" height="9" font="36">72</text>
+<text top="204" left="375" width="6" height="9" font="36">1</text>
+<text top="204" left="425" width="6" height="9" font="36">5</text>
+<text top="204" left="476" width="6" height="9" font="36">0</text>
+<text top="204" left="538" width="6" height="9" font="36">6</text>
+<text top="204" left="583" width="11" height="9" font="36">12</text>
+<text top="204" left="628" width="17" height="9" font="36">117</text>
+<text top="204" left="689" width="6" height="9" font="36">0</text>
+<text top="204" left="741" width="17" height="9" font="36">129</text>
+<text top="204" left="815" width="6" height="9" font="36">0</text>
+<text top="204" left="867" width="17" height="9" font="36">207</text>
+<text top="215" left="94" width="22" height="9" font="36">Total</text>
+<text top="215" left="150" width="17" height="9" font="36">308</text>
+<text top="215" left="212" width="6" height="9" font="36">2</text>
+<text top="215" left="262" width="6" height="9" font="36">0</text>
+<text top="215" left="314" width="17" height="9" font="36">310</text>
+<text top="215" left="375" width="6" height="9" font="36">9</text>
+<text top="215" left="420" width="11" height="9" font="36">23</text>
+<text top="215" left="476" width="6" height="9" font="36">0</text>
+<text top="215" left="533" width="11" height="9" font="36">32</text>
+<text top="215" left="583" width="11" height="9" font="36">44</text>
+<text top="215" left="628" width="17" height="9" font="36">436</text>
+<text top="215" left="689" width="6" height="9" font="36">0</text>
+<text top="215" left="741" width="17" height="9" font="36">480</text>
+<text top="215" left="815" width="6" height="9" font="36">0</text>
+<text top="215" left="867" width="17" height="9" font="36">822</text>
+<text top="238" left="92" width="25" height="9" font="36">17:00</text>
+<text top="238" left="156" width="11" height="9" font="36">75</text>
+<text top="238" left="212" width="6" height="9" font="36">3</text>
+<text top="238" left="262" width="6" height="9" font="36">0</text>
+<text top="238" left="319" width="11" height="9" font="36">78</text>
+<text top="238" left="375" width="6" height="9" font="36">0</text>
+<text top="238" left="425" width="6" height="9" font="36">4</text>
+<text top="238" left="476" width="6" height="9" font="36">0</text>
+<text top="238" left="538" width="6" height="9" font="36">4</text>
+<text top="238" left="583" width="11" height="9" font="36">16</text>
+<text top="238" left="628" width="17" height="9" font="36">112</text>
+<text top="238" left="689" width="6" height="9" font="36">0</text>
+<text top="238" left="741" width="17" height="9" font="36">128</text>
+<text top="238" left="815" width="6" height="9" font="36">0</text>
+<text top="238" left="867" width="17" height="9" font="36">210</text>
+<text top="249" left="92" width="25" height="9" font="36">17:15</text>
+<text top="249" left="156" width="11" height="9" font="36">67</text>
+<text top="249" left="212" width="6" height="9" font="36">2</text>
+<text top="249" left="262" width="6" height="9" font="36">0</text>
+<text top="249" left="319" width="11" height="9" font="36">69</text>
+<text top="249" left="375" width="6" height="9" font="36">2</text>
+<text top="249" left="425" width="6" height="9" font="36">9</text>
+<text top="249" left="476" width="6" height="9" font="36">0</text>
+<text top="249" left="533" width="11" height="9" font="36">11</text>
+<text top="249" left="583" width="11" height="9" font="36">14</text>
+<text top="249" left="628" width="17" height="9" font="36">113</text>
+<text top="249" left="689" width="6" height="9" font="36">0</text>
+<text top="249" left="741" width="17" height="9" font="36">127</text>
+<text top="249" left="815" width="6" height="9" font="36">0</text>
+<text top="249" left="867" width="17" height="9" font="36">207</text>
+<text top="261" left="92" width="25" height="9" font="36">17:30</text>
+<text top="261" left="156" width="11" height="9" font="36">90</text>
+<text top="261" left="212" width="6" height="9" font="36">3</text>
+<text top="261" left="262" width="6" height="9" font="36">0</text>
+<text top="261" left="319" width="11" height="9" font="36">93</text>
+<text top="261" left="375" width="6" height="9" font="36">1</text>
+<text top="261" left="425" width="6" height="9" font="36">5</text>
+<text top="261" left="476" width="6" height="9" font="36">0</text>
+<text top="261" left="538" width="6" height="9" font="36">6</text>
+<text top="261" left="583" width="11" height="9" font="36">12</text>
+<text top="261" left="633" width="11" height="9" font="36">92</text>
+<text top="261" left="689" width="6" height="9" font="36">0</text>
+<text top="261" left="741" width="17" height="9" font="36">104</text>
+<text top="261" left="815" width="6" height="9" font="36">0</text>
+<text top="261" left="867" width="17" height="9" font="36">203</text>
+<text top="272" left="92" width="25" height="9" font="36">17:45</text>
+<text top="272" left="156" width="11" height="9" font="36">72</text>
+<text top="272" left="212" width="6" height="9" font="36">2</text>
+<text top="272" left="262" width="6" height="9" font="36">0</text>
+<text top="272" left="319" width="11" height="9" font="36">74</text>
+<text top="272" left="375" width="6" height="9" font="36">1</text>
+<text top="272" left="425" width="6" height="9" font="36">4</text>
+<text top="272" left="476" width="6" height="9" font="36">0</text>
+<text top="272" left="538" width="6" height="9" font="36">5</text>
+<text top="272" left="589" width="6" height="9" font="36">5</text>
+<text top="272" left="628" width="17" height="9" font="36">108</text>
+<text top="272" left="689" width="6" height="9" font="36">0</text>
+<text top="272" left="741" width="17" height="9" font="36">113</text>
+<text top="272" left="815" width="6" height="9" font="36">0</text>
+<text top="272" left="867" width="17" height="9" font="36">192</text>
+<text top="283" left="94" width="22" height="9" font="36">Total</text>
+<text top="283" left="150" width="17" height="9" font="36">304</text>
+<text top="283" left="206" width="11" height="9" font="36">10</text>
+<text top="283" left="262" width="6" height="9" font="36">0</text>
+<text top="283" left="314" width="17" height="9" font="36">314</text>
+<text top="283" left="375" width="6" height="9" font="36">4</text>
+<text top="283" left="420" width="11" height="9" font="36">22</text>
+<text top="283" left="476" width="6" height="9" font="36">0</text>
+<text top="283" left="533" width="11" height="9" font="36">26</text>
+<text top="283" left="583" width="11" height="9" font="36">47</text>
+<text top="283" left="628" width="17" height="9" font="36">425</text>
+<text top="283" left="689" width="6" height="9" font="36">0</text>
+<text top="283" left="741" width="17" height="9" font="36">472</text>
+<text top="283" left="815" width="6" height="9" font="36">0</text>
+<text top="283" left="867" width="17" height="9" font="36">812</text>
+<text top="306" left="63" width="53" height="9" font="36">Grand Total</text>
+<text top="306" left="150" width="17" height="9" font="36">612</text>
+<text top="306" left="206" width="11" height="9" font="36">12</text>
+<text top="306" left="262" width="6" height="9" font="36">0</text>
+<text top="306" left="314" width="17" height="9" font="36">624</text>
+<text top="306" left="370" width="11" height="9" font="36">13</text>
+<text top="306" left="420" width="11" height="9" font="36">45</text>
+<text top="306" left="476" width="6" height="9" font="36">0</text>
+<text top="306" left="533" width="11" height="9" font="36">58</text>
+<text top="306" left="583" width="11" height="9" font="36">91</text>
+<text top="306" left="628" width="17" height="9" font="36">861</text>
+<text top="306" left="689" width="6" height="9" font="36">0</text>
+<text top="306" left="741" width="17" height="9" font="36">952</text>
+<text top="306" left="815" width="6" height="9" font="36">0</text>
+<text top="306" left="861" width="22" height="9" font="36">1634</text>
+<text top="317" left="73" width="44" height="9" font="36">Apprch %</text>
+<text top="317" left="147" width="20" height="9" font="36">98.1</text>
+<text top="317" left="203" width="14" height="9" font="36">1.9</text>
+<text top="317" left="253" width="14" height="9" font="36">0.0</text>
+<text top="317" left="328" width="3" height="9" font="36"> </text>
+<text top="317" left="361" width="20" height="9" font="36">22.4</text>
+<text top="317" left="411" width="20" height="9" font="36">77.6</text>
+<text top="317" left="467" width="14" height="9" font="36">0.0</text>
+<text top="317" left="541" width="3" height="9" font="36"> </text>
+<text top="317" left="580" width="14" height="9" font="36">9.6</text>
+<text top="317" left="625" width="20" height="9" font="36">90.4</text>
+<text top="317" left="681" width="14" height="9" font="36">0.0</text>
+<text top="317" left="755" width="3" height="9" font="36"> </text>
+<text top="317" left="818" width="3" height="9" font="36"> </text>
+<text top="317" left="881" width="3" height="9" font="36"> </text>
+<text top="329" left="83" width="34" height="9" font="36">Total %</text>
+<text top="329" left="147" width="20" height="9" font="36">37.5</text>
+<text top="329" left="203" width="14" height="9" font="36">0.7</text>
+<text top="329" left="253" width="14" height="9" font="36">0.0</text>
+<text top="329" left="311" width="20" height="9" font="36">38.2</text>
+<text top="329" left="367" width="14" height="9" font="36">0.8</text>
+<text top="329" left="417" width="14" height="9" font="36">2.8</text>
+<text top="329" left="467" width="14" height="9" font="36">0.0</text>
+<text top="329" left="530" width="14" height="9" font="36">3.5</text>
+<text top="329" left="580" width="14" height="9" font="36">5.6</text>
+<text top="329" left="625" width="20" height="9" font="36">52.7</text>
+<text top="329" left="681" width="14" height="9" font="36">0.0</text>
+<text top="329" left="738" width="20" height="9" font="36">58.3</text>
+<text top="329" left="806" width="14" height="9" font="36">0.0</text>
+<text top="347" left="427" width="63" height="9" font="36"> KINGS HWY </text>
+<text top="648" left="187" width="0" height="9" font="37"> No</text>
+<text top="633" left="187" width="0" height="9" font="37">t </text>
+<text top="627" left="187" width="0" height="9" font="37">N</text>
+<text top="620" left="187" width="0" height="9" font="37">a</text>
+<text top="614" left="187" width="0" height="9" font="37">m</text>
+<text top="606" left="187" width="0" height="9" font="37">ed </text>
+<text top="572" left="730" width="0" height="12" font="38"> P</text>
+<text top="582" left="730" width="0" height="9" font="38">EACE RI</text>
+<text top="622" left="730" width="0" height="9" font="38">VER A</text>
+<text top="652" left="730" width="0" height="9" font="38">V</text>
+<text top="658" left="730" width="0" height="9" font="38">E </text>
+<text top="899" left="427" width="63" height="9" font="36"> KINGS HWY </text>
+<text top="415" left="414" width="21" height="9" font="36">Thru</text>
+<text top="404" left="422" width="20" height="9" font="36">612 </text>
+<text top="415" left="450" width="17" height="9" font="36">Left</text>
+<text top="404" left="461" width="14" height="9" font="36">12 </text>
+<text top="415" left="480" width="23" height="9" font="36">Peds</text>
+<text top="404" left="500" width="8" height="9" font="36">0 </text>
+<text top="359" left="454" width="8" height="9" font="36">In</text>
+<text top="359" left="405" width="16" height="9" font="36">Out</text>
+<text top="359" left="492" width="22" height="9" font="36">Total</text>
+<text top="370" left="411" width="90" height="9" font="36">874 624 </text>
+<text top="370" left="495" width="50" height="9" font="36">1498 </text>
+<text top="574" left="663" width="0" height="9" font="38">R</text>
+<text top="582" left="663" width="0" height="11" font="38">ight</text>
+<text top="589" left="674" width="0" height="9" font="38">13 </text>
+<text top="611" left="663" width="0" height="9" font="38">Lef</text>
+<text top="625" left="663" width="0" height="9" font="38">t</text>
+<text top="622" left="674" width="0" height="9" font="38">45 </text>
+<text top="642" left="663" width="0" height="9" font="38">Pe</text>
+<text top="654" left="663" width="0" height="9" font="38">d</text>
+<text top="660" left="663" width="0" height="9" font="38">s</text>
+<text top="662" left="674" width="0" height="9" font="38">0 </text>
+<text top="567" left="719" width="0" height="9" font="38">Ou</text>
+<text top="580" left="719" width="0" height="9" font="38">t</text>
+<text top="654" left="719" width="0" height="9" font="38">To</text>
+<text top="666" left="719" width="0" height="12" font="38">ta</text>
+<text top="674" left="719" width="0" height="9" font="38">l</text>
+<text top="616" left="719" width="0" height="9" font="38">In</text>
+<text top="572" left="707" width="0" height="9" font="38">103</text>
+<text top="589" left="707" width="0" height="9" font="38"> 58 </text>
+<text top="662" left="707" width="0" height="9" font="38">1</text>
+<text top="668" left="707" width="0" height="9" font="38">6</text>
+<text top="673" left="707" width="0" height="9" font="38">1</text>
+<text top="679" left="707" width="0" height="9" font="38"> </text>
+<text top="832" left="414" width="21" height="9" font="36">Thru</text>
+<text top="843" left="422" width="20" height="9" font="36">861 </text>
+<text top="832" left="447" width="23" height="9" font="36">Right</text>
+<text top="843" left="461" width="14" height="9" font="36">91 </text>
+<text top="832" left="481" width="23" height="9" font="36">Peds</text>
+<text top="843" left="500" width="8" height="9" font="36">0 </text>
+<text top="888" left="405" width="16" height="9" font="36">Out</text>
+<text top="888" left="492" width="22" height="9" font="36">Total</text>
+<text top="888" left="454" width="8" height="9" font="36">In</text>
+<text top="877" left="411" width="90" height="9" font="36">657 952 </text>
+<text top="877" left="495" width="50" height="9" font="36">1609 </text>
+<text top="580" left="198" width="0" height="9" font="37">Tot</text>
+<text top="566" left="198" width="0" height="9" font="37">a</text>
+<text top="560" left="198" width="0" height="9" font="37">l</text>
+<text top="668" left="198" width="0" height="9" font="37">Ou</text>
+<text top="654" left="198" width="0" height="9" font="37">t</text>
+<text top="619" left="198" width="0" height="9" font="37">In</text>
+<text top="651" left="210" width="0" height="9" font="37">0 0 0 </text>
+<text top="623" left="391" width="105" height="9" font="36">10/12/2006 4:00:00 PM</text>
+<text top="635" left="391" width="105" height="9" font="36">10/12/2006 5:45:00 PM</text>
+<text top="646" left="391" width="3" height="9" font="36"> </text>
+<text top="657" left="391" width="100" height="9" font="36"> Cars, Trucks and Ped</text>
+<text top="592" left="446" width="25" height="9" font="36">North</text>
+<text top="949" left="193" width="71" height="11" font="35">KINGS HWY</text>
+<text top="962" left="196" width="66" height="11" font="35">Southbound</text>
+<text top="949" left="387" width="112" height="11" font="35">PEACE RIVER AVE</text>
+<text top="962" left="411" width="62" height="11" font="35">Westbound</text>
+<text top="949" left="621" width="71" height="11" font="35">KINGS HWY</text>
+<text top="962" left="624" width="64" height="11" font="35">Northbound</text>
+<text top="976" left="70" width="47" height="9" font="36">Start Time</text>
+<text top="976" left="146" width="21" height="9" font="36">Thru</text>
+<text top="976" left="200" width="17" height="9" font="36">Left</text>
+<text top="976" left="245" width="23" height="9" font="36">Peds</text>
+<text top="976" left="285" width="46" height="9" font="36">App. Total</text>
+<text top="976" left="357" width="23" height="9" font="36">Right</text>
+<text top="976" left="414" width="17" height="9" font="36">Left</text>
+<text top="976" left="458" width="23" height="9" font="36">Peds</text>
+<text top="976" left="498" width="46" height="9" font="36">App. Total</text>
+<text top="976" left="571" width="23" height="9" font="36">Right</text>
+<text top="976" left="624" width="21" height="9" font="36">Thru</text>
+<text top="976" left="672" width="23" height="9" font="36">Peds</text>
+<text top="976" left="712" width="46" height="9" font="36">App. Total</text>
+<text top="976" left="775" width="46" height="9" font="36">App. Total</text>
+<text top="976" left="844" width="40" height="9" font="36">Int. Total</text>
+<text top="987" left="22" width="202" height="9" font="36">Peak Hour From 16:00 to 17:45 - Peak 1 of 1</text>
+<text top="999" left="65" width="52" height="9" font="36">Intersection</text>
+<text top="999" left="127" width="25" height="9" font="36">16:15</text>
+<text top="1010" left="83" width="34" height="9" font="36">Volume</text>
+<text top="1010" left="150" width="17" height="9" font="36">302</text>
+<text top="1010" left="212" width="6" height="9" font="36">4</text>
+<text top="1010" left="262" width="6" height="9" font="36">0</text>
+<text top="1010" left="314" width="17" height="9" font="36">306</text>
+<text top="1010" left="375" width="6" height="9" font="36">6</text>
+<text top="1010" left="420" width="11" height="9" font="36">23</text>
+<text top="1010" left="476" width="6" height="9" font="36">0</text>
+<text top="1010" left="533" width="11" height="9" font="36">29</text>
+<text top="1010" left="583" width="11" height="9" font="36">46</text>
+<text top="1010" left="628" width="17" height="9" font="36">462</text>
+<text top="1010" left="689" width="6" height="9" font="36">0</text>
+<text top="1010" left="741" width="17" height="9" font="36">508</text>
+<text top="1010" left="815" width="6" height="9" font="36">0</text>
+<text top="1010" left="867" width="17" height="9" font="36">843</text>
+<text top="1021" left="82" width="35" height="9" font="36">Percent</text>
+<text top="1021" left="147" width="20" height="9" font="36">98.7</text>
+<text top="1021" left="203" width="14" height="9" font="36">1.3</text>
+<text top="1021" left="253" width="14" height="9" font="36">0.0</text>
+<text top="1021" left="361" width="20" height="9" font="36">20.7</text>
+<text top="1021" left="411" width="20" height="9" font="36">79.3</text>
+<text top="1021" left="467" width="14" height="9" font="36">0.0</text>
+<text top="1021" left="580" width="14" height="9" font="36">9.1</text>
+<text top="1021" left="625" width="20" height="9" font="36">90.9</text>
+<text top="1021" left="681" width="14" height="9" font="36">0.0</text>
+<text top="1033" left="55" width="62" height="9" font="36">16:15 Volume</text>
+<text top="1033" left="156" width="11" height="9" font="36">83</text>
+<text top="1033" left="212" width="6" height="9" font="36">0</text>
+<text top="1033" left="262" width="6" height="9" font="36">0</text>
+<text top="1033" left="319" width="11" height="9" font="36">83</text>
+<text top="1033" left="375" width="6" height="9" font="36">1</text>
+<text top="1033" left="425" width="6" height="9" font="36">8</text>
+<text top="1033" left="476" width="6" height="9" font="36">0</text>
+<text top="1033" left="538" width="6" height="9" font="36">9</text>
+<text top="1033" left="583" width="11" height="9" font="36">11</text>
+<text top="1033" left="628" width="17" height="9" font="36">118</text>
+<text top="1033" left="689" width="6" height="9" font="36">0</text>
+<text top="1033" left="741" width="17" height="9" font="36">129</text>
+<text top="1033" left="815" width="6" height="9" font="36">0</text>
+<text top="1033" left="867" width="17" height="9" font="36">221</text>
+<text top="1044" left="62" width="54" height="9" font="36">Peak Factor</text>
+<text top="1044" left="849" width="25" height="9" font="36">0.954</text>
+<text top="1055" left="79" width="37" height="9" font="36">High Int.</text>
+<text top="1055" left="127" width="25" height="9" font="36">16:15</text>
+<text top="1055" left="341" width="25" height="9" font="36">16:30</text>
+<text top="1055" left="555" width="25" height="9" font="36">16:15</text>
+<text top="1055" left="768" width="52" height="9" font="36">3:45:00 PM</text>
+<text top="1067" left="83" width="34" height="9" font="36">Volume</text>
+<text top="1067" left="156" width="11" height="9" font="36">83</text>
+<text top="1067" left="212" width="6" height="9" font="36">0</text>
+<text top="1067" left="262" width="6" height="9" font="36">0</text>
+<text top="1067" left="319" width="11" height="9" font="36">83</text>
+<text top="1067" left="375" width="6" height="9" font="36">4</text>
+<text top="1067" left="425" width="6" height="9" font="36">6</text>
+<text top="1067" left="476" width="6" height="9" font="36">0</text>
+<text top="1067" left="533" width="11" height="9" font="36">10</text>
+<text top="1067" left="583" width="11" height="9" font="36">11</text>
+<text top="1067" left="628" width="17" height="9" font="36">118</text>
+<text top="1067" left="689" width="6" height="9" font="36">0</text>
+<text top="1067" left="741" width="17" height="9" font="36">129</text>
+<text top="1078" left="62" width="54" height="9" font="36">Peak Factor</text>
+<text top="1078" left="305" width="25" height="9" font="36">0.922</text>
+<text top="1078" left="519" width="25" height="9" font="36">0.725</text>
+<text top="1078" left="733" width="25" height="9" font="36">0.984</text>
+</page>
+<page number="36" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="39" size="9" family="Times" color="#080000"/>
+<text top="18" left="15" width="455" height="9" font="39"> 2005 Peak Season Factor Category Report - Report Type: DISTRICT</text>
+<text top="45" left="15" width="291" height="9" font="39">Category: 0400  DESOTO COUNTYWIDE        </text>
+<text top="58" left="15" width="412" height="9" font="39">                                                MOCF: 0.91</text>
+<text top="85" left="15" width="341" height="9" font="39">Week          Dates            SF           PSCF</text>
+<text top="98" left="15" width="568" height="9" font="39">================================================================================</text>
+<text top="112" left="15" width="369" height="9" font="39">  1    01/01/2005 - 01/01/2005    0.99          1.09</text>
+<text top="125" left="15" width="369" height="9" font="39">  2    01/02/2005 - 01/08/2005    0.97          1.06</text>
+<text top="139" left="15" width="369" height="9" font="39">  3    01/09/2005 - 01/15/2005    0.96          1.05</text>
+<text top="152" left="15" width="369" height="9" font="39">  4    01/16/2005 - 01/22/2005    0.95          1.04</text>
+<text top="165" left="15" width="369" height="9" font="39">  5    01/23/2005 - 01/29/2005    0.94          1.03</text>
+<text top="179" left="15" width="369" height="9" font="39">* 6    01/30/2005 - 02/05/2005    0.93          1.02</text>
+<text top="192" left="15" width="369" height="9" font="39">* 7    02/06/2005 - 02/12/2005    0.92          1.01</text>
+<text top="206" left="15" width="369" height="9" font="39">* 8    02/13/2005 - 02/19/2005    0.91          1.00</text>
+<text top="219" left="15" width="369" height="9" font="39">* 9    02/20/2005 - 02/26/2005    0.91          1.00</text>
+<text top="232" left="15" width="369" height="9" font="39">*10    02/27/2005 - 03/05/2005    0.90          0.99</text>
+<text top="246" left="15" width="369" height="9" font="39">*11    03/06/2005 - 03/12/2005    0.90          0.99</text>
+<text top="259" left="15" width="369" height="9" font="39">*12    03/13/2005 - 03/19/2005    0.89          0.98</text>
+<text top="273" left="15" width="369" height="9" font="39">*13    03/20/2005 - 03/26/2005    0.90          0.99</text>
+<text top="286" left="15" width="369" height="9" font="39">*14    03/27/2005 - 04/02/2005    0.91          1.00</text>
+<text top="299" left="15" width="369" height="9" font="39">*15    04/03/2005 - 04/09/2005    0.91          1.00</text>
+<text top="313" left="15" width="369" height="9" font="39">*16    04/10/2005 - 04/16/2005    0.92          1.01</text>
+<text top="326" left="15" width="369" height="9" font="39">*17    04/17/2005 - 04/23/2005    0.93          1.02</text>
+<text top="340" left="15" width="369" height="9" font="39">*18    04/24/2005 - 04/30/2005    0.93          1.02</text>
+<text top="353" left="15" width="369" height="9" font="39"> 19    05/01/2005 - 05/07/2005    0.94          1.03</text>
+<text top="367" left="15" width="369" height="9" font="39"> 20    05/08/2005 - 05/14/2005    0.94          1.03</text>
+<text top="380" left="15" width="369" height="9" font="39"> 21    05/15/2005 - 05/21/2005    0.95          1.04</text>
+<text top="393" left="15" width="369" height="9" font="39"> 22    05/22/2005 - 05/28/2005    0.97          1.06</text>
+<text top="407" left="15" width="369" height="9" font="39"> 23    05/29/2005 - 06/04/2005    1.00          1.10</text>
+<text top="420" left="15" width="369" height="9" font="39"> 24    06/05/2005 - 06/11/2005    1.02          1.12</text>
+<text top="434" left="15" width="369" height="9" font="39"> 25    06/12/2005 - 06/18/2005    1.04          1.14</text>
+<text top="447" left="15" width="369" height="9" font="39"> 26    06/19/2005 - 06/25/2005    1.06          1.16</text>
+<text top="460" left="15" width="369" height="9" font="39"> 27    06/26/2005 - 07/02/2005    1.07          1.17</text>
+<text top="474" left="15" width="369" height="9" font="39"> 28    07/03/2005 - 07/09/2005    1.08          1.18</text>
+<text top="487" left="15" width="369" height="9" font="39"> 29    07/10/2005 - 07/16/2005    1.09          1.19</text>
+<text top="501" left="15" width="369" height="9" font="39"> 30    07/17/2005 - 07/23/2005    1.09          1.19</text>
+<text top="514" left="15" width="369" height="9" font="39"> 31    07/24/2005 - 07/30/2005    1.09          1.19</text>
+<text top="527" left="15" width="369" height="9" font="39"> 32    07/31/2005 - 08/06/2005    1.10          1.21</text>
+<text top="541" left="15" width="369" height="9" font="39"> 33    08/07/2005 - 08/13/2005    1.10          1.21</text>
+<text top="554" left="15" width="369" height="9" font="39"> 34    08/14/2005 - 08/20/2005    1.10          1.21</text>
+<text top="568" left="15" width="369" height="9" font="39"> 35    08/21/2005 - 08/27/2005    1.11          1.22</text>
+<text top="581" left="15" width="369" height="9" font="39"> 36    08/28/2005 - 09/03/2005    1.12          1.23</text>
+<text top="594" left="15" width="369" height="9" font="39"> 37    09/04/2005 - 09/10/2005    1.12          1.23</text>
+<text top="608" left="15" width="369" height="9" font="39"> 38    09/11/2005 - 09/17/2005    1.13          1.24</text>
+<text top="621" left="15" width="369" height="9" font="39"> 39    09/18/2005 - 09/24/2005    1.13          1.24</text>
+<text top="635" left="15" width="369" height="9" font="39"> 40    09/25/2005 - 10/01/2005    1.13          1.24</text>
+<text top="648" left="15" width="369" height="9" font="39"> 41    10/02/2005 - 10/08/2005    1.12          1.23</text>
+<text top="662" left="15" width="369" height="9" font="39"> 42    10/09/2005 - 10/15/2005    1.12          1.23</text>
+<text top="675" left="15" width="369" height="9" font="39"> 43    10/16/2005 - 10/22/2005    1.10          1.21</text>
+<text top="688" left="15" width="369" height="9" font="39"> 44    10/23/2005 - 10/29/2005    1.07          1.17</text>
+<text top="702" left="15" width="369" height="9" font="39"> 45    10/30/2005 - 11/05/2005    1.05          1.15</text>
+<text top="715" left="15" width="369" height="9" font="39"> 46    11/06/2005 - 11/12/2005    1.03          1.13</text>
+<text top="729" left="15" width="369" height="9" font="39"> 47    11/13/2005 - 11/19/2005    1.01          1.11</text>
+<text top="742" left="15" width="369" height="9" font="39"> 48    11/20/2005 - 11/26/2005    1.00          1.10</text>
+<text top="755" left="15" width="369" height="9" font="39"> 49    11/27/2005 - 12/03/2005    1.00          1.10</text>
+<text top="769" left="15" width="369" height="9" font="39"> 50    12/04/2005 - 12/10/2005    0.99          1.09</text>
+<text top="782" left="15" width="369" height="9" font="39"> 51    12/11/2005 - 12/17/2005    0.99          1.09</text>
+<text top="796" left="15" width="369" height="9" font="39"> 52    12/18/2005 - 12/24/2005    0.97          1.06</text>
+<text top="809" left="15" width="369" height="9" font="39"> 53    12/25/2005 - 12/31/2005    0.96          1.05</text>
+<text top="863" left="15" width="92" height="9" font="39">* Peak Season</text>
+<text top="903" left="15" width="582" height="9" font="39">14-Mar-2006 16:29:09                        830UPD [1,0,0,1]   1_0400_PKSEASON.txt</text>
+<text top="930" left="15" width="78" height="9" font="39">Page 1 of 3</text>
+</page>
+<page number="37" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="473" width="5" height="16" font="5"> </text>
+<text top="112" left="108" width="5" height="16" font="5"> </text>
+<text top="143" left="108" width="5" height="16" font="5"> </text>
+<text top="174" left="108" width="5" height="16" font="5"> </text>
+<text top="205" left="108" width="5" height="16" font="5"> </text>
+<text top="236" left="108" width="5" height="16" font="5"> </text>
+<text top="268" left="108" width="5" height="16" font="5"> </text>
+<text top="299" left="108" width="5" height="16" font="5"> </text>
+<text top="330" left="108" width="5" height="16" font="5"> </text>
+<text top="361" left="108" width="5" height="16" font="5"> </text>
+<text top="392" left="108" width="5" height="16" font="5"> </text>
+<text top="423" left="108" width="5" height="16" font="5"> </text>
+<text top="454" left="108" width="5" height="16" font="5"> </text>
+<text top="485" left="108" width="5" height="16" font="5"> </text>
+<text top="516" left="108" width="5" height="16" font="5"> </text>
+<text top="547" left="426" width="97" height="16" font="4"><b>Appendix C </b></text>
+<text top="578" left="473" width="5" height="16" font="4"><b> </b></text>
+<text top="609" left="308" width="334" height="16" font="4"><b>FDOT Generalized Level of Service Tables </b></text>
+<text top="640" left="135" width="5" height="16" font="4"><b> </b></text>
+</page>
+<page number="38" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="40" size="9" family="Times" color="#000000"/>
+	<fontspec id="41" size="8" family="Times" color="#000000"/>
+	<fontspec id="42" size="7" family="Times" color="#000000"/>
+<text top="54" left="415" width="93" height="20" font="30">TABLE 4 – 6 </text>
+<text top="74" left="182" width="559" height="22" font="5">GENERALIZED <b>PEAK HOUR TWO-WAY</b> VOLUMES FOR FLORIDA’S </text>
+<text top="95" left="258" width="374" height="22" font="4"><b>RURAL UNDEVELOPED AREAS AND CITIES</b></text>
+<text top="98" left="638" width="21" height="18" font="22">OR</text>
+<text top="117" left="225" width="468" height="22" font="4"><b>DEVELOPED AREAS LESS THAN 5,000 POPULATION</b>*</text>
+<text top="174" left="131" width="277" height="16" font="4"><b>RURAL UNDEVELOPED AREAS </b></text>
+<text top="174" left="503" width="348" height="16" font="4"><b>CITIES OR RURAL DEVELOPED AREAS </b></text>
+<text top="195" left="604" width="141" height="16" font="4"><b>LESS THAN 5000</b></text>
+<text top="218" left="641" width="71" height="10" font="40"><b>FREEWAYS </b></text>
+<text top="231" left="233" width="68" height="10" font="40"><b>FREEWAYS</b></text>
+<text top="231" left="480" width="3" height="11" font="6"> </text>
+<text top="231" left="693" width="82" height="11" font="6">Level of Service </text>
+<text top="245" left="69" width="253" height="11" font="6">  </text>
+<text top="245" left="252" width="127" height="11" font="6"> </text>
+<text top="245" left="312" width="127" height="11" font="6"> </text>
+<text top="245" left="374" width="127" height="11" font="6"> </text>
+<text top="245" left="439" width="127" height="11" font="6"> </text>
+<text top="245" left="480" width="155" height="11" font="6">Lanes </text>
+<text top="245" left="611" width="135" height="11" font="6">A </text>
+<text top="245" left="667" width="135" height="11" font="6">B </text>
+<text top="245" left="723" width="135" height="11" font="6">C </text>
+<text top="245" left="779" width="135" height="11" font="6">D </text>
+<text top="245" left="841" width="134" height="11" font="6">E </text>
+<text top="258" left="69" width="3" height="11" font="6"> </text>
+<text top="258" left="281" width="82" height="11" font="6">Level of Service </text>
+<text top="258" left="481" width="9" height="11" font="6">4 </text>
+<text top="258" left="602" width="30" height="11" font="6">2,220 </text>
+<text top="258" left="658" width="30" height="11" font="6">3,670 </text>
+<text top="258" left="714" width="30" height="11" font="6">4,980 </text>
+<text top="258" left="770" width="30" height="11" font="6">5,890 </text>
+<text top="258" left="831" width="30" height="11" font="6">6,550 </text>
+<text top="272" left="69" width="225" height="11" font="6">Lanes A </text>
+<text top="272" left="248" width="102" height="11" font="6">B </text>
+<text top="272" left="308" width="102" height="11" font="6">C </text>
+<text top="272" left="370" width="102" height="11" font="6">D </text>
+<text top="272" left="435" width="101" height="11" font="6">E </text>
+<text top="272" left="481" width="100" height="11" font="6">6 </text>
+<text top="272" left="602" width="121" height="11" font="6">3,440 </text>
+<text top="272" left="658" width="121" height="11" font="6">5,650 </text>
+<text top="272" left="714" width="121" height="11" font="6">7,690 </text>
+<text top="272" left="770" width="121" height="11" font="6">9,090 </text>
+<text top="272" left="828" width="127" height="11" font="6">10,110 </text>
+<text top="286" left="69" width="247" height="11" font="6">4 2,200 </text>
+<text top="286" left="239" width="134" height="11" font="6">3,670 </text>
+<text top="286" left="299" width="134" height="11" font="6">4,980 </text>
+<text top="286" left="360" width="134" height="11" font="6">5,890 </text>
+<text top="286" left="425" width="134" height="11" font="6">6,550 </text>
+<text top="286" left="480" width="256" height="11" font="6">8  4,650 </text>
+<text top="286" left="658" width="134" height="11" font="6">7,650 </text>
+<text top="286" left="711" width="140" height="11" font="6">10,400 </text>
+<text top="286" left="767" width="140" height="11" font="6">12,310 </text>
+<text top="286" left="828" width="140" height="11" font="6">13,670 </text>
+<text top="303" left="69" width="9" height="11" font="6">6 </text>
+<text top="303" left="182" width="30" height="11" font="6">3,440 </text>
+<text top="303" left="239" width="30" height="11" font="6">5,650 </text>
+<text top="303" left="299" width="30" height="11" font="6">7,690 </text>
+<text top="303" left="360" width="30" height="11" font="6">9,090 </text>
+<text top="303" left="415" width="42" height="11" font="6">  10,110 </text>
+<text top="304" left="567" width="219" height="10" font="40"><b>UNINTERRUPTED FLOW HIGHWAYS </b></text>
+<text top="317" left="69" width="9" height="11" font="6">8 </text>
+<text top="317" left="182" width="30" height="11" font="6">4,650 </text>
+<text top="317" left="239" width="30" height="11" font="6">7,650 </text>
+<text top="317" left="296" width="36" height="11" font="6">10,400 </text>
+<text top="317" left="357" width="36" height="11" font="6">12,310 </text>
+<text top="317" left="421" width="36" height="11" font="6">13,670 </text>
+<text top="317" left="480" width="3" height="11" font="6"> </text>
+<text top="317" left="693" width="82" height="11" font="6">Level of Service </text>
+<text top="331" left="69" width="253" height="11" font="6">  </text>
+<text top="331" left="252" width="127" height="11" font="6"> </text>
+<text top="331" left="312" width="127" height="11" font="6"> </text>
+<text top="331" left="374" width="127" height="11" font="6"> </text>
+<text top="331" left="412" width="127" height="11" font="6"> </text>
+<text top="331" left="480" width="155" height="11" font="6">Lanes </text>
+<text top="331" left="512" width="165" height="11" font="6">Divided </text>
+<text top="331" left="610" width="135" height="11" font="6">A </text>
+<text top="331" left="666" width="135" height="11" font="6">B </text>
+<text top="331" left="723" width="135" height="11" font="6">C </text>
+<text top="331" left="779" width="135" height="11" font="6">D </text>
+<text top="331" left="841" width="134" height="11" font="6">E </text>
+<text top="348" left="69" width="253" height="11" font="6">  </text>
+<text top="348" left="252" width="127" height="11" font="6"> </text>
+<text top="348" left="312" width="127" height="11" font="6"> </text>
+<text top="348" left="374" width="127" height="11" font="6"> </text>
+<text top="348" left="438" width="127" height="11" font="6"> </text>
+<text top="348" left="480" width="133" height="11" font="6">2 </text>
+<text top="348" left="513" width="177" height="11" font="6">Undivided </text>
+<text top="348" left="605" width="145" height="11" font="6">220 </text>
+<text top="348" left="661" width="145" height="11" font="6">630 </text>
+<text top="348" left="713" width="154" height="11" font="6">1,100 </text>
+<text top="348" left="770" width="154" height="11" font="6">1,500 </text>
+<text top="348" left="831" width="154" height="11" font="6">2,040 </text>
+<text top="362" left="159" width="219" height="10" font="40"><b>UNINTERRUPTED FLOW HIGHWAYS </b></text>
+<text top="362" left="480" width="98" height="11" font="6">4 Divided </text>
+<text top="362" left="601" width="284" height="11" font="6">1,730  2,800  4,060  5,250  5,960 </text>
+<text top="375" left="69" width="253" height="11" font="6">  </text>
+<text top="375" left="252" width="127" height="11" font="6"> </text>
+<text top="375" left="312" width="127" height="11" font="6"> </text>
+<text top="375" left="374" width="127" height="11" font="6"> </text>
+<text top="375" left="438" width="127" height="11" font="6"> </text>
+<text top="375" left="480" width="133" height="11" font="6">6 </text>
+<text top="375" left="513" width="165" height="11" font="6">Divided </text>
+<text top="375" left="601" width="154" height="11" font="6">2,600 </text>
+<text top="375" left="657" width="154" height="11" font="6">4,200 </text>
+<text top="375" left="713" width="154" height="11" font="6">6,080 </text>
+<text top="375" left="770" width="154" height="11" font="6">7,870 </text>
+<text top="375" left="831" width="154" height="11" font="6">8,940 </text>
+<text top="393" left="69" width="3" height="11" font="6"> </text>
+<text top="393" left="281" width="82" height="11" font="6">Level of Service </text>
+<text top="393" left="575" width="203" height="10" font="40"><b>INTERRUPTED FLOW ARTERIALS </b></text>
+<text top="406" left="69" width="73" height="11" font="6">Lanes Divided </text>
+<text top="406" left="194" width="12" height="11" font="6">A </text>
+<text top="406" left="248" width="11" height="11" font="6">B </text>
+<text top="406" left="308" width="11" height="11" font="6">C </text>
+<text top="406" left="369" width="12" height="11" font="6">D </text>
+<text top="406" left="435" width="13" height="11" font="6">E  </text>
+<text top="406" left="480" width="3" height="11" font="6"> </text>
+<text top="406" left="692" width="82" height="11" font="6">Level of Service </text>
+<text top="420" left="69" width="162" height="11" font="6">2 Undivided  220 </text>
+<text top="420" left="243" width="44" height="11" font="6">460 </text>
+<text top="420" left="303" width="44" height="11" font="6">740 </text>
+<text top="420" left="360" width="53" height="11" font="6">1,190 </text>
+<text top="420" left="425" width="111" height="11" font="6">1,920  Lanes </text>
+<text top="420" left="512" width="65" height="11" font="6">Divided </text>
+<text top="420" left="609" width="35" height="11" font="6">A </text>
+<text top="420" left="666" width="34" height="11" font="6">B </text>
+<text top="420" left="722" width="34" height="11" font="6">C </text>
+<text top="420" left="778" width="35" height="11" font="6">D </text>
+<text top="420" left="840" width="34" height="11" font="6">E </text>
+<text top="434" left="69" width="98" height="11" font="6">4 Divided </text>
+<text top="434" left="182" width="232" height="11" font="6">1,710  2,800  4,000  5,140 </text>
+<text top="434" left="425" width="166" height="11" font="6">5,710  2 Undivided </text>
+<text top="434" left="607" width="38" height="11" font="6">** </text>
+<text top="434" left="661" width="223" height="11" font="6">210  1,070  1,350  1,450 </text>
+<text top="448" left="69" width="98" height="11" font="6">6 Divided </text>
+<text top="448" left="182" width="232" height="11" font="6">2,570  4,200  6,000  7,710 </text>
+<text top="448" left="425" width="153" height="11" font="6">8,560  4 Divided </text>
+<text top="448" left="607" width="38" height="11" font="6">** </text>
+<text top="448" left="661" width="223" height="11" font="6">520  2,470  2,850  3,020 </text>
+<text top="462" left="114" width="162" height="11" font="6">  </text>
+<text top="462" left="252" width="81" height="11" font="6"> </text>
+<text top="462" left="312" width="81" height="11" font="6"> </text>
+<text top="462" left="374" width="81" height="11" font="6"> </text>
+<text top="462" left="438" width="81" height="11" font="6"> </text>
+<text top="462" left="480" width="87" height="11" font="6">6 </text>
+<text top="462" left="513" width="120" height="11" font="6">Divided </text>
+<text top="462" left="607" width="93" height="11" font="6">** </text>
+<text top="462" left="661" width="99" height="11" font="6">810 </text>
+<text top="462" left="712" width="108" height="11" font="6">3,820 </text>
+<text top="462" left="769" width="108" height="11" font="6">4,290 </text>
+<text top="462" left="830" width="108" height="11" font="6">4,540 </text>
+<text top="479" left="180" width="176" height="11" font="6">PASSING LANE ADJUSTMENTS </text>
+<text top="479" left="564" width="226" height="10" font="40"><b>NON-STATE SIGNALIZED ROADWAYS </b></text>
+<text top="493" left="104" width="328" height="11" font="6">(alter corresponding two-lane LOS A-D volumes indicated percent) </text>
+<text top="493" left="596" width="160" height="11" font="6">(signalized intersection analysis) </text>
+<text top="506" left="114" width="3" height="11" font="6"> </text>
+<text top="506" left="195" width="3" height="11" font="6"> </text>
+<text top="506" left="252" width="3" height="11" font="6"> </text>
+<text top="506" left="312" width="3" height="11" font="6"> </text>
+<text top="506" left="374" width="3" height="11" font="6"> </text>
+<text top="506" left="438" width="3" height="11" font="6"> </text>
+<text top="506" left="691" width="82" height="11" font="6">Level of Service </text>
+<text top="520" left="119" width="108" height="11" font="6">Passing Lane Spacing </text>
+<text top="520" left="330" width="97" height="11" font="6">Adjustment Factors </text>
+<text top="520" left="480" width="32" height="11" font="6">Lanes </text>
+<text top="520" left="611" width="12" height="11" font="6">A </text>
+<text top="520" left="667" width="11" height="11" font="6">B </text>
+<text top="520" left="724" width="11" height="11" font="6">C </text>
+<text top="520" left="780" width="12" height="11" font="6">D </text>
+<text top="520" left="841" width="10" height="11" font="6">E </text>
+<text top="534" left="159" width="28" height="11" font="6">5 mi. </text>
+<text top="534" left="363" width="32" height="11" font="6">+25% </text>
+<text top="534" left="480" width="9" height="11" font="6">2 </text>
+<text top="534" left="609" width="15" height="11" font="6">** </text>
+<text top="534" left="665" width="15" height="11" font="6">** </text>
+<text top="534" left="719" width="21" height="11" font="6">180 </text>
+<text top="534" left="776" width="21" height="11" font="6">740 </text>
+<text top="534" left="836" width="21" height="11" font="6">980 </text>
+<text top="551" left="156" width="34" height="11" font="6">10 mi. </text>
+<text top="551" left="363" width="32" height="11" font="6">+10% </text>
+<text top="552" left="627" width="98" height="10" font="40"><b>BICYCLE MODE </b></text>
+<text top="565" left="69" width="3" height="11" font="6"> </text>
+<text top="565" left="195" width="3" height="11" font="6"> </text>
+<text top="565" left="252" width="3" height="11" font="6"> </text>
+<text top="565" left="311" width="3" height="11" font="6"> </text>
+<text top="565" left="373" width="3" height="11" font="6"> </text>
+<text top="565" left="439" width="3" height="11" font="6"> </text>
+<text top="582" left="69" width="3" height="11" font="6"> </text>
+<text top="582" left="195" width="3" height="11" font="6"> </text>
+<text top="582" left="251" width="3" height="11" font="6"> </text>
+<text top="582" left="311" width="3" height="11" font="6"> </text>
+<text top="582" left="373" width="3" height="11" font="6"> </text>
+<text top="582" left="434" width="3" height="11" font="6"> </text>
+<text top="565" left="480" width="375" height="11" font="6">(Note: Level of service for the bicycle mode in this table is based on roadway </text>
+<text top="579" left="480" width="353" height="11" font="6">geometrics at 45 mph posted speed and traffic conditions, not number of  </text>
+<text top="597" left="146" width="245" height="10" font="40"><b>ISOLATED SIGNALIZED INTERSECTIONS </b></text>
+<text top="596" left="480" width="358" height="11" font="6">bicyclists using the facility.) (Multiply motorized vehicle volumes shown  </text>
+<text top="610" left="69" width="3" height="11" font="6"> </text>
+<text top="610" left="176" width="3" height="11" font="6"> </text>
+<text top="610" left="231" width="3" height="11" font="6"> </text>
+<text top="610" left="291" width="3" height="11" font="6"> </text>
+<text top="610" left="349" width="3" height="11" font="6"> </text>
+<text top="610" left="412" width="3" height="11" font="6"> </text>
+<text top="610" left="480" width="378" height="11" font="6">below by number of directional roadway lanes to determine maximum service </text>
+<text top="623" left="114" width="3" height="11" font="6"> </text>
+<text top="623" left="281" width="82" height="11" font="6">Level of Service </text>
+<text top="623" left="481" width="51" height="11" font="6">volumes.) </text>
+<text top="637" left="69" width="224" height="11" font="6">Lanes A </text>
+<text top="637" left="249" width="101" height="11" font="6">B </text>
+<text top="637" left="308" width="101" height="11" font="6">C </text>
+<text top="637" left="368" width="102" height="11" font="6">D </text>
+<text top="637" left="435" width="101" height="11" font="6">E </text>
+<text top="637" left="480" width="93" height="11" font="6"> </text>
+<text top="637" left="592" width="93" height="11" font="6"> </text>
+<text top="637" left="647" width="93" height="11" font="6"> </text>
+<text top="637" left="701" width="93" height="11" font="6"> </text>
+<text top="637" left="762" width="93" height="11" font="6"> </text>
+<text top="637" left="814" width="93" height="11" font="6"> </text>
+<text top="651" left="69" width="247" height="11" font="6">2 ** </text>
+<text top="651" left="243" width="132" height="11" font="6">180 </text>
+<text top="651" left="304" width="132" height="11" font="6">780 </text>
+<text top="651" left="360" width="141" height="11" font="6">1,050 </text>
+<text top="651" left="425" width="141" height="11" font="6">1,190 </text>
+<text top="651" left="490" width="144" height="11" font="6">Paved </text>
+<text top="651" left="522" width="161" height="11" font="6">Shoulder/ </text>
+<text top="651" left="594" width="114" height="11" font="6"> </text>
+<text top="651" left="649" width="114" height="11" font="6"> </text>
+<text top="651" left="703" width="114" height="11" font="6"> </text>
+<text top="651" left="764" width="114" height="11" font="6"> </text>
+<text top="651" left="815" width="114" height="11" font="6"> </text>
+<text top="665" left="69" width="9" height="11" font="6">4 </text>
+<text top="665" left="189" width="15" height="11" font="6">** </text>
+<text top="665" left="243" width="21" height="11" font="6">290 </text>
+<text top="665" left="299" width="30" height="11" font="6">1,700 </text>
+<text top="665" left="360" width="30" height="11" font="6">2,250 </text>
+<text top="665" left="425" width="30" height="11" font="6">2,470 </text>
+<text top="665" left="497" width="67" height="11" font="6">Bicycle Lane </text>
+<text top="665" left="692" width="82" height="11" font="6">Level of Service </text>
+<text top="679" left="69" width="247" height="11" font="6">6 ** </text>
+<text top="679" left="243" width="132" height="11" font="6">440 </text>
+<text top="679" left="299" width="141" height="11" font="6">2,660 </text>
+<text top="679" left="360" width="141" height="11" font="6">3,480 </text>
+<text top="679" left="425" width="141" height="11" font="6">4,220 </text>
+<text top="679" left="506" width="160" height="11" font="6">Coverage </text>
+<text top="679" left="610" width="123" height="11" font="6">A </text>
+<text top="679" left="666" width="122" height="11" font="6">B </text>
+<text top="679" left="723" width="122" height="11" font="6">C </text>
+<text top="679" left="779" width="123" height="11" font="6">D </text>
+<text top="679" left="841" width="122" height="11" font="6">E </text>
+<text top="697" left="176" width="3" height="10" font="40"><b> </b></text>
+<text top="697" left="231" width="3" height="10" font="40"><b> </b></text>
+<text top="697" left="290" width="3" height="10" font="40"><b> </b></text>
+<text top="697" left="351" width="3" height="10" font="40"><b> </b></text>
+<text top="697" left="412" width="3" height="10" font="40"><b> </b></text>
+<text top="696" left="513" width="170" height="11" font="6">0-49% ** </text>
+<text top="696" left="664" width="75" height="11" font="6">** </text>
+<text top="696" left="718" width="81" height="11" font="6">270 </text>
+<text top="696" left="775" width="81" height="11" font="6">670 </text>
+<text top="696" left="832" width="88" height="11" font="6">&gt;670 </text>
+<text top="710" left="219" width="98" height="10" font="40"><b>BICYCLE MODE </b></text>
+<text top="710" left="511" width="171" height="11" font="6">50-84% ** </text>
+<text top="710" left="662" width="79" height="11" font="6">200 </text>
+<text top="710" left="719" width="79" height="11" font="6">340 </text>
+<text top="710" left="772" width="85" height="11" font="6">&gt;340 </text>
+<text top="710" left="836" width="79" height="11" font="6">*** </text>
+<text top="723" left="508" width="171" height="11" font="6">85-100% 280 </text>
+<text top="723" left="662" width="73" height="11" font="6">390 </text>
+<text top="723" left="716" width="79" height="11" font="6">&gt;390 </text>
+<text top="723" left="776" width="73" height="11" font="6">*** </text>
+<text top="723" left="836" width="73" height="11" font="6">*** </text>
+<text top="737" left="69" width="375" height="11" font="6">(Note: Level of service for the bicycle mode in this table is based on roadway </text>
+<text top="737" left="480" width="3" height="11" font="6"> </text>
+<text top="737" left="615" width="3" height="11" font="6"> </text>
+<text top="737" left="671" width="3" height="11" font="6"> </text>
+<text top="737" left="728" width="3" height="11" font="6"> </text>
+<text top="737" left="785" width="3" height="11" font="6"> </text>
+<text top="737" left="845" width="3" height="11" font="6"> </text>
+<text top="755" left="69" width="353" height="11" font="6">geometrics at 55 mph posted speed and traffic conditions, not number of  </text>
+<text top="755" left="616" width="121" height="10" font="40"><b>PEDESTRIAN MODE </b></text>
+<text top="768" left="69" width="387" height="11" font="6">bicyclists using the facility.) (Multiply motorized vehicle volumes shown below </text>
+<text top="768" left="480" width="349" height="11" font="6">(Note: Level of service for the pedestrian mode in this table is based on  </text>
+<text top="782" left="69" width="339" height="11" font="6">by directional roadway lanes to determine maximum service volume.) </text>
+<text top="782" left="480" width="377" height="11" font="6">roadway geometric at 45 mph posted speed and traffic conditions, not number </text>
+<text top="796" left="69" width="3" height="11" font="6"> </text>
+<text top="796" left="195" width="3" height="11" font="6"> </text>
+<text top="796" left="253" width="3" height="11" font="6"> </text>
+<text top="796" left="317" width="3" height="11" font="6"> </text>
+<text top="796" left="380" width="3" height="11" font="6"> </text>
+<text top="796" left="441" width="3" height="11" font="6"> </text>
+<text top="796" left="480" width="372" height="11" font="6">of pedestrian using the facility.) (Multiply motorized vehicle volumes shown </text>
+<text top="810" left="75" width="82" height="11" font="6">Paved Shoulder/ </text>
+<text top="810" left="195" width="3" height="11" font="6"> </text>
+<text top="810" left="253" width="3" height="11" font="6"> </text>
+<text top="810" left="317" width="3" height="11" font="6"> </text>
+<text top="810" left="380" width="3" height="11" font="6"> </text>
+<text top="810" left="441" width="3" height="11" font="6"> </text>
+<text top="810" left="480" width="349" height="11" font="6">by number of directional roadway lanes to determine maximum service  </text>
+<text top="823" left="83" width="67" height="11" font="6">Bicycle Lane </text>
+<text top="823" left="320" width="3" height="11" font="6"> </text>
+<text top="823" left="480" width="50" height="11" font="6">volumes.) </text>
+<text top="837" left="91" width="49" height="11" font="6">Coverage </text>
+<text top="837" left="191" width="12" height="11" font="6">A </text>
+<text top="837" left="249" width="11" height="11" font="6">B </text>
+<text top="837" left="310" width="11" height="11" font="6">C </text>
+<text top="837" left="371" width="12" height="11" font="6">D </text>
+<text top="837" left="436" width="13" height="11" font="6">E  </text>
+<text top="837" left="480" width="3" height="11" font="6"> </text>
+<text top="837" left="693" width="82" height="11" font="6">Level of Service </text>
+<text top="851" left="98" width="81" height="11" font="6">0-49% </text>
+<text top="851" left="189" width="308" height="11" font="6">** ** ** ** 610 </text>
+<text top="851" left="480" width="94" height="11" font="6">Sidewalk </text>
+<text top="851" left="528" width="95" height="11" font="6">Coverage </text>
+<text top="851" left="611" width="287" height="11" font="6">A B C D  E </text>
+<text top="865" left="95" width="162" height="11" font="6">50-84% ** </text>
+<text top="865" left="247" width="68" height="11" font="6">** </text>
+<text top="865" left="308" width="68" height="11" font="6">** </text>
+<text top="865" left="369" width="68" height="11" font="6">** </text>
+<text top="865" left="426" width="251" height="11" font="6">1,720  0-49%  ** </text>
+<text top="865" left="665" width="68" height="11" font="6">** </text>
+<text top="865" left="722" width="68" height="11" font="6">** </text>
+<text top="865" left="776" width="74" height="11" font="6">430 </text>
+<text top="865" left="832" width="83" height="11" font="6">1,370 </text>
+<text top="879" left="92" width="162" height="11" font="6">85-100% ** </text>
+<text top="879" left="247" width="65" height="11" font="6">** </text>
+<text top="879" left="305" width="71" height="11" font="6">390 </text>
+<text top="879" left="363" width="78" height="11" font="6">&gt;390 </text>
+<text top="879" left="430" width="71" height="11" font="6">*** </text>
+<text top="879" left="511" width="163" height="11" font="6">50-84%  ** </text>
+<text top="879" left="665" width="65" height="11" font="6">** </text>
+<text top="879" left="722" width="65" height="11" font="6">** </text>
+<text top="879" left="776" width="71" height="11" font="6">780 </text>
+<text top="879" left="832" width="80" height="11" font="6">1,750 </text>
+<text top="892" left="69" width="215" height="11" font="6">  </text>
+<text top="892" left="231" width="107" height="11" font="6"> </text>
+<text top="892" left="292" width="107" height="11" font="6"> </text>
+<text top="892" left="353" width="107" height="11" font="6"> </text>
+<text top="892" left="415" width="107" height="11" font="6"> </text>
+<text top="892" left="508" width="151" height="11" font="6">85-100% </text>
+<text top="892" left="609" width="119" height="11" font="6">** </text>
+<text top="892" left="665" width="119" height="11" font="6">** </text>
+<text top="892" left="719" width="125" height="11" font="6">920 </text>
+<text top="892" left="772" width="132" height="11" font="6">&gt;920 </text>
+<text top="892" left="836" width="125" height="11" font="6">*** </text>
+<text top="909" left="305" width="40" height="10" font="36">02/22/02 </text>
+<text top="910" left="360" width="511" height="9" font="41"><b>NON-FREEWAY AND SIGNALIZED INTERSECTION ANALYSES DIVIDED/UNDIVIDED ADJUSTMENTS </b></text>
+<text top="922" left="69" width="43" height="11" font="6">Source:  </text>
+<text top="922" left="123" width="184" height="11" font="6">Florida Department of Transportation </text>
+<text top="922" left="483" width="265" height="11" font="6">(alter corresponding volumes by the indicated percent) </text>
+<text top="936" left="69" width="3" height="11" font="6"> </text>
+<text top="936" left="81" width="3" height="11" font="6"> </text>
+<text top="936" left="123" width="122" height="11" font="6">Systems Planning Office </text>
+<text top="936" left="397" width="32" height="11" font="6">Lanes </text>
+<text top="936" left="520" width="40" height="11" font="6">Median </text>
+<text top="936" left="632" width="81" height="11" font="6">Left Turn Lanes </text>
+<text top="936" left="760" width="97" height="11" font="6">Adjustment Factors </text>
+<text top="950" left="69" width="3" height="11" font="6"> </text>
+<text top="950" left="81" width="3" height="11" font="6"> </text>
+<text top="950" left="108" width="3" height="11" font="6"> </text>
+<text top="950" left="121" width="143" height="11" font="6">605 Suwannee Street, MS 19 </text>
+<text top="950" left="409" width="9" height="11" font="6">2 </text>
+<text top="950" left="519" width="42" height="11" font="6">Divided </text>
+<text top="950" left="661" width="22" height="11" font="6">Yes </text>
+<text top="950" left="796" width="26" height="11" font="6">+5% </text>
+<text top="964" left="69" width="3" height="11" font="6"> </text>
+<text top="964" left="81" width="3" height="11" font="6"> </text>
+<text top="964" left="108" width="3" height="11" font="6"> </text>
+<text top="964" left="123" width="140" height="11" font="6">Tallahassee, FL 32399-0450 </text>
+<text top="964" left="409" width="9" height="11" font="6">2 </text>
+<text top="964" left="513" width="54" height="11" font="6">Undivided </text>
+<text top="964" left="663" width="18" height="11" font="6">No </text>
+<text top="964" left="795" width="29" height="11" font="6">-20% </text>
+<text top="978" left="69" width="24" height="11" font="6">  </text>
+<text top="978" left="398" width="39" height="11" font="6">Multi </text>
+<text top="978" left="513" width="63" height="11" font="6">Undivided </text>
+<text top="978" left="661" width="31" height="11" font="6">Yes </text>
+<text top="978" left="797" width="32" height="11" font="6">-5% </text>
+<text top="992" left="69" width="412" height="11" font="6">http://www11.myflorida.com/planning/systems/sm/los/default.htm Multi </text>
+<text top="992" left="513" width="106" height="11" font="6">Undivided </text>
+<text top="992" left="663" width="70" height="11" font="6">No </text>
+<text top="992" left="794" width="82" height="11" font="6">-25% </text>
+<text top="1009" left="69" width="762" height="8" font="42">*This table does not constitute a standard and should be used only for general planning applications. The computer models from which this table is derived should be used for more specific planning applications. </text>
+<text top="1019" left="69" width="731" height="8" font="42">The table and deriving computer models should not be used for corridor or intersection design, where more refined techniques exist. Values shown are two-way annual average daily volumes (based on K</text>
+<text top="1023" left="800" width="12" height="5" font="18">100  </text>
+<text top="1019" left="812" width="42" height="8" font="42">factors) for </text>
+<text top="1030" left="69" width="782" height="8" font="42">levels of service and are for the automobile/truck modes unless specifically stated. Level of service letter grade thresholds are probably not comparable across modes and, therefore, cross modal comparisons should be </text>
+<text top="1040" left="69" width="784" height="8" font="42">made with caution. Furthermore, combining levels of service of different modes into one overall roadway level of service is not recommended. The table’s input value defaults and level of service criteria appear on the </text>
+<text top="1050" left="69" width="785" height="8" font="42">following page. Calculations are based on planning applications of the Highway Capacity Manual, Bicycle LOS Model, and Pedestrian LOS Model, respectively for the automobile/truck, bicycle and pedestrian modes. </text>
+<text top="1061" left="69" width="199" height="8" font="42">**Cannot be achieved using table input value defaults. </text>
+<text top="1071" left="69" width="794" height="8" font="42">***Not applicable for the level of service letter grade. For bicycle and pedestrian modes, the level of service letter grade (including F) is not achievable, because there is no maximum vehicle volume threshold using table </text>
+<text top="1081" left="69" width="75" height="8" font="42">input value defaults. </text>
+<text top="1086" left="849" width="20" height="20" font="30">95</text>
+</page>
+<page number="39" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="473" width="5" height="16" font="5"> </text>
+<text top="112" left="108" width="5" height="16" font="5"> </text>
+<text top="143" left="108" width="5" height="16" font="5"> </text>
+<text top="174" left="108" width="5" height="16" font="5"> </text>
+<text top="205" left="108" width="5" height="16" font="5"> </text>
+<text top="236" left="108" width="5" height="16" font="5"> </text>
+<text top="268" left="108" width="5" height="16" font="5"> </text>
+<text top="299" left="108" width="5" height="16" font="5"> </text>
+<text top="330" left="108" width="5" height="16" font="5"> </text>
+<text top="361" left="108" width="5" height="16" font="5"> </text>
+<text top="392" left="108" width="5" height="16" font="5"> </text>
+<text top="423" left="108" width="5" height="16" font="5"> </text>
+<text top="454" left="426" width="97" height="16" font="4"><b>Appendix D </b></text>
+<text top="485" left="473" width="5" height="16" font="4"><b> </b></text>
+<text top="516" left="370" width="209" height="16" font="4"><b>HCS Analyses Worksheets </b></text>
+<text top="547" left="473" width="5" height="16" font="4"><b> </b></text>
+<text top="578" left="108" width="5" height="16" font="5"> </text>
+<text top="609" left="108" width="5" height="16" font="5"> </text>
+<text top="640" left="108" width="5" height="16" font="5"> </text>
+<text top="671" left="108" width="5" height="16" font="5"> </text>
+<text top="702" left="108" width="5" height="16" font="5"> </text>
+<text top="733" left="108" width="5" height="16" font="5"> </text>
+<text top="764" left="108" width="5" height="16" font="5"> </text>
+<text top="795" left="108" width="5" height="16" font="5"> </text>
+<text top="826" left="108" width="5" height="16" font="5"> </text>
+<text top="857" left="108" width="5" height="16" font="5"> </text>
+<text top="888" left="108" width="5" height="16" font="5"> </text>
+<text top="919" left="108" width="5" height="16" font="5"> </text>
+<text top="951" left="108" width="5" height="16" font="5"> </text>
+<text top="982" left="108" width="5" height="16" font="5"> </text>
+<text top="1013" left="108" width="5" height="16" font="5"> </text>
+<text top="1044" left="108" width="5" height="16" font="5"> </text>
+<text top="1075" left="108" width="5" height="16" font="5"> </text>
+</page>
+<page number="40" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="18" left="26" width="796" height="12" font="22">              HCS2000: Unsignalized Intersections Release 4.1d                 </text>
+<text top="36" left="26" width="796" height="12" font="22">                                                                               </text>
+<text top="53" left="26" width="796" height="12" font="22">_______________________TWO-WAY STOP CONTROL SUMMARY___________________________ </text>
+<text top="71" left="26" width="796" height="12" font="22">                                                                               </text>
+<text top="89" left="26" width="796" height="12" font="22">Analyst:              FTE                                                      </text>
+<text top="107" left="26" width="796" height="12" font="22">Agency/Co.:                                                                    </text>
+<text top="125" left="26" width="796" height="12" font="22">Date Performed:       11/7/2006                                                </text>
+<text top="143" left="26" width="796" height="12" font="22">Analysis Time Period: PM Peak Hour                                             </text>
+<text top="161" left="26" width="796" height="12" font="22">Intersection:         Kings Highway and Peace River                            </text>
+<text top="179" left="26" width="796" height="12" font="22">Jurisdiction:         Desoto County                                            </text>
+<text top="196" left="26" width="796" height="12" font="22">Units: U. S. Customary                                                         </text>
+<text top="214" left="26" width="796" height="12" font="22">Analysis Year:        2006 Existing                                            </text>
+<text top="232" left="26" width="796" height="12" font="22">Project ID:  106050-01                                                         </text>
+<text top="250" left="26" width="796" height="12" font="22">East/West Street:     Peace River Street                                       </text>
+<text top="268" left="26" width="796" height="12" font="22">North/South Street:   Kings Highway                                            </text>
+<text top="286" left="26" width="796" height="12" font="22">Intersection Orientation: NS                 Study period (hrs):  0.25         </text>
+<text top="303" left="26" width="796" height="12" font="22">                                                                               </text>
+<text top="321" left="26" width="796" height="12" font="22">______________________Vehicle Volumes and Adjustments_________________________ </text>
+<text top="339" left="26" width="796" height="12" font="22">Major Street:  Approach        Northbound             Southbound               </text>
+<text top="357" left="26" width="796" height="12" font="22">               Movement     1      2      3     |  4      5      6             </text>
+<text top="375" left="26" width="796" height="12" font="22">                            L      T      R     |  L      T      R             </text>
+<text top="393" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="411" left="26" width="796" height="12" font="22">Volume                             517    52       4      338                  </text>
+<text top="428" left="26" width="796" height="12" font="22">Peak-Hour Factor, PHF              0.95   0.95     0.95   0.95                 </text>
+<text top="446" left="26" width="796" height="12" font="22">Hourly Flow Rate, HFR              544    54       4      355                  </text>
+<text top="464" left="26" width="796" height="12" font="22">Percent Heavy Vehicles             --     --       0      --     --            </text>
+<text top="482" left="26" width="796" height="12" font="22">Median Type/Storage         Undivided             /                            </text>
+<text top="500" left="26" width="796" height="12" font="22">RT Channelized?                          No                                    </text>
+<text top="518" left="26" width="796" height="12" font="22">Lanes                              1    1             1   1                    </text>
+<text top="535" left="26" width="796" height="12" font="22">Configuration                      T   R               L  T                    </text>
+<text top="553" left="26" width="796" height="12" font="22">Upstream Signal?                   No                     No                   </text>
+<text top="571" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="589" left="26" width="796" height="12" font="22">Minor Street:  Approach        Westbound              Eastbound                </text>
+<text top="607" left="26" width="796" height="12" font="22">               Movement     7      8      9     |  10     11     12            </text>
+<text top="625" left="26" width="796" height="12" font="22">                            L      T      R     |  L      T      R             </text>
+<text top="643" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="660" left="26" width="796" height="12" font="22">Volume                      26            7                                    </text>
+<text top="678" left="26" width="796" height="12" font="22">Peak Hour Factor, PHF       0.95          0.95                                 </text>
+<text top="696" left="26" width="796" height="12" font="22">Hourly Flow Rate, HFR       27            7                                    </text>
+<text top="714" left="26" width="796" height="12" font="22">Percent Heavy Vehicles      0             0                                    </text>
+<text top="732" left="26" width="796" height="12" font="22">Percent Grade (%)                  0                      0                    </text>
+<text top="750" left="26" width="796" height="12" font="22">Flared Approach:  Exists?/Storage         No     /                     /       </text>
+<text top="768" left="26" width="796" height="12" font="22">Lanes                          0        0                                      </text>
+<text top="785" left="26" width="796" height="12" font="22">Configuration                      LR                                          </text>
+<text top="803" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="821" left="26" width="796" height="12" font="22">                                                                               </text>
+<text top="839" left="26" width="796" height="12" font="22">__________________Delay, Queue Length, and Level of Service___________________ </text>
+<text top="857" left="26" width="796" height="12" font="22">Approach            NB     SB        Westbound             Eastbound           </text>
+<text top="875" left="26" width="796" height="12" font="22">Movement            1      4   |  7      8      9    |  10     11     12       </text>
+<text top="892" left="26" width="796" height="12" font="22">Lane Config                L   |         LR          |                         </text>
+<text top="910" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="928" left="26" width="796" height="12" font="22">v (vph)                    4             34                                    </text>
+<text top="946" left="26" width="796" height="12" font="22">C(m) (vph)                 989           338                                   </text>
+<text top="964" left="26" width="796" height="12" font="22">v/c                        0.00          0.10                                  </text>
+<text top="982" left="26" width="796" height="12" font="22">95% queue length           0.01          0.33                                  </text>
+<text top="1000" left="26" width="796" height="12" font="22">Control Delay              8.7           16.8                                  </text>
+<text top="1017" left="26" width="796" height="12" font="22">LOS                         A             C                                    </text>
+<text top="1035" left="26" width="796" height="12" font="22">Approach Delay                           16.8                                  </text>
+<text top="1053" left="26" width="796" height="12" font="22">Approach LOS                              C                                    </text>
+<text top="1071" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="1089" left="26" width="796" height="12" font="22">                                                                               </text>
+</page>
+<page number="41" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="18" left="26" width="796" height="12" font="22">              HCS2000: Unsignalized Intersections Release 4.1d                 </text>
+<text top="36" left="26" width="796" height="12" font="22">                                                                               </text>
+<text top="53" left="26" width="796" height="12" font="22">_______________________TWO-WAY STOP CONTROL SUMMARY___________________________ </text>
+<text top="71" left="26" width="796" height="12" font="22">                                                                               </text>
+<text top="89" left="26" width="796" height="12" font="22">Analyst:              FTE                                                      </text>
+<text top="107" left="26" width="796" height="12" font="22">Agency/Co.:                                                                    </text>
+<text top="125" left="26" width="796" height="12" font="22">Date Performed:       11/7/2006                                                </text>
+<text top="143" left="26" width="796" height="12" font="22">Analysis Time Period: PM Peak Hour                                             </text>
+<text top="161" left="26" width="796" height="12" font="22">Intersection:         Kings Highway and Peace River                            </text>
+<text top="179" left="26" width="796" height="12" font="22">Jurisdiction:         Desoto County                                            </text>
+<text top="196" left="26" width="796" height="12" font="22">Units: U. S. Customary                                                         </text>
+<text top="214" left="26" width="796" height="12" font="22">Analysis Year:        2015 Total                                               </text>
+<text top="232" left="26" width="796" height="12" font="22">Project ID:  106050-01                                                         </text>
+<text top="250" left="26" width="796" height="12" font="22">East/West Street:     Peace River Street                                       </text>
+<text top="268" left="26" width="796" height="12" font="22">North/South Street:   Kings Highway                                            </text>
+<text top="286" left="26" width="796" height="12" font="22">Intersection Orientation: NS                 Study period (hrs):  0.25         </text>
+<text top="303" left="26" width="796" height="12" font="22">                                                                               </text>
+<text top="321" left="26" width="796" height="12" font="22">______________________Vehicle Volumes and Adjustments_________________________ </text>
+<text top="339" left="26" width="796" height="12" font="22">Major Street:  Approach        Northbound             Southbound               </text>
+<text top="357" left="26" width="796" height="12" font="22">               Movement     1      2      3     |  4      5      6             </text>
+<text top="375" left="26" width="796" height="12" font="22">                            L      T      R     |  L      T      R             </text>
+<text top="393" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="411" left="26" width="796" height="12" font="22">Volume                             727    346      98     467                  </text>
+<text top="428" left="26" width="796" height="12" font="22">Peak-Hour Factor, PHF              0.95   0.95     0.95   0.95                 </text>
+<text top="446" left="26" width="796" height="12" font="22">Hourly Flow Rate, HFR              765    364      103    491                  </text>
+<text top="464" left="26" width="796" height="12" font="22">Percent Heavy Vehicles             --     --       0      --     --            </text>
+<text top="482" left="26" width="796" height="12" font="22">Median Type/Storage         Undivided             /                            </text>
+<text top="500" left="26" width="796" height="12" font="22">RT Channelized?                          No                                    </text>
+<text top="518" left="26" width="796" height="12" font="22">Lanes                              2    1             1   1                    </text>
+<text top="535" left="26" width="796" height="12" font="22">Configuration                      T   R               L  T                    </text>
+<text top="553" left="26" width="796" height="12" font="22">Upstream Signal?                   No                     No                   </text>
+<text top="571" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="589" left="26" width="796" height="12" font="22">Minor Street:  Approach        Westbound              Eastbound                </text>
+<text top="607" left="26" width="796" height="12" font="22">               Movement     7      8      9     |  10     11     12            </text>
+<text top="625" left="26" width="796" height="12" font="22">                            L      T      R     |  L      T      R             </text>
+<text top="643" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="660" left="26" width="796" height="12" font="22">Volume                      188           60                                   </text>
+<text top="678" left="26" width="796" height="12" font="22">Peak Hour Factor, PHF       0.95          0.95                                 </text>
+<text top="696" left="26" width="796" height="12" font="22">Hourly Flow Rate, HFR       197           63                                   </text>
+<text top="714" left="26" width="796" height="12" font="22">Percent Heavy Vehicles      0             0                                    </text>
+<text top="732" left="26" width="796" height="12" font="22">Percent Grade (%)                  0                      0                    </text>
+<text top="750" left="26" width="796" height="12" font="22">Flared Approach:  Exists?/Storage         No     /                     /       </text>
+<text top="768" left="26" width="796" height="12" font="22">Lanes                          0        0                                      </text>
+<text top="785" left="26" width="796" height="12" font="22">Configuration                      LR                                          </text>
+<text top="803" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="821" left="26" width="796" height="12" font="22">                                                                               </text>
+<text top="839" left="26" width="796" height="12" font="22">__________________Delay, Queue Length, and Level of Service___________________ </text>
+<text top="857" left="26" width="796" height="12" font="22">Approach            NB     SB        Westbound             Eastbound           </text>
+<text top="875" left="26" width="796" height="12" font="22">Movement            1      4   |  7      8      9    |  10     11     12       </text>
+<text top="892" left="26" width="796" height="12" font="22">Lane Config                L   |         LR          |                         </text>
+<text top="910" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="928" left="26" width="796" height="12" font="22">v (vph)                    103           260                                   </text>
+<text top="946" left="26" width="796" height="12" font="22">C(m) (vph)                 626           128                                   </text>
+<text top="964" left="26" width="796" height="12" font="22">v/c                        0.16          2.03                                  </text>
+<text top="982" left="26" width="796" height="12" font="22">95% queue length           0.59          21.12                                 </text>
+<text top="1000" left="26" width="796" height="12" font="22">Control Delay              11.9          547.2                                 </text>
+<text top="1017" left="26" width="796" height="12" font="22">LOS                         B             F                                    </text>
+<text top="1035" left="26" width="796" height="12" font="22">Approach Delay                           547.2                                 </text>
+<text top="1053" left="26" width="796" height="12" font="22">Approach LOS                              F                                    </text>
+<text top="1071" left="26" width="796" height="12" font="22">______________________________________________________________________________ </text>
+<text top="1089" left="26" width="796" height="12" font="22">                                                                               </text>
+</page>
+<page number="42" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="57" left="135" width="126" height="11" font="6">Desoto 300 Development </text>
+<text top="70" left="135" width="104" height="11" font="6">Traffic Impact Study </text>
+<text top="1118" left="473" width="5" height="16" font="5"> </text>
+<text top="112" left="108" width="5" height="16" font="5"> </text>
+<text top="143" left="108" width="5" height="16" font="5"> </text>
+<text top="174" left="108" width="5" height="16" font="5"> </text>
+<text top="205" left="108" width="5" height="16" font="5"> </text>
+<text top="236" left="108" width="5" height="16" font="5"> </text>
+<text top="268" left="108" width="5" height="16" font="5"> </text>
+<text top="299" left="108" width="5" height="16" font="5"> </text>
+<text top="330" left="108" width="5" height="16" font="5"> </text>
+<text top="361" left="108" width="5" height="16" font="5"> </text>
+<text top="392" left="108" width="5" height="16" font="5"> </text>
+<text top="423" left="108" width="5" height="16" font="5"> </text>
+<text top="454" left="427" width="96" height="16" font="4"><b>Appendix E </b></text>
+<text top="485" left="312" width="325" height="16" font="4"><b>M.D. Harmelink Left Turn Study Figures </b></text>
+<text top="516" left="456" width="37" height="16" font="4"><b>And </b></text>
+<text top="547" left="290" width="358" height="16" font="4"><b>Guidelines for Exclusive Right Turn Lanes At </b></text>
+<text top="578" left="358" width="207" height="16" font="4"><b>Unsignalized Intersections</b> </text>
+<text top="609" left="108" width="5" height="16" font="5"> </text>
+<text top="640" left="108" width="5" height="16" font="5"> </text>
+<text top="671" left="108" width="5" height="16" font="5"> </text>
+<text top="702" left="108" width="5" height="16" font="5"> </text>
+<text top="733" left="108" width="5" height="16" font="5"> </text>
+<text top="764" left="108" width="5" height="16" font="5"> </text>
+<text top="795" left="108" width="5" height="16" font="5"> </text>
+<text top="832" left="108" width="5" height="16" font="5"> </text>
+<text top="828" left="351" width="6" height="22" font="17"> </text>
+</page>
+<page number="43" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="44" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+<page number="45" position="absolute" top="0" left="0" height="1191" width="906">
+</page>
+</pdf2xml>

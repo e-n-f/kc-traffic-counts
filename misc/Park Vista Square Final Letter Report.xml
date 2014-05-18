@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.26.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="14" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+<text top="216" left="216" width="97" height="18" font="0"><i><b>Memorandum</b></i></text>
+<text top="292" left="216" width="23" height="18" font="1">To:</text>
+<text top="292" left="340" width="119" height="18" font="1">Mr. Mr. Bill Phua</text>
+<text top="330" left="216" width="40" height="18" font="1">From:</text>
+<text top="330" left="340" width="363" height="18" font="1">Kwasi Akwabi P.E., Kimley-Horn and Associates, Inc.</text>
+<text top="368" left="216" width="36" height="18" font="1">Date:</text>
+<text top="368" left="340" width="92" height="18" font="1">June 11, 2009</text>
+<text top="406" left="216" width="54" height="18" font="1">Subject:</text>
+<text top="406" left="340" width="346" height="18" font="1">Park Vista Square Development, Left-Turn Analysis</text>
+<text top="444" left="216" width="90" height="18" font="2"><b>Introduction</b></text>
+<text top="482" left="216" width="490" height="18" font="1">This report presents the findings of a traffic study performed to review the</text>
+<text top="501" left="216" width="509" height="18" font="1">impacts of removing the left-turn restriction along Park Street at Buena Vista</text>
+<text top="519" left="216" width="502" height="18" font="1">Avenue in Alameda, California upon completion of the proposed Park Vista</text>
+<text top="539" left="216" width="506" height="18" font="1">Square development located at the northeast corner of Park Street and Buena</text>
+<text top="558" left="216" width="537" height="18" font="1">Vista Avenue.  The City of Alameda currently restricts left-turn movements from</text>
+<text top="576" left="216" width="507" height="18" font="1">northbound Park Street and also from southbound Park Street to Buena Vista</text>
+<text top="595" left="216" width="510" height="18" font="1">Avenue Monday through Friday between the hours of 3:30 PM and 6:00 PM.</text>
+<text top="634" left="216" width="167" height="18" font="2"><b>Purpose and Objectives</b></text>
+<text top="671" left="216" width="529" height="18" font="1">Kimley-Horn and Associates, Inc., has been retained by the project applicant, to</text>
+<text top="690" left="216" width="482" height="18" font="1">prepare the traffic analysis to review the impact of removing the left-turn</text>
+<text top="709" left="216" width="478" height="18" font="1">restriction in both directions on Park Street at Buena Vista Avenue upon</text>
+<text top="728" left="216" width="398" height="18" font="1">completion of the proposed Park Vista Square development.</text>
+<text top="766" left="216" width="534" height="18" font="1">The purpose of this study is to document PM intersection operations between the</text>
+<text top="785" left="216" width="491" height="18" font="1">hours of 3:30 PM and 6:00 PM on a typical weekday.  This study will also</text>
+<text top="804" left="216" width="524" height="18" font="1">review and discuss potential impacts to intersection operations as a result of the</text>
+<text top="823" left="216" width="533" height="18" font="1">proposed Park Vista Square Development site traffic combined with the removal</text>
+<text top="842" left="216" width="534" height="18" font="1">of the left-turn restriction at Buena Vista Avenue.  The specific objectives of this</text>
+<text top="861" left="216" width="64" height="18" font="1">study are:</text>
+<text top="899" left="270" width="473" height="18" font="1">To conduct existing PM peak hour traffic counts and document existing</text>
+<text top="918" left="270" width="227" height="18" font="1">traffic operations during that time;</text>
+<text top="937" left="270" width="420" height="18" font="1">To determine the level of service (LOS) at which the study area</text>
+<text top="956" left="270" width="385" height="18" font="1">intersection currently operates during the PM peak period;</text>
+<text top="975" left="270" width="463" height="18" font="1">To calculate the LOS at which the study area intersection may operate</text>
+<text top="994" left="270" width="458" height="18" font="1">during the PM peak period upon completion of the Park Vista Square</text>
+<text top="1013" left="270" width="466" height="18" font="1">development, and removal of the left-turn restriction in both directions</text>
+<text top="1032" left="270" width="283" height="18" font="1">on Park Street at Buena Vista Avenue; and</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+<text top="1074" left="482" width="8" height="17" font="3">2</text>
+<text top="216" left="270" width="425" height="18" font="1">To evaluate the overall impact to intersection LOS assuming the</text>
+<text top="235" left="270" width="397" height="18" font="1">development is built and the left-turn restriction is removed.</text>
+<text top="273" left="216" width="80" height="18" font="2"><b>Study Area</b></text>
+<text top="311" left="216" width="501" height="18" font="1">The study intersection is located on Alameda Island in the City of Alameda,</text>
+<text top="330" left="216" width="516" height="18" font="1">California.  Alameda is adjacent to the City of Oakland with three bridges and</text>
+<text top="349" left="216" width="345" height="18" font="1">one tunnel connecting traffic between the two cities.</text>
+<text top="387" left="216" width="516" height="18" font="1">Park Street is a north/south arterial that connects the City of Alameda with the</text>
+<text top="406" left="216" width="508" height="18" font="1">City of Oakland.  Park Street is a four-lane road (two lanes in each direction)</text>
+<text top="425" left="216" width="514" height="18" font="1">with no dedicated turn lanes at its intersection with Buena Vista Avenue.  On-</text>
+<text top="444" left="216" width="383" height="18" font="1">street parking is permitted along both sides of Park Street.</text>
+<text top="482" left="216" width="529" height="18" font="1">Buena Vista Avenue is an east/west arterial carrying primarily residential traffic</text>
+<text top="501" left="216" width="534" height="18" font="1">through the study area.  Buena Vista Avenue is a two-lane road (one lane in each</text>
+<text top="519" left="216" width="514" height="18" font="1">direction) with a dedicated eastbound left-turn lane (turn lane for traffic going</text>
+<text top="539" left="216" width="504" height="18" font="1">from eastbound Buena Vista Avenue to southbound Park Street) at the study</text>
+<text top="558" left="216" width="501" height="18" font="1">intersection.  On-street parking is permitted along both sides of Buena Vista</text>
+<text top="576" left="216" width="55" height="18" font="1">Avenue.</text>
+<text top="615" left="216" width="353" height="18" font="2"><b>Existing Conditions (With Left-Turn Restrictions)</b></text>
+<text top="652" left="216" width="520" height="18" font="1">The intersection is currently controlled by a two-phase traffic signal.  Left-turn</text>
+<text top="671" left="216" width="495" height="18" font="1">restrictions are in effect in both directions along Park Street at Buena Vista</text>
+<text top="690" left="216" width="513" height="18" font="1">Avenue between the hours of 3:30 PM and 6:00 PM, Monday through Friday.</text>
+<text top="709" left="216" width="517" height="18" font="1">During field observations, a small number of vehicles were observed violating</text>
+<text top="728" left="216" width="516" height="18" font="1">the left-turn restriction in both the northbound and southbound direction along</text>
+<text top="747" left="216" width="515" height="18" font="1">Park Street.  Vehicles which were observed making left-turn movements from</text>
+<text top="766" left="216" width="486" height="18" font="1">Park Street during the restricted period were eliminated from the Existing</text>
+<text top="785" left="216" width="509" height="18" font="1">Conditions (With Left-Turn Restriction) intersection LOS analysis; however,</text>
+<text top="804" left="216" width="529" height="18" font="1">these vehicles were still documented in the turning movement count data sheets.</text>
+<text top="823" left="216" width="442" height="18" font="1">A majority of traffic was observed obeying the left-turn restriction.</text>
+<text top="861" left="216" width="512" height="18" font="1">A turning movement count was conducted between the hours of 3:00 PM and</text>
+<text top="880" left="216" width="499" height="18" font="1">6:00 PM on Thursday, April 16, 2009 (see <b>Attachment A</b>).  The count data</text>
+<text top="899" left="216" width="533" height="18" font="1">indicated that the intersection peak hour begins at 5:00 PM and ends at 6:00 PM.</text>
+<text top="918" left="216" width="506" height="18" font="1">A total of 2,793 vehicles passed through the intersection during the PM peak</text>
+<text top="937" left="216" width="493" height="18" font="1">hour (11 of which were observed making left-turns from Park Street), with</text>
+<text top="956" left="216" width="498" height="18" font="1">approximately 8 percent of traffic coming from westbound Buena Vista, 22</text>
+<text top="975" left="216" width="515" height="18" font="1">percent from eastbound Buena Vista, 32 percent from northbound Park Street,</text>
+<text top="994" left="216" width="295" height="18" font="1">and 38 percent from southbound Park Street.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="4" size="14" family="Times" color="#000000"/>
+	<fontspec id="5" size="8" family="Times" color="#000000"/>
+<text top="1074" left="482" width="8" height="17" font="3">3</text>
+<text top="216" left="216" width="537" height="18" font="1">The traffic counts, lane geometry, and signal phasing were used as inputs into the</text>
+<text top="235" left="216" width="495" height="18" font="1">level of services (LOS) calculations.  The <i>2000 Highway Capacity Manual</i></text>
+<text top="254" left="216" width="534" height="18" font="1">(HCM) methodology contained in the <i>Synchro 7.0</i> software program was used to</text>
+<text top="273" left="216" width="512" height="18" font="1">calculate the existing LOS with the left-turn restriction.  The results indicated</text>
+<text top="292" left="216" width="538" height="18" font="1">that the Park Street/Buena Vista Avenue intersection currently operates at LOS B</text>
+<text top="311" left="216" width="513" height="18" font="1">which is generally consistent with the field-observed LOS.  The existing LOS</text>
+<text top="330" left="216" width="352" height="18" font="1">calculation worksheets are attached (<b>Attachment B</b>).</text>
+<text top="368" left="216" width="519" height="18" font="2"><b>Existing Conditions – With Development (Without Left-Turn Restriction)</b></text>
+<text top="406" left="216" width="128" height="18" font="1">Project Description</text>
+<text top="444" left="216" width="532" height="18" font="1">The Park Vista Square Development property (1700-1726 Park Street) is located</text>
+<text top="463" left="216" width="524" height="18" font="1">on the northeast corner of Park Street and Buena Vista Avenue and the existing</text>
+<text top="482" left="216" width="535" height="18" font="1">land use of the project area is a vacant lot adjacent to a smog testing station.  The</text>
+<text top="501" left="216" width="515" height="18" font="1">proposed land use for the Park Vista Square Development is 4,900 square feet</text>
+<text top="519" left="216" width="509" height="18" font="1">(s.f.) of second floor office space and 20,814 s.f. of ground-floor retail space.</text>
+<text top="539" left="216" width="498" height="18" font="1">Existing vehicular access from Park Street to the project site will be closed.</text>
+<text top="558" left="216" width="537" height="18" font="1">Vehicular access to the proposed development off-street parking will be provided</text>
+<text top="576" left="216" width="533" height="18" font="1">only from Buena Vista Avenue.  No vehicular access will be provided from Park</text>
+<text top="595" left="216" width="416" height="18" font="1">Street upon completion of the Park Vista Square Development.</text>
+<text top="633" left="216" width="428" height="18" font="1">Project Trip Generation, Distribution, and Assignment Estimates</text>
+<text top="671" left="216" width="503" height="18" font="1">The number of new PM peak-hour trips that the proposed Park Vista Square</text>
+<text top="690" left="216" width="535" height="18" font="1">Development would generate was calculated using the procedures outlined in the</text>
+<text top="709" left="216" width="511" height="18" font="1">Institute of Transportation Engineers’ (ITE)<i> Trip Generation Handbook.</i> Trip</text>
+<text top="728" left="216" width="464" height="18" font="1">generation rates, for the applicable land uses, were obtained from <i>Trip</i></text>
+<text top="747" left="216" width="127" height="18" font="4"><i>Generation </i>(ITE, 8</text>
+<text top="745" left="343" width="8" height="12" font="5">th</text>
+<text top="747" left="351" width="404" height="18" font="1"> Edition) and applied to the size of the project.  The proposed</text>
+<text top="766" left="216" width="489" height="18" font="1">project is estimated to generate approximately 60 PM peak-hour trips (see</text>
+<text top="785" left="216" width="109" height="18" font="2"><b>Attachment C</b>).</text>
+<text top="823" left="216" width="467" height="18" font="1">Once the trip generation calculations had been completed, a number of</text>
+<text top="842" left="216" width="476" height="18" font="1">assumptions needed to be made to determine trip distribution and traffic</text>
+<text top="861" left="216" width="510" height="18" font="1">assignment.  The trip distribution and assignment assumptions were based on</text>
+<text top="880" left="216" width="460" height="18" font="1">engineering judgment, field observations, and existing travel patterns.</text>
+<text top="918" left="216" width="534" height="18" font="1">Based on existing travel patterns, the analysis assumes that approximately ninety</text>
+<text top="937" left="216" width="520" height="18" font="1">percent (90%) of site-generated trips are coming from/going to Park Street and</text>
+<text top="956" left="216" width="535" height="18" font="1">the remaining ten percent (10%) of trips are assumed to be coming from/going to</text>
+<text top="975" left="216" width="492" height="18" font="1">the east on Buena Vista Avenue. As shown in the trip assignment figure in</text>
+<text top="994" left="216" width="516" height="18" font="2"><b>Attachment D</b>, a majority of the outbound site traffic is projected to turn onto</text>
+<text top="1013" left="216" width="470" height="18" font="1">northbound or southbound Park Street, with a small number of vehicles</text>
+<text top="1032" left="216" width="509" height="18" font="1">continuing west on Buena Vista Avenue.  A majority of the inbound traffic is</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="6" size="13" family="Times" color="#000000"/>
+	<fontspec id="7" size="7" family="Times" color="#000000"/>
+<text top="1074" left="482" width="8" height="17" font="3">4</text>
+<text top="216" left="216" width="531" height="18" font="1">projected to come from southbound Park Street, with a small number of vehicles</text>
+<text top="235" left="216" width="483" height="18" font="1">arriving from northbound Park Street or westbound Buena Vista Avenue.</text>
+<text top="273" left="216" width="502" height="18" font="1">The trip assignment was added to the existing volumes to represent Existing</text>
+<text top="292" left="216" width="512" height="18" font="1">Conditions – With Development (Without Left-Turn Restrictions) for the PM</text>
+<text top="311" left="216" width="530" height="18" font="1">peak period.  The left-turn volumes on Park Street are projected to increase with</text>
+<text top="330" left="216" width="525" height="18" font="1">removal of the left-turn prohibition. To estimate the increase in Park Street left-</text>
+<text top="349" left="216" width="518" height="18" font="1">turn volumes, a comparison of the existing Park Street left-turn volumes to the</text>
+<text top="368" left="216" width="519" height="18" font="1">existing through volumes was conducted between 3:00 PM and 3:30 PM when</text>
+<text top="387" left="216" width="535" height="18" font="1">the restriction is not in effect.  The results indicate that the left-turns comprise up</text>
+<text top="406" left="216" width="539" height="18" font="1">to five percent of the existing through volumes on Park Street.  Thus, the left-turn</text>
+<text top="425" left="216" width="539" height="18" font="1">volumes on Park Street were increased by up to five percent of the projected Park</text>
+<text top="444" left="216" width="158" height="18" font="1">Street through volumes.</text>
+<text top="482" left="216" width="533" height="18" font="1">The analysis also assumed that the current roadway geometry would remain, and</text>
+<text top="501" left="216" width="515" height="18" font="1">no modifications to the traffic signal would take place. The results of the LOS</text>
+<text top="519" left="216" width="533" height="18" font="1">calculations indicate that the intersection is projected to operate at LOS C during</text>
+<text top="539" left="216" width="517" height="18" font="1">the PM peak hour with the added site traffic combined with the removal of the</text>
+<text top="558" left="216" width="514" height="18" font="1">left-turn restriction at Buena Vista Avenue (see <b>Attachment E</b>).  The average</text>
+<text top="576" left="216" width="518" height="18" font="1">control delay, which is used to determine the intersection LOS, increases from</text>
+<text top="595" left="216" width="526" height="18" font="1">17.3 seconds to 20.4 seconds.  Although the intersection is projected to go from</text>
+<text top="615" left="216" width="536" height="18" font="1">an LOS B to an LOS C, the average control delay under project conditions is still</text>
+<text top="633" left="216" width="534" height="18" font="1">relatively close to the average control delay under existing conditions (see <b>Table</b></text>
+<text top="652" left="216" width="522" height="18" font="2"><b>1</b>).  The City of Alameda Transportation Commission and Dowling Associates,</text>
+<text top="671" left="216" width="486" height="18" font="1">Inc. have proposed threshold of significance intersection LOS D for autos</text>
+<text top="690" left="216" width="472" height="18" font="1">(Transportation Commission Meeting – April 22, 2009).  The projected</text>
+<text top="709" left="216" width="492" height="18" font="1">intersection LOS C at Park Street and Buena Vista Avenue falls within the</text>
+<text top="728" left="216" width="337" height="18" font="1">acceptable range of the proposed threshold criteria.</text>
+<text top="766" left="316" width="340" height="18" font="2"><b>Table 1</b> – LOS Criteria for Signalized Intersections</text>
+<text top="805" left="365" width="33" height="18" font="2"><b>LOS</b></text>
+<text top="805" left="447" width="165" height="18" font="2"><b>Control Delay (sec/veh)</b></text>
+<text top="825" left="375" width="12" height="18" font="1">A</text>
+<text top="825" left="515" width="30" height="18" font="1">&lt; 10</text>
+<text top="844" left="375" width="11" height="18" font="1">B</text>
+<text top="844" left="504" width="52" height="18" font="1">&gt; 10-20</text>
+<text top="864" left="375" width="11" height="18" font="1">C</text>
+<text top="864" left="504" width="52" height="18" font="1">&gt; 20-35</text>
+<text top="884" left="375" width="12" height="18" font="1">D</text>
+<text top="884" left="504" width="52" height="18" font="1">&gt; 35-55</text>
+<text top="904" left="376" width="10" height="18" font="1">E</text>
+<text top="904" left="504" width="52" height="18" font="1">&gt; 55-80</text>
+<text top="923" left="377" width="9" height="18" font="1">F</text>
+<text top="923" left="515" width="30" height="18" font="1">&gt; 80</text>
+<text top="943" left="258" width="178" height="17" font="6"><i>Highway Capacity Manual, 4</i></text>
+<text top="941" left="435" width="8" height="11" font="7"><i>th</i></text>
+<text top="943" left="443" width="272" height="17" font="6"><i> Edition, Washington DC, 2000, Exhibit 16-2</i></text>
+<text top="979" left="216" width="526" height="18" font="1">The eastbound-left approach along Buena Vista Avenue experienced the largest</text>
+<text top="998" left="216" width="520" height="18" font="1">increase in delay (6.1 seconds).   Approach delay is projected to increase along</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="1074" left="482" width="8" height="17" font="3">5</text>
+<text top="216" left="216" width="526" height="18" font="1">Park Street in the northbound and southbound directions by 2.4 seconds and 4.2</text>
+<text top="235" left="216" width="140" height="18" font="1">seconds respectively.</text>
+<text top="273" left="216" width="226" height="18" font="2"><b>Findings and Recommendations</b></text>
+<text top="311" left="216" width="508" height="18" font="1">We have drawn the following conclusions based on the analysis and findings</text>
+<text top="330" left="216" width="128" height="18" font="1">documented above.</text>
+<text top="350" left="270" width="464" height="18" font="1">The Park Street/Buena Vista Avenue intersection currently operates at</text>
+<text top="369" left="270" width="466" height="18" font="1">acceptable levels of service, LOS B, during the PM peak hour with the</text>
+<text top="388" left="270" width="227" height="18" font="1">left-turn restriction on Park Street.</text>
+<text top="408" left="270" width="395" height="18" font="1">The addition of traffic from the proposed Park Vista Square</text>
+<text top="427" left="270" width="464" height="18" font="1">Development, located at the northeast corner of the intersection, along</text>
+<text top="446" left="270" width="475" height="18" font="1">with removal of the left-turn restrictions is not projected to significantly</text>
+<text top="465" left="270" width="475" height="18" font="1">degrade intersection operations.  The intersection is projected to operate</text>
+<text top="484" left="270" width="235" height="18" font="1">at LOS C during the PM peak hour.</text>
+<text top="522" left="216" width="28" height="18" font="1">/kaa</text>
+<text top="560" left="216" width="88" height="18" font="1">Attachments:</text>
+<text top="579" left="243" width="482" height="18" font="1">Attachment A: Existing Turning Movement Counts conducted by Traffic</text>
+<text top="598" left="243" width="91" height="18" font="1">Data Services</text>
+<text top="617" left="243" width="501" height="18" font="1">Attachment B: Synchro Intersection Report – Existing PM peak period with</text>
+<text top="636" left="243" width="125" height="18" font="1">left-turn restriction</text>
+<text top="655" left="243" width="249" height="18" font="1">Attachment C: Trip Generation Table</text>
+<text top="674" left="243" width="260" height="18" font="1">Attachment D: Trip Assignment Figure</text>
+<text top="693" left="243" width="441" height="18" font="1">Attachment E: Synchro Intersection Report – PM peak period with</text>
+<text top="712" left="243" width="297" height="18" font="1">development and without left-turn restriction</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="18" family="Times" color="#0000ff"/>
+	<fontspec id="9" size="13" family="Times" color="#000000"/>
+	<fontspec id="10" size="13" family="Times" color="#000000"/>
+	<fontspec id="11" size="16" family="Times" color="#000000"/>
+	<fontspec id="12" size="10" family="Times" color="#000000"/>
+	<fontspec id="13" size="10" family="Times" color="#000000"/>
+	<fontspec id="14" size="9" family="Times" color="#000000"/>
+	<fontspec id="15" size="5" family="Times" color="#000000"/>
+	<fontspec id="16" size="6" family="Times" color="#000000"/>
+	<fontspec id="17" size="7" family="Times" color="#000000"/>
+	<fontspec id="18" size="11" family="Courier" color="#000000"/>
+<text top="32" left="374" width="169" height="19" font="8">Traffic Data Service</text>
+<text top="54" left="415" width="88" height="14" font="3">Campbell, CA</text>
+<text top="72" left="411" width="95" height="14" font="9"><b>(408) 377-2988</b></text>
+<text top="89" left="411" width="95" height="14" font="10"><i><b>tdsbay@cs.com</b></i></text>
+<text top="88" left="695" width="195" height="17" font="11">File Name : 1PM FINAL</text>
+<text top="109" left="695" width="183" height="17" font="11">Site Code : 00000001</text>
+<text top="130" left="695" width="183" height="17" font="11">Start Date : 4/16/2009</text>
+<text top="151" left="695" width="70" height="17" font="11">Page No</text>
+<text top="151" left="787" width="20" height="17" font="11">: 1</text>
+<text top="214" left="386" width="145" height="11" font="12"><b>Groups Printed- Vehicles</b></text>
+<text top="229" left="163" width="53" height="11" font="12"><b>PARK ST</b></text>
+<text top="244" left="154" width="71" height="11" font="12"><b>Southbound</b></text>
+<text top="229" left="320" width="110" height="11" font="12"><b>BUENA VISTA AVE</b></text>
+<text top="244" left="342" width="66" height="11" font="12"><b>Westbound</b></text>
+<text top="229" left="533" width="53" height="11" font="12"><b>PARK ST</b></text>
+<text top="244" left="525" width="69" height="11" font="12"><b>Northbound</b></text>
+<text top="229" left="689" width="110" height="11" font="12"><b>BUENA VISTA AVE</b></text>
+<text top="244" left="713" width="63" height="11" font="12"><b>Eastbound</b></text>
+<text top="258" left="35" width="57" height="12" font="13">Start Time</text>
+<text top="260" left="103" width="25" height="10" font="5">Right</text>
+<text top="259" left="140" width="23" height="10" font="14">Thru</text>
+<text top="259" left="179" width="19" height="11" font="14">Left</text>
+<text top="260" left="209" width="24" height="10" font="5">Peds</text>
+<text top="262" left="244" width="34" height="7" font="15">App. Total</text>
+<text top="260" left="288" width="25" height="10" font="5">Right</text>
+<text top="259" left="324" width="23" height="10" font="14">Thru</text>
+<text top="259" left="363" width="20" height="11" font="14">Left</text>
+<text top="260" left="394" width="24" height="10" font="5">Peds</text>
+<text top="262" left="429" width="34" height="7" font="15">App. Total</text>
+<text top="260" left="473" width="25" height="10" font="5">Right</text>
+<text top="259" left="509" width="23" height="10" font="14">Thru</text>
+<text top="259" left="548" width="19" height="11" font="14">Left</text>
+<text top="260" left="579" width="24" height="10" font="5">Peds</text>
+<text top="262" left="613" width="34" height="7" font="15">App. Total</text>
+<text top="260" left="657" width="25" height="10" font="5">Right</text>
+<text top="259" left="694" width="23" height="10" font="14">Thru</text>
+<text top="259" left="733" width="20" height="11" font="14">Left</text>
+<text top="260" left="764" width="24" height="10" font="5">Peds</text>
+<text top="262" left="798" width="34" height="7" font="15">App. Total</text>
+<text top="262" left="845" width="31" height="8" font="16">Int. Total</text>
+<text top="273" left="42" width="50" height="11" font="14">03:00 PM</text>
+<text top="273" left="114" width="13" height="11" font="14">19</text>
+<text top="273" left="143" width="20" height="11" font="14">154</text>
+<text top="273" left="192" width="7" height="11" font="14">5</text>
+<text top="273" left="226" width="7" height="11" font="14">0</text>
+<text top="273" left="258" width="20" height="11" font="14">178</text>
+<text top="273" left="306" width="7" height="11" font="14">7</text>
+<text top="273" left="334" width="13" height="11" font="14">37</text>
+<text top="273" left="376" width="7" height="11" font="14">5</text>
+<text top="273" left="411" width="7" height="11" font="14">0</text>
+<text top="273" left="449" width="13" height="11" font="14">49</text>
+<text top="273" left="491" width="7" height="11" font="14">3</text>
+<text top="273" left="513" width="20" height="11" font="14">171</text>
+<text top="273" left="555" width="13" height="11" font="14">13</text>
+<text top="273" left="596" width="7" height="11" font="14">0</text>
+<text top="273" left="627" width="20" height="11" font="14">187</text>
+<text top="273" left="669" width="13" height="11" font="14">10</text>
+<text top="273" left="704" width="13" height="11" font="14">39</text>
+<text top="273" left="739" width="13" height="11" font="14">35</text>
+<text top="273" left="781" width="7" height="11" font="14">0</text>
+<text top="273" left="819" width="13" height="11" font="14">84</text>
+<text top="273" left="857" width="20" height="11" font="14">498</text>
+<text top="287" left="42" width="50" height="11" font="14">03:15 PM</text>
+<text top="287" left="114" width="13" height="11" font="14">19</text>
+<text top="287" left="143" width="20" height="11" font="14">194</text>
+<text top="287" left="192" width="7" height="11" font="14">4</text>
+<text top="287" left="226" width="7" height="11" font="14">0</text>
+<text top="287" left="258" width="20" height="11" font="14">217</text>
+<text top="287" left="299" width="13" height="11" font="14">13</text>
+<text top="287" left="334" width="13" height="11" font="14">34</text>
+<text top="287" left="376" width="7" height="11" font="14">7</text>
+<text top="287" left="411" width="7" height="11" font="14">0</text>
+<text top="287" left="449" width="13" height="11" font="14">54</text>
+<text top="287" left="484" width="13" height="11" font="14">12</text>
+<text top="287" left="513" width="20" height="11" font="14">255</text>
+<text top="287" left="561" width="7" height="11" font="14">9</text>
+<text top="287" left="596" width="7" height="11" font="14">0</text>
+<text top="287" left="627" width="20" height="11" font="14">276</text>
+<text top="287" left="669" width="13" height="11" font="14">13</text>
+<text top="287" left="704" width="13" height="11" font="14">57</text>
+<text top="287" left="739" width="13" height="11" font="14">35</text>
+<text top="287" left="781" width="7" height="11" font="14">0</text>
+<text top="287" left="813" width="20" height="11" font="14">105</text>
+<text top="287" left="857" width="20" height="11" font="14">652</text>
+<text top="301" left="42" width="50" height="11" font="14">03:30 PM</text>
+<text top="301" left="114" width="13" height="11" font="14">30</text>
+<text top="301" left="143" width="20" height="11" font="14">195</text>
+<text top="301" left="192" width="7" height="11" font="14">3</text>
+<text top="301" left="226" width="7" height="11" font="14">0</text>
+<text top="301" left="258" width="20" height="11" font="14">228</text>
+<text top="301" left="299" width="13" height="11" font="14">21</text>
+<text top="301" left="334" width="13" height="11" font="14">48</text>
+<text top="301" left="376" width="7" height="11" font="14">6</text>
+<text top="301" left="411" width="7" height="11" font="14">0</text>
+<text top="301" left="449" width="13" height="11" font="14">75</text>
+<text top="301" left="491" width="7" height="11" font="14">6</text>
+<text top="301" left="513" width="20" height="11" font="14">216</text>
+<text top="301" left="561" width="7" height="11" font="14">7</text>
+<text top="301" left="596" width="7" height="11" font="14">0</text>
+<text top="301" left="627" width="20" height="11" font="14">229</text>
+<text top="301" left="675" width="7" height="11" font="14">8</text>
+<text top="301" left="704" width="13" height="11" font="14">55</text>
+<text top="301" left="739" width="13" height="11" font="14">48</text>
+<text top="301" left="781" width="7" height="11" font="14">0</text>
+<text top="301" left="813" width="20" height="11" font="14">111</text>
+<text top="301" left="857" width="20" height="11" font="14">643</text>
+<text top="315" left="42" width="50" height="11" font="14">03:45 PM</text>
+<text top="315" left="114" width="13" height="11" font="14">17</text>
+<text top="315" left="143" width="20" height="11" font="14">234</text>
+<text top="315" left="192" width="7" height="11" font="14">3</text>
+<text top="315" left="226" width="7" height="11" font="14">0</text>
+<text top="315" left="258" width="20" height="11" font="14">254</text>
+<text top="315" left="306" width="7" height="11" font="14">6</text>
+<text top="315" left="334" width="13" height="11" font="14">39</text>
+<text top="315" left="370" width="13" height="11" font="14">10</text>
+<text top="315" left="411" width="7" height="11" font="14">0</text>
+<text top="315" left="449" width="13" height="11" font="14">55</text>
+<text top="315" left="491" width="7" height="11" font="14">6</text>
+<text top="315" left="513" width="20" height="11" font="14">221</text>
+<text top="315" left="561" width="7" height="11" font="14">6</text>
+<text top="315" left="596" width="7" height="11" font="14">0</text>
+<text top="315" left="627" width="20" height="11" font="14">233</text>
+<text top="315" left="669" width="13" height="11" font="14">26</text>
+<text top="315" left="704" width="13" height="11" font="14">58</text>
+<text top="315" left="739" width="13" height="11" font="14">33</text>
+<text top="315" left="781" width="7" height="11" font="14">0</text>
+<text top="315" left="813" width="20" height="11" font="14">117</text>
+<text top="315" left="857" width="20" height="11" font="14">659</text>
+<text top="329" left="67" width="26" height="11" font="14">Total</text>
+<text top="329" left="114" width="13" height="11" font="14">85</text>
+<text top="329" left="143" width="20" height="11" font="14">777</text>
+<text top="329" left="185" width="13" height="11" font="14">15</text>
+<text top="329" left="226" width="7" height="11" font="14">0</text>
+<text top="329" left="258" width="20" height="11" font="14">877</text>
+<text top="329" left="299" width="13" height="11" font="14">47</text>
+<text top="329" left="328" width="20" height="11" font="14">158</text>
+<text top="329" left="370" width="13" height="11" font="14">28</text>
+<text top="329" left="411" width="7" height="11" font="14">0</text>
+<text top="329" left="443" width="20" height="11" font="14">233</text>
+<text top="329" left="484" width="13" height="11" font="14">27</text>
+<text top="329" left="513" width="20" height="11" font="14">863</text>
+<text top="329" left="555" width="13" height="11" font="14">35</text>
+<text top="329" left="596" width="7" height="11" font="14">0</text>
+<text top="329" left="627" width="20" height="11" font="14">925</text>
+<text top="329" left="669" width="13" height="11" font="14">57</text>
+<text top="329" left="698" width="20" height="11" font="14">209</text>
+<text top="329" left="733" width="20" height="11" font="14">151</text>
+<text top="329" left="781" width="7" height="11" font="14">0</text>
+<text top="329" left="813" width="20" height="11" font="14">417</text>
+<text top="329" left="850" width="26" height="11" font="14">2452</text>
+<text top="357" left="42" width="50" height="11" font="14">04:00 PM</text>
+<text top="357" left="114" width="13" height="11" font="14">15</text>
+<text top="357" left="143" width="20" height="11" font="14">184</text>
+<text top="357" left="192" width="7" height="11" font="14">0</text>
+<text top="357" left="226" width="7" height="11" font="14">0</text>
+<text top="357" left="258" width="20" height="11" font="14">199</text>
+<text top="357" left="299" width="13" height="11" font="14">10</text>
+<text top="357" left="334" width="13" height="11" font="14">48</text>
+<text top="357" left="376" width="7" height="11" font="14">4</text>
+<text top="357" left="411" width="7" height="11" font="14">0</text>
+<text top="357" left="449" width="13" height="11" font="14">62</text>
+<text top="357" left="484" width="13" height="11" font="14">10</text>
+<text top="357" left="513" width="20" height="11" font="14">229</text>
+<text top="357" left="561" width="7" height="11" font="14">2</text>
+<text top="357" left="596" width="7" height="11" font="14">0</text>
+<text top="357" left="627" width="20" height="11" font="14">241</text>
+<text top="357" left="669" width="13" height="11" font="14">13</text>
+<text top="357" left="704" width="13" height="11" font="14">65</text>
+<text top="357" left="739" width="13" height="11" font="14">42</text>
+<text top="357" left="781" width="7" height="11" font="14">0</text>
+<text top="357" left="813" width="20" height="11" font="14">120</text>
+<text top="357" left="857" width="20" height="11" font="14">622</text>
+<text top="371" left="42" width="50" height="11" font="14">04:15 PM</text>
+<text top="371" left="114" width="13" height="11" font="14">17</text>
+<text top="371" left="143" width="20" height="11" font="14">206</text>
+<text top="371" left="192" width="7" height="11" font="14">1</text>
+<text top="371" left="226" width="7" height="11" font="14">0</text>
+<text top="371" left="258" width="20" height="11" font="14">224</text>
+<text top="371" left="299" width="13" height="11" font="14">10</text>
+<text top="371" left="334" width="13" height="11" font="14">60</text>
+<text top="371" left="376" width="7" height="11" font="14">4</text>
+<text top="371" left="411" width="7" height="11" font="14">0</text>
+<text top="371" left="449" width="13" height="11" font="14">74</text>
+<text top="371" left="491" width="7" height="11" font="14">6</text>
+<text top="371" left="513" width="20" height="11" font="14">228</text>
+<text top="371" left="561" width="7" height="11" font="14">3</text>
+<text top="371" left="596" width="7" height="11" font="14">0</text>
+<text top="371" left="627" width="20" height="11" font="14">237</text>
+<text top="371" left="669" width="13" height="11" font="14">10</text>
+<text top="371" left="704" width="13" height="11" font="14">58</text>
+<text top="371" left="739" width="13" height="11" font="14">48</text>
+<text top="371" left="781" width="7" height="11" font="14">0</text>
+<text top="371" left="813" width="20" height="11" font="14">116</text>
+<text top="371" left="857" width="20" height="11" font="14">651</text>
+<text top="385" left="42" width="50" height="11" font="14">04:30 PM</text>
+<text top="385" left="114" width="13" height="11" font="14">14</text>
+<text top="385" left="143" width="20" height="11" font="14">188</text>
+<text top="385" left="192" width="7" height="11" font="14">3</text>
+<text top="385" left="226" width="7" height="11" font="14">0</text>
+<text top="385" left="258" width="20" height="11" font="14">205</text>
+<text top="385" left="306" width="7" height="11" font="14">9</text>
+<text top="385" left="334" width="13" height="11" font="14">21</text>
+<text top="385" left="376" width="7" height="11" font="14">4</text>
+<text top="385" left="411" width="7" height="11" font="14">0</text>
+<text top="385" left="449" width="13" height="11" font="14">34</text>
+<text top="385" left="491" width="7" height="11" font="14">5</text>
+<text top="385" left="513" width="20" height="11" font="14">215</text>
+<text top="385" left="561" width="7" height="11" font="14">2</text>
+<text top="385" left="596" width="7" height="11" font="14">0</text>
+<text top="385" left="627" width="20" height="11" font="14">222</text>
+<text top="385" left="669" width="13" height="11" font="14">10</text>
+<text top="385" left="704" width="13" height="11" font="14">31</text>
+<text top="385" left="739" width="13" height="11" font="14">45</text>
+<text top="385" left="781" width="7" height="11" font="14">0</text>
+<text top="385" left="819" width="13" height="11" font="14">86</text>
+<text top="385" left="857" width="20" height="11" font="14">547</text>
+<text top="399" left="42" width="50" height="11" font="14">04:45 PM</text>
+<text top="399" left="121" width="7" height="11" font="14">6</text>
+<text top="399" left="143" width="20" height="11" font="14">207</text>
+<text top="399" left="192" width="7" height="11" font="14">2</text>
+<text top="399" left="226" width="7" height="11" font="14">0</text>
+<text top="399" left="258" width="20" height="11" font="14">215</text>
+<text top="399" left="306" width="7" height="11" font="14">8</text>
+<text top="399" left="334" width="13" height="11" font="14">35</text>
+<text top="399" left="376" width="7" height="11" font="14">7</text>
+<text top="399" left="411" width="7" height="11" font="14">0</text>
+<text top="399" left="449" width="13" height="11" font="14">50</text>
+<text top="399" left="491" width="7" height="11" font="14">7</text>
+<text top="399" left="513" width="20" height="11" font="14">227</text>
+<text top="399" left="561" width="7" height="11" font="14">3</text>
+<text top="399" left="596" width="7" height="11" font="14">0</text>
+<text top="399" left="627" width="20" height="11" font="14">237</text>
+<text top="399" left="675" width="7" height="11" font="14">7</text>
+<text top="399" left="704" width="13" height="11" font="14">60</text>
+<text top="399" left="739" width="13" height="11" font="14">36</text>
+<text top="399" left="781" width="7" height="11" font="14">0</text>
+<text top="399" left="813" width="20" height="11" font="14">103</text>
+<text top="399" left="857" width="20" height="11" font="14">605</text>
+<text top="413" left="67" width="26" height="11" font="14">Total</text>
+<text top="413" left="114" width="13" height="11" font="14">52</text>
+<text top="413" left="143" width="20" height="11" font="14">785</text>
+<text top="413" left="192" width="7" height="11" font="14">6</text>
+<text top="413" left="226" width="7" height="11" font="14">0</text>
+<text top="413" left="258" width="20" height="11" font="14">843</text>
+<text top="413" left="299" width="13" height="11" font="14">37</text>
+<text top="413" left="328" width="20" height="11" font="14">164</text>
+<text top="413" left="370" width="13" height="11" font="14">19</text>
+<text top="413" left="411" width="7" height="11" font="14">0</text>
+<text top="413" left="443" width="20" height="11" font="14">220</text>
+<text top="413" left="484" width="13" height="11" font="14">28</text>
+<text top="413" left="513" width="20" height="11" font="14">899</text>
+<text top="413" left="555" width="13" height="11" font="14">10</text>
+<text top="413" left="596" width="7" height="11" font="14">0</text>
+<text top="413" left="627" width="20" height="11" font="14">937</text>
+<text top="413" left="669" width="13" height="11" font="14">40</text>
+<text top="413" left="698" width="20" height="11" font="14">214</text>
+<text top="413" left="733" width="20" height="11" font="14">171</text>
+<text top="413" left="781" width="7" height="11" font="14">0</text>
+<text top="413" left="813" width="20" height="11" font="14">425</text>
+<text top="413" left="850" width="26" height="11" font="14">2425</text>
+<text top="441" left="42" width="50" height="11" font="14">05:00 PM</text>
+<text top="441" left="114" width="13" height="11" font="14">14</text>
+<text top="441" left="143" width="20" height="11" font="14">198</text>
+<text top="441" left="192" width="7" height="11" font="14">0</text>
+<text top="441" left="226" width="7" height="11" font="14">0</text>
+<text top="441" left="258" width="20" height="11" font="14">212</text>
+<text top="441" left="306" width="7" height="11" font="14">7</text>
+<text top="441" left="334" width="13" height="11" font="14">48</text>
+<text top="441" left="376" width="7" height="11" font="14">4</text>
+<text top="441" left="411" width="7" height="11" font="14">0</text>
+<text top="441" left="449" width="13" height="11" font="14">59</text>
+<text top="441" left="491" width="7" height="11" font="14">8</text>
+<text top="441" left="513" width="20" height="11" font="14">217</text>
+<text top="441" left="561" width="7" height="11" font="14">2</text>
+<text top="441" left="596" width="7" height="11" font="14">0</text>
+<text top="441" left="627" width="20" height="11" font="14">227</text>
+<text top="441" left="669" width="13" height="11" font="14">11</text>
+<text top="441" left="704" width="13" height="11" font="14">79</text>
+<text top="441" left="739" width="13" height="11" font="14">64</text>
+<text top="441" left="781" width="7" height="11" font="14">0</text>
+<text top="441" left="813" width="20" height="11" font="14">154</text>
+<text top="441" left="857" width="20" height="11" font="14">652</text>
+<text top="456" left="42" width="50" height="11" font="14">05:15 PM</text>
+<text top="456" left="114" width="13" height="11" font="14">11</text>
+<text top="456" left="143" width="20" height="11" font="14">285</text>
+<text top="456" left="192" width="7" height="11" font="14">0</text>
+<text top="456" left="226" width="7" height="11" font="14">0</text>
+<text top="456" left="258" width="20" height="11" font="14">296</text>
+<text top="456" left="306" width="7" height="11" font="14">6</text>
+<text top="456" left="334" width="13" height="11" font="14">50</text>
+<text top="456" left="376" width="7" height="11" font="14">6</text>
+<text top="456" left="411" width="7" height="11" font="14">0</text>
+<text top="456" left="449" width="13" height="11" font="14">62</text>
+<text top="456" left="491" width="7" height="11" font="14">7</text>
+<text top="456" left="513" width="20" height="11" font="14">213</text>
+<text top="456" left="561" width="7" height="11" font="14">0</text>
+<text top="456" left="596" width="7" height="11" font="14">0</text>
+<text top="456" left="627" width="20" height="11" font="14">220</text>
+<text top="456" left="675" width="7" height="11" font="14">9</text>
+<text top="456" left="704" width="13" height="11" font="14">98</text>
+<text top="456" left="739" width="13" height="11" font="14">50</text>
+<text top="456" left="781" width="7" height="11" font="14">0</text>
+<text top="456" left="813" width="20" height="11" font="14">157</text>
+<text top="456" left="857" width="20" height="11" font="14">735</text>
+<text top="470" left="42" width="50" height="11" font="14">05:30 PM</text>
+<text top="470" left="114" width="13" height="11" font="14">14</text>
+<text top="470" left="143" width="20" height="11" font="14">269</text>
+<text top="470" left="192" width="7" height="11" font="14">2</text>
+<text top="470" left="226" width="7" height="11" font="14">0</text>
+<text top="470" left="258" width="20" height="11" font="14">285</text>
+<text top="470" left="306" width="7" height="11" font="14">4</text>
+<text top="470" left="334" width="13" height="11" font="14">53</text>
+<text top="470" left="376" width="7" height="11" font="14">4</text>
+<text top="470" left="411" width="7" height="11" font="14">0</text>
+<text top="470" left="449" width="13" height="11" font="14">61</text>
+<text top="470" left="491" width="7" height="11" font="14">8</text>
+<text top="470" left="513" width="20" height="11" font="14">210</text>
+<text top="470" left="561" width="7" height="11" font="14">2</text>
+<text top="470" left="596" width="7" height="11" font="14">0</text>
+<text top="470" left="627" width="20" height="11" font="14">220</text>
+<text top="470" left="669" width="13" height="11" font="14">11</text>
+<text top="470" left="704" width="13" height="11" font="14">81</text>
+<text top="470" left="739" width="13" height="11" font="14">50</text>
+<text top="470" left="781" width="7" height="11" font="14">0</text>
+<text top="470" left="813" width="20" height="11" font="14">142</text>
+<text top="470" left="857" width="20" height="11" font="14">708</text>
+<text top="484" left="42" width="50" height="11" font="14">05:45 PM</text>
+<text top="484" left="114" width="13" height="11" font="14">11</text>
+<text top="484" left="143" width="20" height="11" font="14">258</text>
+<text top="484" left="192" width="7" height="11" font="14">1</text>
+<text top="484" left="226" width="7" height="11" font="14">0</text>
+<text top="484" left="258" width="20" height="11" font="14">270</text>
+<text top="484" left="306" width="7" height="11" font="14">1</text>
+<text top="484" left="334" width="13" height="11" font="14">47</text>
+<text top="484" left="376" width="7" height="11" font="14">3</text>
+<text top="484" left="411" width="7" height="11" font="14">0</text>
+<text top="484" left="449" width="13" height="11" font="14">51</text>
+<text top="484" left="491" width="7" height="11" font="14">9</text>
+<text top="484" left="513" width="20" height="11" font="14">212</text>
+<text top="484" left="561" width="7" height="11" font="14">4</text>
+<text top="484" left="596" width="7" height="11" font="14">0</text>
+<text top="484" left="627" width="20" height="11" font="14">225</text>
+<text top="484" left="669" width="13" height="11" font="14">11</text>
+<text top="484" left="704" width="13" height="11" font="14">94</text>
+<text top="484" left="739" width="13" height="11" font="14">47</text>
+<text top="484" left="781" width="7" height="11" font="14">0</text>
+<text top="484" left="813" width="20" height="11" font="14">152</text>
+<text top="484" left="857" width="20" height="11" font="14">698</text>
+<text top="498" left="67" width="26" height="11" font="14">Total</text>
+<text top="498" left="114" width="13" height="11" font="14">50</text>
+<text top="498" left="138" width="25" height="10" font="14">1010</text>
+<text top="498" left="192" width="6" height="10" font="14">3</text>
+<text top="498" left="227" width="6" height="10" font="14">0</text>
+<text top="498" left="253" width="25" height="10" font="14">1063</text>
+<text top="498" left="300" width="12" height="10" font="14">18</text>
+<text top="498" left="329" width="18" height="10" font="14">198</text>
+<text top="498" left="370" width="12" height="10" font="14">17</text>
+<text top="498" left="412" width="6" height="10" font="14">0</text>
+<text top="498" left="444" width="18" height="10" font="14">233</text>
+<text top="498" left="485" width="12" height="10" font="14">32</text>
+<text top="498" left="514" width="18" height="10" font="14">852</text>
+<text top="498" left="561" width="6" height="10" font="14">8</text>
+<text top="498" left="597" width="6" height="10" font="14">0</text>
+<text top="498" left="629" width="18" height="10" font="14">892</text>
+<text top="498" left="670" width="12" height="10" font="14">42</text>
+<text top="498" left="699" width="18" height="10" font="14">352</text>
+<text top="498" left="734" width="18" height="10" font="14">211</text>
+<text top="498" left="782" width="6" height="10" font="14">0</text>
+<text top="498" left="814" width="18" height="10" font="14">605</text>
+<text top="498" left="852" width="25" height="10" font="14">2793</text>
+<text top="524" left="35" width="58" height="10" font="14">Grand Total</text>
+<text top="524" left="109" width="18" height="10" font="14">187</text>
+<text top="524" left="138" width="25" height="10" font="14">2572</text>
+<text top="524" left="186" width="12" height="10" font="14">24</text>
+<text top="524" left="227" width="6" height="10" font="14">0</text>
+<text top="524" left="253" width="25" height="10" font="14">2783</text>
+<text top="524" left="294" width="18" height="10" font="14">102</text>
+<text top="524" left="329" width="18" height="10" font="14">520</text>
+<text top="524" left="370" width="12" height="10" font="14">64</text>
+<text top="524" left="412" width="6" height="10" font="14">0</text>
+<text top="524" left="444" width="18" height="10" font="14">686</text>
+<text top="524" left="485" width="12" height="10" font="14">87</text>
+<text top="524" left="508" width="25" height="10" font="14">2614</text>
+<text top="524" left="555" width="12" height="10" font="14">53</text>
+<text top="524" left="597" width="6" height="10" font="14">0</text>
+<text top="524" left="622" width="25" height="10" font="14">2754</text>
+<text top="524" left="663" width="18" height="10" font="14">139</text>
+<text top="524" left="699" width="18" height="10" font="14">775</text>
+<text top="524" left="734" width="18" height="10" font="14">533</text>
+<text top="524" left="782" width="6" height="10" font="14">0</text>
+<text top="524" left="807" width="25" height="10" font="14">1447</text>
+<text top="524" left="852" width="25" height="10" font="14">7670</text>
+<text top="537" left="44" width="48" height="10" font="14">Apprch %</text>
+<text top="537" left="112" width="16" height="10" font="14">6.7</text>
+<text top="537" left="141" width="22" height="10" font="14">92.4</text>
+<text top="537" left="183" width="16" height="10" font="14">0.9</text>
+<text top="537" left="227" width="6" height="10" font="14">0</text>
+<text top="537" left="291" width="22" height="10" font="14">14.9</text>
+<text top="537" left="326" width="22" height="10" font="14">75.8</text>
+<text top="537" left="367" width="16" height="10" font="14">9.3</text>
+<text top="537" left="412" width="6" height="10" font="14">0</text>
+<text top="537" left="482" width="16" height="10" font="14">3.2</text>
+<text top="537" left="511" width="22" height="10" font="14">94.9</text>
+<text top="537" left="552" width="16" height="10" font="14">1.9</text>
+<text top="537" left="597" width="6" height="10" font="14">0</text>
+<text top="537" left="666" width="16" height="10" font="14">9.6</text>
+<text top="537" left="696" width="22" height="10" font="14">53.6</text>
+<text top="537" left="731" width="22" height="10" font="14">36.8</text>
+<text top="537" left="782" width="6" height="10" font="14">0</text>
+<text top="550" left="55" width="37" height="10" font="14">Total %</text>
+<text top="550" left="112" width="16" height="10" font="14">2.4</text>
+<text top="550" left="141" width="22" height="10" font="14">33.5</text>
+<text top="550" left="183" width="16" height="10" font="14">0.3</text>
+<text top="550" left="227" width="6" height="10" font="14">0</text>
+<text top="550" left="256" width="22" height="10" font="14">36.3</text>
+<text top="550" left="297" width="16" height="10" font="14">1.3</text>
+<text top="550" left="332" width="16" height="10" font="14">6.8</text>
+<text top="550" left="367" width="16" height="10" font="14">0.8</text>
+<text top="550" left="412" width="6" height="10" font="14">0</text>
+<text top="550" left="447" width="16" height="10" font="14">8.9</text>
+<text top="550" left="482" width="16" height="10" font="14">1.1</text>
+<text top="550" left="511" width="22" height="10" font="14">34.1</text>
+<text top="550" left="552" width="16" height="10" font="14">0.7</text>
+<text top="550" left="597" width="6" height="10" font="14">0</text>
+<text top="550" left="625" width="22" height="10" font="14">35.9</text>
+<text top="550" left="666" width="16" height="10" font="14">1.8</text>
+<text top="550" left="696" width="22" height="10" font="14">10.1</text>
+<text top="550" left="737" width="16" height="10" font="14">6.9</text>
+<text top="550" left="782" width="6" height="10" font="14">0</text>
+<text top="550" left="810" width="22" height="10" font="14">18.9</text>
+<text top="617" left="163" width="53" height="11" font="12"><b>PARK ST</b></text>
+<text top="632" left="154" width="71" height="11" font="12"><b>Southbound</b></text>
+<text top="617" left="320" width="110" height="11" font="12"><b>BUENA VISTA AVE</b></text>
+<text top="632" left="342" width="66" height="11" font="12"><b>Westbound</b></text>
+<text top="617" left="533" width="53" height="11" font="12"><b>PARK ST</b></text>
+<text top="632" left="525" width="69" height="11" font="12"><b>Northbound</b></text>
+<text top="617" left="689" width="110" height="11" font="12"><b>BUENA VISTA AVE</b></text>
+<text top="632" left="713" width="63" height="11" font="12"><b>Eastbound</b></text>
+<text top="654" left="37" width="55" height="11" font="13">Start Time</text>
+<text top="655" left="103" width="25" height="10" font="5">Right</text>
+<text top="655" left="141" width="22" height="10" font="5">Thru</text>
+<text top="655" left="181" width="17" height="10" font="5">Left</text>
+<text top="655" left="209" width="24" height="10" font="5">Peds</text>
+<text top="657" left="244" width="34" height="7" font="15">App. Total</text>
+<text top="655" left="288" width="25" height="10" font="5">Right</text>
+<text top="655" left="325" width="22" height="10" font="5">Thru</text>
+<text top="655" left="365" width="17" height="10" font="5">Left</text>
+<text top="655" left="394" width="24" height="10" font="5">Peds</text>
+<text top="657" left="429" width="34" height="7" font="15">App. Total</text>
+<text top="655" left="473" width="25" height="10" font="5">Right</text>
+<text top="655" left="510" width="22" height="10" font="5">Thru</text>
+<text top="655" left="550" width="17" height="10" font="5">Left</text>
+<text top="655" left="579" width="24" height="10" font="5">Peds</text>
+<text top="657" left="613" width="34" height="7" font="15">App. Total</text>
+<text top="655" left="657" width="25" height="10" font="5">Right</text>
+<text top="655" left="695" width="22" height="10" font="5">Thru</text>
+<text top="655" left="735" width="17" height="10" font="5">Left</text>
+<text top="655" left="764" width="24" height="10" font="5">Peds</text>
+<text top="657" left="798" width="34" height="7" font="15">App. Total</text>
+<text top="657" left="845" width="31" height="8" font="16">Int. Total</text>
+<text top="675" left="27" width="319" height="11" font="14">Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1</text>
+<text top="690" left="27" width="272" height="11" font="14">Peak Hour for Entire Intersection Begins at 05:00 PM</text>
+<text top="704" left="42" width="50" height="11" font="14">05:00 PM</text>
+<text top="704" left="114" width="13" height="11" font="14">14</text>
+<text top="704" left="143" width="20" height="11" font="14">198</text>
+<text top="704" left="192" width="7" height="11" font="14">0</text>
+<text top="704" left="226" width="7" height="11" font="14">0</text>
+<text top="704" left="258" width="20" height="11" font="14">212</text>
+<text top="704" left="306" width="7" height="11" font="14">7</text>
+<text top="704" left="334" width="13" height="11" font="14">48</text>
+<text top="704" left="376" width="7" height="11" font="14">4</text>
+<text top="704" left="411" width="7" height="11" font="14">0</text>
+<text top="704" left="449" width="13" height="11" font="14">59</text>
+<text top="704" left="491" width="7" height="11" font="14">8</text>
+<text top="704" left="513" width="20" height="11" font="14">217</text>
+<text top="704" left="561" width="7" height="11" font="14">2</text>
+<text top="704" left="596" width="7" height="11" font="14">0</text>
+<text top="704" left="627" width="20" height="11" font="14">227</text>
+<text top="704" left="669" width="13" height="11" font="14">11</text>
+<text top="704" left="704" width="13" height="11" font="14">79</text>
+<text top="704" left="739" width="13" height="11" font="14">64</text>
+<text top="704" left="781" width="7" height="11" font="14">0</text>
+<text top="704" left="813" width="20" height="11" font="14">154</text>
+<text top="704" left="857" width="20" height="11" font="14">652</text>
+<text top="718" left="42" width="50" height="11" font="14">05:15 PM</text>
+<text top="718" left="114" width="13" height="11" font="14">11</text>
+<text top="718" left="143" width="20" height="11" font="14">285</text>
+<text top="718" left="192" width="7" height="11" font="14">0</text>
+<text top="718" left="226" width="7" height="11" font="14">0</text>
+<text top="718" left="258" width="20" height="11" font="14">296</text>
+<text top="718" left="306" width="7" height="11" font="14">6</text>
+<text top="718" left="334" width="13" height="11" font="14">50</text>
+<text top="718" left="376" width="7" height="11" font="14">6</text>
+<text top="718" left="411" width="7" height="11" font="14">0</text>
+<text top="718" left="449" width="13" height="11" font="14">62</text>
+<text top="718" left="491" width="7" height="11" font="14">7</text>
+<text top="718" left="513" width="20" height="11" font="14">213</text>
+<text top="718" left="561" width="7" height="11" font="14">0</text>
+<text top="718" left="596" width="7" height="11" font="14">0</text>
+<text top="718" left="627" width="20" height="11" font="14">220</text>
+<text top="718" left="675" width="7" height="11" font="14">9</text>
+<text top="718" left="704" width="13" height="11" font="14">98</text>
+<text top="718" left="739" width="13" height="11" font="14">50</text>
+<text top="718" left="781" width="7" height="11" font="14">0</text>
+<text top="718" left="813" width="20" height="11" font="14">157</text>
+<text top="718" left="857" width="20" height="11" font="14">735</text>
+<text top="732" left="42" width="50" height="11" font="14">05:30 PM</text>
+<text top="732" left="114" width="13" height="11" font="14">14</text>
+<text top="732" left="143" width="20" height="11" font="14">269</text>
+<text top="732" left="192" width="7" height="11" font="14">2</text>
+<text top="732" left="226" width="7" height="11" font="14">0</text>
+<text top="732" left="258" width="20" height="11" font="14">285</text>
+<text top="732" left="306" width="7" height="11" font="14">4</text>
+<text top="732" left="334" width="13" height="11" font="14">53</text>
+<text top="732" left="376" width="7" height="11" font="14">4</text>
+<text top="732" left="411" width="7" height="11" font="14">0</text>
+<text top="732" left="449" width="13" height="11" font="14">61</text>
+<text top="732" left="491" width="7" height="11" font="14">8</text>
+<text top="732" left="513" width="20" height="11" font="14">210</text>
+<text top="732" left="561" width="7" height="11" font="14">2</text>
+<text top="732" left="596" width="7" height="11" font="14">0</text>
+<text top="732" left="627" width="20" height="11" font="14">220</text>
+<text top="732" left="669" width="13" height="11" font="14">11</text>
+<text top="732" left="704" width="13" height="11" font="14">81</text>
+<text top="732" left="739" width="13" height="11" font="14">50</text>
+<text top="732" left="781" width="7" height="11" font="14">0</text>
+<text top="732" left="813" width="20" height="11" font="14">142</text>
+<text top="732" left="857" width="20" height="11" font="14">708</text>
+<text top="746" left="42" width="50" height="11" font="14">05:45 PM</text>
+<text top="746" left="114" width="13" height="11" font="14">11</text>
+<text top="746" left="143" width="20" height="11" font="14">258</text>
+<text top="746" left="192" width="7" height="11" font="14">1</text>
+<text top="746" left="226" width="7" height="11" font="14">0</text>
+<text top="746" left="258" width="20" height="11" font="14">270</text>
+<text top="746" left="306" width="7" height="11" font="14">1</text>
+<text top="746" left="334" width="13" height="11" font="14">47</text>
+<text top="746" left="376" width="7" height="11" font="14">3</text>
+<text top="746" left="411" width="7" height="11" font="14">0</text>
+<text top="746" left="449" width="13" height="11" font="14">51</text>
+<text top="746" left="491" width="7" height="11" font="14">9</text>
+<text top="746" left="513" width="20" height="11" font="14">212</text>
+<text top="746" left="561" width="7" height="11" font="14">4</text>
+<text top="746" left="596" width="7" height="11" font="14">0</text>
+<text top="746" left="627" width="20" height="11" font="14">225</text>
+<text top="746" left="669" width="13" height="11" font="14">11</text>
+<text top="746" left="704" width="13" height="11" font="14">94</text>
+<text top="746" left="739" width="13" height="11" font="14">47</text>
+<text top="746" left="781" width="7" height="11" font="14">0</text>
+<text top="746" left="813" width="20" height="11" font="14">152</text>
+<text top="746" left="857" width="20" height="11" font="14">698</text>
+<text top="761" left="35" width="57" height="9" font="17">Total Volume</text>
+<text top="760" left="114" width="13" height="11" font="14">50</text>
+<text top="760" left="138" width="25" height="10" font="14">1010</text>
+<text top="759" left="192" width="6" height="10" font="14">3</text>
+<text top="759" left="227" width="6" height="10" font="14">0</text>
+<text top="759" left="253" width="25" height="10" font="14">1063</text>
+<text top="759" left="300" width="12" height="10" font="14">18</text>
+<text top="759" left="329" width="18" height="10" font="14">198</text>
+<text top="759" left="370" width="12" height="10" font="14">17</text>
+<text top="759" left="412" width="6" height="10" font="14">0</text>
+<text top="759" left="444" width="18" height="10" font="14">233</text>
+<text top="759" left="485" width="12" height="10" font="14">32</text>
+<text top="759" left="514" width="18" height="10" font="14">852</text>
+<text top="759" left="561" width="6" height="10" font="14">8</text>
+<text top="759" left="597" width="6" height="10" font="14">0</text>
+<text top="759" left="629" width="18" height="10" font="14">892</text>
+<text top="759" left="670" width="12" height="10" font="14">42</text>
+<text top="759" left="699" width="18" height="10" font="14">352</text>
+<text top="759" left="734" width="18" height="10" font="14">211</text>
+<text top="759" left="782" width="6" height="10" font="14">0</text>
+<text top="759" left="814" width="18" height="10" font="14">605</text>
+<text top="759" left="852" width="25" height="10" font="14">2793</text>
+<text top="775" left="36" width="56" height="9" font="17">% App. Total</text>
+<text top="787" left="68" width="24" height="11" font="14">PHF</text>
+<text top="787" left="105" width="23" height="11" font="14">.893</text>
+<text top="787" left="140" width="23" height="11" font="14">.886</text>
+<text top="787" left="175" width="22" height="11" font="14">.375</text>
+<text top="787" left="210" width="23" height="11" font="14">.000</text>
+<text top="787" left="255" width="23" height="11" font="14">.898</text>
+<text top="787" left="289" width="23" height="11" font="14">.643</text>
+<text top="787" left="325" width="23" height="11" font="14">.934</text>
+<text top="787" left="360" width="23" height="11" font="14">.708</text>
+<text top="787" left="395" width="23" height="11" font="14">.000</text>
+<text top="787" left="440" width="23" height="11" font="14">.940</text>
+<text top="787" left="474" width="23" height="11" font="14">.889</text>
+<text top="787" left="510" width="23" height="11" font="14">.982</text>
+<text top="787" left="545" width="22" height="11" font="14">.500</text>
+<text top="787" left="580" width="23" height="11" font="14">.000</text>
+<text top="787" left="624" width="23" height="11" font="14">.982</text>
+<text top="787" left="659" width="23" height="11" font="14">.955</text>
+<text top="787" left="694" width="23" height="11" font="14">.898</text>
+<text top="787" left="730" width="23" height="11" font="14">.824</text>
+<text top="787" left="765" width="23" height="11" font="14">.000</text>
+<text top="787" left="809" width="23" height="11" font="14">.963</text>
+<text top="787" left="854" width="23" height="11" font="14">.950</text>
+<text top="33" left="43" width="308" height="11" font="18">ATTACHMENT A - TURNING MOVEMENT COUNTS</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="19" size="8" family="Times" color="#000000"/>
+	<fontspec id="20" size="8" family="Times" color="#000000"/>
+	<fontspec id="21" size="18" family="Times" color="#000000"/>
+<text top="32" left="374" width="169" height="19" font="8">Traffic Data Service</text>
+<text top="54" left="415" width="88" height="14" font="3">Campbell, CA</text>
+<text top="72" left="411" width="95" height="14" font="9"><b>(408) 377-2988</b></text>
+<text top="89" left="411" width="95" height="14" font="10"><i><b>tdsbay@cs.com</b></i></text>
+<text top="88" left="695" width="195" height="17" font="11">File Name : 1PM FINAL</text>
+<text top="109" left="695" width="183" height="17" font="11">Site Code : 00000001</text>
+<text top="130" left="695" width="183" height="17" font="11">Start Date : 4/16/2009</text>
+<text top="151" left="695" width="70" height="17" font="11">Page No</text>
+<text top="151" left="787" width="20" height="17" font="11">: 2</text>
+<text top="179" left="436" width="45" height="9" font="5"> PARK ST </text>
+<text top="499" left="187" width="0" height="9" font="19"> B</text>
+<text top="490" left="187" width="0" height="9" font="19">U</text>
+<text top="482" left="187" width="0" height="9" font="19">E</text>
+<text top="475" left="187" width="0" height="9" font="19">N</text>
+<text top="468" left="187" width="0" height="9" font="19">A</text>
+<text top="462" left="187" width="0" height="9" font="19"> V</text>
+<text top="451" left="187" width="0" height="9" font="19">IS</text>
+<text top="442" left="187" width="0" height="9" font="19">T</text>
+<text top="436" left="187" width="0" height="9" font="19">A</text>
+<text top="429" left="187" width="0" height="9" font="19"> A</text>
+<text top="419" left="187" width="0" height="9" font="19">V</text>
+<text top="412" left="187" width="0" height="9" font="19">E</text>
+<text top="405" left="187" width="0" height="9" font="19"> </text>
+<text top="402" left="730" width="0" height="12" font="20"> B</text>
+<text top="412" left="730" width="0" height="9" font="20">U</text>
+<text top="419" left="730" width="0" height="9" font="20">E</text>
+<text top="426" left="730" width="0" height="9" font="20">N</text>
+<text top="434" left="730" width="0" height="9" font="20">A</text>
+<text top="440" left="730" width="0" height="12" font="20"> V</text>
+<text top="450" left="730" width="0" height="12" font="20">IS</text>
+<text top="460" left="730" width="0" height="9" font="20">TA</text>
+<text top="473" left="730" width="0" height="12" font="20"> A</text>
+<text top="482" left="730" width="0" height="9" font="20">V</text>
+<text top="489" left="730" width="0" height="9" font="20">E</text>
+<text top="496" left="730" width="0" height="9" font="20"> </text>
+<text top="730" left="436" width="45" height="9" font="5"> PARK ST </text>
+<text top="246" left="397" width="22" height="9" font="5">Right</text>
+<text top="235" left="412" width="13" height="9" font="5">50 </text>
+<text top="246" left="432" width="20" height="9" font="5">Thru</text>
+<text top="235" left="435" width="23" height="9" font="5">1010 </text>
+<text top="246" left="467" width="15" height="9" font="5">Left</text>
+<text top="235" left="484" width="8" height="9" font="5">3 </text>
+<text top="246" left="498" width="22" height="9" font="5">Peds</text>
+<text top="235" left="517" width="8" height="9" font="5">0 </text>
+<text top="190" left="455" width="8" height="9" font="5">In</text>
+<text top="190" left="406" width="15" height="9" font="5">Out</text>
+<text top="190" left="494" width="21" height="9" font="5">Total</text>
+<text top="201" left="408" width="23" height="9" font="5">1081 </text>
+<text top="201" left="453" width="23" height="9" font="5">1063 </text>
+<text top="201" left="498" width="23" height="9" font="5">2144 </text>
+<text top="388" left="663" width="0" height="9" font="20">R</text>
+<text top="395" left="663" width="0" height="11" font="20">ig</text>
+<text top="403" left="663" width="0" height="9" font="20">h</text>
+<text top="409" left="663" width="0" height="9" font="20">t</text>
+<text top="402" left="674" width="0" height="9" font="20">1</text>
+<text top="408" left="674" width="0" height="9" font="20">8</text>
+<text top="414" left="674" width="0" height="9" font="20"> </text>
+<text top="423" left="663" width="0" height="9" font="20">Th</text>
+<text top="435" left="663" width="0" height="13" font="20">ru</text>
+<text top="430" left="674" width="0" height="9" font="20">1</text>
+<text top="436" left="674" width="0" height="9" font="20">9</text>
+<text top="442" left="674" width="0" height="9" font="20">8</text>
+<text top="447" left="674" width="0" height="9" font="20"> </text>
+<text top="459" left="663" width="0" height="9" font="20">L</text>
+<text top="465" left="663" width="0" height="9" font="20">e</text>
+<text top="470" left="663" width="0" height="12" font="20">ft</text>
+<text top="470" left="674" width="0" height="9" font="20">1</text>
+<text top="476" left="674" width="0" height="9" font="20">7</text>
+<text top="481" left="674" width="0" height="9" font="20"> </text>
+<text top="490" left="663" width="0" height="9" font="20">P</text>
+<text top="496" left="663" width="0" height="9" font="20">e</text>
+<text top="502" left="663" width="0" height="9" font="20">d</text>
+<text top="508" left="663" width="0" height="9" font="20">s</text>
+<text top="509" left="674" width="0" height="9" font="20">0</text>
+<text top="515" left="674" width="0" height="9" font="20"> </text>
+<text top="397" left="719" width="0" height="9" font="20">O</text>
+<text top="405" left="719" width="0" height="9" font="20">u</text>
+<text top="411" left="719" width="0" height="9" font="20">t</text>
+<text top="485" left="719" width="0" height="9" font="20">To</text>
+<text top="496" left="719" width="0" height="12" font="20">ta</text>
+<text top="505" left="719" width="0" height="9" font="20">l</text>
+<text top="446" left="719" width="0" height="12" font="20">In</text>
+<text top="402" left="707" width="0" height="9" font="20">3</text>
+<text top="408" left="707" width="0" height="9" font="20">8</text>
+<text top="414" left="707" width="0" height="9" font="20">7</text>
+<text top="420" left="707" width="0" height="9" font="20"> </text>
+<text top="447" left="707" width="0" height="9" font="20">2</text>
+<text top="453" left="707" width="0" height="9" font="20">3</text>
+<text top="459" left="707" width="0" height="9" font="20">3</text>
+<text top="465" left="707" width="0" height="9" font="20"> </text>
+<text top="493" left="707" width="0" height="9" font="20">6</text>
+<text top="498" left="707" width="0" height="9" font="20">2</text>
+<text top="504" left="707" width="0" height="9" font="20">0</text>
+<text top="510" left="707" width="0" height="9" font="20"> </text>
+<text top="662" left="400" width="15" height="9" font="5">Left</text>
+<text top="674" left="417" width="8" height="9" font="5">8 </text>
+<text top="662" left="432" width="20" height="9" font="5">Thru</text>
+<text top="674" left="441" width="18" height="9" font="5">852 </text>
+<text top="662" left="464" width="22" height="9" font="5">Right</text>
+<text top="674" left="479" width="13" height="9" font="5">32 </text>
+<text top="662" left="498" width="22" height="9" font="5">Peds</text>
+<text top="674" left="518" width="8" height="9" font="5">0 </text>
+<text top="719" left="406" width="15" height="9" font="5">Out</text>
+<text top="719" left="494" width="21" height="9" font="5">Total</text>
+<text top="719" left="455" width="8" height="9" font="5">In</text>
+<text top="707" left="408" width="23" height="9" font="5">1069 </text>
+<text top="707" left="458" width="18" height="9" font="5">892 </text>
+<text top="707" left="498" width="23" height="9" font="5">1961 </text>
+<text top="409" left="255" width="0" height="9" font="19">L</text>
+<text top="403" left="255" width="0" height="9" font="19">e</text>
+<text top="397" left="255" width="0" height="9" font="19">ft</text>
+<text top="404" left="243" width="0" height="9" font="19">2</text>
+<text top="398" left="243" width="0" height="9" font="19">1</text>
+<text top="392" left="243" width="0" height="9" font="19">1</text>
+<text top="386" left="243" width="0" height="9" font="19"> </text>
+<text top="444" left="255" width="0" height="9" font="19">T</text>
+<text top="438" left="255" width="0" height="9" font="19">h</text>
+<text top="432" left="255" width="0" height="9" font="19">ru</text>
+<text top="437" left="243" width="0" height="9" font="19">3</text>
+<text top="432" left="243" width="0" height="9" font="19">5</text>
+<text top="426" left="243" width="0" height="9" font="19">2</text>
+<text top="420" left="243" width="0" height="9" font="19"> </text>
+<text top="480" left="255" width="0" height="9" font="19">R</text>
+<text top="472" left="255" width="0" height="9" font="19">ig</text>
+<text top="464" left="255" width="0" height="9" font="19">h</text>
+<text top="459" left="255" width="0" height="9" font="19">t</text>
+<text top="465" left="243" width="0" height="9" font="19">4</text>
+<text top="460" left="243" width="0" height="9" font="19">2</text>
+<text top="454" left="243" width="0" height="9" font="19"> </text>
+<text top="513" left="255" width="0" height="9" font="19">P</text>
+<text top="506" left="255" width="0" height="9" font="19">e</text>
+<text top="500" left="255" width="0" height="9" font="19">d</text>
+<text top="495" left="255" width="0" height="9" font="19">s</text>
+<text top="493" left="243" width="0" height="9" font="19">0</text>
+<text top="487" left="243" width="0" height="9" font="19"> </text>
+<text top="411" left="198" width="0" height="9" font="19">T</text>
+<text top="405" left="198" width="0" height="9" font="19">o</text>
+<text top="400" left="198" width="0" height="9" font="19">ta</text>
+<text top="391" left="198" width="0" height="9" font="19">l</text>
+<text top="499" left="198" width="0" height="9" font="19">O</text>
+<text top="491" left="198" width="0" height="9" font="19">u</text>
+<text top="485" left="198" width="0" height="9" font="19">t</text>
+<text top="450" left="198" width="0" height="9" font="19">In</text>
+<text top="494" left="210" width="0" height="9" font="19">2</text>
+<text top="488" left="210" width="0" height="9" font="19">5</text>
+<text top="482" left="210" width="0" height="9" font="19">6</text>
+<text top="476" left="210" width="0" height="9" font="19"> </text>
+<text top="449" left="210" width="0" height="9" font="19">6</text>
+<text top="443" left="210" width="0" height="9" font="19">0</text>
+<text top="437" left="210" width="0" height="9" font="19">5</text>
+<text top="431" left="210" width="0" height="9" font="19"> </text>
+<text top="404" left="210" width="0" height="9" font="19">8</text>
+<text top="398" left="210" width="0" height="9" font="19">6</text>
+<text top="392" left="210" width="0" height="9" font="19">1</text>
+<text top="386" left="210" width="0" height="9" font="19"> </text>
+<text top="454" left="380" width="127" height="9" font="5">Peak Hour Begins at 05:00 PM</text>
+<text top="477" left="380" width="35" height="9" font="5">Vehicles</text>
+<text top="368" left="390" width="138" height="19" font="21">Peak Hour Data</text>
+<text top="423" left="447" width="23" height="9" font="5">North</text>
+<text top="31" left="26" width="308" height="11" font="18">ATTACHMENT A - TURNING MOVEMENT COUNTS</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="54" left="81" width="377" height="20" font="11">HCM Signalized Intersection Capacity Analysis</text>
+<text top="76" left="81" width="406" height="20" font="11">3: Buena Vista Ave &amp; Park St (Existing Conditions)</text>
+<text top="76" left="789" width="48" height="17" font="3">6/3/2009</text>
+<text top="1064" left="81" width="106" height="17" font="3">Existing Conditions</text>
+<text top="1064" left="730" width="107" height="17" font="3">Synchro 7 -  Report</text>
+<text top="1082" left="81" width="183" height="17" font="3">Kimley-Horn and Associates, Inc.</text>
+<text top="1082" left="798" width="39" height="17" font="3">Page 1</text>
+<text top="147" left="81" width="58" height="17" font="3">Movement</text>
+<text top="147" left="259" width="23" height="17" font="3">EBL</text>
+<text top="147" left="309" width="24" height="17" font="3">EBT</text>
+<text top="147" left="358" width="26" height="17" font="3">EBR</text>
+<text top="147" left="407" width="27" height="17" font="3">WBL</text>
+<text top="147" left="456" width="28" height="17" font="3">WBT</text>
+<text top="147" left="505" width="29" height="17" font="3">WBR</text>
+<text top="147" left="561" width="24" height="17" font="3">NBL</text>
+<text top="147" left="611" width="25" height="17" font="3">NBT</text>
+<text top="147" left="660" width="26" height="17" font="3">NBR</text>
+<text top="147" left="713" width="23" height="17" font="3">SBL</text>
+<text top="147" left="762" width="24" height="17" font="3">SBT</text>
+<text top="147" left="811" width="26" height="17" font="3">SBR</text>
+<text top="166" left="81" width="111" height="17" font="3">Lane Configurations</text>
+<text top="184" left="81" width="74" height="17" font="3">Volume (vph)</text>
+<text top="184" left="262" width="21" height="17" font="3">211</text>
+<text top="184" left="312" width="21" height="17" font="3">352</text>
+<text top="184" left="370" width="14" height="17" font="3">42</text>
+<text top="184" left="420" width="14" height="17" font="3">17</text>
+<text top="184" left="464" width="21" height="17" font="3">198</text>
+<text top="184" left="521" width="14" height="17" font="3">18</text>
+<text top="184" left="578" width="7" height="17" font="3">0</text>
+<text top="184" left="615" width="21" height="17" font="3">852</text>
+<text top="184" left="672" width="14" height="17" font="3">32</text>
+<text top="184" left="729" width="7" height="17" font="3">0</text>
+<text top="184" left="759" width="27" height="17" font="3">1010</text>
+<text top="184" left="823" width="14" height="17" font="3">50</text>
+<text top="202" left="81" width="98" height="17" font="3">Ideal Flow (vphpl)</text>
+<text top="202" left="255" width="27" height="17" font="3">1900</text>
+<text top="202" left="306" width="27" height="17" font="3">1900</text>
+<text top="202" left="356" width="27" height="17" font="3">1900</text>
+<text top="202" left="406" width="27" height="17" font="3">1900</text>
+<text top="202" left="457" width="27" height="17" font="3">1900</text>
+<text top="202" left="507" width="27" height="17" font="3">1900</text>
+<text top="202" left="558" width="27" height="17" font="3">1900</text>
+<text top="202" left="608" width="27" height="17" font="3">1900</text>
+<text top="202" left="658" width="27" height="17" font="3">1900</text>
+<text top="202" left="709" width="27" height="17" font="3">1900</text>
+<text top="202" left="759" width="27" height="17" font="3">1900</text>
+<text top="202" left="810" width="27" height="17" font="3">1900</text>
+<text top="220" left="81" width="100" height="17" font="3">Total Lost time (s)</text>
+<text top="220" left="265" width="18" height="17" font="3">4.0</text>
+<text top="220" left="316" width="18" height="17" font="3">4.0</text>
+<text top="220" left="467" width="18" height="17" font="3">4.0</text>
+<text top="220" left="618" width="18" height="17" font="3">4.0</text>
+<text top="220" left="769" width="18" height="17" font="3">4.0</text>
+<text top="238" left="81" width="91" height="17" font="3">Lane Util. Factor</text>
+<text top="238" left="258" width="24" height="17" font="3">1.00</text>
+<text top="238" left="309" width="24" height="17" font="3">1.00</text>
+<text top="238" left="460" width="24" height="17" font="3">1.00</text>
+<text top="238" left="611" width="24" height="17" font="3">0.95</text>
+<text top="238" left="762" width="24" height="17" font="3">0.95</text>
+<text top="256" left="81" width="15" height="17" font="3">Frt</text>
+<text top="256" left="258" width="24" height="17" font="3">1.00</text>
+<text top="256" left="309" width="24" height="17" font="3">0.98</text>
+<text top="256" left="460" width="24" height="17" font="3">0.99</text>
+<text top="256" left="611" width="24" height="17" font="3">0.99</text>
+<text top="256" left="762" width="24" height="17" font="3">0.99</text>
+<text top="274" left="81" width="71" height="17" font="3">Flt Protected</text>
+<text top="274" left="258" width="24" height="17" font="3">0.95</text>
+<text top="274" left="309" width="24" height="17" font="3">1.00</text>
+<text top="274" left="460" width="24" height="17" font="3">1.00</text>
+<text top="274" left="611" width="24" height="17" font="3">1.00</text>
+<text top="274" left="762" width="24" height="17" font="3">1.00</text>
+<text top="292" left="81" width="92" height="17" font="3">Satd. Flow (prot)</text>
+<text top="292" left="255" width="27" height="17" font="3">1770</text>
+<text top="292" left="306" width="27" height="17" font="3">1833</text>
+<text top="292" left="457" width="27" height="17" font="3">1836</text>
+<text top="292" left="608" width="27" height="17" font="3">3520</text>
+<text top="292" left="759" width="27" height="17" font="3">3514</text>
+<text top="310" left="81" width="71" height="17" font="3">Flt Permitted</text>
+<text top="310" left="258" width="24" height="17" font="3">0.50</text>
+<text top="310" left="309" width="24" height="17" font="3">1.00</text>
+<text top="310" left="460" width="24" height="17" font="3">0.93</text>
+<text top="310" left="611" width="24" height="17" font="3">1.00</text>
+<text top="310" left="762" width="24" height="17" font="3">1.00</text>
+<text top="328" left="81" width="99" height="17" font="3">Satd. Flow (perm)</text>
+<text top="328" left="262" width="21" height="17" font="3">931</text>
+<text top="328" left="306" width="27" height="17" font="3">1833</text>
+<text top="328" left="457" width="27" height="17" font="3">1712</text>
+<text top="328" left="608" width="27" height="17" font="3">3520</text>
+<text top="328" left="759" width="27" height="17" font="3">3514</text>
+<text top="348" left="81" width="123" height="17" font="3">Peak-hour factor, PHF</text>
+<text top="348" left="258" width="24" height="17" font="3">0.92</text>
+<text top="348" left="309" width="24" height="17" font="3">0.92</text>
+<text top="348" left="359" width="24" height="17" font="3">0.92</text>
+<text top="348" left="410" width="24" height="17" font="3">0.92</text>
+<text top="348" left="460" width="24" height="17" font="3">0.92</text>
+<text top="348" left="510" width="24" height="17" font="3">0.92</text>
+<text top="348" left="561" width="24" height="17" font="3">0.92</text>
+<text top="348" left="611" width="24" height="17" font="3">0.92</text>
+<text top="348" left="662" width="24" height="17" font="3">0.92</text>
+<text top="348" left="712" width="24" height="17" font="3">0.92</text>
+<text top="348" left="762" width="24" height="17" font="3">0.92</text>
+<text top="348" left="813" width="24" height="17" font="3">0.92</text>
+<text top="366" left="81" width="83" height="17" font="3">Adj. Flow (vph)</text>
+<text top="366" left="262" width="21" height="17" font="3">229</text>
+<text top="366" left="312" width="21" height="17" font="3">383</text>
+<text top="366" left="370" width="14" height="17" font="3">46</text>
+<text top="366" left="420" width="14" height="17" font="3">18</text>
+<text top="366" left="464" width="21" height="17" font="3">215</text>
+<text top="366" left="521" width="14" height="17" font="3">20</text>
+<text top="366" left="578" width="7" height="17" font="3">0</text>
+<text top="366" left="615" width="21" height="17" font="3">926</text>
+<text top="366" left="672" width="14" height="17" font="3">35</text>
+<text top="366" left="729" width="7" height="17" font="3">0</text>
+<text top="366" left="759" width="27" height="17" font="3">1098</text>
+<text top="366" left="823" width="14" height="17" font="3">54</text>
+<text top="384" left="81" width="126" height="17" font="3">RTOR Reduction (vph)</text>
+<text top="384" left="276" width="7" height="17" font="3">0</text>
+<text top="384" left="326" width="7" height="17" font="3">5</text>
+<text top="384" left="377" width="7" height="17" font="3">0</text>
+<text top="384" left="427" width="7" height="17" font="3">0</text>
+<text top="384" left="477" width="7" height="17" font="3">4</text>
+<text top="384" left="528" width="7" height="17" font="3">0</text>
+<text top="384" left="578" width="7" height="17" font="3">0</text>
+<text top="384" left="629" width="7" height="17" font="3">3</text>
+<text top="384" left="679" width="7" height="17" font="3">0</text>
+<text top="384" left="729" width="7" height="17" font="3">0</text>
+<text top="384" left="780" width="7" height="17" font="3">4</text>
+<text top="384" left="830" width="7" height="17" font="3">0</text>
+<text top="402" left="81" width="127" height="17" font="3">Lane Group Flow (vph)</text>
+<text top="402" left="262" width="21" height="17" font="3">229</text>
+<text top="402" left="312" width="21" height="17" font="3">424</text>
+<text top="402" left="377" width="7" height="17" font="3">0</text>
+<text top="402" left="427" width="7" height="17" font="3">0</text>
+<text top="402" left="464" width="21" height="17" font="3">249</text>
+<text top="402" left="528" width="7" height="17" font="3">0</text>
+<text top="402" left="578" width="7" height="17" font="3">0</text>
+<text top="402" left="615" width="21" height="17" font="3">958</text>
+<text top="402" left="679" width="7" height="17" font="3">0</text>
+<text top="402" left="729" width="7" height="17" font="3">0</text>
+<text top="402" left="759" width="27" height="17" font="3">1148</text>
+<text top="402" left="830" width="7" height="17" font="3">0</text>
+<text top="422" left="81" width="56" height="17" font="3">Turn Type</text>
+<text top="422" left="253" width="29" height="17" font="3">Perm</text>
+<text top="422" left="404" width="29" height="17" font="3">Perm</text>
+<text top="422" left="555" width="29" height="17" font="3">Perm</text>
+<text top="422" left="707" width="29" height="17" font="3">Perm</text>
+<text top="440" left="81" width="98" height="17" font="3">Protected Phases</text>
+<text top="440" left="326" width="7" height="17" font="3">6</text>
+<text top="440" left="477" width="7" height="17" font="3">2</text>
+<text top="440" left="629" width="7" height="17" font="3">4</text>
+<text top="440" left="780" width="7" height="17" font="3">8</text>
+<text top="458" left="81" width="98" height="17" font="3">Permitted Phases</text>
+<text top="458" left="276" width="7" height="17" font="3">6</text>
+<text top="458" left="427" width="7" height="17" font="3">2</text>
+<text top="458" left="578" width="7" height="17" font="3">4</text>
+<text top="458" left="729" width="7" height="17" font="3">8</text>
+<text top="476" left="81" width="121" height="17" font="3">Actuated Green, G (s)</text>
+<text top="476" left="258" width="24" height="17" font="3">26.0</text>
+<text top="476" left="309" width="24" height="17" font="3">26.0</text>
+<text top="476" left="460" width="24" height="17" font="3">26.0</text>
+<text top="476" left="611" width="24" height="17" font="3">46.0</text>
+<text top="476" left="762" width="24" height="17" font="3">46.0</text>
+<text top="494" left="81" width="118" height="17" font="3">Effective Green, g (s)</text>
+<text top="494" left="258" width="24" height="17" font="3">26.0</text>
+<text top="494" left="309" width="24" height="17" font="3">26.0</text>
+<text top="494" left="460" width="24" height="17" font="3">26.0</text>
+<text top="494" left="611" width="24" height="17" font="3">46.0</text>
+<text top="494" left="762" width="24" height="17" font="3">46.0</text>
+<text top="512" left="81" width="105" height="17" font="3">Actuated g/C Ratio</text>
+<text top="512" left="258" width="24" height="17" font="3">0.32</text>
+<text top="512" left="309" width="24" height="17" font="3">0.32</text>
+<text top="512" left="460" width="24" height="17" font="3">0.32</text>
+<text top="512" left="611" width="24" height="17" font="3">0.58</text>
+<text top="512" left="762" width="24" height="17" font="3">0.58</text>
+<text top="530" left="81" width="105" height="17" font="3">Clearance Time (s)</text>
+<text top="530" left="265" width="18" height="17" font="3">4.0</text>
+<text top="530" left="316" width="18" height="17" font="3">4.0</text>
+<text top="530" left="467" width="18" height="17" font="3">4.0</text>
+<text top="530" left="618" width="18" height="17" font="3">4.0</text>
+<text top="530" left="769" width="18" height="17" font="3">4.0</text>
+<text top="550" left="81" width="109" height="17" font="3">Lane Grp Cap (vph)</text>
+<text top="550" left="262" width="21" height="17" font="3">303</text>
+<text top="550" left="312" width="21" height="17" font="3">596</text>
+<text top="550" left="464" width="21" height="17" font="3">556</text>
+<text top="550" left="608" width="27" height="17" font="3">2024</text>
+<text top="550" left="759" width="27" height="17" font="3">2021</text>
+<text top="568" left="81" width="75" height="17" font="3">v/s Ratio Prot</text>
+<text top="568" left="309" width="24" height="17" font="3">0.23</text>
+<text top="568" left="611" width="24" height="17" font="3">0.27</text>
+<text top="568" left="756" width="30" height="17" font="3">c0.33</text>
+<text top="586" left="81" width="82" height="17" font="3">v/s Ratio Perm</text>
+<text top="586" left="252" width="30" height="17" font="3">c0.25</text>
+<text top="586" left="460" width="24" height="17" font="3">0.15</text>
+<text top="604" left="81" width="49" height="17" font="3">v/c Ratio</text>
+<text top="604" left="258" width="24" height="17" font="3">0.76</text>
+<text top="604" left="309" width="24" height="17" font="3">0.71</text>
+<text top="604" left="460" width="24" height="17" font="3">0.45</text>
+<text top="604" left="611" width="24" height="17" font="3">0.47</text>
+<text top="604" left="762" width="24" height="17" font="3">0.57</text>
+<text top="622" left="81" width="100" height="17" font="3">Uniform Delay, d1</text>
+<text top="622" left="258" width="24" height="17" font="3">24.2</text>
+<text top="622" left="309" width="24" height="17" font="3">23.7</text>
+<text top="622" left="460" width="24" height="17" font="3">21.3</text>
+<text top="622" left="618" width="18" height="17" font="3">9.9</text>
+<text top="622" left="762" width="24" height="17" font="3">10.7</text>
+<text top="640" left="81" width="104" height="17" font="3">Progression Factor</text>
+<text top="640" left="258" width="24" height="17" font="3">1.00</text>
+<text top="640" left="309" width="24" height="17" font="3">1.00</text>
+<text top="640" left="460" width="24" height="17" font="3">1.00</text>
+<text top="640" left="611" width="24" height="17" font="3">1.00</text>
+<text top="640" left="762" width="24" height="17" font="3">1.00</text>
+<text top="658" left="81" width="121" height="17" font="3">Incremental Delay, d2</text>
+<text top="658" left="258" width="24" height="17" font="3">16.0</text>
+<text top="658" left="316" width="18" height="17" font="3">7.0</text>
+<text top="658" left="467" width="18" height="17" font="3">2.6</text>
+<text top="658" left="618" width="18" height="17" font="3">0.8</text>
+<text top="658" left="769" width="18" height="17" font="3">1.2</text>
+<text top="676" left="81" width="50" height="17" font="3">Delay (s)</text>
+<text top="676" left="258" width="24" height="17" font="3">40.2</text>
+<text top="676" left="309" width="24" height="17" font="3">30.7</text>
+<text top="676" left="460" width="24" height="17" font="3">23.9</text>
+<text top="676" left="611" width="24" height="17" font="3">10.7</text>
+<text top="676" left="762" width="24" height="17" font="3">11.9</text>
+<text top="694" left="81" width="88" height="17" font="3">Level of Service</text>
+<text top="694" left="274" width="9" height="17" font="3">D</text>
+<text top="694" left="324" width="9" height="17" font="3">C</text>
+<text top="694" left="475" width="9" height="17" font="3">C</text>
+<text top="694" left="627" width="8" height="17" font="3">B</text>
+<text top="694" left="778" width="8" height="17" font="3">B</text>
+<text top="712" left="81" width="106" height="17" font="3">Approach Delay (s)</text>
+<text top="712" left="309" width="24" height="17" font="3">34.0</text>
+<text top="712" left="460" width="24" height="17" font="3">23.9</text>
+<text top="712" left="611" width="24" height="17" font="3">10.7</text>
+<text top="712" left="762" width="24" height="17" font="3">11.9</text>
+<text top="730" left="81" width="81" height="17" font="3">Approach LOS</text>
+<text top="730" left="324" width="9" height="17" font="3">C</text>
+<text top="730" left="475" width="9" height="17" font="3">C</text>
+<text top="730" left="627" width="8" height="17" font="3">B</text>
+<text top="730" left="778" width="8" height="17" font="3">B</text>
+<text top="757" left="81" width="121" height="17" font="3">Intersection Summary</text>
+<text top="777" left="81" width="157" height="17" font="3">HCM Average Control Delay</text>
+<text top="777" left="359" width="24" height="17" font="3">17.3</text>
+<text top="777" left="434" width="120" height="17" font="3">HCM Level of Service</text>
+<text top="777" left="678" width="8" height="17" font="3">B</text>
+<text top="795" left="81" width="168" height="17" font="3">HCM Volume to Capacity ratio</text>
+<text top="795" left="359" width="24" height="17" font="3">0.64</text>
+<text top="813" left="81" width="143" height="17" font="3">Actuated Cycle Length (s)</text>
+<text top="813" left="359" width="24" height="17" font="3">80.0</text>
+<text top="813" left="434" width="108" height="17" font="3">Sum of lost time (s)</text>
+<text top="813" left="669" width="18" height="17" font="3">8.0</text>
+<text top="831" left="81" width="174" height="17" font="3">Intersection Capacity Utilization</text>
+<text top="831" left="348" width="35" height="17" font="3">73.0%</text>
+<text top="831" left="434" width="113" height="17" font="3">ICU Level of Service</text>
+<text top="831" left="677" width="9" height="17" font="3">D</text>
+<text top="849" left="81" width="117" height="17" font="3">Analysis Period (min)</text>
+<text top="849" left="370" width="14" height="17" font="3">15</text>
+<text top="867" left="81" width="127" height="17" font="3">c    Critical Lane Group</text>
+<text top="21" left="210" width="526" height="11" font="18">ATTACHMENT B - EXISTING PM PEAK PERIOD WITH LEFT-TURN RESTRICTION</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="918" width="1188">
+	<fontspec id="22" size="6" family="Times" color="#000000"/>
+	<fontspec id="23" size="14" family="Times" color="#ffffff"/>
+	<fontspec id="24" size="7" family="Times" color="#000000"/>
+	<fontspec id="25" size="6" family="Times" color="#000000"/>
+	<fontspec id="26" size="6" family="Times" color="#ffffff"/>
+	<fontspec id="27" size="6" family="Times" color="#ffffff"/>
+	<fontspec id="28" size="7" family="Times" color="#000000"/>
+	<fontspec id="29" size="6" family="Times" color="#000000"/>
+<text top="55" left="507" width="173" height="9" font="22">ATTACHMENT C - TRIP GENERATION TABLE</text>
+<text top="90" left="30" width="458" height="18" font="23"><i><b>Trip Generation Planner (ITE 8th Edition) - Summary Report</b></i></text>
+<text top="123" left="29" width="117" height="11" font="24"><i><b>Weekday Trip Generation</b></i></text>
+<text top="123" left="298" width="62" height="11" font="24"><i><b>Project Name</b></i></text>
+<text top="135" left="29" width="193" height="11" font="24"><i><b>Trips Based on Average Rates/Equations </b></i></text>
+<text top="135" left="298" width="72" height="11" font="24"><i><b>Project Number</b></i></text>
+<text top="186" left="36" width="15" height="9" font="25"><b>ITE </b></text>
+<text top="196" left="33" width="20" height="9" font="25"><b>Code</b></text>
+<text top="175" left="69" width="32" height="9" font="25"><b>Internal </b></text>
+<text top="186" left="69" width="33" height="9" font="25"><b>Capture </b></text>
+<text top="196" left="66" width="36" height="9" font="25"><b>Land Use</b></text>
+<text top="197" left="112" width="86" height="9" font="25"><b>Land Use Description </b></text>
+<text top="186" left="298" width="50" height="9" font="25"><b>Independent </b></text>
+<text top="196" left="298" width="32" height="9" font="25"><b>Variable</b></text>
+<text top="186" left="381" width="25" height="9" font="25"><b>No. of </b></text>
+<text top="196" left="382" width="20" height="9" font="25"><b>Units</b></text>
+<text top="175" left="415" width="18" height="9" font="25"><b>Avg </b></text>
+<text top="186" left="413" width="20" height="9" font="25"><b>Rate </b></text>
+<text top="196" left="412" width="21" height="9" font="25"><b>or Eq</b></text>
+<text top="186" left="444" width="22" height="9" font="25"><b>Daily </b></text>
+<text top="196" left="444" width="18" height="9" font="25"><b>Rate</b></text>
+<text top="186" left="480" width="15" height="9" font="25"><b>AM </b></text>
+<text top="196" left="477" width="18" height="9" font="25"><b>Rate</b></text>
+<text top="186" left="510" width="14" height="9" font="25"><b>PM </b></text>
+<text top="196" left="507" width="18" height="9" font="25"><b>Rate</b></text>
+<text top="186" left="536" width="22" height="9" font="25"><b>Daily </b></text>
+<text top="196" left="535" width="20" height="9" font="25"><b>Trips</b></text>
+<text top="186" left="567" width="15" height="9" font="25"><b>AM </b></text>
+<text top="196" left="563" width="20" height="9" font="25"><b>Trips</b></text>
+<text top="186" left="595" width="14" height="9" font="25"><b>PM </b></text>
+<text top="196" left="591" width="20" height="9" font="25"><b>Trips</b></text>
+<text top="175" left="624" width="15" height="9" font="25"><b>AM </b></text>
+<text top="186" left="620" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="626" width="7" height="9" font="25"><b>In</b></text>
+<text top="175" left="652" width="15" height="9" font="25"><b>AM </b></text>
+<text top="186" left="648" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="651" width="14" height="9" font="25"><b>Out</b></text>
+<text top="175" left="680" width="14" height="9" font="25"><b>PM </b></text>
+<text top="186" left="676" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="683" width="7" height="9" font="25"><b>In</b></text>
+<text top="175" left="708" width="14" height="9" font="25"><b>PM </b></text>
+<text top="186" left="705" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="708" width="14" height="9" font="25"><b>Out</b></text>
+<text top="186" left="733" width="22" height="9" font="25"><b>Daily </b></text>
+<text top="196" left="733" width="20" height="9" font="25"><b>Trips</b></text>
+<text top="186" left="765" width="15" height="9" font="25"><b>AM </b></text>
+<text top="196" left="761" width="20" height="9" font="25"><b>Trips</b></text>
+<text top="186" left="793" width="14" height="9" font="25"><b>PM </b></text>
+<text top="196" left="789" width="20" height="9" font="25"><b>Trips</b></text>
+<text top="175" left="822" width="15" height="9" font="25"><b>AM </b></text>
+<text top="186" left="818" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="824" width="7" height="9" font="25"><b>In</b></text>
+<text top="175" left="850" width="15" height="9" font="25"><b>AM </b></text>
+<text top="186" left="846" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="849" width="14" height="9" font="25"><b>Out</b></text>
+<text top="175" left="878" width="14" height="9" font="25"><b>PM </b></text>
+<text top="186" left="874" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="881" width="7" height="9" font="25"><b>In</b></text>
+<text top="175" left="906" width="14" height="9" font="25"><b>PM </b></text>
+<text top="186" left="902" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="905" width="14" height="9" font="25"><b>Out</b></text>
+<text top="186" left="931" width="22" height="9" font="25"><b>Daily </b></text>
+<text top="196" left="931" width="20" height="9" font="25"><b>Trips</b></text>
+<text top="186" left="963" width="15" height="9" font="25"><b>AM </b></text>
+<text top="196" left="959" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="186" left="991" width="14" height="9" font="25"><b>PM </b></text>
+<text top="196" left="987" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="175" left="1019" width="15" height="9" font="25"><b>AM </b></text>
+<text top="186" left="1015" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="1022" width="7" height="9" font="25"><b>In</b></text>
+<text top="175" left="1048" width="15" height="9" font="25"><b>AM </b></text>
+<text top="186" left="1044" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="1047" width="14" height="9" font="25"><b>Out</b></text>
+<text top="175" left="1076" width="14" height="9" font="25"><b>PM </b></text>
+<text top="186" left="1072" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="1078" width="7" height="9" font="25"><b>In</b></text>
+<text top="175" left="1104" width="14" height="9" font="25"><b>PM </b></text>
+<text top="186" left="1100" width="22" height="9" font="25"><b>Trips </b></text>
+<text top="196" left="1103" width="14" height="9" font="25"><b>Out</b></text>
+<text top="207" left="36" width="14" height="9" font="26"><b>710</b></text>
+<text top="207" left="74" width="21" height="9" font="27">Office</text>
+<text top="207" left="112" width="95" height="9" font="22">General Office Building (1)</text>
+<text top="207" left="298" width="42" height="9" font="22">1,000 Sq Ft</text>
+<text top="207" left="387" width="11" height="9" font="22">4.9</text>
+<text top="207" left="415" width="14" height="9" font="22">Avg</text>
+<text top="207" left="443" width="20" height="9" font="22">11.01</text>
+<text top="207" left="478" width="16" height="9" font="22">1.55</text>
+<text top="207" left="508" width="16" height="9" font="22">1.49</text>
+<text top="207" left="541" width="9" height="9" font="22">54</text>
+<text top="207" left="571" width="5" height="9" font="22">8</text>
+<text top="207" left="600" width="5" height="9" font="22">7</text>
+<text top="207" left="628" width="5" height="9" font="22">7</text>
+<text top="207" left="656" width="5" height="9" font="22">1</text>
+<text top="207" left="684" width="5" height="9" font="22">1</text>
+<text top="207" left="713" width="5" height="9" font="22">6</text>
+<text top="207" left="739" width="9" height="9" font="22">44</text>
+<text top="207" left="769" width="5" height="9" font="22">8</text>
+<text top="207" left="797" width="5" height="9" font="22">6</text>
+<text top="207" left="826" width="5" height="9" font="22">7</text>
+<text top="207" left="854" width="5" height="9" font="22">1</text>
+<text top="207" left="882" width="5" height="9" font="22">1</text>
+<text top="207" left="910" width="5" height="9" font="22">5</text>
+<text top="207" left="936" width="9" height="9" font="22">44</text>
+<text top="207" left="967" width="5" height="9" font="22">8</text>
+<text top="207" left="995" width="5" height="9" font="22">6</text>
+<text top="207" left="1023" width="5" height="9" font="22">7</text>
+<text top="207" left="1052" width="5" height="9" font="22">1</text>
+<text top="207" left="1080" width="5" height="9" font="22">1</text>
+<text top="207" left="1108" width="5" height="9" font="22">5</text>
+<text top="217" left="36" width="14" height="9" font="26"><b>814</b></text>
+<text top="217" left="74" width="21" height="9" font="27">Retail</text>
+<text top="217" left="112" width="82" height="9" font="22">Specialty Retail Center</text>
+<text top="217" left="298" width="42" height="9" font="22">1,000 Sq Ft</text>
+<text top="217" left="380" width="25" height="9" font="22">20.814</text>
+<text top="217" left="415" width="14" height="9" font="22">Avg</text>
+<text top="217" left="443" width="20" height="9" font="22">44.32</text>
+<text top="217" left="484" width="3" height="9" font="22">*</text>
+<text top="217" left="508" width="16" height="9" font="22">2.71</text>
+<text top="217" left="539" width="14" height="9" font="22">924</text>
+<text top="217" left="597" width="9" height="9" font="22">56</text>
+<text top="217" left="682" width="9" height="9" font="22">25</text>
+<text top="217" left="710" width="9" height="9" font="22">31</text>
+<text top="217" left="736" width="14" height="9" font="22">914</text>
+<text top="217" left="795" width="9" height="9" font="22">55</text>
+<text top="217" left="880" width="9" height="9" font="22">24</text>
+<text top="217" left="908" width="9" height="9" font="22">31</text>
+<text top="217" left="934" width="14" height="9" font="22">914</text>
+<text top="217" left="993" width="9" height="9" font="22">55</text>
+<text top="217" left="1078" width="9" height="9" font="22">24</text>
+<text top="217" left="1106" width="9" height="9" font="22">31</text>
+<text top="227" left="65" width="39" height="9" font="27">Select Use</text>
+<text top="237" left="65" width="39" height="9" font="27">Select Use</text>
+<text top="426" left="504" width="24" height="9" font="25"><b>Totals</b></text>
+<text top="426" left="539" width="14" height="9" font="22">978</text>
+<text top="426" left="571" width="5" height="9" font="22">8</text>
+<text top="426" left="597" width="9" height="9" font="22">63</text>
+<text top="426" left="628" width="5" height="9" font="22">7</text>
+<text top="426" left="656" width="5" height="9" font="22">1</text>
+<text top="426" left="682" width="9" height="9" font="22">26</text>
+<text top="426" left="710" width="9" height="9" font="22">37</text>
+<text top="426" left="736" width="14" height="9" font="22">958</text>
+<text top="426" left="769" width="5" height="9" font="22">8</text>
+<text top="426" left="795" width="9" height="9" font="22">61</text>
+<text top="426" left="826" width="5" height="9" font="22">7</text>
+<text top="426" left="854" width="5" height="9" font="22">1</text>
+<text top="426" left="880" width="9" height="9" font="22">25</text>
+<text top="426" left="908" width="9" height="9" font="22">36</text>
+<text top="426" left="934" width="14" height="9" font="22">958</text>
+<text top="426" left="967" width="5" height="9" font="22">8</text>
+<text top="426" left="993" width="9" height="9" font="22">61</text>
+<text top="426" left="1023" width="5" height="9" font="22">7</text>
+<text top="426" left="1052" width="5" height="9" font="22">1</text>
+<text top="426" left="1078" width="9" height="9" font="22">25</text>
+<text top="426" left="1106" width="9" height="9" font="22">36</text>
+<text top="123" left="440" width="26" height="11" font="28"><b>Name</b></text>
+<text top="135" left="425" width="57" height="11" font="28"><b>097000000.1</b></text>
+<text top="155" left="609" width="41" height="9" font="25"><b>Total Trips</b></text>
+<text top="155" left="945" width="162" height="9" font="25"><b>Net Trips after Internal Capture &amp; Pass-By</b></text>
+<text top="155" left="473" width="22" height="9" font="25"><b>Rates</b></text>
+<text top="155" left="768" width="119" height="9" font="25"><b>Net Trips after Internal Capture</b></text>
+<text top="859" left="81" width="193" height="9" font="22">Attachment C - Park Vista 2205TripGenPlannerV6.xls</text>
+<text top="869" left="81" width="119" height="9" font="22">Kimley-Horn and Associates, Inc.</text>
+<text top="879" left="81" width="135" height="9" font="22">2009 CQI, Jim West, San Ramon, CA</text>
+<text top="878" left="591" width="5" height="9" font="22">1</text>
+<text top="859" left="1075" width="32" height="9" font="22">6/8/2009</text>
+<text top="869" left="1072" width="35" height="9" font="22">11:09 AM</text>
+<text top="879" left="1056" width="51" height="9" font="22">Planner Sheet</text>
+<text top="426" left="504" width="24" height="9" font="25"><b>Totals</b></text>
+<text top="426" left="539" width="14" height="9" font="22">978</text>
+<text top="426" left="571" width="5" height="9" font="22">8</text>
+<text top="426" left="597" width="9" height="9" font="22">63</text>
+<text top="426" left="628" width="5" height="9" font="22">7</text>
+<text top="426" left="656" width="5" height="9" font="22">1</text>
+<text top="426" left="682" width="9" height="9" font="22">26</text>
+<text top="426" left="710" width="9" height="9" font="22">37</text>
+<text top="426" left="736" width="14" height="9" font="22">958</text>
+<text top="426" left="769" width="5" height="9" font="22">8</text>
+<text top="426" left="795" width="9" height="9" font="22">61</text>
+<text top="426" left="826" width="5" height="9" font="22">7</text>
+<text top="426" left="854" width="5" height="9" font="22">1</text>
+<text top="426" left="880" width="9" height="9" font="22">25</text>
+<text top="426" left="908" width="9" height="9" font="22">36</text>
+<text top="426" left="934" width="14" height="9" font="22">958</text>
+<text top="426" left="967" width="5" height="9" font="22">8</text>
+<text top="426" left="993" width="9" height="9" font="22">61</text>
+<text top="426" left="1023" width="5" height="9" font="22">7</text>
+<text top="426" left="1052" width="5" height="9" font="22">1</text>
+<text top="426" left="1078" width="9" height="9" font="22">25</text>
+<text top="426" left="1106" width="9" height="9" font="22">36</text>
+<text top="455" left="29" width="23" height="9" font="22">Notes:</text>
+<text top="465" left="29" width="10" height="9" font="29"><i>(1)</i></text>
+<text top="465" left="112" width="208" height="9" font="22">AM and/or PM rates correspond to peak hour of generator</text>
+<text top="465" left="730" width="39" height="9" font="27">Select Use</text>
+<text top="475" left="730" width="21" height="9" font="27">Office</text>
+<text top="485" left="29" width="5" height="9" font="22">A</text>
+<text top="485" left="112" width="210" height="9" font="22">Trip Generation data from ITE <i>Trip Generation, 8th Edition</i></text>
+<text top="485" left="730" width="21" height="9" font="27">Retail</text>
+<text top="495" left="29" width="5" height="9" font="22">B</text>
+<text top="495" left="112" width="269" height="9" font="22">AM/PM rates correspond to peak of adjacent street traffic (if data available)</text>
+<text top="495" left="730" width="40" height="9" font="27">Residential</text>
+<text top="505" left="29" width="6" height="9" font="22">C</text>
+<text top="505" left="112" width="102" height="9" font="22">Includes weekday rates only</text>
+<text top="515" left="29" width="6" height="9" font="22">D</text>
+<text top="515" left="112" width="191" height="9" font="22">Total trips include pass-by trips w/ no internal capture</text>
+<text top="525" left="29" width="5" height="9" font="22">E</text>
+<text top="525" left="112" width="226" height="9" font="22">Pass-by rates from ITE <i>Trip Generation Handbook, 2nd Edition</i></text>
+<text top="535" left="29" width="5" height="9" font="22">F</text>
+<text top="535" left="112" width="254" height="9" font="22">Internal capture rates from ITE  <i>Trip Generation Handbook, 2nd Edition</i></text>
+<text top="545" left="29" width="6" height="9" font="22">G</text>
+<text top="545" left="112" width="328" height="9" font="22">Worksheet is intended as a planning tool.  Verify results w/ ITE  <i>Trip Generation 8th Edition </i></text>
+<text top="859" left="81" width="193" height="9" font="22">Attachment C - Park Vista 2205TripGenPlannerV6.xls</text>
+<text top="869" left="81" width="119" height="9" font="22">Kimley-Horn and Associates, Inc.</text>
+<text top="879" left="81" width="135" height="9" font="22">2009 CQI, Jim West, San Ramon, CA</text>
+<text top="878" left="591" width="5" height="9" font="22">1</text>
+<text top="859" left="1075" width="32" height="9" font="22">6/8/2009</text>
+<text top="869" left="1072" width="35" height="9" font="22">11:09 AM</text>
+<text top="879" left="1056" width="51" height="9" font="22">Planner Sheet</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="30" size="27" family="Times" color="#dadada"/>
+	<fontspec id="31" size="12" family="Times" color="#dadada"/>
+	<fontspec id="32" size="33" family="Times" color="#000000"/>
+	<fontspec id="33" size="9" family="Times" color="#000000"/>
+<text top="1038" left="628" width="181" height="13" font="14">PM Peak Hour Site Traffic Volume</text>
+<text top="500" left="204" width="0" height="13" font="33">P</text>
+<text top="491" left="204" width="0" height="13" font="33">AR</text>
+<text top="475" left="204" width="0" height="13" font="33">K S</text>
+<text top="456" left="204" width="0" height="13" font="33">TR</text>
+<text top="440" left="204" width="0" height="13" font="33">EET</text>
+<text top="847" left="485" width="131" height="13" font="14">BUENA VISTA AVENUE</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="54" left="81" width="377" height="20" font="11">HCM Signalized Intersection Capacity Analysis</text>
+<text top="76" left="81" width="629" height="20" font="11">3: Buena Vista Ave &amp; Park St (with Development and No Left-Turn Prohibition)</text>
+<text top="76" left="789" width="48" height="17" font="3">6/3/2009</text>
+<text top="1064" left="81" width="163" height="17" font="3">Site Traffic w/o LT Restriction</text>
+<text top="1064" left="730" width="107" height="17" font="3">Synchro 7 -  Report</text>
+<text top="1082" left="81" width="183" height="17" font="3">Kimley-Horn and Associates, Inc.</text>
+<text top="1082" left="798" width="39" height="17" font="3">Page 1</text>
+<text top="147" left="81" width="58" height="17" font="3">Movement</text>
+<text top="147" left="259" width="23" height="17" font="3">EBL</text>
+<text top="147" left="309" width="24" height="17" font="3">EBT</text>
+<text top="147" left="358" width="26" height="17" font="3">EBR</text>
+<text top="147" left="407" width="27" height="17" font="3">WBL</text>
+<text top="147" left="456" width="28" height="17" font="3">WBT</text>
+<text top="147" left="505" width="29" height="17" font="3">WBR</text>
+<text top="147" left="561" width="24" height="17" font="3">NBL</text>
+<text top="147" left="611" width="25" height="17" font="3">NBT</text>
+<text top="147" left="660" width="26" height="17" font="3">NBR</text>
+<text top="147" left="713" width="23" height="17" font="3">SBL</text>
+<text top="147" left="762" width="24" height="17" font="3">SBT</text>
+<text top="147" left="811" width="26" height="17" font="3">SBR</text>
+<text top="166" left="81" width="111" height="17" font="3">Lane Configurations</text>
+<text top="184" left="81" width="74" height="17" font="3">Volume (vph)</text>
+<text top="184" left="262" width="21" height="17" font="3">211</text>
+<text top="184" left="312" width="21" height="17" font="3">352</text>
+<text top="184" left="370" width="14" height="17" font="3">42</text>
+<text top="184" left="420" width="14" height="17" font="3">32</text>
+<text top="184" left="464" width="21" height="17" font="3">201</text>
+<text top="184" left="521" width="14" height="17" font="3">33</text>
+<text top="184" left="571" width="14" height="17" font="3">50</text>
+<text top="184" left="615" width="21" height="17" font="3">852</text>
+<text top="184" left="672" width="14" height="17" font="3">37</text>
+<text top="184" left="723" width="14" height="17" font="3">68</text>
+<text top="184" left="759" width="27" height="17" font="3">1010</text>
+<text top="184" left="823" width="14" height="17" font="3">50</text>
+<text top="202" left="81" width="98" height="17" font="3">Ideal Flow (vphpl)</text>
+<text top="202" left="255" width="27" height="17" font="3">1900</text>
+<text top="202" left="306" width="27" height="17" font="3">1900</text>
+<text top="202" left="356" width="27" height="17" font="3">1900</text>
+<text top="202" left="406" width="27" height="17" font="3">1900</text>
+<text top="202" left="457" width="27" height="17" font="3">1900</text>
+<text top="202" left="507" width="27" height="17" font="3">1900</text>
+<text top="202" left="558" width="27" height="17" font="3">1900</text>
+<text top="202" left="608" width="27" height="17" font="3">1900</text>
+<text top="202" left="658" width="27" height="17" font="3">1900</text>
+<text top="202" left="709" width="27" height="17" font="3">1900</text>
+<text top="202" left="759" width="27" height="17" font="3">1900</text>
+<text top="202" left="810" width="27" height="17" font="3">1900</text>
+<text top="220" left="81" width="100" height="17" font="3">Total Lost time (s)</text>
+<text top="220" left="265" width="18" height="17" font="3">4.0</text>
+<text top="220" left="316" width="18" height="17" font="3">4.0</text>
+<text top="220" left="467" width="18" height="17" font="3">4.0</text>
+<text top="220" left="618" width="18" height="17" font="3">4.0</text>
+<text top="220" left="769" width="18" height="17" font="3">4.0</text>
+<text top="238" left="81" width="91" height="17" font="3">Lane Util. Factor</text>
+<text top="238" left="258" width="24" height="17" font="3">1.00</text>
+<text top="238" left="309" width="24" height="17" font="3">1.00</text>
+<text top="238" left="460" width="24" height="17" font="3">1.00</text>
+<text top="238" left="611" width="24" height="17" font="3">0.95</text>
+<text top="238" left="762" width="24" height="17" font="3">0.95</text>
+<text top="256" left="81" width="15" height="17" font="3">Frt</text>
+<text top="256" left="258" width="24" height="17" font="3">1.00</text>
+<text top="256" left="309" width="24" height="17" font="3">0.98</text>
+<text top="256" left="460" width="24" height="17" font="3">0.98</text>
+<text top="256" left="611" width="24" height="17" font="3">0.99</text>
+<text top="256" left="762" width="24" height="17" font="3">0.99</text>
+<text top="274" left="81" width="71" height="17" font="3">Flt Protected</text>
+<text top="274" left="258" width="24" height="17" font="3">0.95</text>
+<text top="274" left="309" width="24" height="17" font="3">1.00</text>
+<text top="274" left="460" width="24" height="17" font="3">0.99</text>
+<text top="274" left="611" width="24" height="17" font="3">1.00</text>
+<text top="274" left="762" width="24" height="17" font="3">1.00</text>
+<text top="292" left="81" width="92" height="17" font="3">Satd. Flow (prot)</text>
+<text top="292" left="255" width="27" height="17" font="3">1770</text>
+<text top="292" left="306" width="27" height="17" font="3">1833</text>
+<text top="292" left="457" width="27" height="17" font="3">1820</text>
+<text top="292" left="608" width="27" height="17" font="3">3509</text>
+<text top="292" left="759" width="27" height="17" font="3">3505</text>
+<text top="310" left="81" width="71" height="17" font="3">Flt Permitted</text>
+<text top="310" left="258" width="24" height="17" font="3">0.47</text>
+<text top="310" left="309" width="24" height="17" font="3">1.00</text>
+<text top="310" left="460" width="24" height="17" font="3">0.77</text>
+<text top="310" left="611" width="24" height="17" font="3">0.80</text>
+<text top="310" left="762" width="24" height="17" font="3">0.80</text>
+<text top="328" left="81" width="99" height="17" font="3">Satd. Flow (perm)</text>
+<text top="328" left="262" width="21" height="17" font="3">871</text>
+<text top="328" left="306" width="27" height="17" font="3">1833</text>
+<text top="328" left="457" width="27" height="17" font="3">1408</text>
+<text top="328" left="608" width="27" height="17" font="3">2826</text>
+<text top="328" left="759" width="27" height="17" font="3">2818</text>
+<text top="348" left="81" width="123" height="17" font="3">Peak-hour factor, PHF</text>
+<text top="348" left="258" width="24" height="17" font="3">0.92</text>
+<text top="348" left="309" width="24" height="17" font="3">0.92</text>
+<text top="348" left="359" width="24" height="17" font="3">0.92</text>
+<text top="348" left="410" width="24" height="17" font="3">0.92</text>
+<text top="348" left="460" width="24" height="17" font="3">0.92</text>
+<text top="348" left="510" width="24" height="17" font="3">0.92</text>
+<text top="348" left="561" width="24" height="17" font="3">0.92</text>
+<text top="348" left="611" width="24" height="17" font="3">0.92</text>
+<text top="348" left="662" width="24" height="17" font="3">0.92</text>
+<text top="348" left="712" width="24" height="17" font="3">0.92</text>
+<text top="348" left="762" width="24" height="17" font="3">0.92</text>
+<text top="348" left="813" width="24" height="17" font="3">0.92</text>
+<text top="366" left="81" width="83" height="17" font="3">Adj. Flow (vph)</text>
+<text top="366" left="262" width="21" height="17" font="3">229</text>
+<text top="366" left="312" width="21" height="17" font="3">383</text>
+<text top="366" left="370" width="14" height="17" font="3">46</text>
+<text top="366" left="420" width="14" height="17" font="3">35</text>
+<text top="366" left="464" width="21" height="17" font="3">218</text>
+<text top="366" left="521" width="14" height="17" font="3">36</text>
+<text top="366" left="571" width="14" height="17" font="3">54</text>
+<text top="366" left="615" width="21" height="17" font="3">926</text>
+<text top="366" left="672" width="14" height="17" font="3">40</text>
+<text top="366" left="723" width="14" height="17" font="3">74</text>
+<text top="366" left="759" width="27" height="17" font="3">1098</text>
+<text top="366" left="823" width="14" height="17" font="3">54</text>
+<text top="384" left="81" width="126" height="17" font="3">RTOR Reduction (vph)</text>
+<text top="384" left="276" width="7" height="17" font="3">0</text>
+<text top="384" left="326" width="7" height="17" font="3">5</text>
+<text top="384" left="377" width="7" height="17" font="3">0</text>
+<text top="384" left="427" width="7" height="17" font="3">0</text>
+<text top="384" left="477" width="7" height="17" font="3">6</text>
+<text top="384" left="528" width="7" height="17" font="3">0</text>
+<text top="384" left="578" width="7" height="17" font="3">0</text>
+<text top="384" left="629" width="7" height="17" font="3">4</text>
+<text top="384" left="679" width="7" height="17" font="3">0</text>
+<text top="384" left="729" width="7" height="17" font="3">0</text>
+<text top="384" left="780" width="7" height="17" font="3">4</text>
+<text top="384" left="830" width="7" height="17" font="3">0</text>
+<text top="402" left="81" width="127" height="17" font="3">Lane Group Flow (vph)</text>
+<text top="402" left="262" width="21" height="17" font="3">229</text>
+<text top="402" left="312" width="21" height="17" font="3">424</text>
+<text top="402" left="377" width="7" height="17" font="3">0</text>
+<text top="402" left="427" width="7" height="17" font="3">0</text>
+<text top="402" left="464" width="21" height="17" font="3">283</text>
+<text top="402" left="528" width="7" height="17" font="3">0</text>
+<text top="402" left="578" width="7" height="17" font="3">0</text>
+<text top="402" left="608" width="27" height="17" font="3">1016</text>
+<text top="402" left="679" width="7" height="17" font="3">0</text>
+<text top="402" left="729" width="7" height="17" font="3">0</text>
+<text top="402" left="759" width="27" height="17" font="3">1222</text>
+<text top="402" left="830" width="7" height="17" font="3">0</text>
+<text top="422" left="81" width="56" height="17" font="3">Turn Type</text>
+<text top="422" left="253" width="29" height="17" font="3">Perm</text>
+<text top="422" left="404" width="29" height="17" font="3">Perm</text>
+<text top="422" left="555" width="29" height="17" font="3">Perm</text>
+<text top="422" left="707" width="29" height="17" font="3">Perm</text>
+<text top="440" left="81" width="98" height="17" font="3">Protected Phases</text>
+<text top="440" left="326" width="7" height="17" font="3">6</text>
+<text top="440" left="477" width="7" height="17" font="3">2</text>
+<text top="440" left="629" width="7" height="17" font="3">4</text>
+<text top="440" left="780" width="7" height="17" font="3">8</text>
+<text top="458" left="81" width="98" height="17" font="3">Permitted Phases</text>
+<text top="458" left="276" width="7" height="17" font="3">6</text>
+<text top="458" left="427" width="7" height="17" font="3">2</text>
+<text top="458" left="578" width="7" height="17" font="3">4</text>
+<text top="458" left="729" width="7" height="17" font="3">8</text>
+<text top="476" left="81" width="121" height="17" font="3">Actuated Green, G (s)</text>
+<text top="476" left="258" width="24" height="17" font="3">26.0</text>
+<text top="476" left="309" width="24" height="17" font="3">26.0</text>
+<text top="476" left="460" width="24" height="17" font="3">26.0</text>
+<text top="476" left="611" width="24" height="17" font="3">46.0</text>
+<text top="476" left="762" width="24" height="17" font="3">46.0</text>
+<text top="494" left="81" width="118" height="17" font="3">Effective Green, g (s)</text>
+<text top="494" left="258" width="24" height="17" font="3">26.0</text>
+<text top="494" left="309" width="24" height="17" font="3">26.0</text>
+<text top="494" left="460" width="24" height="17" font="3">26.0</text>
+<text top="494" left="611" width="24" height="17" font="3">46.0</text>
+<text top="494" left="762" width="24" height="17" font="3">46.0</text>
+<text top="512" left="81" width="105" height="17" font="3">Actuated g/C Ratio</text>
+<text top="512" left="258" width="24" height="17" font="3">0.32</text>
+<text top="512" left="309" width="24" height="17" font="3">0.32</text>
+<text top="512" left="460" width="24" height="17" font="3">0.32</text>
+<text top="512" left="611" width="24" height="17" font="3">0.58</text>
+<text top="512" left="762" width="24" height="17" font="3">0.58</text>
+<text top="530" left="81" width="105" height="17" font="3">Clearance Time (s)</text>
+<text top="530" left="265" width="18" height="17" font="3">4.0</text>
+<text top="530" left="316" width="18" height="17" font="3">4.0</text>
+<text top="530" left="467" width="18" height="17" font="3">4.0</text>
+<text top="530" left="618" width="18" height="17" font="3">4.0</text>
+<text top="530" left="769" width="18" height="17" font="3">4.0</text>
+<text top="550" left="81" width="109" height="17" font="3">Lane Grp Cap (vph)</text>
+<text top="550" left="262" width="21" height="17" font="3">283</text>
+<text top="550" left="312" width="21" height="17" font="3">596</text>
+<text top="550" left="464" width="21" height="17" font="3">458</text>
+<text top="550" left="608" width="27" height="17" font="3">1625</text>
+<text top="550" left="759" width="27" height="17" font="3">1620</text>
+<text top="568" left="81" width="75" height="17" font="3">v/s Ratio Prot</text>
+<text top="568" left="309" width="24" height="17" font="3">0.23</text>
+<text top="586" left="81" width="82" height="17" font="3">v/s Ratio Perm</text>
+<text top="586" left="252" width="30" height="17" font="3">c0.26</text>
+<text top="586" left="460" width="24" height="17" font="3">0.20</text>
+<text top="586" left="611" width="24" height="17" font="3">0.36</text>
+<text top="586" left="756" width="30" height="17" font="3">c0.43</text>
+<text top="604" left="81" width="49" height="17" font="3">v/c Ratio</text>
+<text top="604" left="258" width="24" height="17" font="3">0.81</text>
+<text top="604" left="309" width="24" height="17" font="3">0.71</text>
+<text top="604" left="460" width="24" height="17" font="3">0.62</text>
+<text top="604" left="611" width="24" height="17" font="3">0.63</text>
+<text top="604" left="762" width="24" height="17" font="3">0.75</text>
+<text top="622" left="81" width="100" height="17" font="3">Uniform Delay, d1</text>
+<text top="622" left="258" width="24" height="17" font="3">24.7</text>
+<text top="622" left="309" width="24" height="17" font="3">23.7</text>
+<text top="622" left="460" width="24" height="17" font="3">22.8</text>
+<text top="622" left="611" width="24" height="17" font="3">11.3</text>
+<text top="622" left="762" width="24" height="17" font="3">12.8</text>
+<text top="640" left="81" width="104" height="17" font="3">Progression Factor</text>
+<text top="640" left="258" width="24" height="17" font="3">1.00</text>
+<text top="640" left="309" width="24" height="17" font="3">1.00</text>
+<text top="640" left="460" width="24" height="17" font="3">1.00</text>
+<text top="640" left="611" width="24" height="17" font="3">1.00</text>
+<text top="640" left="762" width="24" height="17" font="3">1.00</text>
+<text top="658" left="81" width="121" height="17" font="3">Incremental Delay, d2</text>
+<text top="658" left="258" width="24" height="17" font="3">21.6</text>
+<text top="658" left="316" width="18" height="17" font="3">7.0</text>
+<text top="658" left="467" width="18" height="17" font="3">6.1</text>
+<text top="658" left="618" width="18" height="17" font="3">1.8</text>
+<text top="658" left="769" width="18" height="17" font="3">3.3</text>
+<text top="676" left="81" width="50" height="17" font="3">Delay (s)</text>
+<text top="676" left="258" width="24" height="17" font="3">46.3</text>
+<text top="676" left="309" width="24" height="17" font="3">30.7</text>
+<text top="676" left="460" width="24" height="17" font="3">28.9</text>
+<text top="676" left="611" width="24" height="17" font="3">13.1</text>
+<text top="676" left="762" width="24" height="17" font="3">16.1</text>
+<text top="694" left="81" width="88" height="17" font="3">Level of Service</text>
+<text top="694" left="274" width="9" height="17" font="3">D</text>
+<text top="694" left="324" width="9" height="17" font="3">C</text>
+<text top="694" left="475" width="9" height="17" font="3">C</text>
+<text top="694" left="627" width="8" height="17" font="3">B</text>
+<text top="694" left="778" width="8" height="17" font="3">B</text>
+<text top="712" left="81" width="106" height="17" font="3">Approach Delay (s)</text>
+<text top="712" left="309" width="24" height="17" font="3">36.2</text>
+<text top="712" left="460" width="24" height="17" font="3">28.9</text>
+<text top="712" left="611" width="24" height="17" font="3">13.1</text>
+<text top="712" left="762" width="24" height="17" font="3">16.1</text>
+<text top="730" left="81" width="81" height="17" font="3">Approach LOS</text>
+<text top="730" left="324" width="9" height="17" font="3">D</text>
+<text top="730" left="475" width="9" height="17" font="3">C</text>
+<text top="730" left="627" width="8" height="17" font="3">B</text>
+<text top="730" left="778" width="8" height="17" font="3">B</text>
+<text top="757" left="81" width="121" height="17" font="3">Intersection Summary</text>
+<text top="777" left="81" width="157" height="17" font="3">HCM Average Control Delay</text>
+<text top="777" left="359" width="24" height="17" font="3">20.4</text>
+<text top="777" left="434" width="120" height="17" font="3">HCM Level of Service</text>
+<text top="777" left="677" width="9" height="17" font="3">C</text>
+<text top="795" left="81" width="168" height="17" font="3">HCM Volume to Capacity ratio</text>
+<text top="795" left="359" width="24" height="17" font="3">0.77</text>
+<text top="813" left="81" width="143" height="17" font="3">Actuated Cycle Length (s)</text>
+<text top="813" left="359" width="24" height="17" font="3">80.0</text>
+<text top="813" left="434" width="108" height="17" font="3">Sum of lost time (s)</text>
+<text top="813" left="669" width="18" height="17" font="3">8.0</text>
+<text top="831" left="81" width="174" height="17" font="3">Intersection Capacity Utilization</text>
+<text top="831" left="341" width="42" height="17" font="3">106.4%</text>
+<text top="831" left="434" width="113" height="17" font="3">ICU Level of Service</text>
+<text top="831" left="676" width="10" height="17" font="3">G</text>
+<text top="849" left="81" width="117" height="17" font="3">Analysis Period (min)</text>
+<text top="849" left="370" width="14" height="17" font="3">15</text>
+<text top="867" left="81" width="127" height="17" font="3">c    Critical Lane Group</text>
+<text top="23" left="144" width="616" height="11" font="18">ATTACHMENT E - PM PEAK PERIOD WITH DEVELOPMENT WITHOUT LEFT-TURN RESTRICTION</text>
+</page>
+<outline>
+<item page="1">Park Vista Square Final Letter Report(memo).pdf</item>
+<item page="6">Attachment A - TMCs.PDF</item>
+<item page="8">Attachment B - Park Vista Synchro_Existing PM.pdf</item>
+<item page="9">Attachment C - Park Vista 2205TripGenPlanner.pdf</item>
+<item page="10">Attachment D - Park Vista Trip Assignment.pdf</item>
+<item page="11">Attachment E - Park Vista Synchro_Existing PM with Development(modified).pdf</item>
+</outline>
+</pdf2xml>
