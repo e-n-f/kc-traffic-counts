@@ -1,0 +1,28 @@
+#!/usr/bin/perl
+
+while (<>) {
+	if (/<page/) {
+		$text = $_;
+		$groups = 0;
+
+		while (<>) {
+			if (/Groups *Printed/ || /Turning *Movement *Data/) {
+				$groups = 1;
+			}
+
+			if (/<\/page/) {
+				$text .= $_;
+
+				if ($page++ < 50 || $groups) {
+					print $text;
+				}
+
+				last;
+			}
+
+			$text .= $_;
+		}
+	} else {
+		print;
+	}
+}
