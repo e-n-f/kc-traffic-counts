@@ -1,0 +1,16 @@
+#!/usr/bin/perl
+
+$steps = 20;
+
+while (<>) {
+	($count, @rest) = split(/ /);
+
+	if ($count > 0) {
+		$n = exp((int(log($count) * $steps / log(10000)) + .5) / ($steps / log(10000)));
+		$sum{$n}++;
+	}
+}
+
+for $n (sort { $a <=> $b } keys(%sum)) {
+	printf("%.6f %.6f\n", $n, $sum{$n});
+}
