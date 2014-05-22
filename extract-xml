@@ -530,8 +530,21 @@ while (<>) {
 					}
 				}
 
+				my $interval = 0;
+				{
+					my @when = sort { $a <=> $b } (keys(%val));
+					for (my $i = 0; $i < $#when; $i++) {
+						if ($when[$i] >= 0) {
+							my $d = $when[$i + 1] - $when[$i];
+							if ($interval == 0 || $d < $interval) {
+								$interval = $d;
+							}
+						}
+					}
+				}
+
 				for my $when (sort {$a <=> $b } (keys(%val))) {
-					next if $when < 0;
+					next if $when < 0 || $interval == 0;
 					next if defined($val{$when}{'fail'});
 
 					my $argv = $ARGV;
@@ -540,7 +553,7 @@ while (<>) {
 					$argv =~ s/,/ /g; # XXX
 
 					print "$argv,$street,$group,$date,";
-					printf("%02d:%02d-%02d:%02d,", $when / 60, $when % 60, ($when + 15) / 60, ($when + 15) % 60);
+					printf("%02d:%02d-%02d:%02d,", $when / 60, $when % 60, ($when + $interval) / 60, ($when + $interval) % 60);
 
 					# Directions to intersection legs
 					my %bikemap = ( "Northbound" => "Westbound",
