@@ -70,11 +70,12 @@ sub out {
 			printf("%.1f,", $sum[$i] / $count[$i]);
 		}
 
-		print "\n";
+		print "$where\n";
 	}
 }
 
 while (<>) {
+	chomp;
 	($id, $name, $id2, $date, $time, @fields) = split(/,/);
 
 	$key = "$id,$name,$id2,$date";
@@ -117,6 +118,7 @@ while (<>) {
 	}
 
 	$okey = $key;
+	$where = "$fields[20],$fields[21]";
 }
 
 out();
