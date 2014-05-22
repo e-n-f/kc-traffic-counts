@@ -91,7 +91,7 @@ while (<>) {
 		$end = $3 * 60 + $4;
 		$dur = $end - $start;
 
-		if ($start % 15 != 0 || $start >= 24 * 60 || $start < 0) {
+		if ($start >= 24 * 60 || $end > 24 * 60 || $start < 0 || $dur == 0) {
 			print STDERR "Don't know what to do with time $time\n";
 			next;
 		}
@@ -103,6 +103,9 @@ while (<>) {
 
 		for ($t = $start; $t < $end; $t += 15) {
 			for ($i = 0; $i < 12; $i++) {
+				if ($dur == 0 || $drive_scale[$t / 15] == 0) {
+					print STDERR "$_\n";
+				}
 				$sum[$i] += $fields[$i] * 15 / $dur * $drive_sum / $drive_scale[$t / 15];
 				$count[$i]++;
 			}
