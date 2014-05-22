@@ -164,6 +164,7 @@ while (<>) {
 				} else {
 					$group = $1;
 					$group =~ s/ +/ /g;
+					$group =~ s/,/ /g;
 					# print "$ARGV\n";
 					# print "$group\n";
 
@@ -249,6 +250,7 @@ while (<>) {
 				for (my $x = 0; $x <= $#streets; $x++) {
 					$streets[$x] =~ s/ *$//;
 					$streets[$x] =~ s/ +/ /g;
+					$streets[$x] =~ s/,/ /g;
 
                                         if ($streets[$x] ne "" && !defined($street{$streets[$x]})) {
                                                 if ($street eq "") {
