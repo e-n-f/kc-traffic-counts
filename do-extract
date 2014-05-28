@@ -28,3 +28,4 @@ find dc -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -
 find oakland -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-oakland.csv
 find boston -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-boston.csv
 find misc -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-misc.csv
+find redwood -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-redwood.csv
