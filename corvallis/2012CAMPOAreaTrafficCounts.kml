@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>2012 CAMPO Area Traffic Counts</name>
+  <description><![CDATA[Blue = 48 Hour Counts (volume and vehicle classification)
+
+Red = 3 Hour AM and PM (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)
+
+Green = 16 hour Counts (15 minute interval summary and vehicle class summary)]]></description>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF66CD89</color>
+      <width>2</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>33BEFFE9</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>29th &amp; Grant</name>
+    <description><![CDATA[Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Garfield%20and%2029th.pdf" target="_blank">Volume and Vehicle Class counts</a>.]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-123.283035,44.578671,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Grant &amp; Coolidge</name>
+    <description><![CDATA[Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Grant%20and%20Coolidge.pdf" target="_blank">Volume and Vehicle Class Counts</a>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-123.282822,44.578503,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>29th &amp; Garfield</name>
+    <description><![CDATA[Click here for 48 Hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Garfield%20and%2029th.pdf" target="_blank">Volume and Vehicle Class counts</a>.]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-123.283104,44.583054,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Circle &amp; 29th</name>
+    <description><![CDATA[Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Circle%20and%2029th.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class)]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-123.283142,44.586418,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>29th &amp; Arrowood</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/29th%20and%20Arrowood.pdf" target="_blank">Traffic Counts</a> (Volume and Vehicle Class)</div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>-123.287857,44.596603,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrison &amp; 29th</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Harrison%20and%2029th.pdf" target="_blank">Traffic Counts</a> (Volume and Vehicle Class)</div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-123.283348,44.571758,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrison &amp; 30th</name>
+    <description><![CDATA[Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Harrison%20and%2030th.pdf" target="_blank">Traffic Counts</a> (Volume and Vehicle class)]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>-123.284721,44.571758,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrison &amp; 25th</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Harrison%20and%2025th.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-123.278969,44.571789,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrison &amp; 36th</name>
+    <description><![CDATA[Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Harrison%20and%2036th.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class). ]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-123.290878,44.571735,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrison &amp; Arnold</name>
+    <description><![CDATA[Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Harrison%20and%20Arnold.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-123.283310,44.571774,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrison &amp; Walnut</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Harrison%20and%20Walnut.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-123.312111,44.571125,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Circle &amp; Witham Hill</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Circle%20and%20Witham%20Hill.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>-123.295265,44.581429,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>53rd &amp; Harrison</name>
+    <description><![CDATA[<div dir="ltr">Click here for&nbsp;48 hour <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/53rd%20and%20Harrison.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>-123.312042,44.571095,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Glenridge &amp; Ponderosa</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Glenridge%20and%20Ponderosa.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-123.303490,44.595760,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Grant &amp; 36th</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Grant%20and%2036th.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-123.290977,44.578766,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Walnut &amp; Glenridge</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Walnut%20and%20Glenridge.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>-123.302246,44.593929,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Walnut &amp; Conser</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Walnut%20and%20Conser.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-123.242722,44.591309,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Conifer &amp; Conser</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Conifer%20and%20Conser.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-123.233688,44.597874,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 20 &amp; Hewlett Packard</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2020%20at%20HP.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-123.242683,44.578785,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 20 &amp; Circle</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2020%20and%20Circle%20Blvd.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>-123.231537,44.588371,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 20 &amp; Conifer</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2020%20and%20Conifer.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-123.224197,44.597439,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 20 and Couplet Intersection</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2020%20at%20Couplet.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-123.351822,44.540905,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 20 &amp; 16th WB</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2020%20and%2016th.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-123.363327,44.540089,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 20 &amp; 16th EB</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2020%20and%2016th.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-123.363335,44.539989,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; 13th</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%2013th.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-123.367821,44.540134,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; Grange Hall Road</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20Grange%20Hall%20Rd.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>-123.391869,44.535645,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; Western - Western Blvd N/O Hwy 34 EB</name>
+    <description><![CDATA[Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20Western%20-%20Western%20Blvd%20NO%20Hwy%2034%20EB.pdf" target="_blank">48 Hour Traffic Counts</a>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>-123.298332,44.554634,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; Western - Connector between Hwy 34 EB and WB</name>
+    <description><![CDATA[Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20Western%20-%20Connector%20btwn%20Hwy%2034%20EB%20and%20WB.pdf" target="_blank">48 hour Traffic Counts</a>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>-123.299110,44.554626,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; Western - Hwy 34 W/O Western</name>
+    <description><![CDATA[Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20Western%20-%20Hwy%2034%20WO%20Western.pdf" target="_blank">48 Hour Traffic Counts</a>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-123.301216,44.554218,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; Western - Western Blvd N/O Hwy 34</name>
+    <description><![CDATA[Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20Western%20-Western%20Blvd%20NO%20Hwy%2034.pdf" target="_blank">48 hour Counts</a>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-123.297340,44.555363,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 20 &amp; Polk</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2020%20and%20Polk.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-123.257378,44.569016,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W NB &amp; Buchanan</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2099W%20and%20Buchanan.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>-123.256828,44.572834,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W &amp; Elliott Circle</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/99W%20and%20Elliott.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-123.244041,44.616917,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W &amp; Granger</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2099W%20and%20Granger.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-123.241318,44.628979,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W &amp; Mountain View</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/OR%2099W%20and%20Mountain%20View.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-123.240173,44.637886,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W &amp; Old Pacific Hwy</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2099W%20and%20Old%20Pacific%20Hwy.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-123.233742,44.644356,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W &amp; Ryals</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2099W%20and%20Ryals.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-123.222206,44.665287,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W &amp; Arnold</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2099W%20and%20Arnold.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-123.222832,44.671879,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W &amp; Lewisburg</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2099W%20and%20Lewisburg.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>-123.241562,44.629002,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W &amp; Blake Dr</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2099W%20and%20Blake.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-123.222939,44.671883,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lewisburg and Highland</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Lewisburg%20and%20Highland.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-123.261246,44.628746,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lewisburg and Mountain View</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Lewisburg%20and%20Mtn%20View.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-123.254196,44.629013,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lewisburg &amp; Sulfur Springs</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Lewisburg%20and%20Sulphur%20Springs.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>-123.269402,44.628796,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ryals &amp; Arnold</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Ryals%20and%20Arnold.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-123.208267,44.670483,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Independence Hwy &amp; Pettibone</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Independence%20and%20Pettibone.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-123.182983,44.647079,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Independence Hwy &amp; Ryals</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Ryals%20and%20Independence.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-123.180527,44.670490,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Granger &amp; Pettibone</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Granger%20and%20Pettibone.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-123.229713,44.628979,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Highland &amp; Crescent Valley</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Crescent%20Valley%20and%20Highland.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>-123.262398,44.612606,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Crescent Valley &amp; Jackson Creek</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Crescent%20Valley%20at%20Jackson%20Creek.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-123.274887,44.616898,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Country Club &amp;  49th</name>
+    <description><![CDATA[<div dir="ltr">Click here for<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Country%20Club%20and%2049th.pdf" target="_blank"> 48 hour Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-123.306717,44.545769,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Technology Loop &amp; 49th</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Tech%20Loop%20and%2049th.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>-123.308327,44.549423,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Western &amp; West Hills</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Western%20and%20West%20Hills.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>-123.292534,44.556854,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kings &amp; Buchanan</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Kings%20and%20Buchanan.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-123.275246,44.576035,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kings &amp; Garfield</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Kings%20and%20Garfield.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-123.275986,44.582970,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kings &amp; Grant</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Kings%20and%20Grant.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-123.275734,44.578709,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>53rd &amp; Oak Creek</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Oak%20Creek%20and%2053rd.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>-123.312180,44.571083,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Elks &amp; Satinwood</name>
+    <description><![CDATA[<div dir="ltr">Click here for 48 hour&nbsp;<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Elks%20and%20Satinwood.pdf" target="_blank">Traffic Counts</a> (volume and vehicle class).</div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>-123.257355,44.601879,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 and 26th</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%2026th%20St-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>-123.346466,44.541824,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bellfountain and Chapel Dr</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Bellfountain%20Rd%20and%20Chapel%20Dr%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-123.334450,44.531975,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; Clemens Mill</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Clemens%20Mill%20Rd%20and%20Hwy%2034%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-123.341873,44.542664,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; Western WB</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20SW%20Western%20Blvd%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary).</div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>-123.297760,44.554974,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 and Western</name>
+    <description><![CDATA[<div dir="ltr">Click here for<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20SW%20Western%20Blvd%20-%203%20hr%20AM%20PM.pdf" target="_blank"> 3 Hour AM/PM Counts</a> (15 minute interval, heavy vehicle rolling hour and heavy vehicle peak summaries)</div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-123.298546,44.554562,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; Newton St</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20Newton%20St%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-123.343163,44.542450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; Safeway Entrance</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20Safeway%20Driveway%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>-123.309364,44.551662,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 35th and SW Country Club Dr</name>
+    <description><![CDATA[<div dir="ltr">Click here for<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%2035th%20St%20and%20SW%20Country%20Club%20Dr%20-%203hr%20AM%20PM.pdf" target="_blank"> 3 Hour AM/PM Counts</a> (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-123.289627,44.548599,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 35th and Western</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%2035th%20St%20and%20SW%20Western%20Blvd%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>-123.289597,44.556900,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 45th and SW Country Club Dr</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%2045th%20St%20and%20SW%20Country%20Club%20Dr%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts </a>(15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>-123.301018,44.546902,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 53rd and Country Club Dr</name>
+    <description><![CDATA[Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%2053rd%20St%20and%20SW%20Country%20Club%20Dr%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval, heavy vehicle rolling hour and heave vehicle peak summaries).]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>-123.311813,44.545738,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 53rd and SW Plymouth</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%2053rd%20St%20and%20SW%20Plymouth%20Dr%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval, heavy vehicle rolling hour and heavy vehicle peak summaries)</div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>-123.311729,44.538303,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 53rd and Reservoir</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%2053rd%20St%20and%20SW%20Reservoir%20Ave%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval, heavy vehicle rolling hour and heavy vehicle peak summaries)</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-123.312050,44.565231,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 53rd and Technology Loop</name>
+    <description><![CDATA[<div dir="ltr">Click here for 3 Hour AM/PM Counts (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-123.312019,44.549461,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW 53rd St and SW West Hills Rd</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%2053rd%20St%20and%20SW%20West%20Hills%20Rd%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval summary,heavy vehicle rolling hour summary and heavy vehicle peak summaries)</div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>-123.311966,44.556297,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 and Country Club Dr</name>
+    <description><![CDATA[<div dir="ltr">Click here for<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20SW%20Country%20Club%20Dr%20-%203%20hr%20AM%20PM.pdf" target="_blank"> 3 Hour AM/PM Counts</a> (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-123.329002,44.545601,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 and Sunset Dr WB</name>
+    <description><![CDATA[<div dir="ltr">Click here for<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%20Sunset%20Dr%20and%20Hwy%2034%20-%20EB%20WB%20-%203%20hr%20AM%20PM.pdf" target="_blank"> 3 Hour AM/PM Counts</a> (15 minute interval summary, heavy vehicle rolling hour summary and heavy vehicle peak summary)</div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-123.299217,44.554825,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 and Sunset Dr EB</name>
+    <description><![CDATA[<div dir="ltr">Click here for<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%20Sunset%20Dr%20and%20Hwy%2034%20-%20EB%20WB%20-%203%20hr%20AM%20PM.pdf" target="_blank"> 3 Hour AM/PM Counts</a> (15 minute interval, heavy vehicle rolling hour and heavy vehicle peak summaries)</div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-123.299080,44.554535,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 and Technology Loop</name>
+    <description><![CDATA[<div dir="ltr">Click here for<a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%20Technology%20Loop%20and%20Hwy%2034%20-%203%20hr%20AM%20PM.pdf" target="_blank"> 3 Hour AM/PM Counts</a> (15 minute interval, heavy vehicle rolling hour and heavy vehicle peak summaries)</div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>-123.306885,44.552441,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW Technology Loop and SW Research Way</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%20Technology%20Loop%20and%20SW%20Research%20Way%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval, heavy vehicle rolling hour and heavy vehicle peak summaries)</div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>-123.306313,44.551250,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SW West Hills Rd and SW Reservoir</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/SW%20West%20Hills%20Rd%20and%20SW%20Reservoir%20Ave%20-%203%20hr%20AM%20PM.pdf" target="_blank">3 Hour AM/PM Counts</a> (15 minute interval, heavy vehicle rolling hour and heavy vehicle peak summaries)</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-123.334953,44.557510,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>West Hills and SW Western</name>
+    <description><![CDATA[<div dir="ltr">Click here for 3 Hour AM/PM Counts (15 minute interval, heavy vehicle rolling hour and heavy vehicle peak summaries)</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-123.292656,44.556870,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 and 19th</name>
+    <description><![CDATA[Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%2019th%20-%2016%20hr.pdf" target="_blank">16 Hour Counts</a> (15 mintue interval and vehicle class summary).]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>-123.358894,44.540009,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; 35th</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%2035th%20-%2016%20hr.pdf" target="_blank">16 hour Counts</a> (15 minute interval summary and vehicle class summary).</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-123.289665,44.554546,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 &amp; 53rd</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%2053rd%20-%2016%20hr.pdf" target="_blank">16 hour Counts</a> (15 minute interval summary and vehicle class summary).</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-123.312019,44.550869,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 20 &amp; Granger</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2020%20and%20Granger%20-%2016%20hr.pdf" target="_blank">16 hour Counts</a> (15 minute interval summary and vehicle class summary).</div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>-123.196220,44.629879,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 34 and Hwy 34 </name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2034%20and%20Hwy%2034%20-%2016%20hr.pdf" target="_blank">16 hour Counts</a> (15 minute interval summary and vehicle class summary).</div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>-123.252243,44.564667,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W and Avery Ave</name>
+    <description><![CDATA[<div dir="ltr">Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2099W%20and%20Avery%20-%2016%20hr.pdf" target="_blank">16 hour Counts</a> (15 minute interval summary and vehicle class summary).</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-123.265182,44.551868,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hwy 99W and Camp Adair</name>
+    <description><![CDATA[<div dir="ltr">CHECK LOCATION <br>Click here for <a href="http://portal.ocwtech.net/campo/Shared%20Documents/MPO%20Traffic%20Counts/2012%20Traffic%20Counts/Hwy%2099W%20and%20Camp%20Adair%20-%2016%20hr.pdf" target="_blank">16 hour Counts</a> (15 minute interval summary and vehicle class summary).</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-123.220909,44.699585,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CAMPO Boundary</name>
+    <Snippet></Snippet>
+    <styleUrl>#style69</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -123.335228,44.524757,0.000000
+            -123.334084,44.524597,0.000000
+            -123.334053,44.534874,0.000000
+            -123.334099,44.539070,0.000000
+            -123.335876,44.539047,0.000000
+            -123.335640,44.543236,0.000000
+            -123.334679,44.543400,0.000000
+            -123.331894,44.544147,0.000000
+            -123.328842,44.545109,0.000000
+            -123.321831,44.545094,0.000000
+            -123.321800,44.542896,0.000000
+            -123.317383,44.542953,0.000000
+            -123.317268,44.537529,0.000000
+            -123.312538,44.537552,0.000000
+            -123.312523,44.535393,0.000000
+            -123.290451,44.535591,0.000000
+            -123.290512,44.537655,0.000000
+            -123.283928,44.537685,0.000000
+            -123.281456,44.536285,0.000000
+            -123.280716,44.535950,0.000000
+            -123.279564,44.535950,0.000000
+            -123.279251,44.536648,0.000000
+            -123.277840,44.535919,0.000000
+            -123.275757,44.535683,0.000000
+            -123.273140,44.535744,0.000000
+            -123.273170,44.535492,0.000000
+            -123.277649,44.535439,0.000000
+            -123.280464,44.531235,0.000000
+            -123.285873,44.531193,0.000000
+            -123.285820,44.519733,0.000000
+            -123.285683,44.512257,0.000000
+            -123.288872,44.512245,0.000000
+            -123.288940,44.509064,0.000000
+            -123.293640,44.509109,0.000000
+            -123.293800,44.504997,0.000000
+            -123.303505,44.505051,0.000000
+            -123.303375,44.482918,0.000000
+            -123.278381,44.482899,0.000000
+            -123.276344,44.500557,0.000000
+            -123.270691,44.504135,0.000000
+            -123.270882,44.502895,0.000000
+            -123.269318,44.502930,0.000000
+            -123.268501,44.504890,0.000000
+            -123.266113,44.506233,0.000000
+            -123.263649,44.506950,0.000000
+            -123.262947,44.507484,0.000000
+            -123.262482,44.508244,0.000000
+            -123.261726,44.510044,0.000000
+            -123.261497,44.511181,0.000000
+            -123.261688,44.513462,0.000000
+            -123.261589,44.514946,0.000000
+            -123.261070,44.516998,0.000000
+            -123.260269,44.518215,0.000000
+            -123.260086,44.518745,0.000000
+            -123.260086,44.520313,0.000000
+            -123.258484,44.523056,0.000000
+            -123.256805,44.525146,0.000000
+            -123.254807,44.527412,0.000000
+            -123.253670,44.528294,0.000000
+            -123.251892,44.529846,0.000000
+            -123.250534,44.531143,0.000000
+            -123.248428,44.534840,0.000000
+            -123.247940,44.536949,0.000000
+            -123.246422,44.538284,0.000000
+            -123.244873,44.539829,0.000000
+            -123.241661,44.544003,0.000000
+            -123.241425,44.544670,0.000000
+            -123.242027,44.547382,0.000000
+            -123.242920,44.549004,0.000000
+            -123.244164,44.549526,0.000000
+            -123.246803,44.550823,0.000000
+            -123.247719,44.551369,0.000000
+            -123.250000,44.552483,0.000000
+            -123.251984,44.553265,0.000000
+            -123.254257,44.553894,0.000000
+            -123.256042,44.554272,0.000000
+            -123.258438,44.554958,0.000000
+            -123.259735,44.555584,0.000000
+            -123.260201,44.556675,0.000000
+            -123.260071,44.558052,0.000000
+            -123.259354,44.559822,0.000000
+            -123.258804,44.560856,0.000000
+            -123.255630,44.565929,0.000000
+            -123.253639,44.571651,0.000000
+            -123.253220,44.572235,0.000000
+            -123.251335,44.574100,0.000000
+            -123.250183,44.574703,0.000000
+            -123.247185,44.575920,0.000000
+            -123.244331,44.576931,0.000000
+            -123.238853,44.578766,0.000000
+            -123.233711,44.580986,0.000000
+            -123.229713,44.582413,0.000000
+            -123.225151,44.583687,0.000000
+            -123.223328,44.584068,0.000000
+            -123.221138,44.584419,0.000000
+            -123.222061,44.586128,0.000000
+            -123.222031,44.593449,0.000000
+            -123.225647,44.593472,0.000000
+            -123.226913,44.593472,0.000000
+            -123.225212,44.595829,0.000000
+            -123.225174,44.595882,0.000000
+            -123.223953,44.597198,0.000000
+            -123.223465,44.597599,0.000000
+            -123.223251,44.597878,0.000000
+            -123.222221,44.599075,0.000000
+            -123.220291,44.599056,0.000000
+            -123.218399,44.599010,0.000000
+            -123.216469,44.599010,0.000000
+            -123.216347,44.599594,0.000000
+            -123.214737,44.603024,0.000000
+            -123.216881,44.602989,0.000000
+            -123.218758,44.603031,0.000000
+            -123.220016,44.603077,0.000000
+            -123.217621,44.607555,0.000000
+            -123.216927,44.608955,0.000000
+            -123.224640,44.610153,0.000000
+            -123.230827,44.604279,0.000000
+            -123.236115,44.607105,0.000000
+            -123.236702,44.607800,0.000000
+            -123.238914,44.609024,0.000000
+            -123.239670,44.609344,0.000000
+            -123.240211,44.610161,0.000000
+            -123.241058,44.610741,0.000000
+            -123.241333,44.611485,0.000000
+            -123.242729,44.612415,0.000000
+            -123.243515,44.613335,0.000000
+            -123.243393,44.613865,0.000000
+            -123.240677,44.613911,0.000000
+            -123.240753,44.616261,0.000000
+            -123.229485,44.616413,0.000000
+            -123.229576,44.620674,0.000000
+            -123.233505,44.620579,0.000000
+            -123.233513,44.621193,0.000000
+            -123.228783,44.621326,0.000000
+            -123.228859,44.623863,0.000000
+            -123.234001,44.623760,0.000000
+            -123.234192,44.628551,0.000000
+            -123.233727,44.628555,0.000000
+            -123.233948,44.632195,0.000000
+            -123.238106,44.632084,0.000000
+            -123.238251,44.632622,0.000000
+            -123.239204,44.632652,0.000000
+            -123.239273,44.632866,0.000000
+            -123.240334,44.633064,0.000000
+            -123.240242,44.633728,0.000000
+            -123.240120,44.637520,0.000000
+            -123.239655,44.638554,0.000000
+            -123.238457,44.639854,0.000000
+            -123.232605,44.644993,0.000000
+            -123.229454,44.647636,0.000000
+            -123.228973,44.648209,0.000000
+            -123.226044,44.650757,0.000000
+            -123.223488,44.653091,0.000000
+            -123.222275,44.654644,0.000000
+            -123.221321,44.656410,0.000000
+            -123.220818,44.658642,0.000000
+            -123.220856,44.660030,0.000000
+            -123.221397,44.663074,0.000000
+            -123.221626,44.664764,0.000000
+            -123.217896,44.664944,0.000000
+            -123.211739,44.664970,0.000000
+            -123.210976,44.665161,0.000000
+            -123.209579,44.666805,0.000000
+            -123.208000,44.670315,0.000000
+            -123.208107,44.670841,0.000000
+            -123.212540,44.670883,0.000000
+            -123.212814,44.672951,0.000000
+            -123.215714,44.672771,0.000000
+            -123.213943,44.676453,0.000000
+            -123.213242,44.676453,0.000000
+            -123.213242,44.679527,0.000000
+            -123.212807,44.679504,0.000000
+            -123.212830,44.681084,0.000000
+            -123.213013,44.681755,0.000000
+            -123.219261,44.682056,0.000000
+            -123.219849,44.680248,0.000000
+            -123.223145,44.673061,0.000000
+            -123.223648,44.671181,0.000000
+            -123.223648,44.669189,0.000000
+            -123.222778,44.665882,0.000000
+            -123.222641,44.664715,0.000000
+            -123.223167,44.664692,0.000000
+            -123.223534,44.663403,0.000000
+            -123.224510,44.661076,0.000000
+            -123.226021,44.658215,0.000000
+            -123.229256,44.655678,0.000000
+            -123.229744,44.655380,0.000000
+            -123.231110,44.653805,0.000000
+            -123.231903,44.652550,0.000000
+            -123.232971,44.649677,0.000000
+            -123.235870,44.650463,0.000000
+            -123.236946,44.650463,0.000000
+            -123.237877,44.649670,0.000000
+            -123.237877,44.648270,0.000000
+            -123.238792,44.647087,0.000000
+            -123.239311,44.647118,0.000000
+            -123.240173,44.647575,0.000000
+            -123.239395,44.648472,0.000000
+            -123.239311,44.649578,0.000000
+            -123.240082,44.650364,0.000000
+            -123.241173,44.651138,0.000000
+            -123.242592,44.651630,0.000000
+            -123.243507,44.651562,0.000000
+            -123.244652,44.650410,0.000000
+            -123.244644,44.649929,0.000000
+            -123.246773,44.650677,0.000000
+            -123.247787,44.650589,0.000000
+            -123.249084,44.650177,0.000000
+            -123.249840,44.649658,0.000000
+            -123.251144,44.647877,0.000000
+            -123.252365,44.647682,0.000000
+            -123.253349,44.648460,0.000000
+            -123.254738,44.648651,0.000000
+            -123.255043,44.648289,0.000000
+            -123.255020,44.643375,0.000000
+            -123.255775,44.643353,0.000000
+            -123.256783,44.644581,0.000000
+            -123.256851,44.646053,0.000000
+            -123.259674,44.645515,0.000000
+            -123.260185,44.645077,0.000000
+            -123.260269,44.643879,0.000000
+            -123.260696,44.644039,0.000000
+            -123.260536,44.646366,0.000000
+            -123.261757,44.646267,0.000000
+            -123.262817,44.646549,0.000000
+            -123.264496,44.646523,0.000000
+            -123.264511,44.646252,0.000000
+            -123.265358,44.646683,0.000000
+            -123.267914,44.646809,0.000000
+            -123.270363,44.645309,0.000000
+            -123.271950,44.644554,0.000000
+            -123.271896,44.639465,0.000000
+            -123.270851,44.639473,0.000000
+            -123.270561,44.638039,0.000000
+            -123.268509,44.638950,0.000000
+            -123.267792,44.639618,0.000000
+            -123.267036,44.638371,0.000000
+            -123.267731,44.637604,0.000000
+            -123.268120,44.636829,0.000000
+            -123.268730,44.636356,0.000000
+            -123.269501,44.635422,0.000000
+            -123.269615,44.634708,0.000000
+            -123.270676,44.633995,0.000000
+            -123.272148,44.633362,0.000000
+            -123.272766,44.632034,0.000000
+            -123.273979,44.630981,0.000000
+            -123.276665,44.631599,0.000000
+            -123.277336,44.631989,0.000000
+            -123.281960,44.633488,0.000000
+            -123.281868,44.629967,0.000000
+            -123.283806,44.629940,0.000000
+            -123.283813,44.629395,0.000000
+            -123.286568,44.629345,0.000000
+            -123.286522,44.628845,0.000000
+            -123.287086,44.628841,0.000000
+            -123.287033,44.626263,0.000000
+            -123.286369,44.626392,0.000000
+            -123.286392,44.625549,0.000000
+            -123.289909,44.625450,0.000000
+            -123.289848,44.620766,0.000000
+            -123.287895,44.620796,0.000000
+            -123.287811,44.616993,0.000000
+            -123.287804,44.606995,0.000000
+            -123.296486,44.607044,0.000000
+            -123.296562,44.605156,0.000000
+            -123.298767,44.605156,0.000000
+            -123.298935,44.601578,0.000000
+            -123.301186,44.601673,0.000000
+            -123.301430,44.602100,0.000000
+            -123.301544,44.606209,0.000000
+            -123.308647,44.602978,0.000000
+            -123.306877,44.601288,0.000000
+            -123.305649,44.599876,0.000000
+            -123.305618,44.599178,0.000000
+            -123.313141,44.599003,0.000000
+            -123.313293,44.600437,0.000000
+            -123.314514,44.600010,0.000000
+            -123.314651,44.600277,0.000000
+            -123.321175,44.600624,0.000000
+            -123.321754,44.600212,0.000000
+            -123.322708,44.598419,0.000000
+            -123.329903,44.597149,0.000000
+            -123.336464,44.595875,0.000000
+            -123.336525,44.595490,0.000000
+            -123.337700,44.593704,0.000000
+            -123.338089,44.592525,0.000000
+            -123.338570,44.591621,0.000000
+            -123.338844,44.590439,0.000000
+            -123.339417,44.590530,0.000000
+            -123.341682,44.590370,0.000000
+            -123.343323,44.590343,0.000000
+            -123.343323,44.590698,0.000000
+            -123.344322,44.590580,0.000000
+            -123.346191,44.589993,0.000000
+            -123.346558,44.588943,0.000000
+            -123.345215,44.588947,0.000000
+            -123.342041,44.588612,0.000000
+            -123.339958,44.588215,0.000000
+            -123.338348,44.588219,0.000000
+            -123.338326,44.587296,0.000000
+            -123.337143,44.585960,0.000000
+            -123.337105,44.585175,0.000000
+            -123.336121,44.584408,0.000000
+            -123.336449,44.583687,0.000000
+            -123.334900,44.582005,0.000000
+            -123.334770,44.580887,0.000000
+            -123.334099,44.579533,0.000000
+            -123.333557,44.578762,0.000000
+            -123.332779,44.578300,0.000000
+            -123.332787,44.577885,0.000000
+            -123.335663,44.577904,0.000000
+            -123.335876,44.563816,0.000000
+            -123.333580,44.563812,0.000000
+            -123.333603,44.563057,0.000000
+            -123.336647,44.563072,0.000000
+            -123.336685,44.560688,0.000000
+            -123.345016,44.560631,0.000000
+            -123.345001,44.560188,0.000000
+            -123.350822,44.560226,0.000000
+            -123.350769,44.561382,0.000000
+            -123.354057,44.561440,0.000000
+            -123.354073,44.562271,0.000000
+            -123.359123,44.562302,0.000000
+            -123.360153,44.563099,0.000000
+            -123.365921,44.561348,0.000000
+            -123.366821,44.561142,0.000000
+            -123.366226,44.558704,0.000000
+            -123.365799,44.557724,0.000000
+            -123.366013,44.557728,0.000000
+            -123.366043,44.556370,0.000000
+            -123.367325,44.556396,0.000000
+            -123.367355,44.555626,0.000000
+            -123.367821,44.555634,0.000000
+            -123.367760,44.556709,0.000000
+            -123.371361,44.556778,0.000000
+            -123.370445,44.555653,0.000000
+            -123.373390,44.555683,0.000000
+            -123.373428,44.553219,0.000000
+            -123.376663,44.553242,0.000000
+            -123.376709,44.550797,0.000000
+            -123.377350,44.550800,0.000000
+            -123.377396,44.549240,0.000000
+            -123.382622,44.549236,0.000000
+            -123.382652,44.548401,0.000000
+            -123.382942,44.548405,0.000000
+            -123.383110,44.541100,0.000000
+            -123.385002,44.541313,0.000000
+            -123.386429,44.541615,0.000000
+            -123.387039,44.540836,0.000000
+            -123.389381,44.538849,0.000000
+            -123.391922,44.536533,0.000000
+            -123.393234,44.535236,0.000000
+            -123.390144,44.533894,0.000000
+            -123.388908,44.533741,0.000000
+            -123.380135,44.533463,0.000000
+            -123.378983,44.533360,0.000000
+            -123.369606,44.528885,0.000000
+            -123.368568,44.528561,0.000000
+            -123.367981,44.528156,0.000000
+            -123.366638,44.527664,0.000000
+            -123.365906,44.527615,0.000000
+            -123.365471,44.528191,0.000000
+            -123.365646,44.528625,0.000000
+            -123.366898,44.529675,0.000000
+            -123.365425,44.528809,0.000000
+            -123.364723,44.528770,0.000000
+            -123.363518,44.529137,0.000000
+            -123.362190,44.528809,0.000000
+            -123.361061,44.528725,0.000000
+            -123.361160,44.527981,0.000000
+            -123.360237,44.527111,0.000000
+            -123.359154,44.527111,0.000000
+            -123.358887,44.526840,0.000000
+            -123.358818,44.525829,0.000000
+            -123.357666,44.524662,0.000000
+            -123.356834,44.524410,0.000000
+            -123.355186,44.524437,0.000000
+            -123.354561,44.524601,0.000000
+            -123.354248,44.525124,0.000000
+            -123.355301,44.525787,0.000000
+            -123.355530,44.526230,0.000000
+            -123.354385,44.526470,0.000000
+            -123.352341,44.526241,0.000000
+            -123.351654,44.526310,0.000000
+            -123.351059,44.526775,0.000000
+            -123.351219,44.527611,0.000000
+            -123.350113,44.527023,0.000000
+            -123.349068,44.526848,0.000000
+            -123.348480,44.527317,0.000000
+            -123.348289,44.527889,0.000000
+            -123.348679,44.528679,0.000000
+            -123.347687,44.528713,0.000000
+            -123.345016,44.528404,0.000000
+            -123.344078,44.527824,0.000000
+            -123.342941,44.527679,0.000000
+            -123.341469,44.528297,0.000000
+            -123.340996,44.528339,0.000000
+            -123.339958,44.527294,0.000000
+            -123.338829,44.527103,0.000000
+            -123.335724,44.524998,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+#!/usr/bin/perl
+
+open(IN, "2012CAMPOAreaTrafficCounts.kml");
+while (<IN>) {
+	if (/"([^"]+\.pdf)"/i) {
+		$src = $1;
+		$out = $1;
+		$out =~ s/.*\///;
+		$out =~ s/%20/ /g;
+
+		print "$out\n";
+
+		system "curl -o '$out' '$src'";
+	}
+}
