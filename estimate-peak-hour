@@ -67,6 +67,7 @@ for (my $i = 0; $i + 3 <= $#walk_scale; $i++) {
 	my $p = $walk_scale[$i] + $walk_scale[$i + 1] + $walk_scale[$i + 2] + $walk_scale[$i + 3];
 	if ($p > $walk_peak) {
 		$walk_peak = $p;
+		$walk_peak_when = $i;
 	}
 }
 
@@ -75,12 +76,19 @@ for (my $i = 0; $i + 3 <= $#drive_scale; $i++) {
 	my $p = $drive_scale[$i] + $drive_scale[$i + 1] + $drive_scale[$i + 2] + $drive_scale[$i + 3];
 	if ($p > $drive_peak) {
 		$drive_peak = $p;
+		$drive_peak_when = $i;
+
+		$walk_peak = $walk_scale[$i] + $walk_scale[$i + 1] + $walk_scale[$i + 2] + $walk_scale[$i + 3];
 	}
 }
 
+$time_peak = sprintf("%02d:%02d-%02d:%02d",
+	int($drive_peak_when / 4), ($drive_peak_when % 4) * 15,
+	int($drive_peak_when / 4 + 1), ($drive_peak_when % 4) * 15);
+
 sub out {
 	if ($count[0] != 0) {
-		print "$okey,16:30-17:30,";
+		print "$okey,$time_peak,";
 
 		for ($i = 0; $i < 20; $i++) {
 			printf("%.1f,", $sum[$i] / $count[$i]);
