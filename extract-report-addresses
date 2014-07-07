@@ -30,6 +30,8 @@ while (<IN>) {
 	$name =~ s/\bEAST\b/E/g;
 	$name =~ s/\bNORTH\b/N/g;
 	$name =~ s/\bSOUTH\b/S/g;
+	$name =~ s/\bSO\b/S/g;
+	$name =~ s/\bNO\b/N/g;
 
 	# $name =~ s/^[NSEW] //;
 	# $name =~ s/\bAT [NSEW] /AT /;
@@ -108,10 +110,14 @@ sub geocode {
 	#s/ *\/[^\/]*$//i;
 	s/ *\/ - *//i;
 
+	s/\([^\)]*\) *//g;
+
 	s/\bWEST\b/W/g;
 	s/\bEAST\b/E/g;
 	s/\bNORTH\b/N/g;
 	s/\bSOUTH\b/S/g;
+	s/\bSO\b/S/g;
+	s/\bNO\b/N/g;
 
 	s/\bAT\b/\//i;
 	# s/^[NSEW] //;
@@ -153,6 +159,7 @@ sub geocode {
 	s/\bMLK\b/MARTIN LUTHER KING/g;
 	s/\bNH BURROUGHS\b/NANNIE HELEN BURROUGHS/g;
 	s/NICOLLET MALL/NICOLLET AV/g;
+	s/HEMMENWAY/HEMENWAY/g;
 
 	s/(\/ )([NSEW]?)([NSEW]) (.*)$/$1$4 $2$3/;
 	s/^([NSEW]?)([NSEW] )(.* )(\/)/$3$1$2$4/;
