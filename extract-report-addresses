@@ -1,0 +1,248 @@
+#!/usr/bin/perl
+
+$foot = .00000274;
+$pi = 4 * atan2(1, 1);
+
+open(IN, "to-geocode");
+while (<IN>) {
+	chomp;
+	($name, $lat, $lon) = split(/,/);
+
+	$name =~ s/^[0-9]* //;
+	$lon =~ s/^ *//;
+
+	if ($lon ne "") {
+		$exactlat{$name} = $lat;
+		$exactlon{$name} = $lon;
+	}
+}
+close(IN);
+
+open(IN, "minneapolis-intersections");
+while (<IN>) {
+	chomp;
+	($name, $lat, $lon) = split(/,/);
+	$name =~ tr/a-z/A-Z/;
+	$name =~ s/,//g;
+	$name =~ s/\.//g;
+
+	$name =~ s/\bWEST\b/W/g;
+	$name =~ s/\bEAST\b/E/g;
+	$name =~ s/\bNORTH\b/N/g;
+	$name =~ s/\bSOUTH\b/S/g;
+
+	# $name =~ s/^[NSEW] //;
+	# $name =~ s/\bAT [NSEW] /AT /;
+	$name =~ s/\bAT\b/\//;
+
+ 	$name =~ s/\bROAD\b/RD/g;
+	$name =~ s/\bLANE\b/LN/g;
+	$name =~ s/\bSTREET\b/ST/g;
+	$name =~ s/\bAVENUE\b/AVE/g;
+	$name =~ s/\bAVE\b/AV/g;
+	$name =~ s/\bBOULEVARD\b/BLVD/g;
+	$name =~ s/\bTERRACE\b/TER/g;
+	$name =~ s/\bTERR\b/TER/g;
+	$name =~ s/\bHIGHWAY\b/HWY/g;
+	$name =~ s/\bBLVD\b/BL/g;
+	$name =~ s/\bDRIVE\b/DR/g;
+	$name =~ s/\bCIRCLE\b/CIR/g;
+
+	$name =~ s/(\/ )([NSEW]?)([NSEW]) (.*)$/$1$4 $2$3/;
+	$name =~ s/^([NSEW]?)([NSEW] )(.* )(\/)/$3$1$2$4/;
+
+	# print "$name\n";
+
+	$quad = "x";
+	if (0) {
+		while ($name =~ s/\b *([NSEW]) *\b//) {
+			$quad = $1;
+		}
+		while ($name =~ s/\b *([NSEW][NSEW]) *\b//) {
+			$quad = $1;
+		}
+	}
+
+	if ($lat{$quad}{$name} ne "") {
+		$latd = $lat{$quad}{$name} - $lat;
+		$lond = ($lon{$quad}{$name} - $lon) * cos($lat{$quad}{$name});
+		$d = sqrt($latd * $latd + $lond * $lond);
+		if ($d > 200 * $foot) {
+			$dup{$quad}{$name} = 1;
+			next;
+		}
+	}
+
+	$lat{$quad}{$name} = $lat;
+	$lon{$quad}{$name} = $lon;
+}
+close(IN);
+
+for $quad (keys(%dup)) {
+	for $n (keys(%{$dup{$quad}})) {
+		$lat{$quad}{$n} = "";
+		$lon{$quad}{$n} = "";
+	}
+}
+
+
+sub geocode {
+	$_ = @_[0];
+
+	s/\015//;
+	s/^[ \t]*//;
+	s/&nbsp;//;
+	chomp;
+
+	$orig = $_;
+
+	if (defined ($exactlat{$_})) {
+		return "$exactlat{$_},$exactlon{$_}";
+	}
+
+	tr/a-z/A-Z/;
+	s/,//g;
+	s/_//g;
+	s/\.//g;
+	s/ *\/ *Washington *DC//i;
+	s/ *\/[^\/]*$//i;
+	s/ *\/ - *//i;
+
+	s/\bWEST\b/W/g;
+	s/\bEAST\b/E/g;
+	s/\bNORTH\b/N/g;
+	s/\bSOUTH\b/S/g;
+
+	s/\bAT\b/\//i;
+	# s/^[NSEW] //;
+	# s/\/ [NSEW] /\/ /g;
+	s/ -- / \/ /;
+	s/&/\//;
+
+	s/\bROAD\b/RD/g;
+	s/\bLANE\b/LN/g;
+	s/\bSTREET\b/ST/g;
+	s/\bAVENUE\b/AVE/g;
+	s/\bAVE\b/AV/g;
+	s/\bBOULEVARD\b/BLVD/g;
+	s/\bTERRACE\b/TER/g;
+	s/\bTERR\b/TER/g;
+	s/\bHIGHWAY\b/HWY/g;
+	s/\bBLVD\b/BL/g;
+	s/\bDRIVE\b/DR/g;
+	s/\bCIRCLE\b/CIR/g;
+
+	s/\bFIRST\b/1ST/g;
+	s/\bSECOND\b/2ND/g;
+	s/\bTHIRD\b/3RD/g;
+	s/\bFOURTH\b/4TH/g;
+	s/\bFIFTH\b/5TH/g;
+	s/\bSIXTH\b/6TH/g;
+	s/\bSEVENTH\b/7TH/g;
+	s/\bEIGHTH\b/8TH/g;
+	s/\bNINTH\b/9TH/g;
+
+	s/\bBERVELY\b/BEVERLY/g;
+	s/\bWILSHILE\b/WILSHIRE/g;
+	s/\bAVIATIO\b/AVIATION/g;
+	s/\bINGELWOOD\b/INGLEWOOD/g;
+	s/\bFGUEROA\b/FIGUEROA/g;
+	s/\bBRAODWAY\b/BROADWAY/g;
+	s/\bCAHUENEGA\b/CAHUENGA/g;
+	s/\bPENN\b/PENNSYLVANIA/g;
+	s/\bMLK\b/MARTIN LUTHER KING/g;
+	s/\bNH BURROUGHS\b/NANNIE HELEN BURROUGHS/g;
+	s/NICOLLET MALL/NICOLLET AV/g;
+
+	s/(\/ )([NSEW]?)([NSEW]) (.*)$/$1$4 $2$3/;
+	s/^([NSEW]?)([NSEW] )(.* )(\/)/$3$1$2$4/;
+
+	s/(\/ [^\/]*)\/.*/$1/;
+	s/ $//;
+
+	$quad = "x";
+	if (0) {
+		while (s/ *\b([NSEW][NSEW]) *\b//) {
+			$quad = $1;
+		}
+		while (s/ *\b([NSEW])\b *//) {
+			$quad = $1;
+		}
+	}
+
+	# s/([A-Z0-9])\//\1 \//g;
+
+	$ret = "";
+	if ($quad eq "") {
+		for $q ("NE", "NW", "SE", "SW", "N", "S", "E", "W") {
+			if ($lat{$q}{$_} ne "") {
+				$ret = "$lat{$q}{$_},$lon{$q}{$_}";
+			}
+		}
+	} else {
+		$ret = "$lat{$quad}{$_},$lon{$quad}{$_}";
+	}
+
+	if ($ret eq "," && $_ ne "") {
+		# print "\n\nfail $quad $_    $orig\n\n";
+	}
+
+	return $ret;
+}
+
+for $file (<reports/*.html>) {
+	$base = $file;
+	$base =~ s/.*\///;
+
+        open (IN, "<$file");
+        while (<IN>) {
+                last if /<td class="tablerecord">/;
+        }
+
+        <IN>;
+        $name = <IN>;
+
+	$name =~ s/\015//;
+	$name =~ s/^[ \t]*//;
+	$name =~ s/&nbsp;//;
+	chomp $name;
+
+	while (<IN>) {
+		if (/http:\/\/navigatela.lacity.org\/dot\/traffic_data\/manual_counts\/([^"]*).pdf/) {
+			$base = "$1.txt";
+			# print "$base -> $name\n";
+			$name{$base} = $name;
+		}
+	}
+
+	#print "$base -> $name{$base}\n";
+	close(IN);
+}
+
+while (<>) {
+	chomp;
+	($id, $name, $rest) = split(/,/, $_, 3);
+	@fields = split(/,/, $_);
+
+	# next if $seen{$name};
+	$seen{$name} = 1;
+
+	$out = "";
+	for ($i = 0; $i < 5 + 12 + 8; $i++) {
+		$out .= "$fields[$i],";
+	}
+
+	$out =~ s/,$//;
+
+	$where = geocode($name);
+
+	if ($where eq ",") {
+		# print "xxx-";
+	}
+
+	if ($where eq ",") {
+		print "$out\n";
+	} else {
+		print "$out,$where\n";
+	}
+}
