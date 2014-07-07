@@ -18,7 +18,7 @@ while (<IN>) {
 }
 close(IN);
 
-open(IN, "minneapolis-intersections");
+open(IN, "boston-intersections");
 while (<IN>) {
 	chomp;
 	($name, $lat, $lon) = split(/,/);
@@ -104,8 +104,8 @@ sub geocode {
 	s/,//g;
 	s/_//g;
 	s/\.//g;
-	s/ *\/ *Washington *DC//i;
-	s/ *\/[^\/]*$//i;
+	#s/ *\/ *Washington *DC//i;
+	#s/ *\/[^\/]*$//i;
 	s/ *\/ - *//i;
 
 	s/\bWEST\b/W/g;
@@ -184,7 +184,7 @@ sub geocode {
 	}
 
 	if ($ret eq "," && $_ ne "") {
-		# print "\n\nfail $quad $_    $orig\n\n";
+		print "\n\nfail $quad $_    $orig\n\n";
 	}
 
 	return $ret;
