@@ -191,7 +191,7 @@ sub geocode {
 	}
 
 	if ($ret eq "," && $_ ne "") {
-		print "\n\nfail $quad $_    $orig\n\n";
+		# print "\n\nfail $quad $_    $orig\n\n";
 	}
 
 	return $ret;
@@ -248,7 +248,7 @@ while (<>) {
 	}
 
 	if ($where eq ",") {
-		print "$out\n";
+		print "$out,,\n";
 	} else {
 		print "$out,$where\n";
 	}
