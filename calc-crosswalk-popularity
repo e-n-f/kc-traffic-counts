@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cat ../*/counts*csv | ./estimate-peak-hour | awk -F, '{s1 += $18; s2 += $19; s3 += $20; s4 += $21} END { total = s1 + s2 + s3 + s4; print s1, s2, s3, s4, s1 / total, s2 / total, s3 / total, s4 / total }'

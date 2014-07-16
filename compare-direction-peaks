@@ -1,0 +1,63 @@
+#!/usr/bin/perl
+
+# cat ../*/counts*csv | ./estimate-peak-hour | ./compare-direction-peaks
+
+use strict;
+
+my $dmajor = 0;
+my $dminor = 0;
+my $major = 0;
+my $minor = 0;
+my $bmajor = 0;
+my $bminor = 0;
+
+while (<>) {
+	chomp;
+	next if /extrapolated/;
+	my @fields = split(/,/);
+
+
+#              21
+#              17
+#            5  6  7
+#          16        8
+#   24 20  15        9  18 22
+#          14       10
+#           13 12 11
+#              19
+#              23
+
+	my $ns = $fields[6] + $fields[12];
+	my $ew = $fields[9] + $fields[15];
+
+	my $wns = $fields[18] + $fields[20];
+	my $wew = $fields[17] + $fields[19];
+
+	my $bns = $fields[22] + $fields[24];
+	my $bew = $fields[21] + $fields[23];
+
+	if ($ns + $ew != 0 && $wns + $wew != 0) {
+		if ($ns > $ew) {
+			$dmajor += $ns;
+			$dminor += $ew;
+
+			$major += $wns;
+			$minor += $wew;
+
+			$bmajor += $bns;
+			$bminor += $bew;
+		} else {
+			$dminor += $ns;
+			$dmajor += $ew;
+
+			$minor += $wns;
+			$major += $wew;
+
+			$bminor += $bns;
+			$bmajor += $bew;
+		}
+	}
+}
+
+print "$dmajor $dminor  vs   $major $minor    vs  $bmajor $bminor\n";
+printf("%f %f %f\n", 100 * $dmajor / ($dmajor + $dminor), 100 * $major / ($major + $minor), 100 * $bmajor / ($bmajor + $bminor));
