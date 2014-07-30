@@ -1,0 +1,50 @@
+#!/usr/bin/perl
+
+while (<>) {
+	chomp;
+	@fields = split(/,/);
+
+	# print "$fields[4]\n";
+
+	#                17
+	#            5   6   7
+        #        16             8
+        #   20   15             9      18
+        #        14             10
+        #           13   12  11
+	#                19
+
+	$west = $fields[9] + $fields[5] + $fields[13];
+	$east = $fields[15] + $fields[7] + $fields[11];
+	$north = $fields[12] + $fields[8] + $fields[16];
+	$south = $fields[6] + $fields[14] + $fields[10];
+
+	$oneway = 0;
+	$way = "";
+
+	next if ($north == 0 && $south == 0 && $east == 0 && $west == 0);
+
+	if ($north == 0 && $south != 0) {
+		$way .= "S";
+		$oneway++;
+	}
+	if ($north != 0 && $south == 0) {
+		$way .= "N";
+		$oneway++;
+	}
+	if ($east == 0 && $west != 0) {
+		$way .= "W";
+		$oneway++;
+	}
+	if ($east != 0 && $west == 0) {
+		$way .= "E";
+		$oneway++;
+	}
+
+	$walk = $fields[17] + $fields[18] + $fields[19] + $fields[20];
+
+	if ($walk != 0) {
+		print "group $oneway\n";
+		print "$walk $_\n";
+	}
+}
