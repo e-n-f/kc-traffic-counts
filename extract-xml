@@ -400,6 +400,8 @@ while (<>) {
 				}
 
 				if (
+					$group eq "Bank 1" ||
+					$group eq "Bank 2" ||
 					$group eq "Heavy Vehicles" ||
 					$group eq "Trucks" ||
 					$group eq "BUS" ||
