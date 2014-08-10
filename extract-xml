@@ -399,6 +399,126 @@ while (<>) {
 					}
 				}
 
+				if (
+					$group eq "Heavy Vehicles" ||
+					$group eq "Trucks" ||
+					$group eq "BUS" ||
+					$group eq "Pedestrians" ||
+					$group eq "truck" ||
+					$group eq "TRUCK" ||
+					$group eq "bus" ||
+					$group eq "Buses" ||
+					$group eq "Peds" ||
+					$group eq "Bus" ||
+					$group eq "School Buses" ||
+					$group eq "Heavy Trucks" ||
+					$group eq "Truck" ||
+					$group eq "Trucks & Bikes" ||
+					$group eq "Peds and Bikes" ||
+					$group eq "Bus - Heavy Truck" ||
+					$group eq "TRUCKS" ||
+					$group eq "Trucks (3+ Axles)" ||
+					$group eq "TRUCKS & BIKES" ||
+					$group eq "Large 2 Axle Vehicles" ||
+					$group eq "BUSSES" ||
+					$group eq "Peds by Direction" ||
+					$group eq "4+ Axle Trucks" ||
+					$group eq "3 Axle Vehicles" ||
+					$group eq "HV" ||
+					$group eq "Trucks/ Bikes" ||
+					$group eq "Commercial" ||
+					$group eq "Busses" ||
+					$group eq "Transit Buses" ||
+					$group eq "HVs / Busses" ||
+					$group eq "HEAVY VEHICLES" ||
+					$group eq "Dump Trucks" ||
+					$group eq "Trains" ||
+					$group eq "2 - Trucks" ||
+					$group eq "Buses & Trucks" ||
+					$group eq "BUSES" ||
+					$group eq "U-Turns" ||
+					$group eq "Heavy" ||
+					$group eq "Bicyclists and Pedes" ||
+					$group eq "2 - truck" ||
+					$group eq "Trucks (3 or more axles)" ||
+					$group eq "Pedal Bike (Road)" ||
+					$group eq "Heavy Trucks & Buses" ||
+					$group eq "HVs and Bikes - Busses" ||
+					$group eq "3 - Buses" ||
+					$group eq "LARGE 2 AXLE VEHICLES" ||
+					$group eq "BC (Trucks)" ||
+					$group eq "3 AXLE VEHICLES" ||
+					$group eq "Long Combination Vehicles" ||
+					$group eq "Heavy Vehicles" ||
+					$group eq "Heavy Vehicle" ||
+					$group eq "Heavy Truck" ||
+					$group eq "SU" ||  # single-unit trucks
+					$group eq "TT" ||  # tractor-trailer
+					$group eq "Bikes on ST - Bikes on SW" ||
+					$group eq "Bikes on ST" ||
+					$group eq "Bikes on SW" ||
+					$group eq "SU - MU" ||
+					$group eq "Bikes Street" ||
+					$group eq "Bikes SW" ||
+					$group eq "Peds - Bicycles" ||
+					$group eq "Heavy Vehicles" ||
+					$group eq "HVs / Busses" ||
+					$group eq "Dump and 3 or 4 Axle Trucks" ||
+					$group eq "3 - bus" ||
+					$group eq "trucks" ||
+					$group eq "U turns" ||
+					$group eq "U Turns" ||
+					$group eq "SUs = MUs" ||
+					$group eq "Peds and Bicycles" ||
+					$group eq "PEDS" ||
+					$group eq "Long Combo Vehicles" ||
+					$group eq "Long Combination Vehicles (5+ Axles)" ||
+					$group eq "Long Combination" ||
+					$group eq "Light Trucks" ||
+					$group eq "Hazmat Vehicles" ||
+					$group eq "HVs / Buses" ||
+					$group eq "HAZMAT Vehicles" ||
+					$group eq "Buses - Trucks" ||
+					$group eq "4+ AXLE TRUCKS" ||
+					$group eq "Single Unit Trucks" ||
+					$group eq "Long combination vehicles 5+ axles" ||
+					$group eq "Hazmat vehicles" ||
+					$group eq "Hazmat Trucks" ||
+					$group eq "General Trucks (3+ Axles)" ||
+					$group eq "Dump trucks and 3/4 axle trucks" ||
+					$group eq "Bicycles and Pedestr" ||
+					$group eq "2 - Heavy Trucks" ||
+					$group eq "Trucks/Shuttles" ||
+					$group eq "Trucks and Buses - Semis" ||
+					$group eq "Truck (3 or more axles)" ||
+					$group eq "Transit and School Buses" ||
+					$group eq "TRUCK/BIKE" ||
+					$group eq "Semis" ||
+					$group eq "Right on Red/Peds" ||
+					$group eq "Long combination vehicles (5 or more axles)" ||
+					$group eq "Long Combination Vehicles (5 or more axles)" ||
+					$group eq "HAZMAT Trucks" ||
+					$group eq "HAZMAT" ||
+					$group eq "General Trucks" ||
+					$group eq "Emergency Vehicles" ||
+					$group eq "Buses-Tunnel" ||
+					$group eq "Bicycles on Road" ||
+					$group eq "5+ Axle Trucks" ||
+					$group eq "5 or more axle" ||
+					$group eq "3+ Axles" ||
+					$group eq "3 - Bus" ||
+					$group eq "2 - 2 - Heavy Trucks" ||
+					0
+				) {
+					for (my $x = 0; $x <= $#cols; $x++) {
+						if ($cols[$x] eq "Right" ||
+						    $cols[$x] eq "Left" ||
+						    $cols[$x] eq "Thru") {
+							$cols[$x] = "$group $cols[$x]";
+						}
+					}
+				}
+
 				{
 					my $apptotal = 0;
 					for (my $x = 0; $x <= $#cols; $x++) {
