@@ -1,0 +1,14 @@
+#!/bin/sh
+
+newest=$(ls -t ./*.xml | head -1)
+
+find . -name '*.pdf' -newer "$newest" -print |
+while read i
+do
+	xml=$(basename "$i" .pdf).xml
+
+	echo "$xml"
+	../../../poppler-0.26.0/utils/pdftohtml -xml -i -nodrm -cbt 80 "$i"
+	cat "$xml" | ../condense-xml > foo
+	mv foo "$xml"
+done
