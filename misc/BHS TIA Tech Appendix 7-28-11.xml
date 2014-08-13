@@ -69,16 +69,22 @@
 <text top="112" left="162" width="5" height="16" font="4"> </text>
 <text top="133" left="345" width="233" height="16" font="1"><b>TECHNICAL APPENDICES </b></text>
 <text top="154" left="108" width="5" height="16" font="4"> </text>
-<text top="174" left="108" width="541" height="16" font="4">Appendix A  Traffic Turning Movement Counts and Tube Count Results </text>
-<text top="195" left="108" width="205" height="16" font="4">Appendix B  Site Concept </text>
-<text top="216" left="108" width="393" height="16" font="4">Appendix C  Synchro Output – Existing Conditions  </text>
-<text top="236" left="108" width="453" height="16" font="4">Appendix D  Synchro Output – Future No-Build Conditions  </text>
+<text top="174" left="108" width="93" height="16" font="4">Appendix A </text>
+<text top="174" left="216" width="433" height="16" font="4">Traffic Turning Movement Counts and Tube Count Results </text>
+<text top="195" left="108" width="92" height="16" font="4">Appendix B </text>
+<text top="195" left="216" width="97" height="16" font="4">Site Concept </text>
+<text top="216" left="108" width="92" height="16" font="4">Appendix C </text>
+<text top="216" left="216" width="285" height="16" font="4">Synchro Output – Existing Conditions  </text>
+<text top="236" left="108" width="93" height="16" font="4">Appendix D </text>
+<text top="236" left="216" width="344" height="16" font="4">Synchro Output – Future No-Build Conditions  </text>
 <text top="257" left="108" width="91" height="16" font="4">Appendix E </text>
 <text top="257" left="216" width="317" height="16" font="4">Synchro Output – Future Build Conditions  </text>
 <text top="278" left="108" width="90" height="16" font="4">Appendix F </text>
 <text top="278" left="216" width="341" height="16" font="4">Synchro Output – Future Build w / Mitigation  </text>
-<text top="299" left="108" width="449" height="16" font="4">Appendix G  Middle School Traffic Counts from Year 2005 </text>
-<text top="319" left="108" width="303" height="16" font="4">Appendix H  SimTraffic Queue Reports </text>
+<text top="299" left="108" width="93" height="16" font="4">Appendix G </text>
+<text top="299" left="216" width="341" height="16" font="4">Middle School Traffic Counts from Year 2005 </text>
+<text top="319" left="108" width="93" height="16" font="4">Appendix H </text>
+<text top="319" left="216" width="195" height="16" font="4">SimTraffic Queue Reports </text>
 <text top="340" left="108" width="86" height="16" font="4">Appendix I </text>
 <text top="340" left="216" width="271" height="16" font="4">SimTraffic Reports for the Bus Loop </text>
 <text top="361" left="108" width="87" height="16" font="4">Appendix J </text>
@@ -207,7 +213,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="868" width="294" height="17" font="4">File Name : Prices Fork and Old Mill</text>
-<text top="91" left="868" width="183" height="17" font="4">Site Code : 00181920</text>
+<text top="91" left="868" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="961" width="90" height="17" font="4">: 00181920</text>
 <text top="112" left="868" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="868" width="70" height="17" font="4">Page No</text>
 <text top="133" left="961" width="20" height="17" font="4">: 1</text>
@@ -910,7 +917,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="868" width="294" height="17" font="4">File Name : Prices Fork and Old Mill</text>
-<text top="91" left="868" width="183" height="17" font="4">Site Code : 00181920</text>
+<text top="91" left="868" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="961" width="90" height="17" font="4">: 00181920</text>
 <text top="112" left="868" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="868" width="70" height="17" font="4">Page No</text>
 <text top="133" left="961" width="20" height="17" font="4">: 2</text>
@@ -1083,7 +1091,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="868" width="294" height="17" font="4">File Name : Prices Fork and Old Mill</text>
-<text top="91" left="868" width="183" height="17" font="4">Site Code : 00181920</text>
+<text top="91" left="868" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="961" width="90" height="17" font="4">: 00181920</text>
 <text top="112" left="868" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="868" width="70" height="17" font="4">Page No</text>
 <text top="133" left="961" width="20" height="17" font="4">: 3</text>
@@ -1283,7 +1292,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="868" width="294" height="17" font="4">File Name : Prices Fork and Old Mill</text>
-<text top="91" left="868" width="183" height="17" font="4">Site Code : 00181920</text>
+<text top="91" left="868" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="961" width="90" height="17" font="4">: 00181920</text>
 <text top="112" left="868" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="868" width="70" height="17" font="4">Page No</text>
 <text top="133" left="961" width="20" height="17" font="4">: 4</text>
@@ -1358,7 +1368,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="868" width="294" height="17" font="4">File Name : Prices Fork and Old Mill</text>
-<text top="91" left="868" width="183" height="17" font="4">Site Code : 00181920</text>
+<text top="91" left="868" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="961" width="90" height="17" font="4">: 00181920</text>
 <text top="112" left="868" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="868" width="70" height="17" font="4">Page No</text>
 <text top="133" left="961" width="20" height="17" font="4">: 5</text>
@@ -1554,7 +1565,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="868" width="294" height="17" font="4">File Name : Prices Fork and Old Mill</text>
-<text top="91" left="868" width="183" height="17" font="4">Site Code : 00181920</text>
+<text top="91" left="868" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="961" width="90" height="17" font="4">: 00181920</text>
 <text top="112" left="868" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="868" width="70" height="17" font="4">Page No</text>
 <text top="133" left="961" width="20" height="17" font="4">: 6</text>
@@ -1629,7 +1641,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="782" width="380" height="17" font="4">File Name : Prices Fork and HS Main Entrance</text>
-<text top="91" left="782" width="183" height="17" font="4">Site Code : 22224444</text>
+<text top="91" left="782" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="875" width="90" height="17" font="4">: 22224444</text>
 <text top="112" left="782" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="782" width="70" height="17" font="4">Page No</text>
 <text top="133" left="875" width="20" height="17" font="4">: 1</text>
@@ -2332,7 +2345,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="782" width="380" height="17" font="4">File Name : Prices Fork and HS Main Entrance</text>
-<text top="91" left="782" width="183" height="17" font="4">Site Code : 22224444</text>
+<text top="91" left="782" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="875" width="90" height="17" font="4">: 22224444</text>
 <text top="112" left="782" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="782" width="70" height="17" font="4">Page No</text>
 <text top="133" left="875" width="20" height="17" font="4">: 2</text>
@@ -2592,7 +2606,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="782" width="380" height="17" font="4">File Name : Prices Fork and HS Main Entrance</text>
-<text top="91" left="782" width="183" height="17" font="4">Site Code : 22224444</text>
+<text top="91" left="782" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="875" width="90" height="17" font="4">: 22224444</text>
 <text top="112" left="782" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="782" width="70" height="17" font="4">Page No</text>
 <text top="133" left="875" width="20" height="17" font="4">: 3</text>
@@ -2788,7 +2803,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="782" width="380" height="17" font="4">File Name : Prices Fork and HS Main Entrance</text>
-<text top="91" left="782" width="183" height="17" font="4">Site Code : 22224444</text>
+<text top="91" left="782" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="875" width="90" height="17" font="4">: 22224444</text>
 <text top="112" left="782" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="782" width="70" height="17" font="4">Page No</text>
 <text top="133" left="875" width="20" height="17" font="4">: 4</text>
@@ -2864,7 +2880,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="782" width="380" height="17" font="4">File Name : Prices Fork and HS Main Entrance</text>
-<text top="91" left="782" width="183" height="17" font="4">Site Code : 22224444</text>
+<text top="91" left="782" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="875" width="90" height="17" font="4">: 22224444</text>
 <text top="112" left="782" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="782" width="70" height="17" font="4">Page No</text>
 <text top="133" left="875" width="20" height="17" font="4">: 5</text>
@@ -3060,7 +3077,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="782" width="380" height="17" font="4">File Name : Prices Fork and HS Main Entrance</text>
-<text top="91" left="782" width="183" height="17" font="4">Site Code : 22224444</text>
+<text top="91" left="782" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="875" width="90" height="17" font="4">: 22224444</text>
 <text top="112" left="782" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="782" width="70" height="17" font="4">Page No</text>
 <text top="133" left="875" width="20" height="17" font="4">: 6</text>
@@ -3136,7 +3154,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="791" width="372" height="17" font="4">File Name : Prices Fork and HS Bus Entrance</text>
-<text top="91" left="791" width="183" height="17" font="4">Site Code : 88116622</text>
+<text top="91" left="791" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="884" width="90" height="17" font="4">: 88116622</text>
 <text top="112" left="791" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="791" width="70" height="17" font="4">Page No</text>
 <text top="133" left="884" width="20" height="17" font="4">: 1</text>
@@ -3838,7 +3857,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="791" width="372" height="17" font="4">File Name : Prices Fork and HS Bus Entrance</text>
-<text top="91" left="791" width="183" height="17" font="4">Site Code : 88116622</text>
+<text top="91" left="791" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="884" width="90" height="17" font="4">: 88116622</text>
 <text top="112" left="791" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="791" width="70" height="17" font="4">Page No</text>
 <text top="133" left="884" width="20" height="17" font="4">: 2</text>
@@ -4097,7 +4117,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="791" width="372" height="17" font="4">File Name : Prices Fork and HS Bus Entrance</text>
-<text top="91" left="791" width="183" height="17" font="4">Site Code : 88116622</text>
+<text top="91" left="791" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="884" width="90" height="17" font="4">: 88116622</text>
 <text top="112" left="791" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="791" width="70" height="17" font="4">Page No</text>
 <text top="133" left="884" width="20" height="17" font="4">: 3</text>
@@ -4292,7 +4313,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="791" width="372" height="17" font="4">File Name : Prices Fork and HS Bus Entrance</text>
-<text top="91" left="791" width="183" height="17" font="4">Site Code : 88116622</text>
+<text top="91" left="791" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="884" width="90" height="17" font="4">: 88116622</text>
 <text top="112" left="791" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="791" width="70" height="17" font="4">Page No</text>
 <text top="133" left="884" width="20" height="17" font="4">: 4</text>
@@ -4368,7 +4390,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="791" width="372" height="17" font="4">File Name : Prices Fork and HS Bus Entrance</text>
-<text top="91" left="791" width="183" height="17" font="4">Site Code : 88116622</text>
+<text top="91" left="791" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="884" width="90" height="17" font="4">: 88116622</text>
 <text top="112" left="791" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="791" width="70" height="17" font="4">Page No</text>
 <text top="133" left="884" width="20" height="17" font="4">: 5</text>
@@ -4563,7 +4586,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="791" width="372" height="17" font="4">File Name : Prices Fork and HS Bus Entrance</text>
-<text top="91" left="791" width="183" height="17" font="4">Site Code : 88116622</text>
+<text top="91" left="791" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="884" width="90" height="17" font="4">: 88116622</text>
 <text top="112" left="791" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="791" width="70" height="17" font="4">Page No</text>
 <text top="133" left="884" width="20" height="17" font="4">: 6</text>
@@ -4639,7 +4663,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="848" width="315" height="17" font="4">File Name : Prices Fork and Hethwood</text>
-<text top="91" left="848" width="183" height="17" font="4">Site Code : 00004321</text>
+<text top="91" left="848" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="941" width="90" height="17" font="4">: 00004321</text>
 <text top="112" left="848" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="848" width="70" height="17" font="4">Page No</text>
 <text top="133" left="941" width="20" height="17" font="4">: 1</text>
@@ -5341,7 +5366,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="848" width="315" height="17" font="4">File Name : Prices Fork and Hethwood</text>
-<text top="91" left="848" width="183" height="17" font="4">Site Code : 00004321</text>
+<text top="91" left="848" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="941" width="90" height="17" font="4">: 00004321</text>
 <text top="112" left="848" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="848" width="70" height="17" font="4">Page No</text>
 <text top="133" left="941" width="20" height="17" font="4">: 2</text>
@@ -5600,7 +5626,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="848" width="315" height="17" font="4">File Name : Prices Fork and Hethwood</text>
-<text top="91" left="848" width="183" height="17" font="4">Site Code : 00004321</text>
+<text top="91" left="848" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="941" width="90" height="17" font="4">: 00004321</text>
 <text top="112" left="848" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="848" width="70" height="17" font="4">Page No</text>
 <text top="133" left="941" width="20" height="17" font="4">: 3</text>
@@ -5795,7 +5822,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="848" width="315" height="17" font="4">File Name : Prices Fork and Hethwood</text>
-<text top="91" left="848" width="183" height="17" font="4">Site Code : 00004321</text>
+<text top="91" left="848" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="941" width="90" height="17" font="4">: 00004321</text>
 <text top="112" left="848" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="848" width="70" height="17" font="4">Page No</text>
 <text top="133" left="941" width="20" height="17" font="4">: 4</text>
@@ -5871,7 +5899,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="848" width="315" height="17" font="4">File Name : Prices Fork and Hethwood</text>
-<text top="91" left="848" width="183" height="17" font="4">Site Code : 00004321</text>
+<text top="91" left="848" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="941" width="90" height="17" font="4">: 00004321</text>
 <text top="112" left="848" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="848" width="70" height="17" font="4">Page No</text>
 <text top="133" left="941" width="20" height="17" font="4">: 5</text>
@@ -6066,7 +6095,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="848" width="315" height="17" font="4">File Name : Prices Fork and Hethwood</text>
-<text top="91" left="848" width="183" height="17" font="4">Site Code : 00004321</text>
+<text top="91" left="848" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="941" width="90" height="17" font="4">: 00004321</text>
 <text top="112" left="848" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="848" width="70" height="17" font="4">Page No</text>
 <text top="133" left="941" width="20" height="17" font="4">: 6</text>
@@ -6142,7 +6172,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="906" width="258" height="17" font="4">File Name : Prices Fork and ES</text>
-<text top="91" left="906" width="183" height="17" font="4">Site Code : 04567890</text>
+<text top="91" left="906" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="998" width="90" height="17" font="4">: 04567890</text>
 <text top="112" left="906" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="906" width="70" height="17" font="4">Page No</text>
 <text top="133" left="998" width="20" height="17" font="4">: 1</text>
@@ -6844,7 +6875,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="906" width="258" height="17" font="4">File Name : Prices Fork and ES</text>
-<text top="91" left="906" width="183" height="17" font="4">Site Code : 04567890</text>
+<text top="91" left="906" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="998" width="90" height="17" font="4">: 04567890</text>
 <text top="112" left="906" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="906" width="70" height="17" font="4">Page No</text>
 <text top="133" left="998" width="20" height="17" font="4">: 2</text>
@@ -7103,7 +7135,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="906" width="258" height="17" font="4">File Name : Prices Fork and ES</text>
-<text top="91" left="906" width="183" height="17" font="4">Site Code : 04567890</text>
+<text top="91" left="906" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="998" width="90" height="17" font="4">: 04567890</text>
 <text top="112" left="906" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="906" width="70" height="17" font="4">Page No</text>
 <text top="133" left="998" width="20" height="17" font="4">: 3</text>
@@ -7298,7 +7331,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="906" width="258" height="17" font="4">File Name : Prices Fork and ES</text>
-<text top="91" left="906" width="183" height="17" font="4">Site Code : 04567890</text>
+<text top="91" left="906" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="998" width="90" height="17" font="4">: 04567890</text>
 <text top="112" left="906" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="906" width="70" height="17" font="4">Page No</text>
 <text top="133" left="998" width="20" height="17" font="4">: 4</text>
@@ -7374,7 +7408,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="906" width="258" height="17" font="4">File Name : Prices Fork and ES</text>
-<text top="91" left="906" width="183" height="17" font="4">Site Code : 04567890</text>
+<text top="91" left="906" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="998" width="90" height="17" font="4">: 04567890</text>
 <text top="112" left="906" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="906" width="70" height="17" font="4">Page No</text>
 <text top="133" left="998" width="20" height="17" font="4">: 5</text>
@@ -7569,7 +7604,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="906" width="258" height="17" font="4">File Name : Prices Fork and ES</text>
-<text top="91" left="906" width="183" height="17" font="4">Site Code : 04567890</text>
+<text top="91" left="906" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="998" width="90" height="17" font="4">: 04567890</text>
 <text top="112" left="906" width="183" height="17" font="4">Start Date : 5/18/2011</text>
 <text top="133" left="906" width="70" height="17" font="4">Page No</text>
 <text top="133" left="998" width="20" height="17" font="4">: 6</text>
@@ -8186,8 +8222,10 @@
 <text top="652" left="1003" width="3" height="11" font="12"> </text>
 <text top="652" left="1047" width="20" height="11" font="12">752</text>
 <text top="652" left="1122" width="20" height="11" font="12">639</text>
-<text top="666" left="175" width="17" height="11" font="12">   </text>
-<text top="680" left="175" width="17" height="11" font="12">   </text>
+<text top="666" left="175" width="3" height="11" font="12"> </text>
+<text top="666" left="189" width="3" height="11" font="12"> </text>
+<text top="680" left="175" width="3" height="11" font="12"> </text>
+<text top="680" left="189" width="3" height="11" font="12"> </text>
 <text top="694" left="115" width="65" height="11" font="12">Comb. Total</text>
 <text top="694" left="255" width="7" height="11" font="12">0</text>
 <text top="694" left="391" width="7" height="11" font="12">0</text>
@@ -8197,7 +8235,8 @@
 <text top="694" left="872" width="7" height="11" font="12">0</text>
 <text top="694" left="993" width="7" height="11" font="12">0</text>
 <text top="694" left="1100" width="33" height="11" font="12">12902</text>
-<text top="708" left="175" width="17" height="11" font="12">   </text>
+<text top="708" left="175" width="3" height="11" font="12"> </text>
+<text top="708" left="189" width="3" height="11" font="12"> </text>
 <text top="722" left="154" width="24" height="11" font="12">ADT</text>
 <text top="722" left="253" width="78" height="11" font="12">Not Calculated</text>
 <text top="722" left="476" width="3" height="11" font="12"> </text>
@@ -8745,8 +8784,10 @@
 <text top="652" left="1003" width="3" height="11" font="12"> </text>
 <text top="652" left="1054" width="13" height="11" font="12">56</text>
 <text top="652" left="1138" width="3" height="11" font="12"> </text>
-<text top="666" left="175" width="17" height="11" font="12">   </text>
-<text top="680" left="175" width="17" height="11" font="12">   </text>
+<text top="666" left="175" width="3" height="11" font="12"> </text>
+<text top="666" left="189" width="3" height="11" font="12"> </text>
+<text top="680" left="175" width="3" height="11" font="12"> </text>
+<text top="680" left="189" width="3" height="11" font="12"> </text>
 <text top="694" left="115" width="65" height="11" font="12">Comb. Total</text>
 <text top="694" left="255" width="7" height="11" font="12">0</text>
 <text top="694" left="391" width="7" height="11" font="12">0</text>
@@ -8756,7 +8797,8 @@
 <text top="694" left="872" width="7" height="11" font="12">0</text>
 <text top="694" left="993" width="7" height="11" font="12">0</text>
 <text top="694" left="1107" width="20" height="11" font="12">325</text>
-<text top="708" left="175" width="17" height="11" font="12">   </text>
+<text top="708" left="175" width="3" height="11" font="12"> </text>
+<text top="708" left="189" width="3" height="11" font="12"> </text>
 <text top="722" left="154" width="24" height="11" font="12">ADT</text>
 <text top="722" left="253" width="78" height="11" font="12">Not Calculated</text>
 <text top="722" left="476" width="3" height="11" font="12"> </text>
@@ -9305,8 +9347,10 @@
 <text top="652" left="1003" width="3" height="11" font="12"> </text>
 <text top="652" left="1054" width="13" height="11" font="12">22</text>
 <text top="652" left="1128" width="13" height="11" font="12">54</text>
-<text top="666" left="175" width="17" height="11" font="12">   </text>
-<text top="680" left="175" width="17" height="11" font="12">   </text>
+<text top="666" left="175" width="3" height="11" font="12"> </text>
+<text top="666" left="189" width="3" height="11" font="12"> </text>
+<text top="680" left="175" width="3" height="11" font="12"> </text>
+<text top="680" left="189" width="3" height="11" font="12"> </text>
 <text top="694" left="115" width="65" height="11" font="12">Comb. Total</text>
 <text top="694" left="255" width="7" height="11" font="12">0</text>
 <text top="694" left="391" width="7" height="11" font="12">0</text>
@@ -9316,7 +9360,8 @@
 <text top="694" left="872" width="7" height="11" font="12">0</text>
 <text top="694" left="993" width="7" height="11" font="12">0</text>
 <text top="694" left="1107" width="20" height="11" font="12">321</text>
-<text top="708" left="175" width="17" height="11" font="12">   </text>
+<text top="708" left="175" width="3" height="11" font="12"> </text>
+<text top="708" left="189" width="3" height="11" font="12"> </text>
 <text top="722" left="154" width="24" height="11" font="12">ADT</text>
 <text top="722" left="253" width="78" height="11" font="12">Not Calculated</text>
 <text top="722" left="476" width="3" height="11" font="12"> </text>
@@ -9326,7 +9371,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="814" width="347" height="17" font="4">File Name : Prices Fork and Walnut Spring</text>
-<text top="91" left="814" width="183" height="17" font="4">Site Code : 00678678</text>
+<text top="91" left="814" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="907" width="90" height="17" font="4">: 00678678</text>
 <text top="112" left="814" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="814" width="70" height="17" font="4">Page No</text>
 <text top="133" left="907" width="20" height="17" font="4">: 1</text>
@@ -10029,7 +10075,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="814" width="347" height="17" font="4">File Name : Prices Fork and Walnut Spring</text>
-<text top="91" left="814" width="183" height="17" font="4">Site Code : 00678678</text>
+<text top="91" left="814" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="907" width="90" height="17" font="4">: 00678678</text>
 <text top="112" left="814" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="814" width="70" height="17" font="4">Page No</text>
 <text top="133" left="907" width="20" height="17" font="4">: 2</text>
@@ -10201,7 +10248,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="814" width="347" height="17" font="4">File Name : Prices Fork and Walnut Spring</text>
-<text top="91" left="814" width="183" height="17" font="4">Site Code : 00678678</text>
+<text top="91" left="814" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="907" width="90" height="17" font="4">: 00678678</text>
 <text top="112" left="814" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="814" width="70" height="17" font="4">Page No</text>
 <text top="133" left="907" width="20" height="17" font="4">: 3</text>
@@ -10397,7 +10445,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="814" width="347" height="17" font="4">File Name : Prices Fork and Walnut Spring</text>
-<text top="91" left="814" width="183" height="17" font="4">Site Code : 00678678</text>
+<text top="91" left="814" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="907" width="90" height="17" font="4">: 00678678</text>
 <text top="112" left="814" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="814" width="70" height="17" font="4">Page No</text>
 <text top="133" left="907" width="20" height="17" font="4">: 4</text>
@@ -10472,7 +10521,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="814" width="347" height="17" font="4">File Name : Prices Fork and Walnut Spring</text>
-<text top="91" left="814" width="183" height="17" font="4">Site Code : 00678678</text>
+<text top="91" left="814" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="907" width="90" height="17" font="4">: 00678678</text>
 <text top="112" left="814" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="814" width="70" height="17" font="4">Page No</text>
 <text top="133" left="907" width="20" height="17" font="4">: 5</text>
@@ -10668,7 +10718,8 @@
 <text top="56" left="550" width="92" height="14" font="9">757.478.6761</text>
 <text top="73" left="481" width="226" height="14" font="9">LSmith@DataCollectionGroup.net</text>
 <text top="70" left="814" width="347" height="17" font="4">File Name : Prices Fork and Walnut Spring</text>
-<text top="91" left="814" width="183" height="17" font="4">Site Code : 00678678</text>
+<text top="91" left="814" width="79" height="17" font="4">Site Code</text>
+<text top="91" left="907" width="90" height="17" font="4">: 00678678</text>
 <text top="112" left="814" width="183" height="17" font="4">Start Date : 5/19/2011</text>
 <text top="133" left="814" width="70" height="17" font="4">Page No</text>
 <text top="133" left="907" width="20" height="17" font="4">: 6</text>
@@ -10924,7 +10975,8 @@
 <text top="583" left="459" width="25" height="14" font="9">171</text>
 <text top="583" left="509" width="25" height="14" font="9">375</text>
 <text top="610" left="81" width="114" height="14" font="9">Direction, Lane #</text>
-<text top="610" left="250" width="83" height="14" font="9">EB 1 WB 1</text>
+<text top="610" left="250" width="33" height="14" font="9">EB 1</text>
+<text top="610" left="296" width="37" height="14" font="9">WB 1</text>
 <text top="610" left="350" width="33" height="14" font="9">NB 1</text>
 <text top="630" left="81" width="89" height="14" font="9">Volume Total</text>
 <text top="630" left="257" width="25" height="14" font="9">840</text>
@@ -11057,7 +11109,8 @@
 <text top="583" left="459" width="25" height="14" font="9">176</text>
 <text top="583" left="509" width="25" height="14" font="9">615</text>
 <text top="610" left="81" width="114" height="14" font="9">Direction, Lane #</text>
-<text top="610" left="250" width="83" height="14" font="9">EB 1 WB 1</text>
+<text top="610" left="250" width="33" height="14" font="9">EB 1</text>
+<text top="610" left="296" width="37" height="14" font="9">WB 1</text>
 <text top="610" left="351" width="33" height="14" font="9">SB 1</text>
 <text top="630" left="81" width="89" height="14" font="9">Volume Total</text>
 <text top="630" left="257" width="25" height="14" font="9">858</text>
@@ -11196,7 +11249,10 @@
 <text top="610" left="81" width="114" height="14" font="9">Direction, Lane #</text>
 <text top="610" left="250" width="33" height="14" font="9">EB 1</text>
 <text top="610" left="300" width="33" height="14" font="9">EB 2</text>
-<text top="610" left="351" width="184" height="14" font="9">EB 3 WB 1 WB 2 WB 3</text>
+<text top="610" left="351" width="33" height="14" font="9">EB 3</text>
+<text top="610" left="397" width="37" height="14" font="9">WB 1</text>
+<text top="610" left="447" width="37" height="14" font="9">WB 2</text>
+<text top="610" left="498" width="37" height="14" font="9">WB 3</text>
 <text top="610" left="552" width="33" height="14" font="9">NB 1</text>
 <text top="630" left="81" width="89" height="14" font="9">Volume Total</text>
 <text top="630" left="257" width="25" height="14" font="9">454</text>
@@ -11375,7 +11431,10 @@
 <text top="610" left="250" width="33" height="14" font="9">EB 1</text>
 <text top="610" left="300" width="33" height="14" font="9">EB 2</text>
 <text top="610" left="351" width="33" height="14" font="9">EB 3</text>
-<text top="610" left="401" width="184" height="14" font="9">EB 4 WB 1 WB 2 WB 3</text>
+<text top="610" left="401" width="33" height="14" font="9">EB 4</text>
+<text top="610" left="447" width="37" height="14" font="9">WB 1</text>
+<text top="610" left="498" width="37" height="14" font="9">WB 2</text>
+<text top="610" left="548" width="37" height="14" font="9">WB 3</text>
 <text top="610" left="602" width="33" height="14" font="9">NB 1</text>
 <text top="630" left="81" width="89" height="14" font="9">Volume Total</text>
 <text top="630" left="257" width="25" height="14" font="9">407</text>
