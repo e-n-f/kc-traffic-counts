@@ -510,6 +510,17 @@ while (<>) {
 					$group eq "3+ Axles" ||
 					$group eq "3 - Bus" ||
 					$group eq "2 - 2 - Heavy Trucks" ||
+					$group =~ /^([0-9] - )?Bike/i ||
+					$group =~ /^([0-9] - )?Bicy/i ||
+					$group =~ /^([0-9] - )?HV/ ||
+					$group =~ /^([0-9] - )?SU/ ||
+					$group =~ /^([0-9] - )?MU/ ||
+					$group =~ /^([0-9] - )?Zone/i ||
+					$group =~ /^([0-9] - )?Dump/i ||
+					$group =~ /^([0-9] - )?Truck/i ||
+					$group =~ /^([0-9] - )?Heavy/i ||
+					$group =~ /^([0-9] - )?Ped/i ||
+					$group =~ /^([0-9] - )?Bus/i ||
 					0
 				) {
 					for (my $x = 0; $x <= $#cols; $x++) {
