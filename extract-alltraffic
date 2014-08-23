@@ -1,0 +1,104 @@
+#!/usr/bin/perl
+
+use strict;
+
+my $date = "";
+my $streets = "";
+my $mode = "";
+
+sub get_streets {
+	$streets = <>;
+	chomp $streets;
+	$streets =~ s/^ *//;
+	$streets =~ s/ *$//;
+	$streets =~ s/  +/ \/ /g;
+
+	my $directions = <>;
+	unless ($directions =~ /^ *Southbound/) {
+		print STDERR "fail $directions\n";
+		$mode = 0;
+		return;
+	}
+
+	my $starttime = <>;
+	chomp $starttime;
+	$starttime =~ s/ +/ /g;
+
+	if ($mode == 2) {
+		if ($starttime ne "START TIME LEFT THRU RIGHT PEDS APP.TOTAL LEFT THRU RIGHT PEDS APP.TOTAL LEFT THRU RIGHT PEDS APP.TOTAL LEFT THRU RIGHT PEDS APP.TOTAL Total Ped Total") {
+			print STDERR "fail $starttime\n";
+			$mode = 0;
+			return;
+		}
+	}
+	if ($mode == 1) {
+		if ($starttime ne "START TIME LEFT THRU RIGHT UTURNS APP.TOTAL LEFT THRU RIGHT UTURNS APP.TOTAL LEFT THRU RIGHT UTURNS APP.TOTAL LEFT THRU RIGHT UTURNS APP.TOTAL Total Uturn Total") {
+			print STDERR "fail $starttime\n";
+			$mode = 0;
+			return;
+		}
+	}
+}
+
+while (<>) {
+	if (/\014/) {
+		$date = "";
+		$streets = "";
+		$mode = 0;
+	}
+
+	if (/Date : ([^ ]+)/) {
+		$date = $1;
+		chomp($date);
+	}
+
+	if (/Unshifted Count = All Vehicles/) {
+		$mode = 1;
+		get_streets();
+	}
+	if (/Bank 1 Count = Peds \& Bikes/) {
+		$mode = 2;
+		get_streets();
+	}
+
+	if (/Grand Total/) {
+		$mode = 0;
+	}
+
+	if ($mode != 0 && s/^ *([0-9]+):([0-9][0-9]) *//) {
+		my $hour = $1;
+		my $minute = $2;
+		my $t = ($hour * 60) + $minute;
+		my $time = sprintf("%02d:%02d-%02d:%02d", $t / 60, $t % 60, ($t + 15) / 60, ($t + 15) % 60);
+
+		chomp;
+		s/ *$//;
+
+		my @fields = split(/ +/);
+
+		if ($#fields == 21) {
+			print "$ARGV,$streets,x,$date,$time,";
+
+			if ($mode == 1) {
+				for (my $i = 0; $i < 4 * 5; $i += 5) {
+					print "$fields[$i + 2],$fields[$i + 1],$fields[$i],";
+				}
+
+				print ",,,,,,,,";
+			} elsif ($mode == 2) {
+				print ",,,,,,,,,,,,";
+
+				for (my $i = 0; $i < 4 * 5; $i += 5) {
+					print "$fields[$i + 3],";
+				}
+
+				print "$fields[5 * 1 + 2],"; # wb
+				print "$fields[5 * 2 + 2],"; # nb
+				print "$fields[5 * 3 + 2],"; # eb
+				print "$fields[5 * 0 + 2],"; # sb
+			}
+
+			print "\n";
+		}
+	}
+}

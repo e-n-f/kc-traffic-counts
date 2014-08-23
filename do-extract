@@ -25,7 +25,10 @@ find ncdot -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xarg
 find hp -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-hp.csv
 ./extract-xml kc/*.xml > counts-kc.csv
 find dc -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-dc.csv
-find oakland -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-oakland.csv
+(
+	find oakland -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml
+	./extract-alltraffic oakland/*.txt
+) > counts-oakland.csv
 find boston -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml | ./extract-report-addresses > counts-boston.csv
 find misc -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-misc.csv
 find sanjose -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-sanjose.csv
