@@ -6,7 +6,7 @@ while (<>) {
 		$groups = 0;
 
 		while (<>) {
-			if (/Groups *Printed/ || /Turning *Movement *Data/) {
+			if (/Groups *Printed/ || /Turning *Movement *Data/ || /Bank.*Count/ || /Unshifted.*Count/) {
 				$groups = 1;
 			}
 
