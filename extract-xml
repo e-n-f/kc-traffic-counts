@@ -573,7 +573,10 @@ while (<>) {
 				for (; $i <= $#text; $i++) {
 					last if ($text[$i] =~ /Grand/);
 
-					if ($text[$i] =~ /(\d+):(\d+) *([AP]M)?/) {
+					my $tt = $text[$i];
+					$tt =~ s/ //g;
+
+					if ($tt =~ /^(\d+):(\d+)([AP]M)?$/) {
 						my $hour = $1;
 						my $minute = $2;
 						if ($3 eq "PM" && $hour != 12) {
