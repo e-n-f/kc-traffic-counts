@@ -6,6 +6,8 @@ my $date = "";
 my $streets = "";
 my $mode = "";
 
+my %val = ();
+
 sub get_streets {
 	$streets = <>;
 	chomp $streets;
@@ -77,28 +79,37 @@ while (<>) {
 		my @fields = split(/ +/);
 
 		if ($#fields == 21) {
-			print "$ARGV,$streets,x,$date,$time,";
+			my $key = "$ARGV,$streets,x,$date,$time,";
 
 			if ($mode == 1) {
+				my $f = 0;
 				for (my $i = 0; $i < 4 * 5; $i += 5) {
-					print "$fields[$i + 2],$fields[$i + 1],$fields[$i],";
+					$val{$key}[$f++] = $fields[$i + 2];
+					$val{$key}[$f++] = $fields[$i + 1];
+					$val{$key}[$f++] = $fields[$i + 0];
 				}
-
-				print ",,,,,,,,";
 			} elsif ($mode == 2) {
-				print ",,,,,,,,,,,,";
-
+				my $f = 12;
 				for (my $i = 0; $i < 4 * 5; $i += 5) {
-					print "$fields[$i + 3],";
+					$val{$key}[$f++] = $fields[$i + 3];
 				}
 
-				print "$fields[5 * 1 + 2],"; # wb
-				print "$fields[5 * 2 + 2],"; # nb
-				print "$fields[5 * 3 + 2],"; # eb
-				print "$fields[5 * 0 + 2],"; # sb
+				$val{$key}[$f++] = $fields[5 * 1 + 2];
+				$val{$key}[$f++] = $fields[5 * 2 + 2];
+				$val{$key}[$f++] = $fields[5 * 3 + 2];
+				$val{$key}[$f++] = $fields[5 * 0 + 2];
 			}
-
-			print "\n";
 		}
 	}
+}
+
+for my $key (sort(keys(%val))) {
+	print $key;
+
+	my @v = @{$val{$key}};
+	for (my $i = 0; $i <= $#v; $i++) {
+		print "$v[$i],";
+	}
+
+	print "\n";
 }
