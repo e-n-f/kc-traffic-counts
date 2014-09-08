@@ -687,7 +687,6 @@ while (<>) {
 
 					my $argv = $ARGV;
 					$used{$ARGV} = 1;
-					$argv =~ s/xml/txt/g; # XXX
 					$argv =~ s/,/ /g; # XXX
 
 					print "$argv,$street,$group,$date,";
