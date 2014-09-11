@@ -210,6 +210,10 @@ while (<>) {
 							$directions[$direction] =~ s/South +Leg/Northbound/gi;
 							$directions[$direction] =~ s/East +Leg/Westbound/gi;
 							$directions[$direction] =~ s/West +Leg/Eastbound/gi;
+							$directions[$direction] =~ s/\bWB\b/Westbound/gi;
+							$directions[$direction] =~ s/\bEB\b/Eastbound/gi;
+							$directions[$direction] =~ s/\bNB\b/Northbound/gi;
+							$directions[$direction] =~ s/\bSB\b/Southbound/gi;
 							$directions[$direction] =~ s/NORTHBOUND/Northbound/gi;
 							$directions[$direction] =~ s/SOUTHBOUND/Southbound/gi;
 							$directions[$direction] =~ s/\bEASTBOUND/Eastbound/gi;
@@ -242,6 +246,12 @@ while (<>) {
 							$directionx[$direction] = $x[$i]; # Usually overwritten
 						}
 					}
+				}
+
+				# Some files give all the directions after the streets instead of interspersing them
+				while ($directions[0] eq "Not specified") {
+					shift @directions;
+					shift @directionx;
 				}
 
 				$street = "";
@@ -535,7 +545,7 @@ while (<>) {
 				{
 					my $apptotal = 0;
 					for (my $x = 0; $x <= $#cols; $x++) {
-						if ($cols[$x] =~ /App\.*Total/) {
+						if ($cols[$x] =~ /App\.* *Total/) {
 							$apptotal++;
 						}
 					}
@@ -544,7 +554,7 @@ while (<>) {
 						my $dir = 0;
 						for (my $x = 0; $x <= $#cols; $x++) {
 							$coldir[$x] = $dir;
-							if ($cols[$x] =~ /App\.*Total/) {
+							if ($cols[$x] =~ /App\.* *Total/) {
 								$dir++;
 							}
 						}
