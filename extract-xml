@@ -738,8 +738,8 @@ while (<>) {
 						print ",";
 					}
 
-					for my $direction (keys(%{$val{$when}})) {
-						for my $turn (keys(%{$val{$when}{$direction}})) {
+					for my $direction (sort(keys(%{$val{$when}}))) {
+						for my $turn (sort(keys(%{$val{$when}{$direction}}))) {
 							next if $turn =~ /Total/;
 							next if $turn =~ /U-Turn/;
 							next if $turn =~ /RightBikes/;
