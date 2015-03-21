@@ -4,7 +4,12 @@ open(IN, "portland-intersections");
 while (<IN>) {
 	chomp;
 	($name, $lat, $lon) = split(/,/);
-	$where{$name} = "$lat,$lon";
+
+	$name =~ s/BROADWAY ST/BROADWAY/g;
+	$name =~ s/M L KING/MARTIN LUTHER KING/g;
+	$name =~ s/MARTIN LUTHER KING JR\.?/MARTIN LUTHER KING/g;
+	$lat{$name} = $lat;
+	$lon{$name} = $lon;
 }
 close(IN);
 
@@ -13,12 +18,31 @@ while (<>) {
 	@orig = split(/,/);
 
 	$name = $orig[1];
+	$name =~ s/ -- / \/ /g;
+	$name =~ s/ & / \/ /g;
 	$name =~ tr/a-z/A-Z/;
+	$name =~ s/\bBLV\b/BLVD/g;
+	$name =~ s/\bBV\b/BLVD/g;
+	$name =~ s/BROADWAY ST/BROADWAY/g;
+	$name =~ s/M L KING/MARTIN LUTHER KING/g;
+	$name =~ s/MARTIN LUTHER KING JR\.?/MARTIN LUTHER KING/g;
+
 	@names = split(/ *\/ */, $name);
 
 	for ($i = 0; $i < $#names; $i++) {
 		$code = "$names[$i] at $names[$i + 1]";
 
-		print "$code $where{$code}\n";
+		if ($lat{$code} ne "") {
+			$orig[5 + 12 + 8] = $lat;
+			$orig[5 + 12 + 8 + 1] = $lon;
+			last;
+		}
 	}
+
+	print "$orig[0]";
+	for ($i = 1; $i <= $#orig; $i++) {
+		print ",$orig[$i]";
+	}
+
+	print "\n";
 }
