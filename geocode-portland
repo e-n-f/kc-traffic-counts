@@ -39,8 +39,8 @@ while (<>) {
 		$code = "$names[$i] at $names[$ii]";
 
 		if ($lat{$code} ne "") {
-			$orig[5 + 12 + 8] = $lat;
-			$orig[5 + 12 + 8 + 1] = $lon;
+			$orig[5 + 12 + 8] = $lat{$code};
+			$orig[5 + 12 + 8 + 1] = $lon{$code};
 			last;
 		}
 	}
