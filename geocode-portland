@@ -34,8 +34,9 @@ while (<>) {
 
 	@names = split(/ *\/ */, $name);
 
-	for ($i = 0; $i < $#names; $i++) {
-		$code = "$names[$i] at $names[$i + 1]";
+	for ($i = 0; $i <= $#names; $i++) {
+		$ii = ($i + 1) % ($#names + 1);
+		$code = "$names[$i] at $names[$ii]";
 
 		if ($lat{$code} ne "") {
 			$orig[5 + 12 + 8] = $lat;

@@ -616,7 +616,8 @@ while (<>) {
 								$when = -1;
 								next;
 							} else {
-								printf STDERR ("$ARGV: have %d values for %d columns\n", $n - ($i + 1), $#cols + 1);
+								printf STDERR ("$ARGV: %02d:%02d: have %d values for %d columns\n", $hour, $minute, $n - ($i + 1), $#cols + 1);
+								next;
 							}
 						}
 					} elsif ($text[$i] =~ /Total/) {
