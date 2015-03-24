@@ -6,7 +6,7 @@ while (<IN>) {
 	($name, $lat, $lon) = split(/,/);
 
 	$name =~ s/BROADWAY ST/BROADWAY/g;
-	$name =~ s/M L KING/MARTIN LUTHER KING/g;
+	$name =~ s/M ?L KING/MARTIN LUTHER KING/g;
 	$name =~ s/MARTIN LUTHER KING JR\.?/MARTIN LUTHER KING/g;
 	$name =~ s/\bPKY\b/PKWY/g;
 	$lat{$name} = $lat;
@@ -27,7 +27,7 @@ while (<>) {
 	$name =~ s/\bPKY\b/PKWY/g;
 	$name =~ s/BROADWAY ST/BROADWAY/g;
 	$name =~ s/LOVE JOY/LOVEJOY/g;
-	$name =~ s/M L KING/MARTIN LUTHER KING/g;
+	$name =~ s/M ?L KING/MARTIN LUTHER KING/g;
 	$name =~ s/MLK/MARTIN LUTHER KING/g;
 	$name =~ s/CESAR (E )?CHAVEZ BLVD/39TH AVE/g; # TIGER still has the old name
 	$name =~ s/GLSIAN/GLISAN/g;
