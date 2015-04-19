@@ -406,6 +406,16 @@ while (<>) {
 						} elsif ($cols[$x] eq "Thru") {
 							$cols[$x] = "ThruBikes";
 						}
+
+						# Portland bike count sheets sometimes also
+						# have pedestrian column, which always seems
+						# to be errors instead of real counts
+
+						unless ($group =~ /peds/i || $group =~ /pedes/i) {
+							if ($cols[$x] eq "Peds") {
+								$cols[$x] = "BikePeds";
+							}
+						}
 					}
 				}
 
