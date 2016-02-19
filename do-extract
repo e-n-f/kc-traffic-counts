@@ -35,4 +35,4 @@ find philadelphia -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0'
 find sanjose -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-sanjose.csv
 find redwood -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-redwood.csv
 find sf -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-sf.csv
-find caltrain -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-caltrain.csv
+find altrain -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml | ./geocode-caltrain > counts-caltrain.csv
