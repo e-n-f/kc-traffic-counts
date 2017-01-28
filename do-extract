@@ -15,7 +15,7 @@ find auburn -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xar
 find portland -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml | ./geocode-portland > counts-portland.csv
 find syracuse -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-syracuse.csv
 find arkansas -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-arkansas.csv
-./extract-xml richmond/*.xml > counts-richmond.csv
+./extract-xml richmond/*.xml | ./geocode-richmond > counts-richmond.csv
 find bmts -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-bmts.csv
 find cary cary2 -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-cary.csv
 find ccrpcvt -name '*.xml' -print0 | tr '\0' '\012' | sort | tr '\012' '\0' | xargs -0 ./extract-xml > counts-ccrpcvt.csv
