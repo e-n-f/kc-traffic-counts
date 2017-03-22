@@ -1,0 +1,22 @@
+#!/bin/sh
+
+if false
+then
+	./retrieve-portland-index
+fi
+
+./mangle-portland.js portland/index-*json > portland-mangled
+
+cat portland-mangled | sed 's/,.*//' |
+while read i
+do
+	if test -s "portland/$i"
+	then :
+	else
+		echo "$i"
+
+		j=$(echo "$i" | sed 's/\.xml$/.pdf/')
+		curl -L -o "portland/$j" "https://www.portlandmaps.com/scripts/tmc.cfm?$j"
+		( cd portland; ../../../poppler-0.26.0/utils/pdftohtml -xml -i -nodrm -cbt 80 "$j" )
+	fi
+done

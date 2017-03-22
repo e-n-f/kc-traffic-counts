@@ -1,0 +1,23 @@
+#!/usr/bin/perl
+
+# https://pdx.maps.arcgis.com/apps/webappviewer/index.html?id=7ce8d1f5053141f1bc0f5bd7905351e6
+
+$off = 0;
+$cont = 1;
+
+while ($cont) {
+	$url = "https://www.portlandmaps.com/arcgis/rest/services/Public/Transportation/MapServer/12/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&geometry=%7B%22xmin%22%3A-13807901.066153202%2C%22ymin%22%3A5671016.73227331%2C%22xmax%22%3A-13486865.547355618%2C%22ymax%22%3A5734612.3398065455%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&orderByFields=OBJECTID%20ASC&outSR=4326&resultOffset=$off&resultRecordCount=200";
+
+	system "curl -L -o portland/index-$off.json '$url'";
+
+	$cont = 0;
+	open(IN, "portland/index-$off.json");
+	while (<IN>) {
+		if (/"attributes"/) {
+			$cont = 1;
+		}
+	}
+	close(IN);
+
+	$off += 200;
+}

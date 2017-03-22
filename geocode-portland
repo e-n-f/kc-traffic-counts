@@ -14,6 +14,16 @@ while (<IN>) {
 }
 close(IN);
 
+open(IN, "portland-mangled");
+while (<IN>) {
+	chomp;
+	($name, $lat, $lon) = split(/,/);
+
+	$latu{$name} = $lat;
+	$lonu{$name} = $lon;
+}
+close(IN);
+
 while (<>) {
 	chomp;
 	@orig = split(/,/);
@@ -42,6 +52,12 @@ while (<>) {
 		if ($lat{$code} ne "") {
 			$orig[5 + 12 + 8] = $lat{$code};
 			$orig[5 + 12 + 8 + 1] = $lon{$code};
+			last;
+		}
+
+		if ($latu{$orig[0]} ne "") {
+			$orig[5 + 12 + 8] = $latu{$orig[0]};
+			$orig[5 + 12 + 8 + 1] = $lonu{$orig[0]};
 			last;
 		}
 	}
