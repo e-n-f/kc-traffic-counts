@@ -16,7 +16,7 @@ while (<IN>) {
 
 		mkdir "syracuse/$town";
 
-		system "curl -o 'syracuse/$town/index.html' 'http://www.smtcmpo.org/data/TrafficCounts/tcountsByTown.asp$url'";
+		# system "curl -o 'syracuse/$town/index.html' 'http://www.smtcmpo.org/data/TrafficCounts/tcountsByTown.asp$url'";
 
 		open(IN2, "syracuse/$town/index.html");
 		while (<IN2>) {
@@ -25,7 +25,23 @@ while (<IN>) {
 				mkdir "syracuse/$town/$1";
 				mkdir "syracuse/$town/$1/$2";
 				print "$1 $2 $3\n";
-				system "curl -o 'syracuse/$town/$1/$2/$3' 'http://www.smtcmpo.org/Docs/$1/$2/$3'";
+
+				if (! -f "syracuse/$town/$1/$2/$3") {
+					system "curl -o 'syracuse/$town/$1/$2/$3' 'http://www.smtcmpo.org/Docs/$1/$2/$3'";
+				}
+			}
+
+			if (/href="..\/..\/Docs\/ManualCounts\/([^"\/]+)_(\d+)\.pdf/) {
+				$prefix = $1;
+				$year = $2;
+
+				mkdir "syracuse/$town/ManualCounts";
+				mkdir "syracuse/$town/ManualCounts/$year";
+
+				if (! -f "syracuse/$town/ManualCounts/$year/${prefix}_${year}.pdf") {
+					system "curl -o 'syracuse/$town/ManualCounts/$year/${prefix}_${year}.pdf' 'http://www.smtcmpo.org/Docs/ManualCounts/${prefix}_${year}.pdf'";
+				}
+
 			}
 		}
 		close(IN2);

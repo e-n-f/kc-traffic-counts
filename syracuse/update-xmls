@@ -1,0 +1,14 @@
+#!/bin/sh
+
+find . -name '*.pdf' -print |
+while read i
+do
+	xml=$(echo "$i" | sed 's/.pdf$/.xml/')
+
+	if test -f "$xml"
+	then :
+	else
+		echo "$xml"
+		../../../poppler-0.26.0/utils/pdftohtml -xml -i -nodrm -cbt 80 "$i"
+	fi
+done
